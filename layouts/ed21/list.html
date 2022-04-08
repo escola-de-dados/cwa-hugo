@@ -2,9 +2,9 @@
 
 {{ partial "page-title.html" . }}
 
-<!-- portfolio -->
 <section class="section">
   <div class="container">
+    {{ .Description }}
     <div class="row mb-5">
       <div class="col-12">
         <div class="btn-group btn-group-toggle justify-content-center d-flex flex-wrap" data-toggle="buttons">
@@ -41,19 +41,5 @@
     </div>
   </div>
 </section>
-<!-- /portfolio -->
-
-{{ if .Site.Data.portfolio.clients_logo_slider.enable }}
-<section class="section bg-light">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">{{ .Site.Data.portfolio.clients_logo_slider.title | markdownify }}</h2>
-      </div>
-    </div>
-    {{ partial "client-slider.html" . }}
-  </div>
-</section>
-{{ end }}
 
 {{ end }}
