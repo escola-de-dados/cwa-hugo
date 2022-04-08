@@ -1,6 +1,6 @@
 {{ define "main" }}
-
 {{ partial "page-title.html" . }}
+
 
 <section class="section">
   <div class="container">
@@ -12,7 +12,7 @@
             <input type="radio" name="shuffle-filter" value="all" checked="checked" />Todos
           </label>
           {{ $categories := slice }}
-          {{ range .Site.Data.ed21.item }}
+          {{ range .Params.projetos }}
           {{ $categories = $categories | append .category }}
           {{ end }}
           {{ range ( $categories | uniq ) }}
@@ -24,7 +24,7 @@
       </div>
     </div>
     <div class="row shuffle-wrapper">
-      {{ range .Site.Data.ed21.item }}
+      {{ range .Params.projetos }}
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{.category | urlize}}&quot;]">
         <div class="position-relative rounded hover-wrapper">
           <img src="{{.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
