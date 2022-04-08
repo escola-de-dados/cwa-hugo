@@ -12,7 +12,7 @@ about:
     label: Saiba mais
     URL: about
 skill:
-  enable: true
+  enable: false
   title: Skills
   item:
   - title: Web Design
