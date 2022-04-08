@@ -45,11 +45,11 @@ experience:
     duration: Sep 2014 - Present
 education:
   enable: true
-  title: Education
+  title: Categorias
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
+  - title: Visualização de dados
+    year: ''
+    academy: Mapas, gráficos, painéis e visualizações de dados de destaque.
   - title: Honours in Fine Arts
     year: "2004"
     academy: Harvard University
