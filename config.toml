@@ -9,8 +9,8 @@ name = "jornalismodedados.org"
 url = "https://jornalismodedados.org"
 weight = 4
 [[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
+URL = "2021"
+name = "2021"
 weight = 3
 [[menu.main]]
 URL = "blog"
@@ -52,14 +52,14 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
 URL = "https://twitter.com/escoladedados"
 icon = "ti-twitter-alt"
+[[params.social]]
+URL = "#"
+icon = "ti-linkedin"
+[[params.social]]
+URL = "https://instagram.com/openknowledgebrasil"
+icon = "ti-instagram"
+[[params.social]]
+URL = "https://youtube.com/escoladedados"
+icon = "ti-youtube"
