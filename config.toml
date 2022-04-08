@@ -4,13 +4,17 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Prêmio de Jornalismo de Dados"
 [[menu.main]]
+url = "ed21"
+name = "ed21"
+weight = 5
+[[menu.main]]
 URL = "contact"
 name = "jornalismodedados.org"
 url = "https://jornalismodedados.org"
 weight = 4
 [[menu.main]]
-URL = "2021"
-name = "2021"
+URL = "portfolio"
+name = "portfolio"
 weight = 3
 [[menu.main]]
 URL = "blog"
