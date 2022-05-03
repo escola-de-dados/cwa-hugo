@@ -21,8 +21,13 @@
   {{ end }}
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
+
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/estilos.css">
   {{ $styles := resources.Get "css/style.css" | minify }}
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/estilos.css">
+  {{ $override := resources.Get "css/override.css"}}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+  <link rel="stylesheet" href="{{ $override.Permalink }}" integrity="{{ $override.Data.Integrity }}" media="screen">
 
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
