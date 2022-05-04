@@ -3,11 +3,11 @@
 PROJECT: Project Name
 VERSION: Versoin Number
 -------------------------------------------------------------------*/
-@import "https://fonts.googleapis.com/css?family=Playfair+Display:700|Roboto:400";
+@import "https://fonts.googleapis.com/css?family=Raleway:400";
 
 body {
   line-height: 1.2;
-  font-family: roboto, sans-serif;
+  font-family: 'Raleway', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: #4c4c4c
@@ -18,7 +18,7 @@ p {
   color: #4c4c4c;
   font-size: 15px;
   line-height: 1.8;
-  font-family: roboto, sans-serif
+  font-family: 'Raleway', sans-serif
 }
 
 h1,
@@ -28,7 +28,7 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: playfair display, serif;
+  font-family: 'Raleway', serif;
   line-height: 1.2
 }
 
@@ -80,7 +80,7 @@ h6,
 
 .btn {
   font-size: 22px;
-  font-family: playfair display, serif;
+  font-family: 'Raleway', serif;
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -216,7 +216,7 @@ a:hover {
 
 .section-title {
   margin-bottom: 80px;
-  font-family: Playfair Display, sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
 }
 
@@ -326,15 +326,15 @@ a:hover {
 }
 
 .font-primary {
-  font-family: roboto, serif !important
+  font-family: 'Raleway', serif !important
 }
 
 .font-secondary {
-  font-family: playfair display, serif !important
+  font-family: 'Raleway', serif !important
 }
 
 .font-secondary {
-  font-family: Playfair Display, sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700 !important;
 }
 
@@ -440,7 +440,7 @@ textarea.form-control {
 }
 
 .navbar .nav-item .nav-link {
-  font-family: Playfair Display, sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   padding: 15px
@@ -756,7 +756,7 @@ blockquote {
 }
 
 .content strong {
-  font-family: playfair display, serif;
+  font-family: 'Raleway', serif;
   font-size: 22px;
   font-weight: 400;
   color: #000;

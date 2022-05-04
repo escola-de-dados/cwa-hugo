@@ -65,7 +65,7 @@ preloader = ""
 URL = "https://twitter.com/escoladedados"
 icon = "ti-twitter-alt"
 [[params.social]]
-URL = "#"
+URL = "https://www.linkedin.com/company/escola-de-dados"
 icon = "ti-linkedin"
 [[params.social]]
 URL = "https://instagram.com/openknowledgebrasil"
