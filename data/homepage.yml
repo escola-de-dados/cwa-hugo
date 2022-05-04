@@ -127,6 +127,9 @@ team:
   enable: true
   title: Júri
   team_member:
+  - title: dasdasdasd
+    image: https://premioddj.netlify.app/images/team/member-2.png
+    designation: Project Dasd
   - title: Geraldo
     image: https://premioddj.netlify.app/images/team/member-2.png
     designation: Project Dasd
