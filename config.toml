@@ -18,11 +18,11 @@ name = "portfolio"
 weight = 3
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Novidades"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Sobre"
 weight = 1
 [params]
 address = "https://escoladedados.org"

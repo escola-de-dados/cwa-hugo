@@ -1,6 +1,7 @@
-body {
-	font-size: 25px;
-}
 .footer-section {
 	padding-top: 10px;
 }
+
+.text-large {
+	font-size: 150%;
+  }

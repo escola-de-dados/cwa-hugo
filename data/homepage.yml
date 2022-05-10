@@ -4,11 +4,9 @@ banner:
 about:
   enable: true
   content: |-
-    O Prêmio Cláudio Weber Abramo chega a sua terceira quarta para premiar os melhores trabalhos de jornalismo de dados do país.
-
-    Além de incentivar práticas de transparência governamental e o uso de dados abertos de interesse público, nosso objetivo é inspirar jornalistas e estudantes a usar dados em suas investigações.
+    O Prêmio Cláudio Weber Abramo chega a sua terceira quarta para premiar os melhores trabalhos de jornalismo de dados do país. Além de incentivar práticas de transparência governamental e o uso de dados abertos de interesse público, nosso objetivo é inspirar jornalistas e estudantes a usar dados em suas investigações.
   button:
-    enable: true
+    enable: false
     label: Saiba mais
     URL: about
 skill:
@@ -60,7 +58,7 @@ education:
     year: ''
     academy: Reconhecendo usos e abordagens inovadoras.
 service:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: UI Design
@@ -83,7 +81,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
@@ -122,7 +120,7 @@ blog:
   enable: true
   title: Novidades
 team:
-  enable: true
+  enable: false
   title: Júri
   team_member:
   - title: Sara
