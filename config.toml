@@ -25,10 +25,10 @@ URL = "about"
 name = "About"
 weight = 1
 [params]
-address = "https://ok.org.br"
-author = "Open Knowledge Brazil"
+address = "https://escoladedados.org"
+author = "Escola de Dados"
 copyright = "Nosso conteúdo está disponível sob a licença Creative Commons Atribuição 4.0 Internacional, e pode ser compartilhado e reutilizado para trabalhos derivados, desde que citada a fonte."
-description = "This is meta description"
+description = "Site do Prêmio Cláudio Weber Abramo de Jornalismo de Dados"
 email = "escoladedados@ok.org.br"
 google_analitycs_id = "Your ID"
 home = "Home"

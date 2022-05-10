@@ -292,28 +292,5 @@
   <!-- /blog -->
   {{ end }}
 
-{{ if .Site.Data.homepage.clients_logo_slider.enable }}
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">{{.Site.Data.homepage.clients_logo_slider.title | markdownify }}</h2>
-        </div>
-        {{ range .Site.Data.homepage.clients_logo_slider.item }}
-        <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
-        {{ if and ( ne .URL "" ) ( ne .URL "#" ) }}
-        <a href="{{ .URL | safeURL }}" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="{{.logo | absURL}}" alt="client-logo"></a>        </div>
-
-        {{ else }}
-        <span class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="{{.logo | absURL}}" alt="client-logo"></span>         </div>
-
-        {{ end }}
-        {{ end }}
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-
 
 {{ end }}

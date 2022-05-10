@@ -34,22 +34,46 @@
 
 <!-- footer -->
 <footer class="bg-dark footer-section">
+ 
+{{ if .Site.Data.homepage.clients_logo_slider.enable }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title text-light">{{.Site.Data.homepage.clients_logo_slider.title | markdownify }}</h2>
+        </div>
+        {{ range .Site.Data.homepage.clients_logo_slider.item }}
+        <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        {{ if and ( ne .URL "" ) ( ne .URL "#" ) }}
+        <a href="{{ .URL | safeURL }}" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="{{.logo | absURL}}" alt="client-logo"></a>        </div>
+
+        {{ else }}
+        <span class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="{{.logo | absURL}}" alt="client-logo"></span>         </div>
+
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+ 
   <div class="section">
     <div class="container">
       <div class="row">
-        <div class="col-md-4">
-          <h5 class="text-light">Email</h5>
-          <p class="text-white paragraph-lg font-secondary">{{.Site.Params.email}}</p>
+        <!-- <div class="col-md-4">
+          <h5 class="text-light">Dúvidas?</h5>
+          <p class="text-white paragraph-lg font-secondary">Fale conosco pelo email {{.Site.Params.email}}</p>
         </div>
         <div class="col-md-4">
-          <h5 class="text-light">Phone</h5>
+          <h5 class="text-light">Redes sociais</h5>
           <p class="text-white paragraph-lg font-secondary">{{.Site.Params.phone}}</p>
         </div>
         <div class="col-md-4">
           <h5 class="text-light">Address</h5>
           <p class="text-white paragraph-lg font-secondary">{{.Site.Params.address}}</p>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
   <div class="border-top text-center border-dark py-5">
