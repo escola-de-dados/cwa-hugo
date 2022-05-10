@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Prêmio de <br> <b> Jornalismo de Dados <br> </b>
+  title: Prêmio de Cláudio Weber Abramo de <br> <b> Jornalismo de Dados <br> </b>
 about:
   enable: true
   content: |-
@@ -115,6 +115,8 @@ clients_logo_slider:
     URL: "https://escoladedados.org"
   - logo: images/clients-logo/okbr.png
     URL: "https://ok.org.br"
+  - logo: images/clients-logo/abraji.png
+    URL: "https://abraji.org.br"
   title: Realização
 blog:
   enable: true
