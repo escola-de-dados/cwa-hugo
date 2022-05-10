@@ -111,7 +111,7 @@ $(window).on('load', function () {
 
 	// clients logo slider
 	$('.client-logo-slider').slick({
-		infinite: true,
+		infinite: false,
 		slidesToShow: 5,
 		slidesToScroll: 1,
 		autoplay: true,

@@ -113,10 +113,10 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: https://premioddj.netlify.app/images/team/member-2.png
-    URL: "#"
-  - logo: images/clients-logo/client-logo-3.png
-    URL: "#"
+  - logo: images/clients-logo/ed.png
+    URL: "https://escoladedados.org"
+  - logo: images/clients-logo/okbr.png
+    URL: "https://ok.org.br"
   title: Realização
 blog:
   enable: true
