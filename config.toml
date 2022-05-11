@@ -5,18 +5,22 @@ theme = "kross-hugo"
 title = "Prêmio de Jornalismo de Dados"
 
 [[menu.main]]
+url = "https://jornalismodedados.org"
+name = "jornalismodedados.org"
+weight = 5
+[[menu.main]]
 name = "2021"
-url = "ed21"
+url = "edicoes/2021"
 parent = "edições"
 weight = 1
 [[menu.main]]
 name = "2020"
-url = "ed21"
+url = "edicoes/2020"
 parent = "edições"
 weight = 2
 [[menu.main]]
 name = "2019"
-url = "ed21"
+url = "edicoes/2019"
 parent = "edições"
 weight = 3
 [[menu.main]]
@@ -24,12 +28,12 @@ url = "#"
 name = "edições"
 weight = 4
 [[menu.main]]
-url = "https://jornalismodedados.org"
-name = "jornalismodedados.org"
-weight = 5
-[[menu.main]]
 URL = "blog"
 name = "Novidades"
+weight = 3
+[[menu.main]]
+URL = "regulamento/2022"
+name = "Regulamento"
 weight = 2
 [[menu.main]]
 URL = "about"
@@ -47,13 +51,9 @@ logo = "images/logo.png"
 phone = ""
 theme_color = "#DC3332"
 css = ["css/style.css"]
-
 [params.contact]
 enable = false
 form_action = "#"
-
-
-
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
