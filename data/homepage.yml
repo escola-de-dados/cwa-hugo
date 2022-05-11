@@ -113,7 +113,7 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: images/ed.png
+  - logo: images/clients-logo/ed.png
     URL: https://escoladedados.org
   - logo: images/clients-logo/okbr.png
     URL: https://ok.org.br
