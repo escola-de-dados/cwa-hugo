@@ -3,6 +3,7 @@ title: "Conheça os ganhadores do Prêmio em 2021"
 date: 2021-11-13T12:14:34+06:00
 image: "images/blog/flaviaoliveira.png"
 description: "Relato da cerimônia de entrega da premiação em 2021."
+type: "blog"
 ---
 
 A sexta Conferência de Jornalismo de Dados e Métodos Digitais (Coda.Br) encerra, pelo terceiro ano consecutivo, consagrando trabalhos que representaram o mais alto nível do uso de dados para fins jornalísticos. A cerimônia foi apresentada pela jornalista e comentarista na GloboNews, Flávia Oliveira, e contou com a participação de Fernanda Campagnucci, diretora-executiva da Open Knowledge Brasil, e de representantes dos projetos finalistas.

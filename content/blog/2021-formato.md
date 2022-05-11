@@ -1,8 +1,9 @@
 ---
 title: " Em sua terceira edição, Prêmio Cláudio Weber Abramo de Jornalismo de Dados terá novo formato"
 date: 2021-08-23T12:14:34+06:00
-image: "images/blog/flaviaoliveira.png"
+image: "images/blog/artepremio.jpg"
 description: "Novidades sobre a edição de 2021."
+type: "blog"
 ---
 
 O [Prêmio Cláudio Weber Abramo de Jornalismo de Dados](https://premio.jornalismodedados.org/) chega a sua terceira edição em um novo formato para premiar os melhores trabalhos de jornalismo de dados do país.

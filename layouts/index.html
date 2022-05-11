@@ -9,10 +9,10 @@
         </div>
       </div>
     </div>
-    <div class="layer-bg w-100">
+ <div class="layer-bg w-100">
       <img class="img-fluid w-100" src="{{`images/illustrations/leaf-bg.png` | relURL}}" alt="bg-shape">
     </div>
-    <div class="layer" id="l2">
+      <!--  <div class="layer" id="l2">
       <img src="{{`images/illustrations/dots-cyan.svg` | relURL}}" alt="bg-shape">
     </div>
     <div class="layer" id="l3">
@@ -35,7 +35,7 @@
     </div>
     <div class="layer" id="l9">
       <img src="{{`images/illustrations/leaf-cyan-2.svg` | relURL}}" alt="bg-shape">
-    </div>
+    </div> -->
     <!-- social icon -->
     <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
       {{ range .Site.Params.social }}
@@ -156,10 +156,11 @@
         <div class="col-lg-6 col-md-6 mb-80">
           <div class="d-flex">
             <div class="mr-lg-5 mr-3">
-              <i class="ti-cup icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
+              <!-- <i class="ti-cup icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i> -->
+              <img src="{{.year | relURL }}" alt="icon">
             </div>
             <div>
-              <p class="text-dark mb-1">{{.year}}</p>
+              <!-- <p class="text-dark mb-1">{{.year}}</p> -->
               <h4>{{ .title }}</h4>
               <p class="mb-0 text-light">{{.academy}}</p>
             </div>
@@ -306,7 +307,7 @@
         <div class="col-12 text-center">
           <h2 class="section-title">{{.Site.Data.homepage.blog.title | markdownify }}</h2>
         </div>
-        {{ range first 3 .Site.RegularPages }}
+        {{ range first 3 (where .Site.Pages "Params.type" "blog") }}
         {{ .Render "post" }}
         {{ end }}
       </div>

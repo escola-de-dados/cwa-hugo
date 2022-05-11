@@ -4,9 +4,25 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Prêmio de Jornalismo de Dados"
 
+
+[[menu.main]]
+url = "https://kit.jornalismodedados.org"
+name = "Ferramentas"
+weight = 1
+parent = "Jornalismo de Dados"
+[[menu.main]]
+url = "https://forum.jornalismodedados.org"
+name = "Fórum"
+weight = 2
+parent = "Jornalismo de Dados"
 [[menu.main]]
 url = "https://jornalismodedados.org"
-name = "jornalismodedados.org"
+name = "Manual"
+weight = 3
+parent = "Jornalismo de Dados"
+[[menu.main]]
+url = "https://jornalismodedados.org"
+name = "Jornalismo de Dados"
 weight = 5
 [[menu.main]]
 name = "2021"
