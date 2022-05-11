@@ -115,7 +115,7 @@ clients_logo_slider:
   item:
   - logo: images/ed.png
     URL: https://escoladedados.org
-  - logo: images/clients-logo/okbr.png
+  - logo: images/okbr.png
     URL: https://ok.org.br
   - logo: images/clients-logo/abraji.png
     URL: https://abraji.org.br
