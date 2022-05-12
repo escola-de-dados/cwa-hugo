@@ -63,7 +63,8 @@ education:
     academy: Melhor análise investigativa baseada em dados.
   - title: Inovação
     year: images/experience/icon-4.png
-    academy: Reconhecendo usos e abordagens inovadoras.
+    academy: 'Indo além: esta categoria é para trabalhos de jornalismo de dados que
+      experimentem com novas tecnologias ou formatos inovadores.'
 service:
   enable: false
   title: Services
