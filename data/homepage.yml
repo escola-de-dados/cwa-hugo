@@ -65,9 +65,8 @@ education:
       público.
   - title: Inovação
     year: images/experience/icon-4.png
-    academy: Descobertas inéditas e novos conhecimentos. Buscamos trabalhos de alto
-      impacto social que apliquem análise de dados para jogar luz a tópicos de interesse
-      público.
+    academy: 'Indo além: esta categoria é para trabalhos de jornalismo de dados que
+      experimentem com novas tecnologias ou formatos inovadores.'
 service:
   enable: false
   title: Services
