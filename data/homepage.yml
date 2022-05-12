@@ -1,12 +1,13 @@
 ---
 banner:
-  title: <B>PRÊMIO</B> <br/>CLÁUDIO WEBER ABRAMO DE JORNALISMO DE DADOS
+  title: "<B>PRÊMIO</B> <br/>CLÁUDIO WEBER ABRAMO DE JORNALISMO DE DADOS"
 about:
   enable: true
-  content: A maior premiação do jornalismo de dados brasileiro chega à quarta edição para reconhecer
-    os melhores trabalhos de jornalismo de dados do país. Além de incentivar práticas
-    de transparência governamental e o uso de dados abertos de interesse público,
-    nosso objetivo é inspirar jornalistas e estudantes a usar dados em suas investigações.
+  content: A maior premiação do jornalismo de dados brasileiro chega à quarta edição
+    para reconhecer os melhores trabalhos de jornalismo de dados do país. Além de
+    incentivar práticas de transparência governamental e o uso de dados abertos de
+    interesse público, nosso objetivo é inspirar jornalistas e estudantes a usar dados
+    em suas investigações.
   button:
     enable: false
     label: Saiba mais
@@ -47,9 +48,11 @@ education:
   enable: true
   title: Categorias
   item:
-  - title: Visualização de dados
+  - title: Visualização
     year: images/categorias/icon-1.png
-    academy: Mapas, gráficos, painéis e visualizações de dados de destaque.
+    academy: Dados podem ser lindos e informativos! Nesta categoria, vamos premiar
+      trabalhos de visualização de dados com viés jornalístico e alta qualidade de
+      UX.
   - title: Dados abertos
     year: images/experience/icon-2.png
     academy: Melhor publicação de dados abertos originais.
