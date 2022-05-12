@@ -55,9 +55,8 @@ education:
       UX.
   - title: Dados abertos
     year: images/pastinha.png
-    academy: Trabalhos realizados graças à Lei de Acesso à Informação ou abertura
-      das bases de dados públicas que prezam pela publicação do código-fonte e da
-      metodologia adotada.
+    academy: Trabalhos realizados graças à LAI ou abertura das bases de dados públicas
+      que prezam pela publicação do código-fonte e da metodologia adotada.
   - title: Investigação
     year: images/lupinha.png
     academy: Aqui, buscamos trabalhos de alto impacto social que apliquem análise
