@@ -3,45 +3,43 @@ languageCode = "pt-br"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Prêmio de Jornalismo de Dados"
-
-
 [[menu.main]]
-url = "https://kit.jornalismodedados.org"
 name = "Ferramentas"
+parent = "Jornalismo de Dados"
+url = "https://kit.jornalismodedados.org"
 weight = 1
-parent = "Jornalismo de Dados"
 [[menu.main]]
-url = "https://forum.jornalismodedados.org"
 name = "Fórum"
+parent = "Jornalismo de Dados"
+url = "https://forum.jornalismodedados.org"
 weight = 2
-parent = "Jornalismo de Dados"
 [[menu.main]]
-url = "https://jornalismodedados.org"
 name = "Manual"
-weight = 3
 parent = "Jornalismo de Dados"
-[[menu.main]]
 url = "https://jornalismodedados.org"
+weight = 3
+[[menu.main]]
 name = "Jornalismo de Dados"
+url = "https://jornalismodedados.org"
 weight = 5
 [[menu.main]]
 name = "2021"
-url = "edicoes/2021"
 parent = "edições"
+url = "edicoes/2021"
 weight = 1
 [[menu.main]]
 name = "2020"
-url = "edicoes/2020"
 parent = "edições"
+url = "edicoes/2020"
 weight = 2
 [[menu.main]]
 name = "2019"
-url = "edicoes/2019"
 parent = "edições"
+url = "edicoes/2019"
 weight = 3
 [[menu.main]]
-url = "#"
 name = "edições"
+url = "#"
 weight = 4
 [[menu.main]]
 URL = "blog"
@@ -59,14 +57,14 @@ weight = 1
 address = "https://escoladedados.org"
 author = "Escola de Dados"
 copyright = "Nosso conteúdo está disponível sob a licença Creative Commons Atribuição 4.0 Internacional, e pode ser compartilhado e reutilizado para trabalhos derivados, desde que citada a fonte."
+css = ["css/style.css"]
 description = "Site do Prêmio Cláudio Weber Abramo de Jornalismo de Dados"
 email = "escoladedados@ok.org.br"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
 phone = ""
-theme_color = "#DC3332"
-css = ["css/style.css"]
+theme_color = "#250040"
 [params.contact]
 enable = false
 form_action = "#"
