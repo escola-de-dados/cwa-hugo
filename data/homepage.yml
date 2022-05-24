@@ -133,7 +133,7 @@ blog:
   enable: false
   title: Novidades
 team:
-  enable: true
+  enable: false
   title: Júri
   team_member:
   - title: Sara
