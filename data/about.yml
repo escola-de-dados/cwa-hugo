@@ -8,10 +8,10 @@ work_process:
     content: Já realizamos 3 edições da premiação.
   - title: Inscrições
     icon: images/icons/design.png
-    content: Recebemos e catalogamos mais de XXX projetos de jornalismo de dados.
+    content: Recebemos e catalogamos mais de 340 inscrições de projetos de jornalismo de dados no Brasil.
   - title: Premiações
     icon: images/icons/print.png
-    content: YY projetos já foram contemplados com o prêmio.
+    content: 14 projetos já foram contemplados com o prêmio.
 clients_logo_slider:
   enable: false
   title: My Clients

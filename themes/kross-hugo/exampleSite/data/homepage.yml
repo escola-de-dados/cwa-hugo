@@ -157,5 +157,5 @@ clients_logo_slider:
 # blog
 blog:
   enable : true
-  title : "Blogs"
+  title : "Novidades"
   # blog post comes from "content/blog" folder
