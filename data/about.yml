@@ -3,15 +3,15 @@ work_process:
   enable: true
   title: Resultados
   item:
-  - title: Edições
+  - title: Terceira edição do prêmio
     icon: images/icons/plan.png
-    content: Já realizamos 3 edições da premiação.
+    content: Em 2022, a cerimônia de premiação volta a ser presencial, no encerramento da VII Conferência de Jornalismo de Dados e Métodos Digitais, o Coda.Br 2022.
   - title: Inscrições
     icon: images/icons/design.png
-    content: Recebemos e catalogamos mais de 340 inscrições de projetos de jornalismo de dados no Brasil.
-  - title: Premiações
+    content: Já recebemos e catalogamos mais de 340 inscrições de projetos de jornalismo de dados no Brasil, premiando 14 projetos.
+  - title: Prêmio
     icon: images/icons/print.png
-    content: 14 projetos já foram contemplados com o prêmio.
+    content: Além do troféu para os projetos ganhadores, o prêmio irá oferecer R$ 10 mil.
 clients_logo_slider:
   enable: false
   title: My Clients

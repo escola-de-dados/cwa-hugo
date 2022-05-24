@@ -36,13 +36,7 @@
     <div class="layer" id="l9">
       <img src="{{`images/illustrations/leaf-cyan-2.svg` | relURL}}" alt="bg-shape">
     </div> -->
-    <!-- social icon -->
-    <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
-      {{ range .Site.Params.social }}
-      <li class="mb-3"><a class="text-white" href="{{.URL | safeURL }}"><i class="{{.icon}}"></i></a></li>
-      {{ end }}
-    </ul>
-    <!-- /social icon -->
+  
   </section>
   <!-- /hero area -->
 
@@ -56,7 +50,9 @@
           <p class="lead text-dark text-large">{{.content | markdownify}}</p>
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+          <div class="mt-5">
+         <a href="{{ .URL | absURL }}" class="btn btn-primary text-uppercase">{{.label}}</a>
+        </div>       
           {{ end }}
           {{ end }}
           {{ end }}
