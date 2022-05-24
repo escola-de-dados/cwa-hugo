@@ -4,11 +4,13 @@ banner:
 about:
   enable: true
   content: A maior premiação do jornalismo de dados brasileiro chega à quarta edição
-    para reconhecer os melhores trabalhos de jornalismo de dados do país. Em 2022, qualquer profissional ou organização que tenha desenvolvido um trabalho de caráter jornalístico pode concorrer.
+    para reconhecer os melhores trabalhos de jornalismo de dados do país. Em 2022,
+    qualquer profissional ou organização que tenha desenvolvido um trabalho de caráter
+    jornalístico pode concorrer.
   button:
     enable: true
     label: Inscreva-se já
-    URL: "https://go.ok.org/premio2022"
+    URL: https://go.ok.org/premio2022
 skill:
   enable: false
   title: Skills
@@ -47,16 +49,23 @@ education:
   item:
   - title: Visualização
     year: images/visu.png
-    academy: Dados são bonitos! Vamos premiar os melhores trabalhos jornalísticos de visualização de dados no Brasil. Aqui, importa a capacidade de apresentação e comunicação, além de boas práticas no design de informação e usabilidade.
+    academy: Dados são bonitos! Vamos premiar os melhores trabalhos jornalísticos
+      de visualização de dados no Brasil. Aqui, importa a capacidade de apresentação
+      e comunicação, além de boas práticas no design de informação e usabilidade.
   - title: Dados abertos
     year: images/pastinha.png
-    academy: Trabalhos de excelência graças a suas práticas de transparência, utilização da Lei de Acesso à Informação, estruturação e disponibilização de dados abertos, documentação de metodologia ou publicação de softwares de código aberto. Uma categoria para as melhores práticas no uso de dados abertos.
+    academy: Trabalhos de excelência graças a suas práticas de transparência, utilização
+      da Lei de Acesso à Informação, estruturação e disponibilização de dados abertos,
+      documentação de metodologia ou publicação de softwares de código aberto.
   - title: Investigação
     year: images/lupinha.png
-    academy: Quando dados revelam aquilo que se desconhecia. Descobertas e novos conhecimentos obtidos graças a análises inovadoras ou coletas inéditas.
+    academy: Quando dados revelam aquilo que se desconhecia. Descobertas e novos conhecimentos
+      obtidos graças a análises inovadoras ou coletas inéditas.
   - title: Inovação e experimentação
     year: images/foguetinho.png
-    academy: 'Trabalhos inovadores de jornalismo de dados, que fujam da rotina e tragam elementos de experimentação. Inovação aqui não se restringe apenas ao uso de novas tecnologias, mas pode envolver também metodologias e formatos.'
+    academy: Trabalhos inovadores de jornalismo de dados, que fujam da rotina e tragam
+      elementos de experimentação. Inovação aqui não se restringe apenas ao uso de
+      novas tecnologias, mas pode envolver também metodologias e formatos.
 service:
   enable: false
   title: Services
