@@ -35,8 +35,8 @@ sections:
 - type: document
   path: config.toml
   label: Configuration
-upload_dir: static/images/team
-public_path: "/images/team"
+upload_dir: static/images/icons
+public_path: "/images/icons"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
