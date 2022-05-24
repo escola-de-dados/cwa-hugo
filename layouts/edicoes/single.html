@@ -3,6 +3,10 @@
 
 <section class="section">
   <div class="container">
+    <!-- {{range where .Site.Data.projetos "ano" "==" .Params.edicao}}
+    {{.title}}
+    {{end}} -->
+
     {{ .Content }}
     <div class="row mb-5">
       <div class="col-12">
