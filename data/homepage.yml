@@ -119,7 +119,7 @@ clients_logo_slider:
     URL: https://abraji.org.br
   title: Realização
 blog:
-  enable: true
+  enable: false
   title: Novidades
 team:
   enable: true

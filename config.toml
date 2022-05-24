@@ -42,8 +42,8 @@ name = "edições"
 url = "#"
 weight = 4
 [[menu.main]]
-URL = "blog"
-name = "Novidades"
+URL = "regulamento/faq"
+name = "FAQ"
 weight = 3
 [[menu.main]]
 URL = "regulamento/2022"
