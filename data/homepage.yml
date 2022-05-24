@@ -59,8 +59,10 @@ education:
       documentação de metodologia ou publicação de softwares de código aberto.
   - title: Investigação
     year: images/lupinha.png
-    academy: Quando dados revelam aquilo que se desconhecia. Descobertas e novos conhecimentos
-      obtidos graças a análises inovadoras ou coletas inéditas.
+    academy: Descobertas inéditas e novos conhecimentos obtidos graças a análises
+      de dados inovadoras ou coletas inéditas. Buscamos trabalhos de alto impacto
+      social que tenham feito o uso de dados para jogar luz em tópicos de interesse
+      público.
   - title: Inovação e experimentação
     year: images/foguetinho.png
     academy: Trabalhos inovadores de jornalismo de dados, que fujam da rotina e tragam
