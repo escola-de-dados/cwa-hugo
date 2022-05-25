@@ -1,5 +1,12 @@
 # Site Prêmio Jornalismo de Dados
 
+# Gerar galeria
+
+- Exportar o CSV do Airtable
+- Usar a coluna com a URL da imagem para baixar tudo em lote (`wget -i listadeurls.txt`)
+- Salvar as imagens na pasta statics/edicao
+- E ajustar o conteúdo da edição do ano
+
 ## Customização
 
 Alterar o arquivo CSS em `themes/kross-hugo/assets/css/estilo.css` 

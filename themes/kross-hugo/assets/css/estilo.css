@@ -9,3 +9,7 @@ p {
 .text-large {
 	font-size: 150%;
   }
+
+  .navbar .nav-item.active .nav-link{
+	color:#ed2528;
+  }

@@ -287,6 +287,83 @@
   formato: ''
   category: concorrente
   image: images/edicoes/2021/3A38CB7A-6701-4C4D-B042-02D0B6B2005E.jpeg
+- title: As pensões e os bilhões da família militar
+  project_url: 'https://piaui.folha.uol.com.br/as-pensoes-e-os-bilhoes-da-familia-militar/'
+  veiculo: piauí
+  autoria: 'Taís Seibt, Bernardo Baron, Maria Vitória Ramos e Renata Buono'
+  data: 12/7/2021
+  resumo: "Em 2020, o governo federal pagou pensões a 529 mil pessoas – em geral, parentes de servidores civis e militares que já morreram. Somadas, essas pensões custaram R$ 36,5 bilhões, valor maior que o orçamento do Bolsa Família, que atende cerca de 14 milhões de famílias. Os parentes de militares são responsáveis pela maior fatia do bolo, e receberam, em média, 47% a mais do que os parentes de civis.  Somente uma mulher, que é filha de um militar e viúva de outros dois, recebeu, em média, R$ 61,2 mil mensais em 2020. Valor seria suficiente para pagar o valor máximo do novo auxílio emergencial (R$ 375) a 163 mulheres que são chefes de família. Essas são algumas das comparações expostas na reportagem para a seção =igualdades, da piauí, com base em dados divulgados no Portal da Transparência após a agência de dados\_Fiquem Sabendo\_cobrar reiteradamente o Tribunal de Contas da União (TCU), que já havia determinado, em janeiro de 2020, que o governo tornasse públicas essas informações."
+  relevância: >-
+    Os dados sobre pagamentos de pensões a parentes de militares só foram
+    publicados no Portal da Transparência pelas sucessivas cobranças da agência
+    de dados Fiquem Sabendo à Controladoria-Geral da União (CGU) e duas
+    denúncias acatadas pelo Tribunal de Contas da União (TCU). A publicação dos
+    benefícios bilionários pagos há mais de 100 anos, principalmente a filhas e
+    viúvas de militares, chega em um período em que a pandemia da Covid-19 expôs
+    como nunca a disparidade social existente no Brasil. Ao comparar gastos com
+    pensões da família militar e investimentos em programas sociais, a
+    reportagem levanta um debate público relevante, em meio a tantas discussões
+    sobre reformas e privilégios. Enquanto milhões de famílias lutam para
+    sobreviver com ajuda de Bolsa Família e auxílio emergencial, alguns milhares
+    de brasileiros acumulam benesses criadas no século passado em proporções
+    muito maiores, e agora finalmente conhecidas. A reportagem foi produzida em
+    colaboração entre a piauí e a Fiquem Sabendo, que além de estar desde 2017
+    batalhando pela publicação dos dados, mobilizou jornalistas, cientistas de
+    dados e advogados para simplificar o acesso à base de dados. Dividida em
+    dezenas de pastas, cada uma com diversas planilhas de milhares de linhas,
+    sem contar as inúmeras inconsistências que poderiam levar a conclusões
+    equivocadas quanto a valores pagos e quantidade de beneficiários, a base foi
+    checada com a colaboração de Álvaro Justen, do Brasil.io, e Fernando
+    Barbalho, que voluntariamente desenvolveu um aplicativo de consulta
+    simplificada aos dados, disponível para acesso público. As verificações
+    foram encaminhadas à CGU, contribuindo para corrigir e qualificar a base
+    original. Dessa forma, mais do que uma reportagem guiada por dados, o
+    trabalho inscrito representa uma contribuição do jornalismo para a
+    transparência pública, o controle social e a promoção da democracia.
+  originalidade: >-
+    A originalidade da reportagem está na própria base de dados dos
+    pensionistas, que se tornou pública pela primeira vez em mais de 100 anos
+    graças ao trabalho da Fiquem Sabendo. A primeira denúncia ao Tribunal de
+    Contas da União (TCU) foi apresentada ainda em 2017 e foi acatada em
+    setembro de 2019. Em janeiro de 2020, o Ministério da Economia liberou
+    apenas parte dos dados, referentes a dois meses de pagamentos em 2019 e
+    somente a pensionistas civis. A agência seguiu cobrando a CGU para a
+    liberação integral dos dados, até que em julho de 2020 uma série histórica
+    de 27 anos de pagamentos foi publicada, porém ainda somente de civis,
+    contrariando a determinação do TCU. Um cronograma foi estabelecido para a
+    publicação dos dados de militares, e sucessivamente foi descumprido pelo
+    governo federal, motivando uma segunda denúncia ao TCU por parte da Fiquem
+    Sabendo. Sem essa pressão constante, possivelmente os dados de pagamentos a
+    militares continuariam ocultos. Para destacar a relevância dessas
+    informações, a reportagem da piauí compara os gastos com pensões com
+    investimentos em programas sociais do governo, incluindo ações de combate à
+    Covid-19. Com gráficos e ilustrações, a reportagem consegue transformar uma
+    enorme quantidade de dados em informações facilmente compreensíveis por
+    qualquer público.  
+  metodologia: >-
+    A checagem dos registros envolveu três cientistas de dados: Bernardo Baron,
+    da equipe da Fiquem Sabendo; Álvaro Justen, do Brasil.io; e Fernando
+    Barbalho, que voluntariamente desenvolveu um aplicativo de consulta
+    simplificada dos dados para acesso público. O trio analisou as bases com
+    duas linguagens de programação, Python e R, o que permitiu identificar
+    diversas inconsistências e obter maior precisão na checagem. As ferramentas
+    desenvolvidas foram disponibilizadas para jornalistas durante a apuração, de
+    modo a validar informações. Inconsistências e duplicidades foram comunicadas
+    à Controladoria-Geral da União (CGU) de forma a garantir a correta análise
+    dos dados. Após a publicação da reportagem, a ferramenta criada por Barbalho
+    foi colocada em acesso público
+    (https://fiquemsabendo.shinyapps.io/Pensionistas/). Já o código-fonte da
+    aplicação e as consultas realizadas na base de dados podem ser acessadas no
+    GitHub (https://github.com/FIquemSabendo/pensionistas). Complementarmente,
+    um tutorial completo para o acesso aos dados usados na reportagem foi
+    publicado pela Fiquem Sabendo
+    (https://fiquemsabendo.com.br/gastos-publicos/tutorial-encontrar-pensionista-dados-governo-federal/). 
+  uf: RS
+  ano: '2021'
+  tipo_inscricao: ''
+  formato: ''
+  category: finalista
+  image: images/edicoes/2021/Pensão-01.jpg
 - title: Anatomia da Rachadinha
   project_url: >-
     https://noticias.uol.com.br/reportagens-especiais/anatomia-da-rachadinha-bolsonaro
@@ -562,83 +639,6 @@
   formato: ''
   category: concorrente
   image: images/edicoes/2021/header-estatico.png
-- title: As pensões e os bilhões da família militar
-  project_url: 'https://piaui.folha.uol.com.br/as-pensoes-e-os-bilhoes-da-familia-militar/'
-  veiculo: piauí
-  autoria: 'Taís Seibt, Bernardo Baron, Maria Vitória Ramos e Renata Buono'
-  data: 12/7/2021
-  resumo: "Em 2020, o governo federal pagou pensões a 529 mil pessoas – em geral, parentes de servidores civis e militares que já morreram. Somadas, essas pensões custaram R$ 36,5 bilhões, valor maior que o orçamento do Bolsa Família, que atende cerca de 14 milhões de famílias. Os parentes de militares são responsáveis pela maior fatia do bolo, e receberam, em média, 47% a mais do que os parentes de civis.  Somente uma mulher, que é filha de um militar e viúva de outros dois, recebeu, em média, R$ 61,2 mil mensais em 2020. Valor seria suficiente para pagar o valor máximo do novo auxílio emergencial (R$ 375) a 163 mulheres que são chefes de família. Essas são algumas das comparações expostas na reportagem para a seção =igualdades, da piauí, com base em dados divulgados no Portal da Transparência após a agência de dados\_Fiquem Sabendo\_cobrar reiteradamente o Tribunal de Contas da União (TCU), que já havia determinado, em janeiro de 2020, que o governo tornasse públicas essas informações."
-  relevância: >-
-    Os dados sobre pagamentos de pensões a parentes de militares só foram
-    publicados no Portal da Transparência pelas sucessivas cobranças da agência
-    de dados Fiquem Sabendo à Controladoria-Geral da União (CGU) e duas
-    denúncias acatadas pelo Tribunal de Contas da União (TCU). A publicação dos
-    benefícios bilionários pagos há mais de 100 anos, principalmente a filhas e
-    viúvas de militares, chega em um período em que a pandemia da Covid-19 expôs
-    como nunca a disparidade social existente no Brasil. Ao comparar gastos com
-    pensões da família militar e investimentos em programas sociais, a
-    reportagem levanta um debate público relevante, em meio a tantas discussões
-    sobre reformas e privilégios. Enquanto milhões de famílias lutam para
-    sobreviver com ajuda de Bolsa Família e auxílio emergencial, alguns milhares
-    de brasileiros acumulam benesses criadas no século passado em proporções
-    muito maiores, e agora finalmente conhecidas. A reportagem foi produzida em
-    colaboração entre a piauí e a Fiquem Sabendo, que além de estar desde 2017
-    batalhando pela publicação dos dados, mobilizou jornalistas, cientistas de
-    dados e advogados para simplificar o acesso à base de dados. Dividida em
-    dezenas de pastas, cada uma com diversas planilhas de milhares de linhas,
-    sem contar as inúmeras inconsistências que poderiam levar a conclusões
-    equivocadas quanto a valores pagos e quantidade de beneficiários, a base foi
-    checada com a colaboração de Álvaro Justen, do Brasil.io, e Fernando
-    Barbalho, que voluntariamente desenvolveu um aplicativo de consulta
-    simplificada aos dados, disponível para acesso público. As verificações
-    foram encaminhadas à CGU, contribuindo para corrigir e qualificar a base
-    original. Dessa forma, mais do que uma reportagem guiada por dados, o
-    trabalho inscrito representa uma contribuição do jornalismo para a
-    transparência pública, o controle social e a promoção da democracia.
-  originalidade: >-
-    A originalidade da reportagem está na própria base de dados dos
-    pensionistas, que se tornou pública pela primeira vez em mais de 100 anos
-    graças ao trabalho da Fiquem Sabendo. A primeira denúncia ao Tribunal de
-    Contas da União (TCU) foi apresentada ainda em 2017 e foi acatada em
-    setembro de 2019. Em janeiro de 2020, o Ministério da Economia liberou
-    apenas parte dos dados, referentes a dois meses de pagamentos em 2019 e
-    somente a pensionistas civis. A agência seguiu cobrando a CGU para a
-    liberação integral dos dados, até que em julho de 2020 uma série histórica
-    de 27 anos de pagamentos foi publicada, porém ainda somente de civis,
-    contrariando a determinação do TCU. Um cronograma foi estabelecido para a
-    publicação dos dados de militares, e sucessivamente foi descumprido pelo
-    governo federal, motivando uma segunda denúncia ao TCU por parte da Fiquem
-    Sabendo. Sem essa pressão constante, possivelmente os dados de pagamentos a
-    militares continuariam ocultos. Para destacar a relevância dessas
-    informações, a reportagem da piauí compara os gastos com pensões com
-    investimentos em programas sociais do governo, incluindo ações de combate à
-    Covid-19. Com gráficos e ilustrações, a reportagem consegue transformar uma
-    enorme quantidade de dados em informações facilmente compreensíveis por
-    qualquer público.  
-  metodologia: >-
-    A checagem dos registros envolveu três cientistas de dados: Bernardo Baron,
-    da equipe da Fiquem Sabendo; Álvaro Justen, do Brasil.io; e Fernando
-    Barbalho, que voluntariamente desenvolveu um aplicativo de consulta
-    simplificada dos dados para acesso público. O trio analisou as bases com
-    duas linguagens de programação, Python e R, o que permitiu identificar
-    diversas inconsistências e obter maior precisão na checagem. As ferramentas
-    desenvolvidas foram disponibilizadas para jornalistas durante a apuração, de
-    modo a validar informações. Inconsistências e duplicidades foram comunicadas
-    à Controladoria-Geral da União (CGU) de forma a garantir a correta análise
-    dos dados. Após a publicação da reportagem, a ferramenta criada por Barbalho
-    foi colocada em acesso público
-    (https://fiquemsabendo.shinyapps.io/Pensionistas/). Já o código-fonte da
-    aplicação e as consultas realizadas na base de dados podem ser acessadas no
-    GitHub (https://github.com/FIquemSabendo/pensionistas). Complementarmente,
-    um tutorial completo para o acesso aos dados usados na reportagem foi
-    publicado pela Fiquem Sabendo
-    (https://fiquemsabendo.com.br/gastos-publicos/tutorial-encontrar-pensionista-dados-governo-federal/). 
-  uf: RS
-  ano: '2021'
-  tipo_inscricao: ''
-  formato: ''
-  category: finalista
-  image: images/edicoes/2021/Pensão-01.jpg
 - title: As teias da publicidade em Ribeirão Preto (série)
   project_url: "1)\thttps://farolete.info/nogueira-gasta-r-193-milhoes-com-publicidade-e-propaganda-em-tres-anos/   2) https://farolete.info/prefeitura-de-ribeirao-tem-gastos-milionarios-com-pesquisas-de-opiniao/  3) https://farolete.info/assessor-contratos-publicos-socios-e-campanha-de-nogueira-conheca-a-teia-da-publicidade/"
   veiculo: Farolete (www.farolete.info)
@@ -4863,7 +4863,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/candidatos%20milionarios.png
+  image: images/edicoes/2021/candidatos milionarios.png
 - title: >-
     Passo importante na indústria de brinquedos: bonecas que homenageiam
     cientistas mulheres numa perspectiva étnico racial
@@ -5786,6 +5786,75 @@
   formato: Online
   category: concorrente
   image: images/edicoes/2020/deolho-desmatadores.jpg
+- title: Amazônia Minada
+  project_url: 'https://twitter.com/amazonia_minada'
+  veiculo: 'https://infoamazonia.org/pt/'
+  autoria: Hyury Potter; Juliana Mori; Rodrigo Brabo; Fernando Eckestein.
+  data: 21/11/2019
+  resumo: >-
+    Amazônia Minada detecta em tempo real novos processos minerários dentro das
+    41 unidades de conservação de proteção integral sob gestão da União na
+    Amazônia. Toda vez que um novo requerimento minerário é protocolado na
+    Agência Nacional de Mineração (ANM) dentro dessas áreas protegidas, um tweet
+    é enviado no perfil-robô @amazonia_minada com dados sobre o dono do
+    processo, o minério a ser explorado e a unidade de conservação afetada.
+    Projeto foi vencedor de uma bolsa 2019 News Innovation do ICFJ em parceria
+    com o The Wall Street Journal. Em 2020, o Amazônia Minada recebeu apoio do
+    Amazon Rainforest Journalism Fund e Pulitzer Center para ampliar a análise
+    de dados minerários para terras indígenas, com previsão de publicação até o
+    começo de novembro. 
+  relevância: >-
+    O Amazônia Minada sistematiza o acompanhamento de processos minerários em
+    áreas protegidas, facilitando o acesso de leitores e jornalistas com uma
+    conta robô no Twitter. Para isso, uma API com o cruzamento da base de dados
+    da ANM com o ICMBio detecta a sobreposição de requerimentos que estão
+    geolocalizados dentro de unidades de conservação de proteção integral na
+    Amazônia. O resultado é disponibilizado em um mapa interativo e no twitter.
+    Com essa base de dados filtrada, publicamos uma grande reportagem no
+    Intercept sobre quem são os donos dos requerimentos minerários ilegais.
+    Poucos dias depois, em 29 de novembro de 2019, o MPF do Pará apresentou oito
+    ações na Justiça Federal pedindo o indeferimento de processos minerários em
+    terras indígenas, muitos também afetavam as unidades de conservação que
+    citamos no nosso mapa. 
+
+    # Matéria TIB:
+    https://theintercept.com/2019/11/21/vale-politicos-minerar-areas-proibidas-amazonia/
+
+    # Ação MPF/PA:
+    http://www.mpf.mp.br/pa/sala-de-imprensa/noticias-pa/mpf-pede-cancelamento-urgente-de-processos-minerarios-em-48-terras-indigenas-no-para
+  originalidade: >-
+    A originalidade do projeto Amazônia Minada está em simplificar o acesso de
+    leitores e jornalistas a um assunto pouco conhecido como a mineração. Além
+    disso, o cruzamento de dados da ANM com o ICMBio permite que os processos
+    sejam visualmente disponibilizados em um mapa, demonstrando de maneira
+    simples e direta como esses requerimentos são ilegais, pois a legislação
+    brasileira proíbe qualquer tipo de atividade mineradora em unidades de
+    conservação de proteção integral. O perfil-robô no Twitter também reforça
+    esse objetivo de facilitar o acesso de leitores com o processos minerários
+    ilegais detectados pelo projeto. 
+  metodologia: >+
+    Os desenvolvedores Rodrigo Brabo, e atualmente o Fernando Eckestein, criaram
+    uma API que baixa os dados de requerimentos minerários em GeoJSON e cruzam
+    essas informações com os polígonos das áreas das unidades de conservação de
+    proteção integral que estão disponibilizadas pelo ICMBio, órgão federal
+    responsável pela gestão dessas unidades. A ANM atualiza o seu banco de dados
+    diariamente à 00h. Por isso, todos os dias o Amazônia Minada atualiza a
+    leitura desses dados à 01h30. Os processos minerários obtidos são filtrados
+    por data, localização e também os que já tiveram indeferimento. 
+
+    A cada novo registro que aparece no mapa, um tweet com informações sobre a
+    empresa, o tipo de minério e a unidade de conservação afetada é publicado no
+    perfil @amazonia_minada.
+
+    Todo trabalho de desenvolvimento da API  e do bot é aberto e está disponível
+    no Github: https://github.com/InfoAmazonia/amazonia-minada
+
+  uf: ''
+  ano: '2020'
+  tipo_inscricao: Inovação
+  formato: Online
+  category: finalista
+  image: images/edicoes/2020/print-amzmin.jpg
 - title: Confere.ai
   project_url: 'https://confereai.ne10.uol.com.br/#/consultar'
   veiculo: Jornal do Commercio
@@ -6035,7 +6104,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/Captura de Tela 2020-08-17 às 18.54.14.png
+  image: images/edicoes/2020/pensao_piaui.png
 - title: Média móvel diária de casos e mortes por Covid-19 nos telejornais da Globo
   project_url: 'https://globoplay.globo.com/v/8595182/'
   veiculo: TV Globo
@@ -6222,7 +6291,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Impresso
   category: concorrente
-  image: images/edicoes/placeholder.png
+  image: images/edicoes/2020/Confinamento_Benchmarking.pdf
 - title: Elas no Congresso
   project_url: 'https://www.elasnocongresso.com.br/'
   veiculo: Revista AzMina
@@ -8690,75 +8759,6 @@
   formato: Online
   category: concorrente
   image: images/edicoes/2020/Capa.jpg
-- title: Amazônia Minada
-  project_url: 'https://twitter.com/amazonia_minada'
-  veiculo: 'https://infoamazonia.org/pt/'
-  autoria: Hyury Potter; Juliana Mori; Rodrigo Brabo; Fernando Eckestein.
-  data: 21/11/2019
-  resumo: >-
-    Amazônia Minada detecta em tempo real novos processos minerários dentro das
-    41 unidades de conservação de proteção integral sob gestão da União na
-    Amazônia. Toda vez que um novo requerimento minerário é protocolado na
-    Agência Nacional de Mineração (ANM) dentro dessas áreas protegidas, um tweet
-    é enviado no perfil-robô @amazonia_minada com dados sobre o dono do
-    processo, o minério a ser explorado e a unidade de conservação afetada.
-    Projeto foi vencedor de uma bolsa 2019 News Innovation do ICFJ em parceria
-    com o The Wall Street Journal. Em 2020, o Amazônia Minada recebeu apoio do
-    Amazon Rainforest Journalism Fund e Pulitzer Center para ampliar a análise
-    de dados minerários para terras indígenas, com previsão de publicação até o
-    começo de novembro. 
-  relevância: >-
-    O Amazônia Minada sistematiza o acompanhamento de processos minerários em
-    áreas protegidas, facilitando o acesso de leitores e jornalistas com uma
-    conta robô no Twitter. Para isso, uma API com o cruzamento da base de dados
-    da ANM com o ICMBio detecta a sobreposição de requerimentos que estão
-    geolocalizados dentro de unidades de conservação de proteção integral na
-    Amazônia. O resultado é disponibilizado em um mapa interativo e no twitter.
-    Com essa base de dados filtrada, publicamos uma grande reportagem no
-    Intercept sobre quem são os donos dos requerimentos minerários ilegais.
-    Poucos dias depois, em 29 de novembro de 2019, o MPF do Pará apresentou oito
-    ações na Justiça Federal pedindo o indeferimento de processos minerários em
-    terras indígenas, muitos também afetavam as unidades de conservação que
-    citamos no nosso mapa. 
-
-    # Matéria TIB:
-    https://theintercept.com/2019/11/21/vale-politicos-minerar-areas-proibidas-amazonia/
-
-    # Ação MPF/PA:
-    http://www.mpf.mp.br/pa/sala-de-imprensa/noticias-pa/mpf-pede-cancelamento-urgente-de-processos-minerarios-em-48-terras-indigenas-no-para
-  originalidade: >-
-    A originalidade do projeto Amazônia Minada está em simplificar o acesso de
-    leitores e jornalistas a um assunto pouco conhecido como a mineração. Além
-    disso, o cruzamento de dados da ANM com o ICMBio permite que os processos
-    sejam visualmente disponibilizados em um mapa, demonstrando de maneira
-    simples e direta como esses requerimentos são ilegais, pois a legislação
-    brasileira proíbe qualquer tipo de atividade mineradora em unidades de
-    conservação de proteção integral. O perfil-robô no Twitter também reforça
-    esse objetivo de facilitar o acesso de leitores com o processos minerários
-    ilegais detectados pelo projeto. 
-  metodologia: >+
-    Os desenvolvedores Rodrigo Brabo, e atualmente o Fernando Eckestein, criaram
-    uma API que baixa os dados de requerimentos minerários em GeoJSON e cruzam
-    essas informações com os polígonos das áreas das unidades de conservação de
-    proteção integral que estão disponibilizadas pelo ICMBio, órgão federal
-    responsável pela gestão dessas unidades. A ANM atualiza o seu banco de dados
-    diariamente à 00h. Por isso, todos os dias o Amazônia Minada atualiza a
-    leitura desses dados à 01h30. Os processos minerários obtidos são filtrados
-    por data, localização e também os que já tiveram indeferimento. 
-
-    A cada novo registro que aparece no mapa, um tweet com informações sobre a
-    empresa, o tipo de minério e a unidade de conservação afetada é publicado no
-    perfil @amazonia_minada.
-
-    Todo trabalho de desenvolvimento da API  e do bot é aberto e está disponível
-    no Github: https://github.com/InfoAmazonia/amazonia-minada
-
-  uf: ''
-  ano: '2020'
-  tipo_inscricao: Inovação
-  formato: Online
-  category: finalista
-  image: images/edicoes/2020/print-amzmin.jpg
 - title: A mão invisível da milícia
   project_url: >-
     https://noticias.uol.com.br/reportagens-especiais/com-milicia-em-expansao-confrontos-policiais-no-rio-miram-trafico-e-somam-so-3-em-areas-de-milicianos/

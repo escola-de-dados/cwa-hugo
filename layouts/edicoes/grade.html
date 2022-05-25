@@ -6,10 +6,10 @@
   <div class="container">
     <div class="lead text-center mb-5">{{ .Description }}</div>
     {{ .Content }}
-    <hr>
+    <hr class="row my-5">
     <div class="row mb-5">
       <div class="col-12">
-        <h2 class="section-title mb-2">Projetos inscritos</h2>
+        <h4 class="section-title mb-2">Projetos inscritos</h2>
         <p class="text-lead">Confira a planilha de projetos completa em nosso repositório no Github: <a href="https://github.com/escola-de-dados/premio_cwa" target="_blank">https://github.com/escola-de-dados/premio_cwa</a></p>
         <div class="btn-group btn-group-toggle justify-content-center d-flex flex-wrap" data-toggle="buttons">
           <label class="btn btn-sm btn-primary active">
@@ -33,10 +33,10 @@
         <div class="position-relative rounded hover-wrapper">
           <img src="{{.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
-          <div class="hover-overlay hover-zoom" style="background: rgba(33, 31, 31, 0.8);">
+          <div class="hover-overlay hover-zoom" style="background: rgba(148, 106, 106, 0.8);">
             <div class="hover-content">
               <p class="h4 text-white font-weight-bolder px-2">{{ .title }}</p>
-              <a class="btn btn-light btn-sm" href="{{ .project_url | safeURL }}">{{ .veiculo }}</a>
+              <a class="btn btn-light btn-sm text-uppercase" href="{{ .project_url | safeURL }}">{{ .veiculo }}</a>
             </div>
           </div>
           {{ end }}
