@@ -4863,7 +4863,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/candidatos milionarios.png
+  image: images/edicoes/2021/candidatos%20milionarios.png
 - title: >-
     Passo importante na indústria de brinquedos: bonecas que homenageiam
     cientistas mulheres numa perspectiva étnico racial
@@ -6222,7 +6222,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Impresso
   category: concorrente
-  image: images/edicoes/2020/Confinamento_Benchmarking.pdf
+  image: images/edicoes/placeholder.png
 - title: Elas no Congresso
   project_url: 'https://www.elasnocongresso.com.br/'
   veiculo: Revista AzMina
@@ -6538,7 +6538,7 @@
   tipo_inscricao: Visualização de Dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: Educação e Coronavírus
   project_url: www.educacaoecoronavirus.com.br
   veiculo: Portal do Projeto
@@ -6677,7 +6677,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: ARSENAL GLOBAL
   project_url: >-
     https://theintercept.com/2019/12/16/rio-municoes-balas-eua-bosnia-russia-guerra-fria/
@@ -6741,7 +6741,7 @@
   tipo_inscricao: Inovação
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/vbvI2tjr-28126568.mp4
+  image: images/edicoes/placeholder.png
 - title: >-
     Se aplicada hoje, PEC do Pacto Federativo acabaria com 1.012 cidades
     brasileiras
@@ -6802,7 +6802,7 @@
   tipo_inscricao: Dados Abertos
   formato: Outro
   category: concorrente
-  image: images/edicoes/2020/especial_pacto_federativo.pdf
+  image: images/edicoes/placeholder.png
 - title: >-
     Medo do vírus, medo da violência: mortes violentas crescem durante a
     quarentena
@@ -6855,7 +6855,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Impresso
   category: concorrente
-  image: images/edicoes/2020/308666_Mil Vidas 2020.pdf
+  image: images/edicoes/placeholder.png
 - title: 'Painel do Coronavírus: a evolução da pandemia em SC'
   project_url: 'https://www.nsctotal.com.br/coronavirus/mapa-de-evolucao-do-virus'
   veiculo: NSC Total
@@ -7325,7 +7325,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: Supersalários da Câmara de Ribeirão Preto
   project_url: >-
     https://farolete.info/conheca-todos-os-supersalarios-da-camara-de-ribeirao-preto/
@@ -7399,7 +7399,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: 'De Dilma a Bolsonaro: como votam as favelas do Rio'
   project_url: 'https://pindograma.com.br/2020/09/07/favelas.html'
   veiculo: Pindograma
@@ -7769,7 +7769,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: PIB cai e pobreza extrema cresce
   project_url: 'https://aupa.com.br/pib-cai-e-pobreza-extrema-cresce/'
   veiculo: Aupa -Jornalismo de Impacto
@@ -8056,7 +8056,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Impresso
   category: concorrente
-  image: images/edicoes/2020/folha 16.10.pdf
+  image: images/edicoes/placeholder.png
 - title: Subnotificação da Covid-19
   project_url: >-
     https://www1.folha.uol.com.br/equilibrioesaude/2020/05/base-de-dados-de-cartorios-traz-falhas-que-impedem-calcular-efeito-real-do-coronavirus-no-brasil.shtml;https://www1.folha.uol.com.br/equilibrioesaude/2020/05/meio-milhao-de-mortes-somem-de-sistema-usado-para-monitorar-covid-19.shtml;https://www1.folha.uol.com.br/equilibrioesaude/2020/05/dados-do-governo-indicam-140-a-mais-de-mortes-por-covid-no-pais.shtml;https://www1.folha.uol.com.br/equilibrioesaude/2020/06/subnotificacao-de-6000-mortes-por-coronavirus-pode-ter-sido-causada-por-falha-em-testes.shtml
@@ -8089,7 +8089,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Impresso
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: 'Um ano de Bolsonaro: opinião pública, tuítes, Congresso e viagens'
   project_url: >-
     https://www.nexojornal.com.br/grafico/2020/01/03/Um-ano-de-Bolsonaro-opini%C3%A3o-p%C3%BAblica-tu%C3%ADtes-Congresso-e-viagens
@@ -8235,7 +8235,7 @@
   tipo_inscricao: Dados Abertos
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: O cálculo de uma tragédia
   project_url: >-
     https://www.nexojornal.com.br/especial/2020/08/08/100-mil-mortes-no-Brasil-o-c%C3%A1lculo-de-uma-trag%C3%A9dia
@@ -8397,7 +8397,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: >-
     [Ranking] As usinas que conseguem manter etanol estocado por mais e menos
     tempo
@@ -8436,7 +8436,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: >-
     Análise das safras 2012/13 a 2018/19 pelo Itaú BBA evidencia disparidade do
     setor
@@ -8477,7 +8477,7 @@
   tipo_inscricao: Visualização de Dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: Quantas pessoas são necessárias para moer um milhão de toneladas de cana?
   project_url: >-
     https://www.novacana.com/n/industria/usinas/quantas-pessoas-necessarias-moer-milhao-toneladas-cana-090620
@@ -8525,7 +8525,7 @@
   tipo_inscricao: Visualização de Dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: >-
     As 30 maiores exportadoras de açúcar em 2019 – ranking das empresas e
     evolução
@@ -8559,7 +8559,7 @@
   tipo_inscricao: Visualização de Dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: >-
     Mapas inéditos: 10 escolas e mais de 1,5 mil edificações estão no caminho da
     lama das barragens da Vale em MG
@@ -9149,7 +9149,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: >-
     Na ausência de ações integradas, Observatório traduz os dados sobre Covid-19
     na Região de Campinas
@@ -9185,11 +9185,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: >-
-    images/edicoes/2020/Na ausência de ações integradas, Observatório traduz os
-    dados sobre Covid-19 na Região de Campinas _ Agência Social de Notícias
-    capa.pdf
-    (https://dl.airtable.com/.attachments/a60278d3f555d72c3780c5695cbe59e5/b0777d59/NaausnciadeaesintegradasObservatriotraduzosdadossobreCovid-19naRegiodeCampinas_AgnciaSocialdeNotciascapa.pdf)
+  image: images/edicoes/placeholder.png
 - title: COMO O COLABORABOT DESCOBRIU UM ERRO CAPAZ DE MODIFICAR DADOS GOVERNAMENTAIS
   project_url: >-
     https://colaboradados.com.br/reportagens/2020-09-07-como-o-colaborabot-descobriu-um-erro-capaz-de-modificar-dados-governamentais.html
@@ -9670,7 +9666,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Impresso
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: Mortes em intervenção policial em 2019 não geraram denúncia
   project_url: >-
     https://mais.opovo.com.br/jornal/cidades/2020/07/08/mortes-em-intervencao-policial-em-2019-nao-geraram-denuncia.html
@@ -9827,7 +9823,7 @@
   tipo_inscricao: Dados Abertos
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: 'Forças Armadas pagaram R$ 2,6 milhões a empresas de militares da ativa'
   project_url: >-
     https://www.metropoles.com/brasil/forcas-armadas-pagaram-r-26-milhoes-a-empresas-de-militares-da-ativa
@@ -10091,7 +10087,7 @@
   tipo_inscricao: Inovação
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: >-
     No Brasil, 63% das casas chefiadas por mulheres negras estão abaixo da linha
     da pobreza
@@ -10764,7 +10760,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: 'PUNIÇÃO: APOSENTADORIA'
   project_url: 'https://theintercept.com/2019/09/29/juizes-desembargadores-venda-sentencas/'
   veiculo: The Intercept Brasil
@@ -11271,7 +11267,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Impresso
   category: concorrente
-  image: images/edicoes/2020/O Estado de S. Paulo Água CAPA.pdf
+  image: images/edicoes/placeholder.png
 - title: Aprovômetro JOTA
   project_url: >-
     Ferramenta:
@@ -11575,10 +11571,7 @@
   tipo_inscricao: Dados Abertos
   formato: Online
   category: concorrente
-  image: >-
-    images/edicoes/2020/A saúde do presidente da República é questão de
-    interesse público- a ofensiva jornalística que levou à divulgação dos
-    exames de covid-19 de Jair Bolsonaro .pdf
+  image: images/edicoes/placeholder.png
 - title: Coronavírus escancara desigualdade à população LGBTI
   project_url: >-
     https://dentrodomeio.com.br/colunas/especial/coronavirus-escancara-desigualdade-a-populacao-lgbti/
@@ -12220,7 +12213,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: >-
     Com prazo próximo ao fim, 117 usinas ainda têm documentação pendente junto à
     ANP
@@ -12273,7 +12266,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: >-
     Grandes grupos do setor sucroenergético têm potencial para investir R$ 20
     bilhões até 2030
@@ -12317,7 +12310,7 @@
   tipo_inscricao: Visualização de Dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: Universidades brasileiras sob o microscópio
   project_url: >-
     https://www.estadao.com.br/infograficos/educacao,universidades-brasileiras-sob-o-microscopio,1061261
@@ -12472,7 +12465,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: Governo de SP vaza dados privados de mais de 28 mil pessoas
   project_url: >-
     https://congressoemfoco.uol.com.br/especial/governo-de-sp-vaza-dados-privados-de-mais-de-28-mil-pessoas/
@@ -12583,7 +12576,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/
+  image: images/edicoes/placeholder.png
 - title: '40 Semanas: Grávidas durante a pandemia de Covid-19'
   project_url: >-
     https://agenciaesther.com.br/40-semanas-gravidas-durante-a-pandemia-de-covid19/
@@ -12927,7 +12920,7 @@
   tipo_inscricao: Dados Abertos
   formato: Impresso
   category: concorrente
-  image: images/edicoes/2020/Especial - Idade dos Imóveis.pdf
+  image: images/edicoes/placeholder.png
 - title: Óbito de idosos na pandemia
   project_url: >-
     https://diariodonordeste.verdesmares.com.br/metro/covid-19-obitos-de-idosos-deixam-efeitos-sociais-nas-demais-geracoes-1.2962472
@@ -12962,7 +12955,7 @@
   tipo_inscricao: Dados Abertos
   formato: Impresso
   category: concorrente
-  image: images/edicoes/2020/idosos.pdf
+  image: images/edicoes/placeholder.png
 - title: Cortina de Fumaça
   project_url: 'https://cortinadefumaca.ambiental.media/'
   veiculo: Ambiental Media
@@ -13341,4 +13334,3 @@
   formato: Online
   category: concorrente
   image: images/edicoes/2020/Direito-a-Informac-o.png
-

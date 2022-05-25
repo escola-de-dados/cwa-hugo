@@ -6,6 +6,8 @@ Alterar o arquivo CSS em `themes/kross-hugo/assets/css/estilo.css`
 
 Boostrap 4.5
 
+Converter YAML: https://onlineyamltools.com/convert-csv-to-yaml
+
 Os templates HTML estão `layouts/`
 
 ![Homepage](https://user-images.githubusercontent.com/37659754/58154295-1a9c5300-7c93-11e9-992c-ad8d2ff8d99f.png)

@@ -33,9 +33,9 @@
         <div class="position-relative rounded hover-wrapper">
           <img src="{{.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
-          <div class="hover-overlay">
+          <div class="hover-overlay hover-zoom" style="background: rgba(33, 31, 31, 0.8);">
             <div class="hover-content">
-              <p class="h4 text-white">{{ .title }}</p>
+              <p class="h4 text-white font-weight-bolder px-2">{{ .title }}</p>
               <a class="btn btn-light btn-sm" href="{{ .project_url | safeURL }}">{{ .veiculo }}</a>
             </div>
           </div>

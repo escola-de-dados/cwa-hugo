@@ -3,10 +3,9 @@ banner:
   title: "<B>PRÊMIO</B> <br/>CLÁUDIO WEBER ABRAMO DE JORNALISMO DE DADOS"
 about:
   enable: true
-  content: A maior premiação do jornalismo de dados brasileiro chega à quarta edição
-    para reconhecer os melhores trabalhos de jornalismo de dados do país. Em 2022,
+  content: "A maior premiação do jornalismo de dados brasileiro chega à quarta edição. Em 2022,
     qualquer profissional ou organização que tenha desenvolvido um trabalho de caráter
-    jornalístico pode concorrer.
+    jornalístico pode concorrer. Configura o [regulamento](regulamento/2022) e envie seu projeto até dia X.>"
   button:
     enable: true
     label: Inscreva-se já
@@ -133,7 +132,7 @@ blog:
   enable: false
   title: Novidades
 team:
-  enable: false
+  enable: true
   title: Júri
   team_member:
   - title: Sara
