@@ -1,21 +1,18 @@
 {{ define "main" }}
 {{ partial "page-title.html" . }}
+{{ $edicao_atual := string .Params.edicao }}
 
 <section class="section">
   <div class="container">
-    <!-- {{range where .Site.Data.projetos "ano" "==" .Params.edicao}}
-    {{.title}}
-    {{end}} -->
-
     {{ .Content }}
-    <div class="row mb-5">
+    <!-- <div class="row mb-5">
       <div class="col-12">
         <div class="btn-group btn-group-toggle justify-content-center d-flex flex-wrap" data-toggle="buttons">
           <label class="btn btn-sm btn-primary active">
             <input type="radio" name="shuffle-filter" value="all" checked="checked" />Todos
           </label>
           {{ $categories := slice }}
-          {{ range .Params.projetos }}
+          {{ range where .Site.Data.projetos "ano" "==" $edicao_atual }}
           {{ $categories = $categories | append .category }}
           {{ end }}
           {{ range ( $categories | uniq ) }}
@@ -27,21 +24,22 @@
       </div>
     </div>
     <div class="row shuffle-wrapper">
-      {{ range .Params.projetos }}
+      {{ range where .Site.Data.projetos "ano" "==" $edicao_atual  }}
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{.category | urlize}}&quot;]">
         <div class="position-relative rounded hover-wrapper">
           <img src="{{.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
           <div class="hover-overlay">
             <div class="hover-content">
-              <a class="btn btn-light btn-sm" href="{{ .project_url | safeURL }}">{{ .title }}</a>
+              <p class="h4 text-white">{{ .title }}</p>
+              <a class="btn btn-light btn-sm" href="{{ .project_url | safeURL }}">{{ .veiculo }}</a>
             </div>
           </div>
           {{ end }}
         </div>
       </div>
       {{ end }}
-    </div>
+    </div> -->
   </div>
 </section>
 

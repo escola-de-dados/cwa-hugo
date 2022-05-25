@@ -2,7 +2,9 @@
 
 ## Customização
 
-Alterar o arquivo CSS em `themes/kross-hugo/assets/css/estilo.css`
+Alterar o arquivo CSS em `themes/kross-hugo/assets/css/estilo.css` 
+
+Boostrap 4.5
 
 Os templates HTML estão `layouts/`
 

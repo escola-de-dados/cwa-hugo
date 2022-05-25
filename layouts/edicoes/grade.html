@@ -1,0 +1,51 @@
+{{ define "main" }}
+{{ partial "page-title.html" . }}
+{{ $edicao_atual := string .Params.edicao }}
+
+<section class="section">
+  <div class="container">
+    <div class="lead text-center mb-5">{{ .Description }}</div>
+    {{ .Content }}
+    <hr>
+    <div class="row mb-5">
+      <div class="col-12">
+        <h2 class="section-title mb-2">Projetos inscritos</h2>
+        <p class="text-lead">Confira a planilha de projetos completa em nosso repositório no Github: <a href="https://github.com/escola-de-dados/premio_cwa" target="_blank">https://github.com/escola-de-dados/premio_cwa</a></p>
+        <div class="btn-group btn-group-toggle justify-content-center d-flex flex-wrap" data-toggle="buttons">
+          <label class="btn btn-sm btn-primary active">
+            <input type="radio" name="shuffle-filter" value="all" checked="checked" />Todos
+          </label>
+          {{ $categories := slice }}
+          {{ range where .Site.Data.projetos "ano" "==" $edicao_atual }}
+          {{ $categories = $categories | append .category }}
+          {{ end }}
+          {{ range ( $categories | uniq ) }}
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="{{ . | urlize }}" />{{ . | humanize }}
+          </label>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    <div class="row shuffle-wrapper">
+      {{ range where .Site.Data.projetos "ano" "==" $edicao_atual  }}
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{.category | urlize}}&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="{{.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <p class="h4 text-white">{{ .title }}</p>
+              <a class="btn btn-light btn-sm" href="{{ .project_url | safeURL }}">{{ .veiculo }}</a>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+</section>
+
+{{ end }}
