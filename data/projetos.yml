@@ -2160,7 +2160,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/IMG4_CWA.jpg
+  image: images/edicoes/2021/depressao-suicidio.jpg
 - title: Existe uma Wakanda da política brasileira?
   project_url: 'https://datalabe.org/existe-uma-wakanda-da-politica-brasileira/'
   veiculo: data_labe + alma preta
@@ -2248,7 +2248,7 @@
   tipo_inscricao: ''
   formato: ''
   category: ganhador
-  image: images/edicoes/2021/CAPA_eleições.png
+  image: images/edicoes/2021/CAPA_eleies.png
 - title: 'ExxonMobil no Nordeste: dados, mapas e um perigoso plano em curso'
   project_url: >-
     https://infosaofrancisco.canoadetolda.org.br/noticias/petroleo/exxonmobil-no-nordeste-dados-mapas-e-um-perigoso-plano-em-curso/
@@ -2334,7 +2334,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/exxonmobil mapa foz do sao francisco.png
+  image: images/edicoes/2021/exxonmobilmapafozdosaofrancisco.png
 - title: Facebook ainda é usado para comprar e vender armas no Brasil
   project_url: 'https://www.nucleo.jor.br/reportagem/2021-04-01-facebook-comercio-armas/'
   veiculo: Núcleo Jornalismo
@@ -2729,7 +2729,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/Screen Shot 2021-10-02 at 21.36.50.png
+  image: images/edicoes/2021/pensao-militares.png
 - title: >-
     Fim do Auxílio Emergencial trará pobreza, desemprego e retorno do Brasil ao
     Mapa da Fome
@@ -2826,7 +2826,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/Campus CR25 - revista final.indd.pdf
+  image: images/edicoes/2021/gastos-pandemia.png
 - title: Indígenas nas Cidades
   project_url: 'https://brasil.mongabay.com/series/indigenas-nas-cidades/'
   veiculo: Mongabay
@@ -3848,7 +3848,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/eleitas rn.jpg
+  image: images/edicoes/2021/eleitasrn.jpg
 - title: >-
     O ‘carro da linguiça’ e outras chacinas sobre rodas que exterminam a
     periferia e o governo ignora
@@ -3934,7 +3934,7 @@
   tipo_inscricao: ''
   formato: ''
   category: finalista
-  image: images/edicoes/2021/Screen Shot 2021-09-20 at 22.28.54.png
+  image: images/edicoes/2021/carro-linguica.png
 - title: O alto preço da produção do camarão em Sergipe
   project_url: >-
     https://ojoioeotrigo.com.br/2021/07/o-alto-preco-da-producao-do-camarao-em-sergipe/
@@ -4220,7 +4220,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/perícia_carro_Marielle.jpg
+  image: images/edicoes/2021/percia_carro_Marielle.jpg
 - title: O Facebook não morreu
   project_url: 'https://www.nucleo.jor.br/especiais/2020-10-15-facebook-nao-morreu/'
   veiculo: Núcleo Jornalismo
@@ -4376,7 +4376,7 @@
   formato: ''
   category: concorrente
   image: >-
-    images/edicoes/2021/Veja-em-gráficos-quanto-tempo-cada-presidente-do-legislativo-ficou.png
+    images/edicoes/2021/presidentes-legis.png
 - title: O voto dos deputados e dos senadores
   project_url: 'https://interativos.g1.globo.com/politica/2019/como-votam'
   veiculo: G1
@@ -4471,7 +4471,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/Capa Olhares Diversos.png
+  image: images/edicoes/2021/CapaOlharesDiversos.png
 - title: Onde vai parar o lixo reciclável
   project_url: >-
     https://www.metropoles.com/materias-especiais/onde-vai-parar-o-lixo-que-voce-separa-rastreamos-os-caminhoes-de-reciclaveis-por-um-mes-na-capital-federal
@@ -4637,7 +4637,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/WhatsApp Image 2021-10-04 at 21.48.33.jpeg
+  image: images/edicoes/2021/open-lux.jpeg
 - title: Os casos de Covid-19 que a prefeitura excluiu sem aviso
   project_url: >-
     https://www.matinaljornalismo.com.br/matinal/reportagem-matinal/os-casos-de-covid-19-que-a-prefeitura-excluiu-sem-aviso/
@@ -4861,7 +4861,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/candidatos milionarios.png
+  image: images/edicoes/2021/candidatosmilionarios.png
 - title: >-
     Passo importante na indústria de brinquedos: bonecas que homenageiam
     cientistas mulheres numa perspectiva étnico racial
@@ -4902,7 +4902,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/Bonecas Cientistas.jpg
+  image: images/edicoes/2021/BonecasCientistas.jpg
 - title: 'Política mortal: o Brasil em aflição após um ano de pandemia'
   project_url: >-
     https://www.nexojornal.com.br/especial/2021/03/10/Pol%C3%ADtica-mortal-o-Brasil-em-afli%C3%A7%C3%A3o-ap%C3%B3s-um-ano-de-pandemia
@@ -5533,7 +5533,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/Câmara Municipal.jfif
+  image: images/edicoes/2021/CmaraMunicipal.jfif
 - title: Vivo no Trânsito
   project_url: >-
     https://drive.google.com/file/d/1dI72PdlXPKW5EVZLB1ILOQRw0yWW7RwG/view?usp=sharing
