@@ -1201,7 +1201,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/FAROLETE - CUSTO.png
+  image: images/edicoes/2021/FAROLETE-CUSTO.png
 - title: Catálogos de suspeitos levam inocentes à prisão
   project_url: >-
     https://g1.globo.com/fantastico/noticia/2021/02/21/exclusivo-83percent-dos-presos-injustamente-por-reconhecimento-fotografico-no-brasil-sao-negros.ghtml
@@ -1653,7 +1653,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/Captura de Tela 2021-10-01 às 20.18.26.png
+  image: images/edicoes/2021/dados-virais.png
 - title: 'Desertos de oxigênio: faltam informação e estrutura no interior do Ceará'
   project_url: >-
     https://mais.opovo.com.br/reportagens-especiais/2021/03/31/desertos-de-oxigenio--faltam-informacao-e-estrutura-no-interior-do-ceara.html
@@ -1767,7 +1767,7 @@
   formato: ''
   category: concorrente
   image: >-
-    images/edicoes/2021/desmonte-na-cultura--governo-bolsonaro-reduz-orcamento-e-sufoca-setor.html
+    images/edicoes/placeholder.png
 - title: >-
     Destruição na Chapada dos Veadeiros é igual a 30% do desmatamento da região
     nos últimos 10 anos
@@ -1809,10 +1809,7 @@
   formato: ''
   category: concorrente
   image: >-
-    images/edicoes/2021/Focos de incêndio na Chapada dos Veadeiros, em setembro
-    de 2021
-    (https://dl.airtable.com/.attachments/74b23b35b50b63ab29eee77cdf005f1d/96f227d7/FocosdeincndionaChapadadosVeadeirosemsetembrode2021)
-- title: >-
+    images/edicoes/2021/chapada-veadeiros.jpg
     Diante da pandemia, número de pessoas em busca da 1ª habilitação do tipo AB
     sobe 29% em 2020
   project_url: >-
