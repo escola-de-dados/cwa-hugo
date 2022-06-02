@@ -6289,7 +6289,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Impresso
   category: concorrente
-  image: images/edicoes/2020/Confinamento_Benchmarking.pdf
+  image: images/edicoes/2020/1214.jpg
 - title: Elas no Congresso
   project_url: 'https://www.elasnocongresso.com.br/'
   veiculo: Revista AzMina
@@ -6463,7 +6463,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/1*ih3oQd6W6FXlnaPdiobXCQ.jpeg
+  image: images/edicoes/2020/1ih3oQd6W6FXlnaPdiobXCQ.jpeg
 - title: >-
     Com Bolsonaro, fazendas foram certificadas de maneira irregular em terras
     indígenas na Amazônia
@@ -7018,7 +7018,7 @@
   tipo_inscricao: Dados Abertos
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/painel coronavirus sc cristian edel weiss.png
+  image: images/edicoes/2020/painel-2.png
 - title: Coronavirus-MG.com.br
   project_url: 'https://www.coronavirus-mg.com.br/'
   veiculo: Coronavirus-MG.com.br
@@ -7864,7 +7864,7 @@
   tipo_inscricao: Visualização de Dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/PIB cai.jpg
+  image: images/edicoes/2020/Sequence-03-1068x791.jpg
 - title: Os contrastes de uma pandemia
   project_url: 'https://aupa.com.br/os-contrastes-de-uma-pandemia/'
   veiculo: Aupa - Jornalismo de Impacto
@@ -7893,7 +7893,7 @@
   tipo_inscricao: Visualização de Dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/Cata-Tudo e Recicla_doacao.jpg
+  image: images/edicoes/2020/Cata-TudoeRecicla_doacao.jpg
 - title: Gastos com a COVID-19 pela Prefeitura do Recife
   project_url: 'https://www.gastoscovid.recife.br/'
   veiculo: Página Web
@@ -8200,7 +8200,7 @@
   tipo_inscricao: Visualização de Dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/Veja em gráficos_ um ano de governo Bolsonaro.png
+  image: images/edicoes/2020/Vejaemgrficos_umanodegovernoBolsonaroo.png
 - title: O histórico de abolição da escravidão nas Américas
   project_url: >-
     https://www.nexojornal.com.br/grafico/2020/08/24/O-hist%C3%B3rico-da-aboli%C3%A7%C3%A3o-da-escravid%C3%A3o-nas-Am%C3%A9ricas
@@ -8252,8 +8252,7 @@
   formato: Online
   category: concorrente
   image: >-
-    images/edicoes/2020/Veja em gráficos histórico da abolição da escravidão nas
-    Américas.png
+    images/edicoes/2020/bolsonaro-ano.png
 - title: Repositório de dados - Nexo Políticas Públicas
   project_url: 'https://github.com/Nexo-Dados/PoliticasPublicas'
   veiculo: Nexo Jornal
@@ -8349,7 +8348,7 @@
   tipo_inscricao: Visualização de Dados
   formato: Online
   category: ganhador
-  image: images/edicoes/2020/Especial 100 mil - Teaser - Capitulo 1.png
+  image: images/edicoes/2020/Especial100mil-Teaser-Capitulo1.png
 - title: O voto dos vereadores
   project_url: 'https://g1.globo.com/politica/noticia/2020/08/18/o-voto-dos-vereadores.ghtml'
   veiculo: G1
@@ -8709,7 +8708,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: finalista
-  image: images/edicoes/2020/imagem projeto.png
+  image: images/edicoes/2020/imagemprojeto.png
 - title: Os blindados da Copa
   project_url: >-
     https://www.uol.com.br/esporte/reportagens-especiais/blindados-da-copa-custaram-r-15-milhoes-mas-so-metade-segue-em-operacao/#cover
@@ -8828,7 +8827,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/a mão invisível da milícia - capa.jpg
+  image: images/edicoes/2020/amoinvisveldamilcia-capa.jpg
 - title: Fome no Distrito Federal
   project_url: 'https://www.youtube.com/watch?v=Mfx_15cC3rs'
   veiculo: Tv Brasília
@@ -8857,7 +8856,7 @@
   tipo_inscricao: Dados Abertos
   formato: TV
   category: concorrente
-  image: images/edicoes/2020/IMG FOME DF.jpg
+  image: images/edicoes/2020/IMGFOMEDF.jpg
 - title: Radar do Congresso
   project_url: 'https://radar.congressoemfoco.com.br/'
   veiculo: Congresso em Foco
@@ -8973,7 +8972,7 @@
   tipo_inscricao: Inovação
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/WhatsApp Image 2020-09-30 at 14_27_23
+  image: images/edicoes/2020/radar.jpeg
 - title: Da Mata Repórter
   project_url: 'https://twitter.com/DaMataReporter'
   veiculo: Twitter
@@ -9637,7 +9636,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/Investigação - aborto legal na pandemia.jpg
+  image: images/edicoes/2020/Investigao-abortolegalnapandemia.jpg
 - title: 86 pessoas mortas em quatro dias de terror
   project_url: >-
     https://mais.opovo.com.br/reportagens-especiais/2020/09/01/quatro-dias-de-terror.html#:~:text=Entre%2023%20e%2026%20de,registrados%20em%20todo%20o%20ano.
@@ -9702,7 +9701,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Impresso
   category: concorrente
-  image: images/edicoes/2020/0807_01c_13CD_13_DIG
+  image: images/edicoes/placeholder.png
 - title: Onde tem álcool gel?
   project_url: 'https://www.agenciatatu.com.br/onde-tem-alcool-gel/'
   veiculo: Agência Tatu de Jornalismo de Dados
@@ -9868,7 +9867,7 @@
   tipo_inscricao: Dados Abertos
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/Captura de Tela 2020-09-07 às 15.35.02.png
+  image: images/edicoes/2020/forcas-armadas.png
 - title: >-
     A farra do auxílio-emergencial: Empresários com contratos milionários,
     servidores civis e militares receberam auxílio-emergencial
@@ -9919,7 +9918,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: TV
   category: concorrente
-  image: images/edicoes/2020/fraude auxilio.jpg
+  image: images/edicoes/2020/fraudeauxilio.jpg
 - title: 'Sem contestar, Exército paga quase triplo por insumo da cloroquina'
   project_url: >-
     https://www.cnnbrasil.com.br/nacional/2020/09/15/exclusivo-sem-contestar-exercito-paga-quase-triplo-por-insumo-da-cloroquina
@@ -10257,7 +10256,7 @@
   tipo_inscricao: Visualização de Dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/1200x1200.png
+  image: images/edicoes/2020/adocao.png
 - title: Alagamentos nos quatro primeiros meses de 2019 sobem 65% em São Paulo
   project_url: 'https://arte.estadao.com.br/sao-paulo/10-anos-de-chuvas/'
   veiculo: O Estado de S. Paulo
@@ -10310,7 +10309,7 @@
   tipo_inscricao: Visualização de Dados
   formato: Online
   category: finalista
-  image: images/edicoes/2020/1200x1200.png
+  image: images/edicoes/2020/adocao.png
 - title: >-
     42% das crianças e adolescentes que sofrem abuso sexual são vítimas
     recorrentes
@@ -11041,7 +11040,7 @@
   tipo_inscricao: Visualização de Dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/Screen Shot 2020-09-30 at 17.11.54.png
+  image: images/edicoes/2020/friends.png
 - title: Li o que você apagou. Os tweets deletados da gestão Bolsonaro
   project_url: >-
     https://www.metropoles.com/brasil/li-o-que-voce-apagou-os-tweets-deletados-da-gestao-bolsonaro
@@ -11080,7 +11079,7 @@
   tipo_inscricao: Inovação
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/Ilustração-tweets-deletados-600x400.jpg
+  image: images/edicoes/2020/twitter-apagado.jpg
 - title: 'A VOZ DO PRESIDENTE: SAIBA O QUE SE PASSA NA CABEÇA DE JAIR BOLSONARO'
   project_url: >-
     https://www.metropoles.com/materias-especiais/a-voz-do-presidente-saiba-o-que-se-passa-na-cabeca-de-jair-bolsonaro
@@ -13296,7 +13295,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/2020/Casa Fluminense - Mapa da Desigualdade 2020
+  image: images/edicoes/placeholder.png
 - title: Direito à Informação
   project_url: >-
     https://diariodonordeste.verdesmares.com.br/politica/direito-a-informacao-89-dos-municipios-do-ceara-nao-cumprem-a-lei-de-acesso-a-informacao-1.2995201
