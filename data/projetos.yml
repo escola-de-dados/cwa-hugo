@@ -538,10 +538,7 @@
   image: images/edicoes/2021/anatomia_rachadinha.JPG
 - title: Apenas 9 estados têm licença-adotante igual à de maternidade
   project_url: >-
-    Link_1:
     https://mais.opovo.com.br/reportagens-especiais/2021/06/03/apenas-9-estados-tem-licenca-adotante-igual-a-de-maternidade.html
-    Link_2:
-    https://mais.opovo.com.br/reportagens-especiais/licenca-adotante/2021/06/30/de-27-estados--apenas-10-mantem-licencas-a-casais-homoafetivos.html
   veiculo: Jornal O Povo
   autoria: Flávia Oliveira e Thays Lavor
   data: 3/6/2021
@@ -640,7 +637,8 @@
   category: concorrente
   image: images/edicoes/2021/header-estatico.png
 - title: As teias da publicidade em Ribeirão Preto (série)
-  project_url: "1)\thttps://farolete.info/nogueira-gasta-r-193-milhoes-com-publicidade-e-propaganda-em-tres-anos/   2) https://farolete.info/prefeitura-de-ribeirao-tem-gastos-milionarios-com-pesquisas-de-opiniao/  3) https://farolete.info/assessor-contratos-publicos-socios-e-campanha-de-nogueira-conheca-a-teia-da-publicidade/"
+  project_url: >-
+    https://farolete.info/assessor-contratos-publicos-socios-e-campanha-de-nogueira-conheca-a-teia-da-publicidade/
   veiculo: Farolete
   autoria: Cristiano Pavini
   data: 22/2/2021
@@ -1061,8 +1059,7 @@
     images/edicoes/2021/brasil-registra-duas-vezes-mais-pessoas-brancas-vacinadas-que-negras-1600x1066.webp
 - title: Câncer de Mama Hoje
   project_url: >-
-    https://institutoavon.org.br/outubrorosa/cancerdemamahoje/ - no ar em 1 de
-    outubro 2021
+    https://institutoavon.org.br/outubrorosa/cancerdemamahoje/
   veiculo: Gênero e Número
   autoria: Maria Martha Bruno; Aline Boueri; Natália Leão; Marilia Ferrari
   data: 1/10/2021
@@ -1737,7 +1734,8 @@
   category: concorrente
   image: images/edicoes/2021/20201119-foto-tribunal-de-justica-sp.jpg
 - title: 'Desmonte na Cultura: governo Bolsonaro reduz orçamento e sufoca setor'
-  project_url: 'LINK_1: https://bit.ly/3A0jObG LINK_2: https://bit.ly/2Wy3wZT'
+  project_url: >-
+    https://mais.opovo.com.br/jornal/vidaearte/2021/07/12/desmonte-na-cultura--governo-bolsonaro-reduz-orcamento-e-sufoca-setor.html
   veiculo: Jornal O Povo
   autoria: Catalina Leite e Alexandre Cajazeira
   data: 12/6/2021
@@ -2135,7 +2133,8 @@
 - title: >-
     Exclusivo: Agrotóxicos paraquate e glifosato mataram 214 brasileiros na
     última década
-  project_url: 'Link_1: https://bit.ly/3F6KgUR  Link_2: https://bit.ly/3B3dPnL'
+  project_url: >-
+    https://apublica.org/2020/10/depressao-e-suicidio-1569-brasileiros-se-mataram-tomando-agrotoxicos-na-ultima-decada/
   veiculo: Pública - Agência de Jornalismo Investigativo
   autoria: 'Pedro Grigori , Bruno Fonseca, Thays Lavor'
   data: 8/10/2020
