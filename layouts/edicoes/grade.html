@@ -27,10 +27,24 @@
         </div>
       </div>
     </div>
+    <!-- começo do loop da grade -->
     <div class="row shuffle-wrapper">
       {{ range where .Site.Data.projetos "ano" "==" $edicao_atual  }}
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{.category | urlize}}&quot;]">
         <div class="position-relative rounded hover-wrapper">
+<!-- se a imagem for placeholder, mostra o texto antes do hover; se não, faz a grade normal -->
+          {{ if ( eq .image "images/edicoes/placeholder.png" ) }}
+          {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
+          <div style="background-image: url({{.image | absURL }})">
+
+            <p class="h4 text-black font-weight-bolder px-5 py-5">{{ .title }}</p>
+               <a class="btn btn-light btn-sm text-uppercase py-5 px-5" href="{{ .project_url | safeURL }}">{{ .veiculo }}</a>
+
+              </div>
+
+          {{ end }}
+<!-- grade normal -->
+          {{else}}
           <img src="{{.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
           <div class="hover-overlay hover-zoom" style="background: rgba(148, 106, 106, 0.8);">
@@ -40,6 +54,8 @@
             </div>
           </div>
           {{ end }}
+          {{ end }}
+          
         </div>
       </div>
       {{ end }}
