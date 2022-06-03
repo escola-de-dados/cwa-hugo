@@ -800,9 +800,9 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/placeholder.png
-- title: >-
-    Bolsonaro citou nas redes 129 vezes remédios sem eficácia desde começo da
+  image: images/edicoes/2021/bolsonaro-1000.jpg
+    
+- title: Bolsonaro citou nas redes 129 vezes remédios sem eficácia desde começo da
     pandemia
   project_url: >-
     https://www.band.uol.com.br/noticias/bolsonaro-citou-nas-redes-129-vezes-remedios-sem-eficacia-desde-comeco-da-pandemia-16347715
@@ -1767,7 +1767,7 @@
   formato: ''
   category: concorrente
   image: >-
-    images/edicoes/placeholder.png
+    images/edicoes/2021/bolsonaro-desmonte.png
 - title: >-
     Destruição na Chapada dos Veadeiros é igual a 30% do desmatamento da região
     nos últimos 10 anos
