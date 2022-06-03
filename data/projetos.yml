@@ -922,7 +922,7 @@
   tipo_inscricao: ''
   formato: ''
   category: finalista
-  image: images/edicoes/2021/CAPA_MATERIA-ORCAMENTO.jpeg
+  image: images/edicoes/2021/CAPA_MATERIA-ORCAMENTO.png
 - title: Brasil é o 2º país com mais mortes de crianças por covid
   project_url: >-
     https://saude.estadao.com.br/noticias/geral,sem-escolas-e-sem-controle-da-pandemia-brasil-e-o-2-pais-que-mais-perdeu-criancas-para-a-covid,70003738573
@@ -2160,7 +2160,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/depressao-suicidio.jpg
+  image: images/edicoes/2021/depressao-suicidio.png
 - title: Existe uma Wakanda da política brasileira?
   project_url: 'https://datalabe.org/existe-uma-wakanda-da-politica-brasileira/'
   veiculo: data_labe + alma preta
@@ -2966,148 +2966,9 @@
   formato: ''
   category: concorrente
   image: images/edicoes/2021/edit-Banner-image_Option2_1C5A0564X.jpg
-- title: Indígenas nas Cidades
-  project_url: 'https://brasil.mongabay.com/series/indigenas-nas-cidades/'
-  veiculo: Mongabay
-  autoria: >-
-    Karla Mendes, Thiago Medaglia, Jennifer Ann Thomas, Jonne Roriz, Alexandre
-    Lyrio,  Raul Spinassé, Leticia Casado,  Fellipe Neiva, Ana Amélia Hamdan,
-    Paulo Desana, Daniela Villegas Tukano, Nayra Wladimila,  Rafael Moura
-    Macuxi, Juliana Mori,  Rafael Dupim, Yuli Santana, Laura Kurtzberg, Julia
-    Lemos Lima
-  data: 12/4/2021
-  resumo: "Mais de um terço da população indígena do Brasil, ou cerca de 315 mil indivíduos, vive em áreas urbanas, de acordo com o último censo. Mas enquanto em áreas rurais e remotas os indígenas são ameaçados por invasões de terras, mineração, agricultura e uma ampla gama de projetos de infraestrutura, nas cidades eles enfrentam invisibilização e preconceito, apesar da presença indígena intrínseca na cultura brasileira, das palavras aos hábitos.\n\nA face oculta dos residentes indígenas nas cidades brasileiras é revelada nesta série de reportagens multimídia guiadas por dados, que tem como foco principal os municípios com o maior número absoluto de indígenas vivendo em áreas urbanas, que incluem as metrópoles mais famosas do país: Rio de Janeiro e São Paulo.\n\nO projeto também fez uma análise da presença indígena nas áreas urbanas do Brasil como um todo, incluindo as cidades com o maior percentual de residentes indígenas e outros municípios que não aparecem nas classificações, mas que são extremamente relevantes para representar o modo de vida indígena nas áreas urbanas.\n\nDurante mais de um ano, mergulhamos no censo de 2010 e em bancos de dados relacionados para produzir mapas e infográficos inéditos que mostram não apenas como os residentes indígenas estão distribuídos nas áreas urbanas dessas cidades, mas também seu acesso à educação, saneamento e outros serviços, bem como sua diversidade étnica. Um dos destaques de nossa cobertura é como o acesso ao ensino superior tem ajudado os indígenas a lutar contra esse preconceito e a melhorar suas condições de vida. Entre 2010 e 2019, o número de indígenas matriculados nas universidades saltou de 10.219 para 80.652.\n\nO censo de 2010 foi o primeiro a mapear a presença dos povos indígenas em todo o país, mas a presença do termo pardo no quesito cor e raça é questionado por ativistas indígenas que alegam que a expressão tem sido usada há muito tempo para tornar as identidades indígenas “invisíveis”.\nDe acordo com o censo de 2010, existem cerca de 900 mil indígenas em todo o Brasil, o que representa menos de 0,5% da população total. Mais de um terço da população indígena do Brasil, ou cerca de 315 mil indivíduos, vivem em áreas urbanas. Os brasileiros autodeclarados pardos somavam 82,28 milhões ou 43% da população total.\nNo entanto, líderes indígenas afirmam que os números da população indígena são subestimados, dada a autodeclaração de muitos nativos como pardos para tentar fugir do preconceito arraigado da sociedade em geral contra os povos originários. O movimento indígena está pressionando o IBGE para revisar o método de coleta dos dados do censo.\nO IBGE reconhece a dificuldade de alguns indígenas em responder às perguntas sobre cor e raça do censo. O Instituto Brasileiro de Geografia e Estatística (IBGE) antecipou à Mongabay que haverá várias mudanças na metodologia do censo de 2022 para permitir a coleta de informações mais fidedigna sobre os povos indígenas.\nUma das novidades é a pergunta: “Você se considera indígena?”, que será aplicada em todas as áreas urbanas previamente identificadas pelo IBGE com um número significativo de indígenas, cuja presença não havia sido detectada em censos anteriores. O acréscimo dessa pergunta no censo de 2010 em terras indígenas aumentou em 15,3% o índice de autodeclaração.\_\nLideranças estão fazendo uma grande mobilização, convocando povos nativos de todo o país a se autodeclararem indígenas no próximo censo. Eles esperam um aumento significativo no número de pessoas autodeclaradas indígenas nas áreas urbanas e afirmam que esta série de reportagens vai ajudar no incentivo à autodeclaração.\n"
-  relevância: >
-    Apesar da falta de dados disponíveis sobre os indígenas nas cidades em
-    diversos aspectos, esta série fez um trabalho inovador ao preencher essa
-    lacuna ao sistematizar e processar de forma geolocalizada os dados
-    existentes, cujo resultado pode ser usado para a criação e/ou aprimoramento
-    de políticas públicas para a população indígena nas áreas urbanas do país. 
-
-
-    Obter dados precisos sobre o número e a localização dos povos indígenas nas
-    áreas urbanas do país é fundamental para orientar políticas públicas
-    específicas para os povos originários nas cidades, pois muitas vezes eles
-    não são reconhecidos como indígenas e lhe são negados o acesso especial a
-    políticas públicas que lhe são assegurados pela Constituição Federal e
-    políticas governamentais específicas para os povos indígenas.  
-
-
-    Especialistas afirmam que a autodeclaração é fundamental para demandar
-    políticas públicas para os indígenas nas cidades, pois sem o registro
-    numérico real dos indígenas nas áreas urbanas cria-se um ciclo vicioso:
-    muitos indígenas acabam declarando-se pardos e a maioria dos pardos acaba
-    enquadrada como negra para as políticas sociais. A falta de políticas
-    públicas para indígenas nas cidades acaba desincentivando a autodeclaração,
-    mas sem a autodeclaração torna-se impossível ter a base de dados necessários
-    para a criação de políticas públicas. Além do incentivo à autodeclaração, os
-    dados sobre a identidade indígena precisam ser refinados para se ter o
-    retrato mais fiel possível dos residentes indígenas em áreas urbanas,
-    afirmam especialistas.
-
-    A pandemia COVID-19 trouxe à tona como a falta de reconhecimento oficial da
-    identidade indígena afeta os indígenas que vivem em áreas urbanas. A série
-    revelou que indígenas vivem em uma Terra Indígena (TI) próxima à cidade de
-    Águas Belas, em Pernambuco, foram vacinados contra a COVID-19, mas indígenas
-    que vivem na cidade, a apenas 500 metros da TI, tiveram esse direito negado.
-
-
-    Em março deste ano, o Supremo Tribunal Federal (STF) determinou que os
-    indígenas deveriam ser incluídos no grupo prioritário do plano de vacinação
-    do governo federal, mas a implementação dessa prioridade não tem sido
-    atendida nas áreas urbanas e o Ministério Público Federal teve que ingressar
-    com ações judiciais para garantir a vacinação dos indígenas nas cidades. 
-  originalidade: >
-    Apesar de os dados do censo de 2010 estarem disponíveis há mais de uma
-    década, nunca havia sido feito um trabalho detalhado sobre os indígenas que
-    vivem nas áreas urbanas do país. Esmiuçamos as bases de dados do censo e
-    bases de dados complementares para filtrar todas as informações disponíveis
-    para os indígenas que vivem em áreas urbanas e produzimos mapas e
-    infográficos inéditos e interativos que revelam como os residentes indígenas
-    estão distribuídos geograficamente nas áreas urbanas dessas cidades pela
-    menor granularidade disponível — setor censitário, distrito ou subdistrito —
-    permitindo a agregação desses dados por bairros, para facilitar o
-    entendimento do leitor. No Rio de Janeiro, por exemplo, é possível saber o
-    número de indígenas residentes em Copacabana e Ipanema, por exemplo, bem
-    como suas etnias. 
-
-
-    Mostramos também o acesso dos indígenas à educação, saneamento e outros
-    serviços nas cidades, bem como sua diversidade étnica e linguística. Um dos
-    destaques de nossa cobertura é como o acesso ao ensino superior tem ajudado
-    os indígenas a lutar contra esse preconceito e a melhorar suas condições de
-    vida. Entre 2010 e 2019, o número de indígenas matriculados nas
-    universidades saltou de 10.219 para 80.652.
-  metodologia: >
-    O objetivo principal desse projeto guiado por dados era traçar o perfil dos
-    indígenas que vivem nas áreas urbanas do país, com destaque para os seis
-    municípios com a maior população indígena em números absolutos do país — São
-    Paulo, Rio de Janeiro, Brasília, Salvador, São Gabriel da Cachoeira e Boa
-    Vista. 
-
-    Os dados do censo do IBGE de 2010 (último censo disponível, pois o de 2020
-    foi adiado) são a espinha dorsal dos mapas e gráficos da série de
-    reportagens e do projeto como um todo. Dessa base, coletamos informações
-    demográficas da população indígena em áreas urbanas, alfabetização, etnia e
-    saneamento. Usamos também as bases do censo escolar e censo superior do
-    Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
-    (Inep) dos anos de 2010, 2018 e 2019.
-
-    No censo de 2010, trabalhamos com dados referentes às menores áreas
-    geográficas possíveis. Os dados de população e alfabetização foram filtrados
-    na base de setores censitários, a menor granularidade que o IBGE trabalha.
-    Nesse processo, foi necessário baixar os arquivos por estado, identificar o
-    código do município e fazer a limpeza dos dados. Esse mesmo procedimento foi
-    repetido para alfabetização, onde definimos destacar os dados de
-    analfabetos.
-
-    Os dados de etnia e saneamento tiveram granularidades diferentes em cada
-    município. Utilizamos dados por bairros, distritos ou subdistritos, conforme
-    a menor área disponível para cada cidade. Dados foram agregados em algumas
-    bases de dados para facilitar o entendimento das informações no mapa. 
-
-    No caso da variável etnia, como havia muitos indígenas identificados com "X"
-    — critério estabelecido pelo IBGE para preservar a identidade da pessoa
-    quando o número de indígenas em um setor censitário é muito pequeno  —
-    optamos por agregar todas as informações para facilitar. Para a variável
-    saneamento, usamos a mesma lógica, pois vários locais também estavam
-    identificados com o X. Os valores numéricos que não puderam ser calculados
-    em função dos valores definidos como X foram apontados no mapa como
-    indefinidos.
-
-    Nos dados sobre educação, usamos os endereços das escolas e instituições de
-    ensino superior do INEP para identificá-las no mapa. No censo escolar,
-    identificamos as unidades em áreas urbanas com presença de indígenas, bem
-    como a modalidade de ensino de cada unidade. No censo superior, também
-    calculamos a porcentagem de indígenas em cada instituição e apontamos também
-    a forma de ingresso dos indígenas, bem como se eles receberam algum tipo de
-    financiamento estudantil.
-
-    Para os gráficos, utilizamos dados variados do censo do IBGE, como faixa
-    etária, acesso à educação e sexo.  Usamos também dados da Pesquisa Nacional
-    por Amostra de Domicílios (PNAD) que mostram as condições das moradias dos
-    indígenas nas cidades, como tipo de residência, número de cômodos, acesso e
-    tipo de saneamento, acesso à internet, etc. Usamos também a base de dados do
-    INEP que demonstra o crescimento significativo de indígenas no ensino
-    superior por meio do sistema de cotas. 
-
-    As bases de dados que usamos e os dados trabalhados para a realização dos
-    mapas e gráficos estão disponíveis nos links abaixo:
-     https://ftp.ibge.gov.br/ 
-    http://inep.gov.br/dados 
-
-    https://www.bme.ibge.gov.br/index.jsp 
-
-    https://github.com/yulisantana/projeto-indigenas-na-cidade 
-  uf: RJ
-  ano: '2021'
-  tipo_inscricao: ''
-  formato: ''
-  category: concorrente
-  image: images/edicoes/2021/edit-Banner-image_Option2_1C5A0564X.jpg
 - title: >-
-    Influência dos royalties nos orçamentos municipais da RMVale (Região
-    Metropolitana do Vale do Paraíba, Serra da Mantiqueira e Litoral norte)
+    Influência dos royalties nos orçamentos municipais da RMVale (Região Metropolitana do Vale do Paraíba, Serra da Mantiqueira e Litoral norte)
+
   project_url: >-
     https://iis.org.br/farol-da-ilha/ilhabela-continua-com-o-maior-orcamento-per-capitada-regiao/
   veiculo: Instituto Ilhabela Sustentável  / Página Revista Digital FAROL DA ILHA
@@ -3141,7 +3002,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/Screen-Shot-2021-07-30-at-3.22.36-PM-1000x400.png
+  image: images/edicoes/2021/ilha-bela.png
 - title: Inocentes presos
   project_url: 'https://temas.folha.uol.com.br/inocentes/'
   veiculo: Folha de S.Paulo
@@ -3848,7 +3709,7 @@
   tipo_inscricao: ''
   formato: ''
   category: concorrente
-  image: images/edicoes/2021/eleitasrn.jpg
+  image: images/edicoes/2021/eleitasrn.png
 - title: >-
     O ‘carro da linguiça’ e outras chacinas sobre rodas que exterminam a
     periferia e o governo ignora
@@ -5066,7 +4927,7 @@
   formato: ''
   category: concorrente
   image: >-
-    images/edicoes/2021/monitor-da-violencia-ilustracao-artigo-fbsp-g1-maio2021-wagner-magalhaes.jpeg
+    images/edicoes/2021/monitor-violencia.png
 - title: Prefeitura de Goiânia eleva em 17% total de comissionados
   project_url: >-
     https://www.opopular.com.br/noticias/politica/prefeitura-de-goi%C3%A2nia-eleva-em-17-total-de-comissionados-1.2287407
