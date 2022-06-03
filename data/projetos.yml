@@ -5428,10 +5428,7 @@
   image: images/edicoes/2021/1613665851602e963b7439f_1613665851_5x2_rt.jpg
 - title: 'Brasil: Terra de Quem? (série em 4 episódios)'
   project_url: >-
-    https://www.youtube.com/watch?v=gA2CjbYqIYs;
-    https://www.youtube.com/watch?v=bGdTnoH638Y&t=1104s;
-    https://www.youtube.com/watch?v=NQBcaZ6qD20&t=2262s;
-    https://www.youtube.com/watch?v=rU-hs2Rk2Z4&feature=youtu.be
+    https://www.youtube.com/watch?v=bGdTnoH638Y&t=1104s
   veiculo: CNN Brasil
   autoria: >-
     Adriana Farias; Marianne Bufalo; Maxwell Polimanti; Lucas Mioni, Nadhini
@@ -5646,7 +5643,7 @@
   image: images/edicoes/2020/deolho-desmatadores.jpg
 - title: Amazônia Minada
   project_url: 'https://twitter.com/amazonia_minada'
-  veiculo: 'https://infoamazonia.org/pt/'
+  veiculo: 'InfoAmazônia'
   autoria: Hyury Potter; Juliana Mori; Rodrigo Brabo; Fernando Eckestein.
   data: 21/11/2019
   resumo: >-
@@ -5912,7 +5909,7 @@
   formato: Impresso
   category: concorrente
   image: images/edicoes/2020/9bf5a652-0ad4-4a5b-a678-76c5b4c072c0.jpg
-- title: A PENSÃO DE 107 ANOS
+- title: A Pensão de 107 anos
   project_url: 'https://piaui.folha.uol.com.br/pensao-de-107-anos/'
   veiculo: revista piauí
   autoria: Amanda Rossi
@@ -6043,7 +6040,8 @@
   category: concorrente
   image: images/edicoes/2020/media_movel_sp2.PNG
 - title: Correio nas Escolas
-  project_url: 'https://correionasescolas.correiobraziliense.com.br'
+  project_url: >-
+    https://correionasescolas.correiobraziliense.com.br/
   veiculo: Correio Braziliense
   autoria: Ana Paula Lisboa; Adalberto Sampaio; Thays Martins
   data: 1/11/2019
@@ -6106,7 +6104,8 @@
   category: ganhador
   image: images/edicoes/2020/capa.png
 - title: Benchmarking é ferramenta de gestão na engorda intensiva
-  project_url: 'file:///G:/Trabalho_2020/DBO/PDF%C2%B4s/Agosto/Nutron_Benchmarking.pdf'
+  project_url: >-
+    https://escoladedados.org/wp-content/uploads/2022/06/Confinamento_Benchmarking.pdf
   veiculo: Revista DBO
   autoria: Ariosto Mesquita
   data: 1/8/2020
@@ -6433,9 +6432,10 @@
   category: concorrente
   image: >-
     images/edicoes/2020/incendios-ja-tomam-quase-metade-das-terras-indigenas-no-pantanal-destaque-1-1600x906.jpg
-- title: Observatório dos ODSs / Município de Ilhabela
-  project_url: www.iis.org.br/observatorio
-  veiculo: Site (com utilização de B.I. - Tableau Public) e newsletter (FAROL DA ILHA)
+- title: Observatório dos ODSs - Município de Ilhabela
+  project_url: >-
+    https://sites.google.com/litoralnortesustentavel.org.br/observatorio-dos-ods/municipio/ilhabela
+  veiculo: Farol da Ilha
   autoria: Carlos Roberto Nunes
   data: 10/8/2020
   resumo: >-
@@ -6465,9 +6465,10 @@
   tipo_inscricao: Visualização de Dados
   formato: Online
   category: concorrente
-  image: images/edicoes/placeholder.png
+  image: images/edicoes/2020/farol-ilha.jpg
 - title: Educação e Coronavírus
-  project_url: www.educacaoecoronavirus.com.br
+  project_url: >-
+    https://educacaoecoronavirus.com.br/
   veiculo: Portal do Projeto
   autoria: >-
     - Coordenação da Pesquisa: Carolina Campos; - Gestão: Andreza Adami; Sofia
@@ -6604,7 +6605,7 @@
   tipo_inscricao: Investigação baseada em dados
   formato: Online
   category: concorrente
-  image: images/edicoes/placeholder.png
+  image: images/edicoes/2020/pablo-escobar.png
 - title: ARSENAL GLOBAL
   project_url: >-
     https://theintercept.com/2019/12/16/rio-municoes-balas-eua-bosnia-russia-guerra-fria/
