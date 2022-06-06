@@ -35,11 +35,11 @@
 <!-- se a imagem for placeholder, mostra o texto antes do hover; se não, faz a grade normal -->
           {{ if ( eq .image "images/edicoes/placeholder.png" ) }}
           {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
-          <div style="background-image: url({{.image | absURL }})">
-
-            <p class="h4 text-black font-weight-bolder px-5 py-5">{{ .title }}</p>
-               <a class="btn btn-light btn-sm text-uppercase py-5 px-5" href="{{ .project_url | safeURL }}">{{ .veiculo }}</a>
-
+          <div class="text-center align-items-center" style="height:300px; background-image: url('{{.image | absURL }}')">
+            <div style="position: absolute;  top: 50%;  transform: translateY(-50%);  left: 0;  right: 0;  text-align: center; ">
+            <p class="h4 text-white font-weight-bolder my-3">{{ .title }}</p>
+               <a class="btn btn-light btn-sm text-uppercase my-3" href="{{ .project_url | safeURL }}">{{ .veiculo }}</a>
+              </div>
               </div>
 
           {{ end }}
