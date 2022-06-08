@@ -2,8 +2,9 @@
 {{ partial "page-title.html" . }}
 {{ $edicao_atual := string .Params.edicao }}
 
-<section class="section">
+<section class="section pt-3">
   <div class="container">
+    <div class="lead text-center mb-5">{{ .Description }}</div>
     {{ .Content }}
     <!-- <div class="row mb-5">
       <div class="col-12">

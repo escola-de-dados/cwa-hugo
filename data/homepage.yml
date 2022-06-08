@@ -3,13 +3,12 @@ banner:
   title: "<B>PRÊMIO</B> <br/>CLÁUDIO WEBER ABRAMO DE JORNALISMO DE DADOS"
 about:
   enable: true
-  content: "A maior premiação do jornalismo de dados brasileiro chega à quarta edição. Em 2022,
-    qualquer profissional ou organização que tenha desenvolvido um trabalho de caráter
-    jornalístico pode concorrer. Configura o [regulamento](regulamento/2022) e envie seu projeto até dia X.>"
+  content: "Neste ano, qualquer profissional ou organização que tenha desenvolvido um trabalho de caráter
+    jornalístico poderá concorrer. O lançamento será no Congresso da ABRAJI em agosto. Inscreva-se em nossa newsletter para saber em primeira mão."
   button:
     enable: true
-    label: Inscreva-se já
-    URL: https://go.ok.org/premio2022
+    label: FIQUE POR DENTRO
+    URL: https://bit.ly/newsletter-ed
 skill:
   enable: false
   title: Skills
