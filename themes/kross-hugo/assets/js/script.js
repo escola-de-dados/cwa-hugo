@@ -51,8 +51,8 @@ $(window).on('load', function () {
 		}
 
 		var
-			/* c1left = document.getElementById('l1').offsetLeft,
-			c1top = document.getElementById('l1').offsetTop, */
+			bolinha1left = document.getElementById('bolinha').offsetLeft,
+			bolinha1top = document.getElementById('bolinha').offsetTop, 
 			c3left = document.getElementById('medalha').offsetLeft,
 			c3top = document.getElementById('medalha').offsetTop;
 
@@ -62,14 +62,19 @@ $(window).on('load', function () {
 			var x = event.clientX - parallaxBox.offsetLeft,
 				y = event.clientY - parallaxBox.offsetTop;
 
-			/*  mouseParallax('l1', c1left, c1top, x, y, 5); */
-			mouseParallax('medalha', c3left, c3top, x, y, 60);
+			verticalParallax('bolinha', bolinha1top, y, 120);
+			fullParallax('medalha', c3left, c3top, x, y, 60);
 	
 		};
 
 	};
-
-	function mouseParallax(id, left, top, mouseX, mouseY, speed) {
+	function verticalParallax(id, top, mouseY, speed) {
+		var obj = document.getElementById(id);
+		var parentObj = obj.parentNode,
+			containerHeight = parseInt(parentObj.offsetHeight);
+		obj.style.top = top - (((mouseY - (parseInt(obj.offsetHeight) / 120 + top)) / containerHeight) * speed) + 'px';
+	}
+	function fullParallax(id, left, top, mouseX, mouseY, speed) {
 		var obj = document.getElementById(id);
 		var parentObj = obj.parentNode,
 			containerWidth = parseInt(parentObj.offsetWidth),
