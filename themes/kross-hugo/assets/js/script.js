@@ -53,8 +53,8 @@ $(window).on('load', function () {
 		var
 			/* c1left = document.getElementById('l1').offsetLeft,
 			c1top = document.getElementById('l1').offsetTop, */
-			c3left = document.getElementById('l3').offsetLeft,
-			c3top = document.getElementById('l3').offsetTop;
+			c3left = document.getElementById('medalha').offsetLeft,
+			c3top = document.getElementById('medalha').offsetTop;
 
 
 		parallaxBox.onmousemove = function (event) {
@@ -63,7 +63,7 @@ $(window).on('load', function () {
 				y = event.clientY - parallaxBox.offsetTop;
 
 			/*  mouseParallax('l1', c1left, c1top, x, y, 5); */
-			mouseParallax('l3', c3left, c3top, x, y, 60);
+			mouseParallax('medalha', c3left, c3top, x, y, 60);
 	
 		};
 
