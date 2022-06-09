@@ -8,7 +8,7 @@ about:
   button:
     enable: true
     label: FIQUE POR DENTRO
-    URL: https://bit.ly/newsletter-ed
+    URL: https://escoladedados.org/newsletter
 skill:
   enable: false
   title: Skills
