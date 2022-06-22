@@ -51,7 +51,7 @@ $(window).on('load', function () {
 		}
 
 		var
-			bolinha1left = document.getElementById('bolinha').offsetLeft,
+			circletop = document.getElementById('circle').offsetTop, 
 			bolinha1top = document.getElementById('bolinha').offsetTop, 
 			c3left = document.getElementById('medalha').offsetLeft,
 			c3top = document.getElementById('medalha').offsetTop;
@@ -62,7 +62,8 @@ $(window).on('load', function () {
 			var x = event.clientX - parallaxBox.offsetLeft,
 				y = event.clientY - parallaxBox.offsetTop;
 
-			verticalParallax('bolinha', bolinha1top, y, 120);
+			verticalParallax('bolinha', bolinha1top, y, 150);
+			verticalParallax('circle', circletop, y, 20);
 			fullParallax('medalha', c3left, c3top, x, y, 60);
 	
 		};
@@ -72,7 +73,7 @@ $(window).on('load', function () {
 		var obj = document.getElementById(id);
 		var parentObj = obj.parentNode,
 			containerHeight = parseInt(parentObj.offsetHeight);
-		obj.style.top = top - (((mouseY - (parseInt(obj.offsetHeight) / 120 + top)) / containerHeight) * speed) + 'px';
+		obj.style.top = top - (((mouseY - (parseInt(obj.offsetHeight) / 140 + top)) / containerHeight) * speed) + 'px';
 	}
 	function fullParallax(id, left, top, mouseX, mouseY, speed) {
 		var obj = document.getElementById(id);

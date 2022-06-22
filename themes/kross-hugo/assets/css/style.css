@@ -491,6 +491,11 @@ textarea.form-control {
   left: 30%
 }
 
+#circle {
+  top: 50px;
+  right: -5%
+}
+
 .layer-bg {
   position: absolute;
   bottom: 0;
