@@ -126,6 +126,8 @@ clients_logo_slider:
     URL: https://ok.org.br
   - logo: images/abraji.png
     URL: https://abraji.org.br
+  - logo: images/tbrasil.png
+    URL: https://transparencia.org.br
   title: Realização
 blog:
   enable: false
