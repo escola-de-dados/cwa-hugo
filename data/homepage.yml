@@ -4,12 +4,12 @@ banner:
 about:
   enable: true
   content: Neste ano, qualquer profissional ou organização que tenha desenvolvido
-    um trabalho de caráter jornalístico poderá concorrer. O lançamento será no Congresso
-    da Associação Brasileira de Jornalismo Investigativo (ABRAJI), em agosto. Inscreva-se
+    um trabalho de caráter jornalístico poderá concorrer. O lançamento foi realizado
+    no Congresso da Associação Brasileira de Jornalismo Investigativo (ABRAJI). Inscreva-se
     utilizando o botão abaixo!
   button:
     enable: true
-    label: INSCREVA-SE!
+    label: QUERO ME INSCREVER!
     URL: https://airtable.com/shrmkuzdn9YcJZMJI
 skill:
   enable: false
