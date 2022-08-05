@@ -3,12 +3,14 @@ banner:
   title: "<B>PRÊMIO</B> <br/>CLÁUDIO WEBER ABRAMO DE JORNALISMO DE DADOS"
 about:
   enable: true
-  content: "Neste ano, qualquer profissional ou organização que tenha desenvolvido um trabalho de caráter
-    jornalístico poderá concorrer. O lançamento será no Congresso da Associação Brasileira de Jornalismo Investigativo (ABRAJI), em agosto. Inscreva-se em nossa newsletter para saber em primeira mão."
+  content: Neste ano, qualquer profissional ou organização que tenha desenvolvido
+    um trabalho de caráter jornalístico poderá concorrer. O lançamento será no Congresso
+    da Associação Brasileira de Jornalismo Investigativo (ABRAJI), em agosto. Inscreva-se
+    utilizando o botão abaixo!
   button:
     enable: true
-    label: FIQUE POR DENTRO
-    URL: https://escoladedados.org/newsletter
+    label: INSCREVA-SE!
+    URL: https://airtable.com/shrmkuzdn9YcJZMJI
 skill:
   enable: false
   title: Skills
