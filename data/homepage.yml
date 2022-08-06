@@ -3,10 +3,8 @@ banner:
   title: "<B>PRÊMIO</B> <br/>CLÁUDIO WEBER ABRAMO DE JORNALISMO DE DADOS"
 about:
   enable: true
-  content: Neste ano, qualquer profissional ou organização que tenha desenvolvido
-    um trabalho de caráter jornalístico poderá concorrer. O lançamento foi realizado
-    no Congresso da Associação Brasileira de Jornalismo Investigativo (ABRAJI). Inscreva-se
-    utilizando o botão abaixo!
+  content: Participe da quarta edição do maior prêmio de jornalismo de dados brasileiro. Leia o [regulamento](https://premio.jornalismodedados.org/regulamento/2022/) e inscreva-se
+    até 18 de setembro!
   button:
     enable: true
     label: QUERO ME INSCREVER!
