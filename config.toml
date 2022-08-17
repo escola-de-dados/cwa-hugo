@@ -61,6 +61,7 @@ copyright = "Nosso conteúdo está disponível sob a licença Creative Commons A
 css = ["css/style.css"]
 description = "Site do Prêmio Cláudio Weber Abramo de Jornalismo de Dados"
 email = "escoladedados [arroba] ok.org.br"
+google_analitycs_id = "G-8L45EWVR5H"
 gtm_id = "G-8L45EWVR5H"
 home = "Home"
 logo = "images/logo.png"
