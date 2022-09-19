@@ -3,8 +3,9 @@ banner:
   title: "<B>PRÊMIO</B> <br/>CLÁUDIO WEBER ABRAMO DE JORNALISMO DE DADOS"
 about:
   enable: true
-  content: Participe da quarta edição do maior prêmio de jornalismo de dados brasileiro. Leia o [regulamento](https://premio.jornalismodedados.org/regulamento/2022/) e inscreva-se
-    até 18 de setembro!
+  content: Participe da quarta edição do maior prêmio de jornalismo de dados brasileiro.
+    Leia o [regulamento](https://premio.jornalismodedados.org/regulamento/2022/) e
+    inscreva-se até 23 de setembro!
   button:
     enable: true
     label: QUERO ME INSCREVER!
