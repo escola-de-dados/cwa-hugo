@@ -13737,3 +13737,1312 @@
   formato: Online
   category: Dados Abertos
   image: images/edicoes/2022/demo_1.png
+- title: BRT RIO - Passado e futuro, fatos e dados
+  project_url: >-
+    https://www.dados.rio/especiais/brt
+    
+  veiculo: Escritório de Dados - Prefeitura do Rio de Janeiro
+  autoria: Caio Jacintho, Diego Oliveira, João Carabetta, Pedro Simões
+  data: 22/3/2022
+  resumo: >+
+    Esta visualização narra o histórico do BRT, na cidade do Rio de Janeiro, Brasil. 
+
+    Este meio de transporte é mantido pela própria Prefeitura. Criado pelo arquiteto e urbanista brasileiro Jaime Lerner, 
+    o Bus Rapid Transit é uma solução de meio de transporte público que une a combinação de baixo custo, alta capacidade e 
+    potencial de rápida expansão urbana. 
+
+    No Rio de Janeiro, o sistema sofreu um grande abandono por parte de algumas gestões o que ocasionou numa piora do transporte 
+    público na cidade.
+
+    Por meio de gráficos e mapas, contamos a história do sistema de transporte, os recursos investidos e como o cidadão carioca 
+    encontrará o BRT daqui alguns anos.
+   
+  relevância: >
+    Nesta visualização, mostramos como foi a retomada deste serviço essencial, contando como foi a sua implementação, declínio, 
+    as soluções colocadas em prática pela atual gestão e as resoluções previstas para os próximos anos.
+       
+  originalidade: >-
+    O uso de dados públicos em uma narrativa de visualização de dados.
+    
+  metodologia: >+
+    Devido à falta de precisão nos dados de veículos e estações fizemos as seguintes adaptações. No gráfico de veículos, 
+    os anos de 2016 e 2020 se referem ao mês de dezembro dos respectivos anos. O número de veículos do ano 2022 é referente ao 
+    mês de Março de 2022. Também em 2022, foi feito um cálculo de número de veículos equivalentes dado os diferentes tipos de 
+    carros circulando. Em 2024, o número de veículos é uma estimativa considerando as compras de veículos já anunciadas pela SMTR. 
+    No gráfico de estações, o número de estações abertas no mês de dezembro dos respectivos anos, exceto para 2024 que é uma 
+    projeção considerando a abertura de novas estações na TransBrasil.
+
+    Fizemos a estimativa da capacidade máxima diária já atingida pelos corredores de BRT usando a série histórica de passageiros 
+    por mês fornecida pela MobiRio. Para a estimativa, fizemos a média de passageiros por mês no ano de maior carga que foi 
+    dividida por 25 que é o número aproximado de dias úteis por mês.
+
+    Fizemos estimativa de tempo de viagem entre Jardim Oceânico e Tanque usando a API do Google Maps no dia 14 de março de 2022. 
+    Usamos a previsão de partida de Downtown às 18:00.
+
+    Todo código que gerou os dados e visualização pode ser encontrado no Github do Escritório de Dados.
+    
+  uf: RJ
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/brt.jpeg 
+- title: As pistas da destruição - Amazônia tem 362 pistas de pouso clandestinas perto de áreas devastadas pelo garimpo
+  project_url: >-
+    https://theintercept.com/2022/08/02/amazonia-pistas-clandestinas-garimpo/
+    
+  veiculo: The Intercept Brasil
+  autoria: Hyury Potter
+  data: 2/8/2022
+  resumo: >+
+    Reportagem revelou a existência de 1.269 pistas clandestinas na Amazônia Legal, número maior do que o de pistas 
+    registradas na região. Do total de pistas clandestinas, 362 estão perto de áreas desmatadas por garimpos. 
+   
+  relevância: >
+    A investigação do The Intercept Brasil mostra que o governo Bolsonaro não fiscaliza ou pune donos de pistas clandestinas, 
+    e ainda revela como essas estruturas construídas no meio da floresta são utilizadas na cadeia ilegal do ouro que começa em 
+    terras protegidas da Amazônia e vai parar  em grandes empresas globais de tecnologia, como Apple, Tesla, Ford e Amazon. 
+      
+  originalidade: >-
+    O levantamento de pistas clandestinas é inédito e ajuda a compreender como funciona a operação de garimpos ilegais na 
+    Amazônia Legal, que estão ligados diretamente a problemas ambientais e sociais na região. 
+    Um documentário também foi produzido sobre essa investigação de dados: https://youtu.be/IA-Rk_hdl4M.
+    
+  metodologia: >+
+    Os dados de pistas clandestinas foram reunidos pela organização não-governamental Earthrise Media, que utilizou AI para 
+    identificar pistas de pouso em imagens de satélite. Também utilizamos dados da plataforma aberta OpenStreetMap, da ONG ISA 
+    Socioambiental e da Hutukara Associação Yanomami. Os dados foram analisados e checados visualmente por jornalistas do The 
+    Intercept Brasil e do The New York Times, que também publicou uma reportagem sobre o tema.
+    
+  uf: RJ
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/Hyury.png 
+- title: Dashboard do COFOG
+  project_url: >-
+    https://painel-cofog.tesouro.gov.br/dashboard_cofog.Rmd
+    
+  veiculo: Secretaria do Tesouro Nacional
+  autoria: Fernando Barbalho, Karla Rocha, Jordão Gonçalves, Tiago Maranhão, Lucas Leite
+  data: 23/6/2022
+  resumo: >+
+    O painel permite identificar padrões de comportamentos das despesas de funções típicas de governo federal brasileiro 
+    (saúde, educação, defesa, etc) a partir do referencial da ONU/FMI conhecido como COFOG.  
+    Ao todo são seis abas em que o usuário utiliza filtros e gráficos para: conhecer os principais achados identificados pelas 
+    equipes da Secretaria do Tesouro Nacional (STN); entender os fluxos de formação dos valores de gastos; identificar os clusters 
+    formados pelas ações de governo relacionadas a cada uma das funções; perceber como as funções de governo se relacionam com 
+    classificações econômicas; e visualizar séries temporais. 
+    Todos os dados são capturados dos dados abertos presentes no ckan da STN a partir do uso de API. Em todas as abas há a opção de 
+    download dos dados que foram filtrados. O código foi todo escrito em R e está disponível num link disponível na própria 
+    aplicação. 
+   
+  relevância: >
+    O trabalho traz uma ressignificação dos dados abertos de gastos com funções de governo. A patir do dashboard o usuário final 
+    consegue consumir e entender quais as funções que o governo central brasileiro se dedica e capta quais são as prioridades 
+    alocativas ao longo dos anos. Além disso, com a disponibilidade do código aberto e dados abertos, o usuário pode replicar e 
+    adaptar partes das funionalidades para seus próprios produtos.
+     
+  originalidade: >-
+    O dashboard inova ao trazer para o mundo dos não iniciados em finanças públicas várias possibilidades de interaração com 
+    dados complexos. A aplicação faz isso utilizando recursos de estatística descritiva e aprendizagem de máquina que são 
+    ressignificados a partir de visualização de dados. Salienta-se ainda o uso de diversas opções de gráficos que se adequam a 
+    cada uma das perspectivas analíticas disponibilizadas.
+    
+  metodologia: >+
+    Os dados passaram por rotinas típicas de extração e transformação utilizando a linguagem R, com destaque para o uso da api do 
+    ckan encapsulada na biblioteca {ckanr} e das bibliotecas de manipulação de dados {dplyr} e {tidyr}. O dashboard foi construído 
+    utilizando os recursos da biblioteca {shiny} da linguagem R. Os gráficos foram criados usando as bilbiotecas {NetworkD3} e 
+    {gglplot2}. Uma das abas é construída a partir da análise dinâmica de clusters utilizando medoides. Esses clusters são 
+    calculados com o uso da bilbioteca {cluster} do R. 
+    Dados: https://www.tesourotransparente.gov.br/ckan/dataset/despesas-por-funcao-do-governo-central-classificacao-cofog
+    Código: https://github.com/tchiluanda/cofog"
+    
+  uf: DF
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/cópia_redimensionada.jpg 
+- title: MT tem 9 terras indígenas entre as mais desmatadas no Brasil
+  project_url: >-
+    https://primeirapagina.com.br/meio-ambiente/mt-tem-9-terras-indigenas-entre-as-mais-desmatadas-no-brasil/
+    
+  veiculo: Primeira Página
+  autoria: Helena Corezomaé e Aldair Santos
+  data: 26/7/2022
+  resumo: >+
+    Nestre trabalho mostramos que Mato Grosso tem nove TIs (Terras Indígenas) entre as 25 mais desmatadas no país em 2021, 
+    de acordo com o Relatório Anual do Desmatamento do MapBiomas. Ao todo, 5.209,45 hectares foram desmatados nesses territórios.
+   
+  relevância: >
+    O Relatório Anual do Desmatamento do MapBiomas trouxe dados importantes sobre o desmatamento no país, e, 
+    principalmente, sobre os territórios indígenas, que acabou não tendo o destaque necessário. Mas, resolvemos trazer o dado a 
+    tona, que é preocupante e mostra a fragilidade de proteção dos territórios indígenas em Mato Grosso. 
+     
+  originalidade: >-
+    O trabalho não foi feito em texto, mas integrou diferentes formatos para que pudesse chegar até o leitor. 
+    
+  metodologia: >+
+    Fizemos a análise de dados e comparação para identificar o desmatamento nos territórios indígenas.
+
+  uf: MT
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/Desmatamento.png
+- title: Uma oportunidade de recomeço para a Mata Atlântica
+  project_url: >-
+    https://oeco.org.br/reportagens/uma-oportunidade-de-recomeco-para-a-mata-atlantica/
+    
+  veiculo: ((o))eco
+  autoria: Duda Menegassi e Taís Seibt
+  data: 18/1/2022
+  resumo: >+
+    Nos últimos cinco séculos, a Mata Atlântica foi explorada, ocupada e gradualmente exterminada. 
+    O bioma que se estende por quase todo o litoral brasileiro deu lugar a cidades que concentram 70% da população do 
+    país e o que resta hoje é apenas uma fração do que existia. O Brasil é signatário de uma série de acordos internacionais 
+    para recuperar áreas naturais e assumiu compromissos de restauração de milhares de hectares até 2030. Ao longo de 
+    quatro meses, a reportagem de ((o))eco tentou localizar ações de restauração da mata nativa para dimensionar o quanto 
+    estamos próximos – ou distantes – das metas de restauração. Após 28 pedidos com base na Lei de Acesso à Informação (LAI) 
+    a órgãos estaduais e federais de atuação ambiental, consultas a bancos de dados de pesquisas e contatos com pesquisadores 
+    e organizações do setor, ficou claro que não há qualquer padrão na produção dessas informações pelos estados nem pelo 
+    governo federal. Os dados são descentralizados ou sequer são produzidos. Retrato de uma política ambiental – e de dados 
+    abertos – sem diretrizes nacionais para a produção de indicadores, como têm demonstrado diversos relatórios recentes. 
+    A reportagem apresenta essas deficiências e traz para o debate a necessidade de monitorar e sistematizar as informações 
+    de forma padronizada, transparente e disponível.
+   
+  relevância: >
+    O monitoramento mais sistemático de recuperação ambiental existente no Brasil é por meio de dados de satélite pelo 
+    MapBiomas, que é uma articulação entre institutos de pesquisa e organizações do terceiro setor. Em nível governamental, 
+    não há dados sistematizados. Além disso, dados de satélire são limitados no acompanhamento da restuaração. Restaurar 
+    não é apenas plantar a floresta de volta e por isso a palavra não é sinônimo de reflorestamento. Quando feita de forma 
+    bem-sucedida, a restauração significa o restabelecimento de um ecossistema, com toda sua intrincada rede de atores 
+    (a fauna e a flora) e suas relações. Essa é uma lacuna que os dados de satélite não conseguem preencher. 
+    Conforme a lista de espécies ameaçadas do Ministério do Meio Ambiente (MMA), há mais de 400 espécies de animais ameaçados 
+    na Mata Atlântica. Das 19 espécies com risco mais alto, que são as possivelmente extintas ou extintas da natureza, 
+    14 são endêmicas da Mata Atlântica (73%), ou seja, ocorrem apenas no bioma. 
+
+    As consultas feitas por ((o))eco via Lei de Acesso à Informação (LAI) aos órgãos federais e estaduais com atuação na 
+    política ambiental confirmam a falta de uma governança central que coordene as ações na esfera pública. Em nível federal, 
+    os dois principais instrumentos para nortear o tema da restauração ambiental deveriam ser o Plano Nacional de Recuperação 
+    da Vegetação Nativa, mais conhecido como Planaveg, e a Política Nacional para Recuperação da Vegetação Nativa, o Proveg, 
+    ambos lançados em 2017. A coordenação deles, por sua vez, seria responsabilidade do Conaveg, a Comissão Nacional para 
+    Recuperação Nativa. Em abril de 2019, o Conaveg foi extinto em uma canetada do governo Bolsonaro que promoveu um ‘revogaço’ de 
+    comissões. Em dezembro do mesmo ano, o governo voltou atrás e recriou o Conaveg, porém em novo formato: com 7 membros, todos do 
+    Executivo, sem a participação da sociedade civil (que antes contava com dois representantes). 
+
+    A Mata Atlântica está distribuída ao longo de 17 estados brasileiros, do sul ao nordeste. Em três deles – Rio de Janeiro, 
+    Espírito Santo e Santa Catarina –, o bioma é o único que ocorre no território estadual. Nos demais, 
+    divide espaço com o Cerrado, a Caatinga ou o Pampa. A maioria dos estados, ao ser questionado via LAI, citou os sistemas de 
+    licenciamento ambiental ou o Cadastro Ambiental Rural (CAR) como o registro disponível para dados de restauração, mas nenhum 
+    dos dois oferece informações para diferenciar restauração, regeneração e reflorestamento, sendo necessário observar cada 
+    processo para identificar as estratégias de recuperação florestal implementadas. Outra (não) resposta comum entre os estados 
+    foi a de que os dados sobre processos de restauração constam apenas em arquivos físicos. 
+
+    As investidas da reportagem, portanto, demonstram o descaso com políticas ambientais nos diferentes níveis de governo, 
+    já que até mesmo quando indicam sistemas de informação, essas não respondem ao questionamento central, que é monitorar a 
+    restauração florestal. Em um contexto de ataque à proteção ambiental no país, o esforço para demonstrar a ausência de dados 
+    é relevante como registro histórico. Ao mesmo tempo, a reportagem serve como documento para o debate das políticas ambientais 
+    brasileiras em nível internacional, tanto é que foi republicada em inglês pelo site Mongabay e compartilhada por ativistas 
+    ambientais em suas redes sociais. Outros sites jornalísticos brasileiros também republicaram a matéria. 
+      
+  originalidade: >-
+    A originalidade do trabalho está presente em três aspectos fundamentais: o foco na Mata Atlântica; a ênfase em indicadores 
+    específicos de restauração, o que é diferente de reflorestamento; e a busca por informações públicas sobre restauração 
+    florestal usando a Lei de Acesso à Informação. Muito da cobertura ambiental é focado em biomas como Amazônia e Pantanal, 
+    que despertam maior interesse internacional, Mas a Mata Atlântica atravessa 17 estados brasileiros e é sobre este bioma que 
+    estão as maiores cidades do país. Também parte significativa dos dados citados em reportagens sobre recuperação florestal são 
+    dados de satélite, que são os dados mais sistematizados disponíveis. Estes buscam diferenciar restauração e reflorestamento, 
+    mas têm limitações, já que áreas em plantio recente podem ser indiferenciáveis pelas imagens de satélite. E a restauração é 
+    mais significativa em termos de recuperação florestal, por enfatizar espécies nativas tanto da flora quanto da fauna. No que 
+    se refere ao processo de apuração, a exploração de dados a partir de pedidos de informação com base na LAI permitiu demonstrar 
+    como os órgãos ambientais federais e estaduais desprezam a necessidade de monitorar e sistematizar dados de restauração ou 
+    mesmo indiferenciam restuaração e reflorestamento, apesar de o Brasil ter assumido compromissos internacionais com metas de 
+    restauração frente às Nações Unidas. 
+    
+  metodologia: >+
+    Foram feitos 28 pedidos de informação com base na Lei de Acesso à Informação a órgãos ambientais federais e dos 17 estados 
+    que perpassam a Mata Atlântica. No governo federal, foram questionados órgãos como o  Instituto Chico Mendes de Conservação 
+    da Biodiversidade (ICMBio) e o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), ligados ao 
+    Ministério do Meio Ambiente, e o Serviço Florestal Brasileiro (SFB), vinculado ao Ministério da Agricultura, Pecuária e 
+    Abastecimento (MAPA) desde o início do governo Bolsonaro. Nos estados, as Secretarias de Meio Ambiente foram questionadas. 
+    Nos pedidos, foi solicitado a todos os órgãos dados sobre a área florestal recuperada detalhados por tipo de recuperação 
+    (restauração, regeneração, reflorestamento), tamanho da área recuperada (hectares), localização da área recuperada 
+    (coordenadas geográficas ou polígono), motivo da recuperação (Plano de Recuperação Ambiental, Termo de Ajustamento de Conduta, 
+    projeto de governo, parceria com iniciativa privada/organizações da sociedade civil, pesquisa ou outro), e responsável pela 
+    recuperação (nome do órgão do governo ou terceiro). Em paralelo, foram consultadas bases de dados públicas disponíveis e 
+    institutos de pesquisa. Os dados mais confiáveis e completos encontrados foram do Observatório da Restauração e 
+    Reflorestamento, coordenado pela Coalizão Brasil, Clima, Florestas e Agricultura (movimento composto por mais de 300 
+    representantes do setor privado, setor financeiro, academia e sociedade civil), que persegue essas informações, porém o 
+    levantamento também esbarra na descentralização e indisponibilidade de dados públicos. Os indicadores do Observatório dependem 
+    da colaboração dos responsáveis pelos projetos, que precisam preencher um formulário e fornecer os dados geográficos. Alguns 
+    estados, como São Paulo e Espírito Santo, compartilharam informações geolocalizadas com os pesquisadores por meio de acordos 
+    de cooperação. Essa foi a base de dados estruturados mais completa e organizada que ((o))eco conseguiu encontrar. Dessa forma, 
+    a reportagem trabalhou com as informações sistematizadas pelo Observatório e narrou as dificuldades de articulação nos órgãos 
+    públicos, com base nas respostas via LAI. A qualidade das respostas também foi objeto da reportagem, classificando se o órgão 
+    respondeu no prazo legal previsto na LAI, e em que formato foram disponibilizados dados (aberto ou não) naqueles casos em que 
+    houve fornecimento de informação. Ao final do processo, todos os órgãos foram procurados via assessoria de imprensa para se 
+    manifestar sobre os achados da reportagem.
+    
+  uf: RJ
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/oecomata.png 
+- title: Crimes Ambientais - O preço da multa não paga
+  project_url: >-
+    https://soundcloud.com/radiogaucha/crimes-ambientais-o-preco-da-multa-nao-paga-cid-martins-e-kathlyn-moreira-1?si=a16df94d2113478d81c2b52d26ff8a94&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+    
+  veiculo: Rádio Gaúcha
+  autoria: Cid Martins e Kathlyn Moreira
+  data: 10/8/2022
+  resumo: >+
+    Desde 2019, há 539 processos gerados por multas aplicadas no Rio Grande do Sul que foram julgadas pelo Ibama. 
+    Desses, 85% ainda estão pendentes de análise, antes de serem julgados, como das multas de valores ambientais maiores 
+    observados acima (entenda, abaixo, o ocorre a multa por dano ambiental).
+
+    Os dados foram obtidos por GZH pela Lei de Acesso à Informação (LAI). Se somados valores de todos os processos que 
+    determinaram os valores de todos, o total chega a R$ 70,6 milhões.
+
+    Esse valor equipara a cerca de sete vezes a quantia que foi arrecadada pelo mesmo órgão em pagamentos de R$ 9,2 milhões), 
+    o que mostra que, apesar das multas, o que mostra que, apesar da fiscalização, as penalidades contribuem com uma pequena 
+    fatia na total do Ibama/RS. De 2019 a 2021, o dinheiro que veio das multas representou 6% de uma receita de R$ 150 milhões. 
+    A reportagem mostra ainda que em nível estadual, a Secretaria do Meio Ambiente no RS teve redução pela metade das multas 
+    geradas desde a pandemia, além disso, o Ibama não tem reposição de pessoal e a reportagem ainda revelou uma crueldade que 
+    poderia ser evitada se houvesse maior fiscalização: caçadores criaram grupos na internet para vender ilegalmente armas e 
+    expor vídeos de animais que caçavam. No entanto, os animais eram apenas feridos para depois serem deixados vivos para que 
+    cães os comessem. 
+   
+  relevância: >
+    Relevância na questão de que são cifras grandes, mais de R$ 70 milhões envolvendo multas não pagas, que podem prescrever e 
+    ainda o fato de descontos de até 90%. A impunidade e o valor que poderia ser revertido na fiscalização são os principais 
+    fatores. Ainda há o fato de que multas geradas caíram pela metade na pandemia e problemas de fiscalização em alguns órgãos 
+    pelo fato de não haver reposição. O que ocorre no RS é um reflexo no Brasil. 
+    
+  originalidade: >-
+    O trabalho traz uma triangulação de dados, traz ainda uma explicação sobre a tentativa de não fornecer esses dados, 
+    mas uma reportagem os mesmos de forma exclusiva perante contestações ao Ibama e no pedido de LAI. São mais de cinco negativas. 
+    O trabalho mostra ainda, em uma linguagem aberta e informal, toda a repercussão do não pagamento de multas, dos atrasos, das 
+    prescrições, dos descontos enormes, além de mostrar o que isso causa: impunidade e menos investimento em questões básicas, 
+    como a fiscalização. Os destaques ficam para as cifras enormes escondidas em tabelas não divulgadas e para a crueldade de um 
+    grupo de caçadores que exibe na internet vídeos de animais caçados e devorados pelos seus cães. 
+    
+  metodologia: >+
+    O método foi a entrega de dados recebidos e triangulação de relatórios extensos e de difícil compreensão. 
+    Foi montada uma equipe para extrair os números, comparar e montar uma tabela. Só assim foi possível se chegar a valores de 
+    multas não pagas. A obtençaõ e o cruzamento desses dados foram as partes cruciais para se obter as cifras milionárias que 
+    podem não ser pagas, gerando impunidade e recurso perdido que poderia ser revertido em fiscalização. 
+    
+  uf: RS
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Rádio
+  category: Dados Abertos
+  image: images/edicoes/2022/crimes ambientais.jpg 
+- title: 'DEAR MR. MUSK: Governo Bolsonaro interferiu na Anatel para autorizar empresa de Elon Musk'
+  project_url: >-
+    https://www.brasildefato.com.br/2022/03/16/governo-bolsonaro-interferiu-na-anatel-para-autorizar-empresa-de-elon-musk-no-brasil
+    
+  veiculo: Brasil de Fato
+  autoria: Paulo Motoryn
+  data: 20/5/2022
+  resumo: >+
+    Documentos obtidos via Lei de Acesso à Informação, com as correspondências entre o Executivo Federal e a Starlink, 
+    evidenciam a atuação do governo brasileiro em prol da empresa de Elon Musk. As mensagens também mostram a atuação do 
+    Departamento de Comércio da Embaixada dos Estados Unidos na tentativa de acelerar o processo de autorização da Anatel aos 
+    satélites da empresa do bilionário.
+   
+  relevância: >
+    A reportagem foi uma das motivações de um requerimento de convocação do ministro Fábio Faria à Câmara dos Deputados. 
+    Em sessão da Comissão de Ciência e Tecnologia, ele foi questionado sobre o tema, com base nos documentos revelados pelo 
+    Brasil de Fato.
+
+    Em uma das mensagens apresentadas ao ministro, o secretário de Telecomunicações, Artur Coimbra de Oliveira, confirma 
+    textualmente à CEO da Starlink que o governo fez contato com a agência reguladora para obter informações sobre o processo 
+    envolvendo a empresa dos Estados Unidos.
+
+    Em outra correspondência debatida na Câmara, o governo federal é informado de que a empresa estuda uma manobra no processo de 
+    autorização da Anatel para acelerar a aprovação. A CEO da Starlink afirma que está atuando para viabilizar uma 
+    ""votação circular"" no Conselho Diretor da Anatel. Em inglês, no jargão do mundo dos negócios, o termo se refere a decisões 
+    que não podem esperar até a próxima reunião de órgãos colegiados, sendo tomadas de forma remota, sem o debate previsto no 
+    regulamento.
+
+    Faria admitiu que agiu para que a Anatel deixasse de pedir autorização à Agência Espacial Brasileira, do MCTI 
+    (Ministério da Ciência, Tecnologia e Inovações), para conceder o direito de exploração de satélites no Brasil e que o país não 
+    pode proibir a passagem de satélite por território nacional.
+
+
+    https://twitter.com/opaulomm/status/1537068852135268352
+    https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2174879
+    https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra;jsessionid=node025j4u20r3cnu1pjp62y2eknrp16839984.node0?codteor=2162398&filename=REQ+4/2022+CFFC"
+       
+  originalidade: >-
+    A reportagem é a primeira de teor investigativo a tratar da atuação do bilionário Elon Musk no Brasil. 
+    A partir das correspondências entre o governo federal e uma das principais empresas de tecnologia do mundo, o trabalho 
+    revelou o lobby do governo Bolsonaro em uma agência reguladora que tem ""independência administrativa"" e ""autonomia"" em 
+    relação ao Executivo Federal. Além disso, a peça foi divulgada nas redes sociais de vídeos curtos com uma peça criativa, que 
+    teve ampla repercussão.
+
+    https://www.youtube.com/watch?v=YJqpI8pDevA&feature=emb_imp_woyt"
+    
+  metodologia: >+
+    Os documentos foram obtidos com base na Lei de Acesso à Informação. O material foi decupado, organizado em formato de linha do 
+    tempo e analisado por especialistas. O processo demorou cerca de dois meses.
+    
+  uf: DF
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/image_processing20220520-2501-oyqetm.jpeg 
+- title: Pandemia de Covid-19 impulsiona o número de leitores e de vendas no mercado editorial do Brasil
+  project_url: >-
+    https://portalluneta.com.br/2022/04/01/pandemia-de-covid-19-impulsiona-o-numero-de-leitores-e-de-vendas-no-mercado-editorial-do-brasil/
+    
+  veiculo: Portal Luneta
+  autoria: Savio de Alencar Pessoa
+  data: 1/4/2022
+  resumo: >+
+    O trabalho enviado com o título "Pandemia de Covid-19 impulsiona o número de leitores e de vendas no mercado editorial do 
+    Brasil" é uma reportagem feita para a disciplina de Webjornalismo da Universidade Federal do Piauí (UFPI) e publicada no portal 
+    da disciplina no dia 01/04/2022. A matéria consiste em mostrar que a pandemia de Covid-19 colaborou para aumentar os leitores no
+    Brasil, o fato que ocorreu devido a uma série de motivos descritos na reportagem. Esse aumento de leitores se refletiu no 
+    número de vendas de conteúdos literários, que são relatados na matéria com o auxílio de dados. Além disso, a matéria também 
+    foca nos impactos da pandemia no mercado editorial e como tal problema foi contornado. Por fim, o último tema mostrado na 
+    reportagem, com o auxílio de dados, retrata os impactos do ensino remoto, sobretudo na fase de alfabetização, na criação de 
+    novos públicos leitores.
+   
+  relevância: >
+    O trabalho é relevante no que se refere, principalmente, na problemática do remoto na criação de leitores, que foi 
+    relatado na reportagem, visto que é um tema atual e que traz problemas no futuro para o país e para as crianças. Relevante 
+    também quando mostra como o mercado editorial foi impactado, mas também como o problema foi amenizado. Além do mais, 
+    é relevante no sentido que, mesmo com os problemas da Covid-19, a pandemia favoreceu a aproximação e a valorização da leitura e 
+    o aumento nas vendas do mercado editorial brasileiro, setor importante para o comércio brasileiro.
+      
+  originalidade: >-
+    Dentre as originalidades do trabalho vale mencionar a questão dos impactos do ensino remoto na alfabetização durante a 
+    pandemia e como isso é prejudicial à formação de novos leitores, tema que não é muito mostrado na imprensa. Além disso, 
+    há a questão das causas e consequências da pandemia no mercado editorial, além da reportagem relatar como esse problema 
+    foi contornado, também um assunto pouco explorado na mídia. Por fim, outra originalidade do trabalho se refere aos fatores 
+    que contribuem para o aumento dos leitores na pandemia e como esse crescimento se reflete no mercado editorial, também pouco 
+    abordado nos veículos de comunicação.
+    
+  metodologia: >+
+    A metodologia de dados utilizada na matéria ocorre por meio do uso dados públicos divulgados em sites 
+    (Como o G1, Folha de São Paulo e Agência Brasil), contatos com instituições públicas, como o Sindicato Nacional dos Editores 
+    de Livros (SNEL), Câmara Brasileira do Livro (CBL) e Instituto Pró-Livro, além da procura por pesquisas com dados em ONGs e 
+    Instituições Publicas, como a Fundação Lemann. 
+    Alguns exemplos de links de dados utilizados: 
+    https://fundacaolemann.org.br/noticias/datafolha-40-dos-alunos-correm-risco-de-abandonar-a-escola 
+    https://agenciabrasil.ebc.com.br/economia/noticia/2022-01/venda-de-livros-cresce-49-no-periodo-de-natal-faturamento-sobe-14?amp
+    
+  uf: PI
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/inbound369258939454490577.jpg 
+- title: O Raio X das audiências de custódia no Brasil
+  project_url: >-
+    https://soundcloud.com/radiogaucha/eduardo-especial-audiencias-de-custodia
+    
+  veiculo: Rádio Gaúcha
+  autoria: Eduardo Matos
+  data: 2/8/2022
+  resumo: >+
+    O Judiciário do Rio Grande do Sul é o que mais decide pela prisão preventiva durante as audiências de custódia, 
+    que completaram sete anos em 30 de julho de 2022. Conforme levantamento feito pela reportagem com base nos dados do 
+    Conselho Nacional de Justiça (CNJ) de todos os Estados, das 48.912 audiências de custódia realizadas até 1º de agosto, 
+    33.153 resultaram em manutenção das prisões, o que representa 68%, e 15.758 receberam liberdade, com ou sem medidas 
+    alternativas, o que significa 32% das decisões. O Estado é seguido pelo Rio de Janeiro e Rondônia, ambos com índices de 
+    67%. No outro extremo, aparece o Distrito Federal, sendo o que menos mantém pessoas presas após audiências de custódia. 
+    Das 33.476 realizadas, 12.850 (38%) resultaram em prisão preventiva e 20.626 (62%) em outras medidas.
+   
+  relevância: >
+    O trabalho trouxe à tona uma discussão dentro do judiciário sobre se as audiências soltavam mais ou menos presos pela polícia. 
+    Também trouxe dados sobre denúncias de tortura em todos os estados.
+        
+  originalidade: >-
+    O trabalho detalhe, por meio dos dados, os números históricos das audiências de custódia em cada estado. Em rádio, 
+    isso nunca foi feito. E mais, além de uma análise dos dados históricos, também trouxe informações sobre um recém 
+    inaugurado centro de triagem de presos no RS, que teve índices diferentes de manutenções das prisões do que o dado 
+    histórico do mesmo estado.
+    
+  metodologia: >+
+    Foi feita análise dos dados das audiências de custódia do país e de estado por estado. Foram calculados os percentuais de 
+    manutenções de prisões, liberdades e denúncias de tortura das 27 unidades da federação.
+
+  uf: RS
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Rádio
+  category: Dados Abertos
+  image: images/edicoes/2022/7bfacc96-3f1c-48e2-9085-e2da8c7ee1b6.jpg 
+- title: Financiadores da Boiada
+  project_url: >-
+    https://deolhonosruralistas.com.br/wp-content/uploads/2022/08/Os-Financiadores-da-Destruicao-2022-ptbr.pdf
+    
+  veiculo: De Olho Nos Ruralistas
+  autoria: 
+    'Coordenação: Alceu Castilho Edição: Bruno Stankevicius Bassi Pesquisa e texto: Caio de Freitas Paes, Larissa Linder, Leonardo Fuhrmann, Mariana Franco Ramos Revisão: Luciana Buainain Jacob Infografias: Hugo Nicolau Barbosa de Gusmão Imagem de capa: Renato Aroeira Projeto gráfico e diagramação: Felipe Fogaça'
+  data: 18/7/2022
+  resumo: >+
+    O relatório expõe que por trás da boiada estão as multinacionais. Os projetos de lei que constituem o “Pacote da Destruição” — 
+    PL da Grilagem, PL do Veneno, PL do Licenciamento Ambiental, PL da Mineração em Terras Indígenas — não têm como origem a mente 
+    inspirada dos deputados e senadores da Frente Parlamentar da Agropecuária (FPA), a faceta mais organizada da bancada ruralista 
+    no Congresso. O financiamento é nacional e internacional. Existe um cérebro pensante por trás da FPA. E um mecanismo. 
+    Um conjunto de lobistas e executivos de entidades de classe e empresas, organizados através do Instituto Pensar Agro (IPA), que 
+    formula as pautas legislativas e define o posicionamento político da frente.
+    Em 2019, De Olho nos Ruralistas revelou a ponta desse iceberg, mostrando algumas das multinacionais que integravam associações 
+    mantenedoras do IPA: gigantes como as produtoras de agrotóxicos e sementes transgênicas Bayer, Basf e Syngenta, as 
+    processadoras de soja Cargill, Bunge, ADM e Louis Dreyfus; os frigoríficos JBS e Marfrig e indústrias do setor alimentício como 
+    Nestlé e Danone.
+    Essas corporações não são atores passivos no lobby ruralista em Brasília. Nesse relatório mostramos que, durante o governo de 
+    Jair Bolsonaro, empresas do setor se reuniram pelo menos 278 vezes com membros do alto escalão do Ministério da Agricultura, 
+    Pecuária e Abastecimento (Mapa). Em pauta, temas como a flexibilização de regras para agrotóxicos, a autorização de testes de 
+    novas substâncias químicas direto em campo (ao invés de laboratórios) e a autofiscalização sanitária.
+
+  relevância: >
+    O trabalho mostra como as multinacionais do agronegócio sustentam a Bancada Ruralista e patrocinam o desmonte socioambiental.
+    
+  originalidade: >-
+    O trabalho traz, de forma inédita, um mapeamento de reuniões e encontros de empresas multinacionais com o Ministério da 
+    Agricultura, Pecuária e Abastecimento expondo a sua ligação com as políticas implantadas entre 19 e 22. Ele mostra que, 
+    durante o governo de Jair Bolsonaro, empresas do setor se reuniram pelo menos 278 vezes com membros do alto escalão do 
+    Ministério da Agricultura, Pecuária e Abastecimento (Mapa). Em pauta, temas como a flexibilização de regras para agrotóxicos, 
+    a autorização de testes de novas substâncias químicas direto em campo (ao invés de laboratórios) e a autofiscalização sanitária. 
+    
+  metodologia: >+
+    O levantamento de reuniões levou em consideração os encontros registrados na agenda oficial de autoridades do 
+    Ministério da Agricultura entre janeiro de 2019 e junho de 2022. No entanto, os registros de entrada no Mapa, obtidos via Lei 
+    de Acesso à Informação (LAI), contam outra história.
+    Durante esse período, a ex-chefe de Assuntos Públicos da Bayer, Silvia Menicucci, esteve presencialmente 25 vezes na sede do 
+    ministério. Destas, 16 não foram registradas em agenda oficial. Na Câmara a executiva esteve 14 vezes, entre 2018 e 2019. 
+    O caso da empresa alemã é um dos destaques do dossiê, uma vez que demonstra a facilidade com que os conglomerados do 
+    agronegócio conseguem acesso ao alto escalão do governo.
+  uf: DF
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/image.png 
+- title: Brasil, País que Grila
+  project_url: >-
+    https://deolhonosruralistas.com.br/2022/04/04/sem-modernizacao-titula-brasil-promove-conflitos-de-interesse-grilagem-e-violencia-contra-povos-do-campo/  
+    
+  veiculo: De Olho Nos Ruralistas e O Joio e O Trigo  
+  autoria: 'Coordenação geral: Tatiana Merlino (O Joio e o Trigo) Coordenação de pesquisa: Alceu Luís Castilho (De Olho nos Ruralistas) Edição: Bruno Stankevicius Bassi e Tatiana Merlino Reportagem: Bruno Stankevicius Bassi, Leonardo Fuhrmann, Mariana Franco Ramos, Tatiana Merlino Design: Denise Matsumoto Mapas: Renata Hirota'
+  data: 4/4/2022
+  resumo: >+
+    A série de seis reportagens ‘Brasil, país que grila’, feita pela equipe de O Joio e O Trigo e do observatório De 
+    Olho nos Ruralistas revela como sob o discurso da “modernização”, o programa Titula Brasil esconde conflitos de interesse, 
+    grilagem e violência contra povos do campo. Nesse levantamento inédito é mostrada a incidência de desmatamento e de prefeitos 
+    latifundiários nos municípios que aderiram ao programa de regularização fundiária do Governo Bolsonaro
+
+    Desde 2020, De Olho nos Ruralistas tem monitorado o resultado das eleições e acompanhou a captura do poder local por 
+    políticos do agronegócio. Com o lançamento do Titula Brasil, em fevereiro de 2021, pelo Governo Bolsonaro, como o “grande salto 
+    de modernização” no processo de titulação de terras públicas, o De Olho resolveu olhar a fundo os interesses por trás dessa 
+    regularização às pressas. A que interesses ela atende?  
+
+    Dessa forma, ao longo de seis meses analisamos municípios que já haviam firmado o acordo de cooperação com o Incra até aquele 
+    momento. Com essa lista em mãos, houve cruzamento com os dados agrários da Comissão Pastoral da Terra, com a Base de Conflitos 
+    de Terra e Água da Fiocruz e com os dados já apurados pelo De Olho nos Ruralistas sobre prefeitos donos de terras, a partir de 
+    dados do Tribunal Superior Eleitoral.
+
+  relevância: >
+    O levantamento conduzido pela equipe identificou que, entre as prefeituras signatárias do Titula Brasil, 44% são lideradas por 
+    prefeitos ou prefeitas que declararam bens rurais à Justiça Eleitoral em 2020. Além de fazendas, foram contabilizados rebanhos 
+    bovinos, maquinários agrícolas, participação em empresas agropecuárias e benfeitorias em imóveis rurais. Por meio da abertura de 
+    espaço para regularização de terras no âmbito local, oligarquias locais puderam garantir que seus interesses fossem defendidos. 
+
+    Os dados corroboram uma das principais críticas de movimentos sociais contrários ao programa, de que o Titula Brasil deixará os 
+    pequenos agricultores e assentados mais expostos a pressões e interesses locais. “As prefeituras não possuem expertise e 
+    técnicos treinados para realização de um serviço tão complexo e importante como a regularização fundiária”, opina Ana Moraes, 
+    membro da coordenação nacional do Movimento dos Trabalhadores Rurais Sem Terra (MST). “A fiscalização ambiental, trabalhista e 
+    sobre o domínio e a produtividade diminuirá.
+
+    A preocupação dos movimentos sociais é apoiada pelo Ministério Público Federal (MPF). Desde a criação do Titula Brasil, 
+    foram expedidas recomendações para oito superintendências do Incra em sete estados: Acre, Amazonas, Minas Gerais, Pará 
+    (Oeste e Sul), Paraná, Rondônia e Tocantins. Foram acionadas também as prefeituras de 42 municípios que aderiram ao programa.
+
+    As recomendações caminham no sentido de garantir maior transparência ao processo, realizar vistorias técnicas in loco em todas 
+    as áreas submetidas a processo de regularização fundiária no âmbito dos Núcleos Municipais de Regularização Fundiária (NMRF) e 
+    a consulta a outros órgãos federais visando evitar a sobreposição com terras indígenas, unidades de conservação, Cadastros 
+    Ambientais Rurais, reservas extrativistas, territórios quilombolas, registros de conflitos nas Câmaras de Conciliação Agrária, 
+    entre outros.
+
+    A pesquisa mostrou também que os conflitos de interesse relacionados à implementação do Programa “Titula Brasil” não se 
+    restringem apenas ao avanço de políticos locais sobre os assentamentos localizados em terras públicas federais. Ao repassar às 
+    prefeituras a obrigação de vistoriar e georreferenciar as áreas sob domínio da União, o programa joga no colo de latifundiários 
+    a gestão de conflitos rurais. Pessoas envolvidas no Dia do Fogo, dia de incêndios coordenados por diversos grandes fazendeiros 
+    no Pará, por exemplo, estão entre as que tomam decisões no processo de titulação em alguns locais, definindo quais são os 
+    assentamentos e quem está apto a receber a titulação de terras pelo programa. Políticos envolvidos no processo da titulação 
+    também estão envolvidos em conflitos indígenas.
+
+    Do Maranhão ao Mato Grosso, a reportagem identificou violações de direitos humanos contra povos indígenas e trabalhadores 
+    rurais envolvendo prefeitos e servidores diretamente responsáveis pela condução dos Núcleos Municipais de Regularização 
+    Fundiária (NMRFs), em parceria com o Instituto Nacional de Colonização e Reforma Agrária (Incra).
+
+  originalidade: >-
+    A série de reportagens mostra a incidência de desmatamento e de prefeitos latifundiários nos municípios que aderiram ao 
+    programa de regularização fundiária do governo Bolsonaro.
+    
+  metodologia: >+
+    Ao longo de seis meses analisamos municípios que já haviam firmado o acordo de cooperação com o Incra até aquele momento. 
+    Com essa lista em mãos, houve cruzamento com os dados agrários da Comissão Pastoral da Terra, com a Base de Conflitos de 
+    Terra e Água da Fiocruz e com os dados já apurados pelo De Olho nos Ruralistas sobre prefeitos donos de terras, a partir de 
+    dados do Tribunal Superior Eleitoral. 
+
+    O levantamento conduzido pela equipe identificou que, entre as prefeituras signatárias do Titula Brasil, 44% são lideradas por 
+    prefeitos ou prefeitas que declararam bens rurais à Justiça Eleitoral em 2020. Além de fazendas, foram contabilizados rebanhos 
+    bovinos, maquinários agrícolas, participação em empresas agropecuárias e benfeitorias em imóveis rurais. Por meio da abertura 
+    de espaço para regularização de terras no âmbito local, oligarquias locais puderam garantir que seus interesses fossem 
+    defendidos.
+    
+  uf: PA
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/imagee.png 
+- title: Brasil Sem Veneno
+  project_url: >-
+    https://deolhonosruralistas.com.br/2022/08/04/projeto-brasil-sem-veneno-mapeia-542-iniciativas-de-resistencia-aos-agrotoxicos-em-todo-o-pais/
+    
+  veiculo: De Olhos Nos Ruralistas e O Joio e O trigo
+  autoria: 'Coordenação: Bruno Stankevicius Bassi e Tatiana Merlino Autores: Nanci Pittelkow, Schirlei Alves, Pedro Biondi, Antônio Biondi, Márcio Kameoka Design: Denise Matsumoto Cartografia: Eduardo Luiz Damiani Goyos Carlini'
+  data: 23/7/2022
+  resumo: >+
+    Levantamento inédito do De Olho nos Ruralistas para o projeto Brasil sem Veneno — realizado em parceria com O Joio e o Trigo — 
+    identificou 542 iniciativas de resistência aos agrotóxicos pelo Brasil, incluindo aquelas de movimentos sociais e da sociedade 
+    civil, acadêmicas, educativas e comunicacionais, institucionais e legislativas. Esses projetos ocorrem nas 27 Unidades da 
+    Federação e incluem iniciativas de âmbito nacional.
+
+    Construída ao longo de seis meses de pesquisa, a base de dados levou em conta o histórico de ações realizadas por indivíduos, 
+    grupos e organizações, rurais e urbanos, que tenham como eixo central o combate ao uso abusivo de venenos agrícolas e a 
+    denúncia de seus impactos sobre o ambiente e a população.
+
+    As informações foram organizadas em um mapa interativo e separadas por eixo temático e área de atuação. Na caixa seleção, 
+    o leitor pode selecionar entre movimentos sociais e organizações civis, iniciativas legislativas, educativas, acadêmicas e de 
+    comunicação. Ao dar zoom, é possível visualizar as iniciativas locais. Um segundo mapa mostra as ações de âmbito estadual.
+
+    Há também um botão superior em que o usuário pode acessar a lista de iniciativas nacionais. Organizado como uma base de dados 
+    aberta, o mapa será atualizado constantemente para incluir outros grupos que atuem em todo o país.
+   
+  relevância: >
+    Durante os anos 2000, o avanço acelerado do agronegócio e a utilização de agrotóxicos em larga escala acenderam um sinal de 
+    alerta para diversas organizações da sociedade civil. Faltavam ferramentas e fóruns que pudessem agregar as diversas 
+    iniciativas de luta contra os agrotóxicos e em defesa da agroecologia. Buscando dar visibilidade para essas questões, 
+    foi criada em 2010 a Campanha Permanente Contra os Agrotóxicos e Pela Vida, primeiro grupo a articular essas demandas a 
+    partir da pauta comum do combate aos venenos agrícolas.
+    Entre os desdobramentos da Campanha, houve o lançamento de documentários como “O veneno está na mesa“, de Sílvio Tendler, e 
+    diversas peças de comunicação e educação que tiveram grande repercussão. Houve também uma articulação junto aos poderes 
+    públicos municipais, com a inserção dos debates sobe os agrotóxicos nas escolas. 
+    Além de iniciativas que denunciam o impacto do uso de agrotóxicos no Brasil, o levantamento de resistências realizado 
+    pelo projeto Brasil Sem Veneno inclui grupos que trabalham em alternativas à política do veneno a partir da agroecologia e 
+    do conhecimento tradicional, buscando espalhar experiências bem-sucedidas e facilitar a articulação entre esses coletivos.
+
+  originalidade: >-
+    O levantamento inédito revela como grupos da sociedade civil se organizam para lutar contra a política do veneno em curso; 
+    mapa interativo mostra movimentos sociais, grupos acadêmicos, projetos educativos, campanhas de comunicação e iniciativas 
+    legislativas nos 26 estados e no DF.
+    
+  metodologia: >+
+    Construída ao longo de seis meses de pesquisa, a base de dados levou em conta o histórico de ações realizadas por indivíduos, 
+    grupos e organizações, rurais e urbanos, que tenham como eixo central o combate ao uso abusivo de venenos agrícolas e a denúncia
+    de seus impactos sobre o ambiente e a população.
+
+    As informações foram organizadas em um mapa interativo e separadas por eixo temático e área de atuação. Na caixa seleção, 
+    o leitor pode selecionar entre movimentos sociais e organizações civis, iniciativas legislativas, educativas, acadêmicas e de 
+    comunicação. Ao dar zoom, é possível visualizar as iniciativas locais. Um segundo mapa mostra as ações de âmbito estadual.
+
+    Há também um botão superior em que o usuário pode acessar a lista de iniciativas nacionais. Organizado como uma base de 
+    dados aberta, o mapa será atualizado constantemente para incluir outros grupos que atuem em todo o país.
+    
+  uf: DF
+  ano: '2022'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2022/iimage.png 
+- title: Uma criança morreu a cada três dias por Covid enquanto país debatia vacinação infantil, mostra levantamento do GLOBO
+  project_url: >-
+    https://oglobo.globo.com/saude/uma-crianca-morreu-cada-tres-dias-por-covid-enquanto-pais-debatia-vacinacao-infantil-mostra-levantamento-do-globo-1-25394548
+    
+  veiculo: Jornal O Globo
+  autoria: Melissa Duarte e Renata Mariz
+  data: 15/2/2022
+  resumo: >+
+    A reportagem traça o risco que as crianças de 5 a 11 anos correram em relação à Covid-19 entre a aprovação da Anvisa para 
+    vacina da Pfizer e a liberação do Ministério da Saúde para aplicação na faixa etária. A doença ceifou pelo menos seis vidas 
+    mirins no Brasil de 16 de dezembro de 2021 a 5 de janeiro de 2022, período em que houve ao menos 124 casos graves da doença. 
+    Em números, é como se uma criança tivesse morrido a cada três dias.
+   
+  relevância: >
+    A importância do trabalho vem, sobretudo, do alerta para o risco de Covid-19 em crianças, que podem sofrer quadros graves e 
+    até a morte. Além disso, contextualiza o cenário vivido no Brasil enquanto o país debatia a vacinação, iniciada no público de 
+    5 a 11 anos quase um mês após o aval da Anvisa.
+     
+  originalidade: >-
+    O recorte do tema e o enfoque dos dados trazem a originalidade para o trabalho. Em suma, porque destacam os riscos da 
+    Covid-19 em crianças enquanto havia uma vacina aprovada para o grupo, mas ainda indisponível para aplicação. 
+    
+  metodologia: >+
+    A reportagem utilizou os dados oficiais de casos graves e de mortes por Covid-19 dentro fornecidos pelo Sistema de 
+    Informação da Vigilância Epidemiológica da Gripe (SIVEP-Gripe), gerido pelo Ministério da Saúde, e disponibilizados em 
+    painel da Rede Análise Covid-19. Como a plataforma fornece números de SRAG, o trabalhou filtrou apenas casos graves e mortes 
+    confirmados de Covid-19 e delimitou a idade para 5 a 11 anos.
+
+    É importante ressaltar que registros de saúde pública podem ser acrescentados ao longo dos meses e, por isso, o número real 
+    ser maior do que o minerado em fevereiro. O texto traz essa ponderação.
+    
+  uf: DF
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Impresso
+  category: Dados Abertos
+  image: images/edicoes/2022/Seis mortes em 20 dias.jpg 
+- title: Banco de Discursos
+  project_url: >-
+    https://escriba.aosfatos.org/banco-de-discursos/
+    
+  veiculo: Aos Fatos
+  autoria: Amanda Ribeiro, Bernardo Moura, Bruno Fávero, Carol Cavaleiro, Carlos Leandro, Israel Teixeira, Leonardo Cazes, Luiz Fernando Menezes, Marco Faustino, Priscila Pacheco, Rhenan Bartels e Tai Nalon
+  data: 20/7/2022
+  resumo: >+
+    O Banco de Discursos é uma base de dados pública, alimentada pela equipe do Aos Fatos, que reúne transcrições dos discursos, 
+    entrevistas, lives e propagandas eleitorais feitas por candidatos à Presidência da República durante a campanha de 2022.
+
+    As transcrições são feitas de forma automática pelo Escriba, ferramenta desenvolvida pelo Aos Fatos, e disponibilizadas 
+    gratuitamente de duas formas: por um site, que permite filtrar os documentos por origem e candidato; e por uma API aberta que 
+    permite acessar os dados programaticamente.
+   
+  relevância: >
+    O Banco de Discursos cria um extenso registro histórico das eleições de 2022, alimentado quase em tempo real, que serve 
+    como um importante recurso para jornalistas e pesquisadores que analisam o pleito.
+
+    Com pouco tempo de vida, a iniciativa acumula 13 mil pageviews (com 10 mil usuários únicos), subsidiou uma série de reportagens 
+    do site Nonada sobre os planos de governo dos candidatos, e está sendo usada  como objeto de pesquisa pelo Departamento de 
+    Ciência Política (DCP) da UFPE.
+
+    No calor da cobertura eleitoral, a iniciativa  está ajudando jornalistas a economizar tempo ao dispensar a necessidade de 
+    escalar repórteres para fazer a transcrição de discursos relevantes. Na redação do Aos Fatos, por exemplo, a ferramenta 
+    agilizou imensamente nossas checagens em tempo real, que têm sido a produção de maior audiência nestas eleições.
+    
+  originalidade: >-
+    A imprensa tem uma longo histórico de registrar discursos importantes de políticos. O Aos Fatos se apoia nessa tradição, mas, 
+    com uso de tecnologia, potencializa seu alcance e impacto.
+
+    Um primeiro ponto original é que o Banco de Discursos usa uma ferramenta de transcrição automática de alta precisão 
+    desenvolvida pelo Aos Fatos. Isso permite transcrever um número muito maior de discursos do que se dependêssemos de 
+    transcritores humanos e dá muito mais agilidade ao processo. Em pouco mais de um mês, mais de 200 áudios de candidatos já 
+    foram disponibilizados.
+
+    Um segundo aspecto é que todos os discursos são publicados em formatos 
+    abertos que podem ser lidos por computadores — txt, csv e json (API). Isso permite que jornalistas e pesquisadores façam fazer 
+    análises computacionais de um grande volume de discursos.
+
+    Por fim, mais do que um projeto para estas eleições, o Banco de Discursos é uma plataforma escalável e que pode ser 
+    reaproveitada para documentar e analisar eleições futuras ou até passadas.
+    
+  metodologia: >+
+    Repórteres dos Aos Fatos acompanham todos os dias a agenda dos cinco candidatos à Presidência que lideram as pesquisas para 
+    coletar o áudio de discursos e entrevistas dadas por eles.
+
+    Ao ser inserido na plataforma do Banco de Discursos, o áudio é transcrito de forma automática pelo Escriba, ferramenta de 
+    transcrição em português de alta precisão desenvolvida pelo Aos Fatos.
+
+    Os dados são disponibilizados no site do Banco, onde podem ser filtrados e exportados em CSV ou TXT. A base 
+    também alimenta uma API que permite acesso programático aos dados. https://escriba.aosfatos.org/banco-de-discursos/api/
+    
+  uf: RJ
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/bancodediscursos.png 
+- title: 94% das meninas de baixa renda não sabem o que é pobreza menstrual
+  project_url: >-
+    https://emais.estadao.com.br/blogs/kids/94-das-meninas-de-baixa-renda-nao-sabem-o-que-e-pobreza-menstrual/
+    
+  veiculo: Jornal O Estado de São Paulo
+  autoria: Carolina Delboni
+  data: 27/9/2021
+  resumo: >+
+    Alertar para a importância da Lei que garante a distribuição de absorventes para meninas de baixa renda que não tem condições 
+    de comprar o item de higiene através de dados, estudo e pesquisas de ong e fundações como UNICEF. 
+   
+  relevância: >
+    É preciso informar para formar. Acredito no conteúdo jornalístico como construção de conhecimento a favor da sociedade. 
+    Como cuidar ou lutar por direitos de algo que nem sei dar nome? É preciso dar nome a este tipo de pobreza para que se possa 
+    entender a situação em que essas meninas se encontram, para que elas próprias possam se reconhecer neste lugar, para que a 
+    sociedade entenda, de fato, a necessidade de ter uma lei que garanta suporte a algo que é de cunho da saúde pública. E trazer 
+    um tema como este para um veículo como o Estadão, que tem grande alcance nacional, é ampliar o acesso a uma discussão que 
+    pode ser/ ficar restrita a Ongs e grupos feministas que são os que mais se engajam na pauta.  
+    
+  originalidade: >-
+    Acho que ele tem vários aspectos originais. Primeiro o fato de conseguir falar sobre pobreza menstrual de maneira didática e 
+    não panfletária num jornal de alcance nacional. Depois a capacidade de usar dados de diversas fundações para dar suporte a um 
+    mesmo tema/ pauta. A possibilidade de cruzar dados de diversas pesquisas e estudos só contribuem para dar força ao tema e a 
+    necessidade de discuti-lo. Além de usar os dados para justificar e endossar o que está sendo dito do texto. Mas por ser um tema 
+    sensível, é preciso tomar cuidado para não tornar o texto duro e distante e outro aspecto foi a possibilidade de abordar o tema 
+    com sensibilidade, mas sem perder o cunho jornalístico que era necessário. É um texto que se aproxima do leitor por diversos 
+    recursos. 
+    
+  metodologia: >+
+    Associar dados a fatos. Usar dados para justificar fatos. Dados sempre como recurso de sustentabilidade ao que pode parecer 
+    uma necessidade insustentável. Pobreza menstrual não é um tema que tem aderência em grandes camadas da sociedade e este fato 
+    faz com que o uso dos dados na matéria dê sustentação para garantir sua relevância.
+
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/pobrezamenstrual.png 
+- title: Escriba
+  project_url: >-
+    https://escriba.aosfatos.org/
+    
+  veiculo: Aos Fatos
+  autoria: Bruno Fávero, Carlos Leandro, Carol Cavaleiro, Israel Teixeira, Tai Nalon
+  data: 1/7/2022
+  resumo: >+
+    O Escriba é uma ferramenta de transcrição automática voltada para jornalistas que foi criada pelo time de tecnologia do Aos 
+    Fatos.
+    Ela permite converter áudios e vídeos para texto rapidamente, com precisão e custo baixo. Também conta com um editor de 
+    textos com player integrado que facilita a correção de eventuais erros das transcrição automática.
+
+    Desde que a ferramenta foi lançada, em julho, nossos mais de 900 usuários já transcreveram automaticamente mais de 1.000 
+    horas de áudios e vídeos. Estimamos que isso represente uma economia de mais de 3.000 horas de trabalho. 
+
+    Por seu baixo custo e alta precisão, a ferramenta também torna possíveis análises de dados de áudio em escala."
+   
+  relevância: >
+    Transcrever entrevistas e discursos de políticos é uma atividade que ocupa muito tempo de jornalistas brasileiros. 
+    Automatizar esse processo é essencial para aproveitar melhor a mão-de-obra em redações com cada vez menos recursos e mais 
+    tarefas —especialmente em ano eleitoral. 
+
+    O Aos Fatos conhece esse problema porque foi afetado por ele. Desde 2019, temos um projeto que checa tudo o que diz o 
+    presidente Jair Bolsonaro. No ano passado, percebemos que estávamos precisando de uma pessoa em tempo integral para transcrever 
+    suas falas. 
+
+    As soluções automáticas que existiam, porém, eram caras, imprecisas em português, inseguras ou difíceis de usar. 
+
+    Por isso decidimos criar o Escriba. E a aposta deu certo. De acordo com testes que conduzimos 
+    (https://escriba.aosfatos.org/#landing-competition), ele tem uma precisão equiparável à dos melhores produtos do mercado, 
+    mas custa oito vezes menos.
+    
+  originalidade: >-
+    Antes do Escriba não havia nenhuma ferramenta de transcrição em português que fosse precisa, rápida e com custo compatível 
+    com as redações brasileiras. Isso foi possível porque todo o código da ferramenta, do processamento de áudio ao editor de 
+    textos, foi desenvolvido em Python pela equipe de tecnologia do Aos Fatos.
+
+    Apesar de já existirem outras soluções de transcrição de áudio, o baixo custo e a alta precisão do Escriba podem ajudar a 
+    sustentar uma expansão significativa de uma área pouco desenvolvida do jornalismo de dados no Brasil: a análise computacional 
+    de discurso.
+
+    Outra inovação é o fato de uma empresa jornalística ter criado um produto tecnológico bem sucedido num espaço que é disputado 
+    por gigantes como Google e Microsoft.
+    
+  metodologia: >+
+    Por ora, o código do Escriba é proprietário. Como mencionado, todo o código foi desenvolvido em Python (no backend e frontend) 
+    e JavaScript (no frontend).
+    
+  uf: RJ
+  ano: '2022'
+  tipo_inscricao: Inovação e experimentação
+  formato: Online
+  category: Inovação e experimentação
+  image: images/edicoes/2022/Screenshot 2022-09-12 at 19.23.30.png 
+- title: Armas matam cada vez mais
+  project_url: >-
+    https://drive.google.com/file/d/1zrRuDFtF-bGLYhU7nlBxxlh-z0KL1duY/view
+    
+  veiculo: Jornal do Commercio
+  autoria: Raphael Guerra
+  data: 11/2/2022
+  resumo: >+
+    Reportagens abordam o aumento dos homicídios com o uso de armas de fogo em Pernambuco, ao mesmo tempo em que há mais armas 
+    circulando graças à flexibilização de normas autorizadas pelo governo federal. Também mostra que falta ao governo estadual 
+    entender a origem das armas/projéteis que estão matando as vítimas. Por fim, reportagens destacam que a falta de segurança 
+    por parte do Estado também resultou no furto de armas que estavam sob a guarda da Polícia Civil de Pernambuco e que caíram 
+    das mãos de facções especializadas no tráfico de drogas e homicídios, elevando ainda mais os números da violência.
+   
+  relevância: >
+    O trabalho jornalístico joga luz sobre o perigo do aumento da circulação de armas de fogo, que contribui com o crescimento da 
+    violência.
+     
+  originalidade: >-
+    Desde que decretos assinados pelo presidente Jair Bolsonaro flexibilizaram a posse/porte de armas de fogo, nos últimos três 
+    anos e meio, reportagens analisando o problema ainda não haviam sido produzidas pela imprensa de Pernambuco. Um ponto que 
+    destaco é a falta de controle do governo de Pernambuco em relação às armas de fogo apreendidas. A partir da Lei de Acesso à 
+    Informação, foi identificado que o Estado não contava com um banco de dados para cruzamento de informações sobre armas de fogo 
+    e munições, dificultando o trabalho de investigação dos crimes - principalmente dos homicídios.
+    
+  metodologia: >+
+    De forma geral, as reportagens foram produzidas com dados obtidos por meio da Lei de Acesso à Informação, dados disponíveis no 
+    site da Secretaria de Planejamento de Pernambuco ( https://drive.expresso.pe.gov.br/s/IVXFgsePZeczoHf) e com pedidos de 
+    informação à Polícia Federal em Pernambuco. Além disso, entrevistas com especialistas no assunto foram fundamentais para a 
+    tradução dos dados obtidos. 
+    
+  uf: PE
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Impresso
+  category: Dados Abertos
+  image: images/edicoes/2022/Imagem.jpg 
+- title: Muitas mulheres pedem medida protetiva, mas não querem investigação do agressor", diz polícia
+  project_url: >-
+    https://jc.ne10.uol.com.br/colunas/ronda-jc/2022/03/14984084-muitas-mulheres-pedem-medida-protetiva-mas-nao-querem-investigacao-do-agressor-diz-policia.html
+    
+  veiculo: Jornal do Commercio
+  autoria: Raphael Guerra Chaves
+  data: 29/3/2022
+  resumo: >+
+    Reportagem mostra que, entre os anos de 2017 e 2021, houve 191.673 queixas relacionadas à Lei Maria da Penha nas delegacias de 
+    Pernambuco. Mas parte expressiva dos casos não foi investigada porque as vítimas de violência pediram apenas medidas protetivas,
+    mas não quiseram representar contra seus agressores.
+   
+  relevância: >
+    O trabalho reforça a importância de as mulheres representarem contra os seus agressores para que a polícia investigue os casos 
+    e ajude a encerrar o ciclo de violência.
+
+  originalidade: >-
+    A reportagem mostra que há um número enorme de mulheres em Pernambuco que procuram a polícia para pedir medidas protetivas, 
+    após sofrerem algum tipo de violência, mas que ainda resistem em pedir investigação contra seus agressores. 
+    
+  metodologia: >+
+    A reportagem surgiu a partir de dados obtidos pela Lei de Acesso à Informação, Chamou a atenção a diferença entre o número de 
+    mulheres que procuraram as delegacias de Pernambuco e o número de inquéritos concluídos. Com os dados, entrevistas contribuíram 
+    para traduzi-los e jogar luz sobre o problema. 
+    
+  uf: PE
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/violência mulher.jpg 
+- title: Despacho de presidente do Ibama pode custar ao menos R$ 3,6 bilhões à União
+  project_url: >-
+    https://apublica.org/2022/06/despacho-de-presidente-do-ibama-pode-custar-ao-menos-r-36-bilhoes-a-uniao/
+  veiculo: Agência Pública de Jornalismo Investigativo
+  autoria: Laura Scofield, Bianca Muniz e Paula Bianchi
+  data: 27/6/2022
+  resumo: >+
+    Destrinchamos neste trabalho o possível impacto de um despacho assinado no início deste ano pelo presidente do Ibama, 
+    Eduardo Bim, que invalida a notificação de infratores ambientais via edital para a apresentação de alegações finais. 
+    Trata-se de uma oportunidade não obrigatória de o autuado acrescentar algo à sua defesa antes da avaliação pela autoridade 
+    julgadora. A decisão pode custar ao menos R$ 3,6 bilhões à União ao levar à prescrição de 60% das multas aplicadas de 2008 a 
+    2019  – informação resultado da apuração da reportagem.
+
+    Desde 2008, em casos em que apresentar ou não as alegações finais não afeta a multa do autuado, a notificação para essa 
+    apresentação é feita via edital, mas esse procedimento foi anulado por Bim retroativamente com o despacho 11996516/2022. 
+    A prescrição de grande quantidade das multas ocorre porque, com a invalidação da notificação por edital, a última etapa 
+    válida do processo sancionatório se torna a etapa anterior à mesma. Como muitos processos tiveram a notificação há mais de 
+    três anos, eles podem prescrever automaticamente. 
+
+    Nos dados abertos do Ibama, baixamos a parcela disponível das multas que haviam sido notificadas pelo modelo que foi anulado e 
+    analisamos quem o despacho beneficiaria e quanto a União pode perder com o anulamento dessas multas. Descobrimos que o despacho 
+    pode custar ao menos R$ 3,6 bilhões à União, valor ainda subestimado pois os dados abertos do órgão não são atualizados como 
+    deveriam nem possibilitam baixar todas as multas que haviam sido notificadas por edital, apenas as que estavam na fase de 
+    notificação no momento da apuração. Entre os multados que podem ser beneficiados estão empresas como o Santander e a Rumo 
+    Malha Norte. 
+
+    Também abordamos no texto o processo de criação do despacho, que pegou os servidores do Ibama de surpresa na virada para o ano 
+    de 2022. Foi a mobilização interna dos servidores (também explicada na reportagem) que levou o presidente a assinar o despacho 
+    publicamente. Antes, Bim havia apenas instruído que os servidores seguissem as novas regras sem oficializá-las, o que os 
+    servidores questionaram.
+
+    Em uma segunda reportagem sobre o mesmo tema, pedimos via Lei de Acesso à Informação as multas que já haviam sido anuladas com 
+    base na alteração do presidente do Ibama: descobrimos que até então 164 multas já haviam sido anuladas por Eduardo Bim, o que 
+    significava a perda de ao menos R$ 42,8 milhões em multas. Também havíamos pedido uma estimativa do total de multas que 
+    poderiam ser anuladas via LAI, mas o Ibama disse que o dado não existia. Entretanto, pouco depois o órgão respondeu a um 
+    deputado federal via requerimento de informação: o despacho pode anular 60% de todos os processos entre 2008 e 2019, o que 
+    equivale a 42 mil multas. Não é possível chegar neste número apenas pelos dados abertos pela limitação acima explicada. 
+    https://apublica.org/2022/07/madeireiros-foram-principais-beneficiados-por-canetada-de-bim-no-ibama/.
+   
+  relevância: >
+    O trabalho possibilita o entendimento das consequências de uma ação do presidente do Ibama que, sem a devida publicização e 
+    explicação pela imprensa, não seria compreendida, por se tratar de um tema jurídico e específico a quem atua na área. 
+    Essa ação, que foi analisada e explicada pela reportagem, pode afetar ao menos 6.297 multas (número de multas notificadas por 
+    edital de acordo com os dados abertos, resultado da apuração para a 1ª matéria). 
+
+    Depois, com a 2ª matéria, descobrimos que esse número pode chegar a 42 mil multas, de acordo com a estimativa do próprio Ibama. 
+    Antes da reportagem, não se tinha nenhuma estimativa baseada em dados da quantidade de processos que poderiam ser afetados e do 
+    dinheiro que pode ser perdido. 
+
+    Após a publicação, os dados levantados pela reportagem foram solicitados por organizações que desenvolvem ações na justiça para 
+    barrar retrocessos ambientais, e serão usados para a formulação desses pedidos —  uma das organizações está elaborando um mapa 
+    de dano climático utilizando como base a planilha que conseguimos via LAI durante a apuração para a segunda matéria. Foi por 
+    meio da 1ª reportagem que conseguimos mais informações e finalmente conseguimos cravar o número de 42 mil processos. O Ibama 
+    havia negado esta informação à reportagem via assessoria e LAI, mas respondeu a um requerimento de informação feito por um 
+    parlamentar e acessado pela Pública.
+     
+  originalidade: >-
+    A Pública foi o único veículo que descobriu quantas multas podem ser afetadas pelo despacho do presidente do Ibama e quanto 
+    dinheiro a União pode perder com isso. Por isso a matéria repercutiu rapidamente em diversos outros veículos, que citaram 
+    nossa apuração. Antes da reportagem, não se sabia o tamanho do estrago que poderia ser gerado com a canetada de Eduardo Bim. 
+    Depois da primeira matéria, houve ainda outra, que identificou que madeireiros foram os principais beneficiados pelo despacho e 
+    trouxe o número completo: 42 mil processos podem ser afetados. 
+    
+  metodologia: >+
+    A metodologia adotada para a extração e análise de dados está descrita em repositório próprio no Github da 
+    Agência Pública: https://github.com/apublica/despacho-ibama. Os dados da investigação inicial são de duas fontes diferentes, 
+    o Painel do Orçamento Federal e o portal de Dados Abertos do Ibama. A partir do recebimento de um pedido feito via Lei de 
+    Acesso à Informação, incorporamos novas fontes de dados, como informações da Receita Federal. Utilizamos nessa reportagem 
+    editores de planilhas (como o Google Sheets e Excel) e códigos em Python.
+
+    Dados do Painel do Orçamento Federal:
+    Inicialmente, foram coletados dados do Painel do Orçamento Federal (https://www1.siop.planejamento.gov.br/). 
+    Selecionamos os filtros: (a) Ano: 2015 - 2021; (b) Órgão Orçamentário: Ministério do Meio Ambiente; (c) Unidade Orçamentária: 
+    Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais e Renováveis - IBAMA; (d) Subfunção: Normatização e Fiscalização. 
+    Em seguida, selecionamos os campos: Órgão orçamentário, função, subfunção, objetivo, dotação inicial e dotação atual. 
+    Os resultados e análises estão no arquivo: https://github.com/apublica/despacho-ibama/blob/main/painel_orcamento.xlsx
+
+    Dados de Autos de Infração notificados via edital para alegações finais:
+    Download e limpeza dos dados: Os dados de multas aplicadas foram exportados do portal de dados abertos do Ibama. 
+    Foram incluídos no levantamento apenas os autos de infração com a Situação Débito ""AI notificado, via edital, p/ 
+    alegações finais"" e com data entre 2008 e 2019 (código descrito neste script: https://github.com/apublica/despacho-ibama/blob/main/notebook_multas_ibama.ipynb), 
+    excluindo os valores duplicados. A base resultante contou com 6.297 multas.
+    Análise de dados: O valor em reais de multas aplicadas e a quantidade de infrações foram agrupados por CPF ou CNPJ 
+    (código de oito dígitos), com tabela dinâmica. A análise pode ser vista no arquivo:  https://github.com/apublica/despacho-ibama/blob/main/Dados_Ibama_12-06.xlsx. 
+    *Observação: apesar da atualização diária e da abertura de dados sobre infrações pelo Ibama, não há padronização entre os 
+    diferentes arquivos do SICAFI, o que gera a ausência de informações nos diferentes arquivos do portal, subdimensionando o 
+    valor total.
+
+    Desdobramento
+    No desdobramento dessa investigação  (https://apublica.org/2022/07/madeireiros-foram-principais-beneficiados-por-canetada-de-bim-no-ibama/), 
+    recebemos uma relação com os processos prescritos a partir do despacho nº 11996516 obtida via Lei de Acesso à Informação. 
+    A partir do número dos processos, fizemos o cruzamento com a base de autos de infração do 
+    Ibama (https://dadosabertos.ibama.gov.br/dataset/fiscalizacao-auto-de-infracao);
+    As infrações foram agrupadas por CPF ou CNPJ, com tabela dinâmica. 158 processos da lista obtida via 
+    LAI tiveram correspondência nos dados abertos do Ibama. Os processos podem ser vistos no 
+    arquivo: https://apublica.org/wp-content/uploads/2022/07/lai-cruzamento-madeireiros-foram-principais-beneficiados-por-canetada-de-bim-no-ibama.xlsx
+    Utilizamos um script em Python (https://github.com/apublica/despacho-ibama/blob/main/qsa.ipynb) para descobrir as 
+    atividades primárias e secundárias dos CPFs e CNPJs multados pelo Ibama com multas prescritas a partir do despacho de 
+    Eduardo Bim, com o objetivo de analisar os setores que estão se beneficiando com a prescrição das multas ambientais.
+
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/Capa-MultasIbama.png 
+- title: Dados Abertos do Raio-X da Administração Pública Federal
+  project_url: >-
+    https://economiagovbr.github.io/taxigovviz/
+    
+  veiculo: Ministério da Economia
+  autoria: Augusto Herrmann Batista; Gustavo Rodrigues Silveira; Lucas Benevides Dias
+  data: 3/1/2022
+  resumo: >+
+    O presente trabalho publica dados de corridas feitas pelo sistema de transporte civil do Poder Executivo Federal, 
+    chamado TaxiGov. Tal sistema permitiu que o Governo Federal não mantenha uma extensa frota de veículos, pois contrata 
+    motoristas de aplicativos ou motoristas de táxi, para proverem o serviço de transporte civil no governo federal.
+  relevância: >
+    Todas as corridas de transporte feitas por integrantes do Poder Executivo do governo federal estão disponíveis, 
+    em dados abertos, a partir do dia seguinte em que a corrida foi realizada. Isto provê uma maior transparência, pois 
+    jornalistas ou entidades da sociedade civil podem analisar os dados e verificarem possível uso irregular por parte de 
+    servidores, para assuntos particulares, por exemplo. Além disso, pode-se identificar uma falsa prestação de serviço, 
+    caso haja alguma fraude no sistema de transporte por parte dos prestadores de serviço.
+    
+  originalidade: >-
+    O sistema traz uma grande transparência no uso do transporte de servidores civis, pois no dia seguinte à corrida, os dados 
+    referentes às corridas já são publicados, inclusive o custo da corrida e distância. Quando havia uma frota física de carros, 
+    esse tipo de transparência não era possível, agora com o advento do Taxigov, além de se baratear os custos de transporte, os 
+    cidadãos contam com total transparência quanto ao uso deste serviço de transporte.
+    
+  metodologia: >+
+    A rotina de publicação de dados é automatizada por meio de programas que se conectam aos bancos de dados dos fornecedores, 
+    internalizam esses dados no Ministério da Economia e depois os publicam em formato processável por máquinas. A rotina é 
+    executada diariamente, usando ferramentas de software livre.
+  uf: DF
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/taxigov_premio.png 
+- title: Motociclista supera pedestre e vira principal vítima em acidentes de trânsito em Florianópolis
+  project_url: >-
+    https://www.nsctotal.com.br/noticias/motociclista-supera-pedestre-e-vira-principal-vitima-em-acidentes-de-transito-em
+    
+  veiculo: Diário Catarinense
+  autoria: Paulo Batistella
+  data: 17/5/2022
+  resumo: >+
+    Os motociclistas passaram a ser o perfil mais comum das mortes por acidentes de trânsito na última década em Florianópolis. 
+    Quase quatro em cada 10 vítimas no período transitavam em motos (38,3%). Nos 10 anos anteriores, eram cerca de duas (19,9%).
+   
+  relevância: >
+    Reportagem evidencia a partir da realidade de Florianópolis um fenômeno que se repetiu também em outras capitais ao longo da 
+    última década: motociclistas passaram a ser as vítimas mais comuns de acidentes de trânsito. O trabalho ainda mostra que 
+    eventuais ações mitigatórias do problema foram comprometidas pela má qualidade e subnotificação dos registros de óbitos na 
+    década anterior.
+
+  originalidade: >-
+    O trabalho utilizado dados do Sistema de Informação sobre Mortalidade (SIM), do governo federal, e compilados pelo DataSUS para 
+    tratar de acidentes de trânsito.
+    
+  metodologia: >+
+    A priori, foram extraídos do DataSUS dados de mortes em acidentes de trânsito em Florianópolis desde 2001. A partir disso, 
+    foi checado com o Ministério da Saúde e a Diretoria de Vigilância Epidemiológica em Santa Catarina qual a consistência dos 
+    dados, para firmar qual o melhor período para análise. Posteriormente, foi apurado com os especialistas as razões para as 
+    variações expressadas pelo dados já tratados.
+    
+  uf: SC
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/moto em Florianópolis Gito Rossi NSC TV.jpg 
+- title: Furtos e roubos de armas em SC aumentam 27% sob governo Bolsonaro
+  project_url: >-
+    https://www.nsctotal.com.br/noticias/furtos-e-roubos-de-armas-em-sc-aumentam-27-sob-governo-bolsonaro
+    
+  veiculo: Diário Catarinense
+  autoria: Paulo Batistella
+  data: 5/9/2022
+  resumo: >+
+    Santa Catarina teve 298 armas de fogo furtadas, roubadas ou perdidas nos primeiros seis meses deste ano. O número é 27% maior 
+    do que foi registrado no semestre inicial de 2019, quando 231 armas até então legais foram desviadas e, assim, passaram a poder 
+    servir a criminosos no mercado ilegal.
+
+  relevância: >
+    A reportagem evidencia a partir da realidade de Santa Catarina um fenômeno que já era previsto por especialistas em 
+    controle de armas de fogo desde 2019, quando decretos presidenciais de Jair Bolsonaro facilitaram o acesso a elas: um maior 
+    volume no mercado legal seria acompanhado de maior número de desvios. O trabalho também mostra que esses desvios foram mais 
+    frequentes em furtos residenciais e tiveram uma mudança de perfil, passando a envolver maior número de pistolas, dados que 
+    também corroboram a tese de que mais desvios seriam uma provável consequência da facilitação do acesso a civis.
+    
+  originalidade: >-
+    O trabalho é o primeiro a checar a tese de correlação de causalidade de desvios de armas de fogo com os decretos presidenciais 
+    de facilitação do acesso no governo Bolsonaro.
+  metodologia: >+
+    A priori, foi feito um pedido de acesso a informação ao Colegiado de Segurança Pública de Santa Catarina sobre a série 
+    histórica de dados de roubos, furtos, extravios e perdas de armas de fogo no estado, em tabela na qual constassem cada uma 
+    das ocorrências, de qual tipo se tratava, de qual armamento se tratava, em que mês e ano, tipo de local e município havia 
+    ocorrido. Foram identificados então a variação e o perfil dos desvios no período. Os dados foram também cruzados com números 
+    de registros de armas do Sigma e Sinarm e com outros indicadores de segurança pública, como de feminicídios, todos eles 
+    reunidos pelo Anuário Brasileiro da Segurança Pública. Ao final, foram consultados especialistas em controle de armas e entes 
+    públicos para que pudessem comentar sobre os dados e contextualizar a política armamentista recente do país.
+    
+  uf: SC
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/armas de fogo Cristiano Estrela Diario Catarinense.jpg
+- title: Ilhabela continua com o maior orçamento per capita da região
+  project_url: >-
+    https://public.tableau.com/app/profile/carlos.roberto.nunes/viz/RMVale_Orcamentos_Municipais_16631054759560/5_Orcamentos_Municipais_RMVale
+    
+  veiculo: Instituto Ilha Sustentável 
+  autoria: Carlos Roberto Nunes
+  data: 30/7/2021
+  resumo: >+
+    Análise estatistica da influência dos royalties do petróleo e gas nos orçamentos municipais do municipios da RMVale - 
+    Região Metropolitana Vale do Paraíb, Litoral Norte e São José dos Campos e Serra da Mantiqueira. 
+  
+  relevância: >
+    Importância do quanto os royaltes provindos do Petrólio influenciam no Orçamento e indicadores
+       
+  originalidade: >-
+    Uso de ferramentas de Mining e B.I. para analise de dados public.
+    
+  metodologia: >+
+    Mining de dados no Tribunl de contas das 39 cidades da RMVale, consolidação dos Dados e contação de uma história sobre os 
+    orçmentos díspares em municpipios da mesma região 
+
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/dsa_by_carlosnunes.png 
+- title: Governo Federal usa teto de gastos para justificar cortes de verbas da ciência
+  project_url: >-
+    http://www.jornaldaciencia.org.br/governo-federal-usa-teto-de-gastos-para-justificar-cortes-de-verbas-da-ciencia/
+    
+  veiculo: Sociedade Brasileira para o Progresso da Ciência (SBPC)
+  autoria: Rafael Revadam
+  data: 3/6/2022
+  resumo: >+
+    A Sociedade Brasileira para o Progresso da Ciência (SBPC) realiza análises orçamentárias das verbas do Governo Federal e 
+    disponibiliza para atores do poder legislativo (deputados e senadores) com o objetivo de embasar projetos de leis, aberturas 
+    de audiências públicas, entre outros mecanismos em prol de políticas científicas. Apesar da instituição realizar esses 
+    levantamentos há pelo menos cinco anos, apenas em junho deste ano que eles se tornaram públicos no site (qualquer pessoa 
+    podia ter acesso às informações, mas deveria solicitar por e-mail ou demais canais oficiais).
+    O objetivo da reportagem foi, além de divulgar esses dados e a disponibilidade deles, trazer um panorama sobre a atual situação 
+    das políticas científicas no país, principalmente com os constantes bloqueios de verbas realizados pelo Governo Federal.
+
+  relevância: >
+    A matéria é relevante primeiro por destacar um monitoramento público que é importante, mas, principalmente, por trazer um 
+    panorama que não é de comum entendimento. Os governos tendem a fazer manobras que dificultam a noticiabilidade dos 
+    acontecimentos. Nesse caso, a alternativa em contingenciar/bloquear verbas ao invés de cortar é exatamente uma manobra 
+    pensada para dificultar a compreensão, até porque é comum da nossa sociedade não estar familiarizada com as burocracias 
+    governamentais. A reportagem fala de dinheiro público e também sobre um bloqueio que afeta a educação, a ciência, a saúde de 
+    instituições públicas, como universidades, e isso tem uma relevância nacional.
+    
+  originalidade: >-
+    Particularmente, acredito que o grande diferencial é o fato da reportagem ter sido pensada para ser didática. Existe um 
+    comportamento comum no jornalismo econômico ou político de usar jargões, termos técnicos, principalmente em setores tão 
+    burocráticos como governos, e isso não só dificulta o entendimento do público como o engajamento desse público com o que 
+    está sendo noticiado. Por ter sido publicada em um veículo de uma sociedade civil, que é o caso da SBPC, existe essa 
+    preocupação de deixar o público ciente da realidade científica do país, mas também indignado, para que ele se mobilize, 
+    e pra isso é necessário romper formas narrativas do jornalismo que acabam sendo um padrão. Afinal, falar de temas como 
+    análises orçamentárias, teto de gastos, tudo isso já parece técnico, e a matéria foi pensada para tentar quebrar isso.
+    
+  metodologia: >+
+    A metodologia utilizada foi pegar os dados das análises orçamentárias da SBPC que fossem mais visíveis ao público, ou seja, 
+    aqueles cujos valores pudessem ser convertidos em cifras e trazer, assim, um número que fosse próximo do entendimento da 
+    população. Porque essa análise orçamentária realizada pela assessoria parlamentar da SBPC é bem mais complexa e envolve tanto 
+    a Lei Orçamentária Anual (LOA) como diferentes setores do Governo Federal que atuam diretamente com Ciência, Educação e Meio 
+    Ambiente. Então foi feito um recorte, aproveitando o factual de um bloqueio no FNDCT (Fundo Nacional de Desenvolvimento 
+    Científico e Tecnológico), para contextualizar a existência dessas análises.
+    Os dados estão disponíveis neste link: http://portal.sbpcnet.org.br/analises-orcamentarias-legislativas/
+    
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/foto_sbpc_cortada.jpg 
+- title: Farra das APMs
+  project_url: >-
+    https://tinyurl.com/28kx8d5z
+    
+  veiculo: Farolete
+  autoria: Cristiano Pavini
+  data: 4/8/2022
+  resumo: >+
+    A série de reportagens revelou que a prefeitura de Ribeirão Preto (SP) realizou uma injeção milionária de recursos nas 
+    APMs (Associações de Pais e Mestres) ao final de 2021, em uma manobra atípica que visou atingir o mínimo constitucional 
+    de 25% de gastos com Educação. A partir da análise das prestações de contas dessas entidades, descobriu-se um direcionamento 
+    de recursos, inclusive para microempresas localizadas em residências, algumas recebendo R$ 836 mil sem licitação. Apurou-se, 
+    ainda, que a empresa campeã de serviços paras as APMs, bancada com dinheiro público, era comandada por uma funcionária do alto 
+    escalão da Secretaria de Educação. 
+   
+  relevância: >
+    As APMs são essenciais para a rotina escolar. Entretanto, carecem de fiscalização e transparência. Cada escola possui sua APM, 
+    com CNPJ e conta bancária própria. Seus gastos não são sistematizados no Portal de Transparência Municipal ou Tribunal de 
+    Contas, e feitos sem licitação, apenas com cotação de preços. As descobertas feitas pela reportagem em Ribeirão Preto podem 
+    ser, seguramente, replicadas em outras cidades brasileiras. Como o uso das APMs para, sem planejamento prévio, atingir os 
+    mínimos constitucionais de investimentos em Educação. E, em especial, os gastos suspeitos, irregulares ou ineficazes das 
+    mesmas, em razão da ausência de controle social. As cifras não são baixas: em 2021, as APMs receberam R$ 14,1 milhões da 
+    prefeitura de Ribeirão Preto. O impacto das reportagens aqui cadastradas está sendo extremamente 
+    relevante: 
+    1) A Controladoria Geral do Município abriu procedimento interno para apurar os fatos; 
+    2) A Secretaria de Educação instaurou sindicância para investigar a funcionária que comandava a empresa campeã de serviços, 
+    3) A Procuradoria Geral do Município emitiu parecer apontando correções de brechas na execução de gastos pelas APMs; 
+    4) O Conselho Municipal de Educação se debruçou sobre os fatos revelados, requisitando informações e contribuindo com sugestões 
+    para ampliar a transparência das APMs; 5) A Câmara Municipal aprovou projeto de resolução convocando o Secretário de Educação 
+    e a funcionária mencionada na reportagem para prestarem esclarecimentos ao Legislativos 
+    (link para essa reportagem: https://tinyurl.com/2p959c94); 6) O Ministério Público Estadual tomou ciência das reportagens e 
+    estuda instaurar um inquérito para ampliar a apuração; 6) O Secretário de Educação determinou medidas para ampliar a 
+    transparência das APMs, incluindo a contratação de novo software de prestação de contas.
+    
+  originalidade: >-
+    A originalidade está na pauta. Como explicado acima, as APMs raramente entram no radar da imprensa, 
+    seja pela dificuldade de se encontrar dados, seja pela errada percepção de que as mesmas, por serem comandadas pela 
+    comunidade escolar, são isentas de irregularidades. 
+    
+  metodologia: >+
+    O TCE-SP disponibiliza dados dos empenhos, liquidações e pagamentos anuais de cada município. Baixei as planilhas de 2014 a 
+    2022, unifiquei por meio da linguagem SQL (software DB Browser) e filtrei apenas as liquidações, em razão do tamanho dos 
+    arquivos (cerca de 500 mb, na somatória). Com o novo arquivo, analisei pela Tabela Dinâmica do Excel os repasses relacionados 
+    às APMs, em cada ano. Verifiquei que em 2021 elas receberam mais do que a somatória de 2017 a 2020. Analisei o comportamento 
+    mensal das liquidações, ano a ano, e descobri que em 2021 a movimentação foi atípica: apenas em novembro elas receberam 
+    R$ 7 milhões, mais do que todo o ano de 2019 e 2020 somados. Após apuração com diversas fontes da comunidade escolar, 
+    descobri que tratou-se de um movimento realizado às pressas pela prefeitura para tentar cumprir o mínimo constitucional de 
+    direcionar 25% de arrecadação própria com Educação. Em seguida, foi a vez de descobrir como as APMs utilizaram esses recursos. 
+    Requisitei, pela LAI, acesso a relatórios sistematizados e planilhas, mas o poder público alegou que o sistema interno não 
+    tinha essa funcionalidade. Tive que baixar, manualmente, uma a uma, a prestação de contas de 107 escolas municipais no 
+    Portal de Transparência, gerando um arquivo PDF para cada uma. Consolidei os 107 arquivos PDFs em apenas um, e tentei 
+    extrair os dados pelo Tabula, sem sucesso. A partir de dica que recebi no grupo de Whats do DDJBR (emoji de coração), 
+    tive mais sucesso convertendo o arquivo PDF em Excel no site SmallPDF (gratuito). Após limpeza, consegui uma planilha 
+    com 5.251 lançamentos de despesas das APMS, relativos a 905 empresas, somando R$ 7,2 milhões em 2021. Fui buscar as 
+    três que mais receberam recursos, e descobri que todas eram microempresas com sede em endereços residenciais. 
+    Após a publicação, uma fonte me informou que uma funcionária da prefeitura era casada com o dono da empresa ‘campeã’ das APMs. 
+    Após infrutíferas tentativas de comprovar em redes sociais e cartórios, consegui comprovar a ligação na 
+    Jucesp (Junta Comercial de São Paulo), ao consultar as certidões da empresa (consulta pública), 
+    pois entre os documentos havia uma procuração dando à funcionária em questão plenos poderes para gerenciar a empresa.
+    
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/farolete-premio.png 
+- title: 'O caçador de jazidas: quem é o empresário que lidera a corrida pelo ouro em terras indígenas'
+  project_url: >-
+    https://reporterbrasil.org.br/2022/05/o-cacador-de-jazidas-quem-e-o-empresario-que-lidera-a-corrida-pelo-ouro-em-terras-indigenas/
+  veiculo: Repórter Brasil
+  autoria: Marina Rossi, Gisele Lobato e Daniel Camargos
+  data: 9/5/2022
+  resumo: >+
+    A reportagem buscou descobrir e revelar detalhes sobre o grupo que está por trás da maior quantidade de pedidos de estudo e 
+    exploração mineral em terras indígenas (algo inconstitucional) junto à Agência Nacional da Mineração (ANM).
+   
+  relevância: >
+    A reportagem buscou identificar quem era o grupo por trás da maior quantidade de requerimentos de estudo e exploração 
+    mineral em terras indígenas junto à Agência Nacional de Mineração (ANM). Importante frisar que a exploração mineral em 
+    terras indígenas é inconstitucional. Ainda assim, a ANM dá andamento a muitos dos pedidos envolvendo TIs. Em meio à 
+    discussão sobre o PL 191/2020, que prevê a liberação das atividades econômicas em terras indígenas e teve seu caráter de 
+    emergência aprovado pela Câmara dos Deputados em maio passado, a reportagem revela quem mais sairá lucrando caso a lei seja 
+    aprovada. Curioso notar que esse mesmo grupo é dono de uma marca de vinho nacional super premium que em seu site de vendas 
+    ressalta suas “preocupações ambientais”. 
+    A reportagem também produziu alto impacto: o grupo retirou grande parte dos pedidos de exploração e estudos em TIs junto à 
+    ANM logo após ser procurado pela Repórter Brasil para responder aos questionamentos da reportagem. 
+
+  originalidade: >-
+    Enquanto a imprensa destacava apenas a discussão sobre o PL 191/2020, que prevê a liberação da exploração econômica em TIs, 
+    nós fomos atrás de quem mais sairia ganhando com isso. E descobrimos não só uma mineradora, como várias, todas pertencentes à 
+    mesma família, e com lastros no Canadá em paraísos fiscais. 
+    
+  metodologia: >+
+    Solicitamos a lista de requerimentos de estudo e exploração mineral em terras indígenas à ANM. A partir de então, 
+    dividimos essas requisições por empresas e somamos as áreas requisitadas para descobrirmos quais eram as empresas que mais 
+    solicitaram a exploração em TIs por área.
+    Cruzando dados com a base da Receita Federal, descobrimos que muitas empresas de nomes e localidades diferentes faziam parte 
+    do mesmo grupo, cuja matriz está no Canadá. Por meio de informações da Comissão de Valores Mobiliários (CVM), destrinchamos 
+    a matriz e chegamos em uma só família por trás da maior quantidade de pedidos, por área, junto à ANM. Por fim, descobrimos, 
+    por meio de informações disponibilizadas pelo International Consortium of Investigativa Journalists (ICJ), descobrimos os 
+    lastros do grupo em paraísos fiscais. 
+
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/Garimpo-Ibama.jpg
+
+#Está na reportagem 50
+- title: 
+  project_url: >-
+    
+  veiculo: 
+  autoria: 
+  data: 
+  resumo: >+
+   
+
+  relevância: >
+    
+
+    
+  originalidade: >-
+    
+  metodologia: >+
+    
+
+  uf: 
+  ano: '2022'
+  tipo_inscricao: 
+  formato: 
+  category: 
+  image:
