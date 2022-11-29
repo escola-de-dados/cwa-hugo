@@ -12686,3 +12686,1054 @@
   formato: Online
   category: concorrente
   image: images/edicoes/2020/Direito-a-Informac-o.png
+- title: Ministério da Saúde possui R$ 245 milhões em medicamentos/produtos vencidos em estoque
+  project_url: >-
+    https://globoplay.globo.com/v/10773450/
+    
+  veiculo: TV Globo
+  autoria: Vinícius Cassela, Marcelo Parreira, Letícia Carvalho, Delis Ortiz e Mariana Nigro
+  data: 19/7/2022
+  resumo: >+
+    "Ministério da Saúde possui R$ 245 milhões em medicamentos/produtos vencidos em estoque. Ao todo, são quase 22 milhões 
+    de frascos/comprimidos/unidades de produtos vencidos nos estoques que ficam no RJ e em SP. Os dados foram disponibilizados 
+    pelo órgão, via Lei de Acesso à Informação, na última quinta-feira (7). 
+
+    Dentre os itens vencidos, estão mais de 6 milhões de unidades de vacinas e 60% (3.757.882 de unidades) delas são vacinas 
+    da pentavalente, que garante a proteção contra a difteria, tétano, coqueluche, hepatite B e contra a bactéria haemophilus 
+    influenza tipo b. Ainda há 2,7 milhões de unidades de spray usado no tratamento de diabetes e outras 88 mil unidades de 
+    insulina, também utilizada no tratamento da doença. Há também 2 milhões de unidades de um medicamento bactericida e de 
+    medicamento para tratamento do HIV. Até mesmos kit de testes venceram, como os 45 mil para detecção da Dengue.
+
+    Os produtos cuja perda rendeu mais prejuízo ao Ministério estão as vacinas contra a covid-19. Foram 344 mil unidades perdidas, 
+    de várias dosagens diferentes, e que totalizaram R$ 46,6 milhões de rombo aos cofres públicos. Aliás, na lista ainda entram 
+    as famosas Azitromicina (142 mil unidades) e Cloroquina (22 mil unidades), que foram utilizadas no Kit Covid.
+
+    Do total de medicamentos vencidos, mais de 14 milhões são produtos vencidos há mais de um ano. Existem, até mesmo, 
+    medicamento vencidos há cinco anos e que continuam armazenados nos estoques do Ministério da Saúde."
+   
+  relevância: >
+    A reportagem teve destaque por trazer, pela primeira vez, a relação completa de medicamentos vencidos 
+    que estão armazenados no Ministério da Saúde. Enquanto milhares de pessoas precisam de medicamentos retrovirais o órgão 
+    conseguiu perder mais de duas milhões de unidades por falta de organização logística. Da mesma forma que ocorreu com 
+    medicamentos para diabéticos, testes rápidos de dengue
+       
+  originalidade: >-
+    Até a decisão de junho do ministro do Tribunal de Contas da União (TCU), Vital do Rêgo, o Ministério da Saúde teve 
+    que acatar a decisão de suspender o sigilo imposto sigilo às informações de estoque de medicamentos e produtos existentes 
+    nos centros de distribuição de responsabilidade do Ministério. E esta reportagem foi a primeira que destrinchou quais eram 
+    os medicamentos vencidos e o tamanho do rombo que o Ministério administra atualmente.
+    
+  metodologia: >+
+    A partir da resposta do Ministério, convertemos a base de dados de 60 páginas de pdf para o formato xls. 
+    Em seguida, limpamos a base e fizemos um cálculo do tempo de validade restante para os produtos, usando como data 
+    de corte a do dia que fizemos o cálculo. Os dados negativos nós classificamos como medicamentos vencidos e os dados 
+    positivos foram classificados como "à vencer". Em seguida, classificamos a base de acordo com o tempo de vencimento, 
+    segregado em "vencido em 1 ano; vencido há 2 anos; 3 anos; 4 anos e 5 anos ou mais". Em seguida, padronizamos os nomes 
+    dos produtos, a fim de facilitar a contagem de produtos semelhantes. E, por fim, sumarizamos as bases a fim de conseguir 
+    quantificar a quantidade e os valores totais de cada um dos medicamentos.
+  uf: DF
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: TV
+  category: Dados Abertos
+  image: images/edicoes/2022/1.png 
+- title: Retomada da Economia
+  project_url: >-
+    https://mais.opovo.com.br/reportagens-especiais/retomada-da-economia
+    
+  veiculo: O POVO
+  autoria: Carol Kossling
+  data: 27/6/2022
+  resumo: >+
+    O Projeto Retomada da Economia mostra qual a situação do País nos últimos anos. Além de reajustes econômicos e fiscais é 
+    necessário um novo olhar para as tendências mundiais e para os potenciais regionais. Na agenda para recuperar o que se perdeu, 
+    reorganizar o mercado de trabalho e criar novas oportunidades para o empreendedorismo e para os negócios de impacto social. 
+    São quatro episódios: Brasileiro consome 30% menos em 5 anos e efeito cascata atinge mercado de trabalho; 
+    Equilíbrio fiscal é pilar para recuperação econômica do País; Ceará pulveriza áreas para crescer; Um país chamado favela: 
+    moradores assumem protagonismo nos negócios.
+  relevância: >
+    A Reportagem seriada traz muitas informações, dados, infográficos, artigos e fotos que contextualizam o atual 
+    momento da economia no Brasil e no Ceará e possibilidades para uma retomada.  
+  originalidade: >-
+    Reunião de informações e sua tradução para dados e infográficos que facilitem a leitura com temas de macroeconomia, 
+    além de pautas cotidianas que interferem na vida de todos.
+
+  metodologia: >+
+    Em cada episódio foi estudada a melhor forma de apresentação de cada um dos dados para facilitar o entendimento e 
+    compreensão do leitor.
+
+  uf: CE
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/Retomada da Economia.jpg 
+- title: Ex-donos de corretora de criptoativos comandam golpe dos falsos emagrecedores
+  project_url: >- 
+    https://www.aosfatos.org/noticias/criptoativos-criptohub-golpe-falsos-emagrecedores/
+
+  veiculo: Aos Fatos
+  autoria: Marco André Faustino da Silva
+  data: 27/6/2022
+  resumo: >+
+    A série investigativa teve início em 13 de junho de 2022 
+    (https://www.aosfatos.org/noticias/rede-de-desinformacao-promoveu-golpe-da-lipozepina-ao-topo-das-buscas-por-falso-emagrecedor/) 
+    e culminou na revelação, duas semanas depois, de que ex-sócios e ex-executivos de uma corretora de criptoativos tirada do ar 
+    após arrecadar milhões de reais de clientes estavam por trás de uma rede de desinformação criada para aplicar golpes com a 
+    venda de falsos emagrecedores. O esquema existia desde dezembro do ano passado e utilizava sites e perfis falsos no Facebook e 
+    no Instagram, que tinham funções específicas, e era comandada por pessoas ligadas à CriptoHub, que fechou alegando dificuldades 
+    financeiras.
+
+    Com a ajuda de posts patrocinados, o golpe obteve 20 milhões de visualizações no Facebook em 11 dias e causou prejuízo a 
+    dezenas de milhares de pessoas que até hoje lutam para receber valores de volta.
+  relevância: >
+    A série investigativa resultou na prisão de membros de uma quadrilha suspeita de vender os falsos emagrecedores na internet 
+    (https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2022/07/06/quadrilha-e-presa-suspeita-de-venda-de-medicamentos-falsificados-pela-internet.ghtml). 
+    Como resultado, a Anvisa proibiu a comercialização, distribuição, fabricação e propaganda dos suplementos alimentares Lipotramina e Lipozepina, 
+    vendidos irregularmente como emagrecedores (https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2022/proibidos-os-produtos-lipotramina-e-lipozepina-vendidos-irregularmente-como-emagrecedores).
+
+    A investigação, portanto, teve um impacto real na vida do cidadão.  
+  originalidade: >-
+    A série investigativa obteve um impacto real em impedir a propagação de um golpe financeiro e contra a saúde da população, 
+    que utilizava de desinformação para impulsionar vendas pela internet. Mostra também que a checagem de fatos transcende o 
+    ambiente virtual e se torna uma prestação de serviço imprescindível para a população no mundo real.
+    
+  metodologia: >+
+    A série investigativa cruzou dados disponibilizados publicamente pela Receita Federal, pelo CruzaGrafos da Abraji, 
+    além de busca reversa pelo Google Analytics ID, por meio de uma ferramenta paga, de modo a identificar os demais sites 
+    que pertenciam a rede de sites enganosos e que utilizavam o mesmo código. Esse conjunto de dados ajudou a encontrar os 
+    responsáveis pela operação nas redes.
+  uf: RJ
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/imagem_golpe_dos_falsos_emagarecedores.jpg
+- title: 'CSP: A história da siderúrgica que mudou a balança comercial cearense'
+  project_url: >- 
+    https://mais.opovo.com.br/reportagens-especiais/2022/08/05/csp-a-historia-da-siderurgica-que-mudou-a-balanca-comercial-cearense.html
+
+  veiculo: O POVO
+  autoria: Carol Kossling e ArmandoDe Oliveira Lima
+  data: 5/8/2022
+  resumo: >+
+    A reportagem especial CSP: A história da siderúrgica que mudou a balança comercial cearense  conta que após o início da 
+    operação da Companhia Siderúrgica do Pecém, em 2016, o Ceará deu um salto em relação à exportação aumentando anualmente o 
+    volume. Este ano, a indústria foi vendida para multinacional Arcelor Mittal.
+  relevância: >
+    Por tratar da venda de uma empresa importante para o Brasil e a aquisição ter sido por uma multinacional que impactará 
+    positivamente a produção siderúrgica do Brasil, e do Ceará.  
+  originalidade: >-
+    Nenhum veículo do Ceará ou do Brasil fez esta análise de dados e linha do tempo sobre a instalação da empresa no 
+    Ceará e o que isso significou para o País.
+  metodologia: >+
+    Foi pensado cuidadosamente em como tornar o conteúdo atrativo e de fácil leitura para o receptor da mensagem. 
+    Fora utilizados recursos gráficos, mapas, tabelas, gráficos e infográficos.
+
+  uf: CE
+  ano: '2022'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2022/csp-a-historia-da-siderurgica-que-mudou-a-balanca-comercial-cearense.png
+- title: Recife tem a 4ª Câmara de Vereadores mais branca entre as capitais
+  project_url: >-
+    https://jc.ne10.uol.com.br/politica/2021/11/13628793-recife-tem-a-4-camara-de-vereadores-mais-branca-entre-as-capitais.html
+    
+  veiculo: Jornal do Commercio
+  autoria: Paulo Veras
+  data: 20/11/2021
+  resumo: >+
+    Matéria mostra que Recife tem a 4ª Câmara mais branca entre as capitais do País, perdendo apenas para as três 
+    capitais da região Sul. Embora a maioria da população da cidade seja negra, 75% dos vereadores são brancos. 
+    Também traz números sobre as demais Câmaras de Vereadores do Estado. Em 97 cidades de Pernambuco, não há sequer um 
+    vereador preto.
+   
+  relevância: >
+    O debate sobre a representação da população negra no legislativo local em Pernambuco, estado historicamente marcado pela 
+    exploração de mão de obra escravizada no ciclo açucareiro. A matéria também aborda o primeiro ano de funcionamento da Comissão 
+    de Igualdade Racial e Enfrentamento ao Racismo da Câmara do Recife.
+     
+  originalidade: >-
+    No âmbito de Pernambuco, foi a primeira vez que esses dados foram analisados dessa forma e em comparação com o restante do país.
+    Isso foi facilitado pelo lançamento da plataforma Panorama do Legislativo Municipal pelo DataSenado em novembro do ano passado.  
+  metodologia: >+
+    Primeiro, utilizamos um raspador para coletas as informações sobre raça dos integrantes de todas as Câmaras Municipais no site 
+    Panorama do Legislativo Municipal, mantido pelo Senado Federal. Depois, essa base foi limpa e analisada. 
+    Optou-se por comparar o Recife apenas com capitais para evitar possíveis distorções no proporção de brancos/negros 
+    provocadas pelo baixo número de vereadores em muitas cidades do interior. Dados de 177 municípios pernambucanos disponíveis na 
+    plataforma também foram analisados. A distribuição racial nas Câmaras de Vereadores também foi comparada com dados de proporção 
+    da população por raça disponíveis no IBGE.
+    
+  uf: PE
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Impresso
+  category: Investigação
+  image: images/edicoes/2022/materia ilustra.png 
+- title: Hidrelétricas do rio São Francisco agravam a crise climática no Nordeste
+  project_url: >-
+    https://infosaofrancisco.canoadetolda.org.br/noticias/crise-climatica/hidreletricas-do-rio-sao-francisco-agravam-a-crise-climatica-no-nordeste/
+    
+  veiculo: InfoSãoFrancisco
+  autoria: Antônio Laranjeira
+  data: 9/7/2022
+  resumo: >+
+    As disputas por água são diretamente relacionadas à produção de energia elétrica e redesenham o curso do rio que, 
+    apesar de chuvas mais fortes hidrelétricas cheias até 99%, ainda convive com a falta de vazão. Mas o que justifica? 
+    Entenda essa contradição nesta reportagem especial.
+
+  relevância: >
+    Antônio Laranjeira elaborou esta matéria com uma bolsa de jornalismo fornecida pela parceria entre o ClimaInfo com o apoio 
+    financeiro do Instrumento de Parceria da União Europeia com o Ministério Federal Alemão para o Meio Ambiente, Conservação da 
+    Natureza e Segurança Nuclear (BMU) no contexto da Iniciativa Climática Internacional (IKI). Os conteúdos desta publicação são 
+    de inteira responsabilidade dos seus organizadores e não necessariamente refletem a visão dos financiadores.
+      
+  originalidade: >-
+    Em um deserto de notícias ambientais como Sergipe, a reportagem em multimídia (com imagens de satélite de 40 anos) traz 
+    luz sobre as questões das vazões do rio São Francisco com base nos dados públicos da ANA, bem como documentos do IBAMA e 
+    declarações da diretoria da CHESF e CBHSF a respeito da gestão das usinas e governança da água. Ao longo da história, 
+    argumentos científicos e artifícios populares para correlacionar a crise climática com a gestão temerária das águas em uma 
+    franca privatização e especulação na última década (2012-2022).
+    
+  metodologia: >+
+    Coletamos e observamos imagens de satélite (1964/2020) da usina de Xingó usando recurso da Google Earth e dados da NASA com 
+    timelapse, assim elaboramos um recorte da reportagem no raio de comunidades em zona de riscos por inundações em casos de cheias 
+    do rio São Francisco.
+
+    Harmonizamos menino gráfico interativo os dados de vazão, utilizando do Data Wrapper, e comparamos os valores com o volume dos 
+    caminhões pipa de modo a dar uma proporção hídrica regionalizada (em metros cúbicos) conforme a realidade socioespacial 
+    (longe da realidade das piscinas olímpicas) com comunidades resilientes nesta zona do Semiárido.
+
+    Observamos depoimentos de pessoas com mais de 30 anos de vivência com o rio São Francisco para comparar com dados de 30 
+    anos da crise climática de acordo com relatório do IPCC 2022.
+
+  uf: SE
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/EFC53515-4009-4479-92D0-3AA99AC46362.jpeg 
+- title: 'Zero é relativo: o que oscilações das médias semanal e quinzenal não revelam dos óbitos diários por Covid-19'
+  project_url: >-
+    https://cidacs.bahia.fiocruz.br/2021/11/25/zero-e-relativo-covid-19/
+    
+  veiculo: CIDACS/Fiocruz
+  autoria: Antônio Laranjeira
+  data: 25/11/2021
+  resumo: >+
+    A reportagem de dados explica o que um “zero” pode significar? Dados podem servir para notícias 
+    promotoras das informações científicas úteis ou podem acabar sendo utilizados para notícias detratoras do real 
+    significado do número mais problemático para analisar a Covid-19.
+   
+  relevância: >
+    Entre os fatos e os dados de Saúde existe um percurso que começa nas interpretações científicas e segue na circulação de 
+    informações nas mídias. No começo da pandemia da Covid-19, o risco de óbito pela contaminação do vírus SARS-CoV-2 era 
+    desbravado pelas pesquisas, muitas delas desenvolvidas pela Fundação Oswaldo Cruz (Fiocruz). Nesse momento, era comum que 
+    as notícias, diariamente, tratassem da modelagem estatística e da modelagem matemática.
+
+    Passamos a ter visões computacionais nos jornais como nunca antes. Em diferentes mídias, os mapas e gráficos de dados da 
+    pandemia assumiram o destaque dos noticiários, sobretudo para os óbitos. Para visualizar as dinâmicas do novo vírus em 
+    diferentes escalas do espaço, do local ao global, as plataformas de análise de dados tornaram-se oásis de informação confiável 
+    em meio a um deserto de desinformação.
+
+    A Pamepi é uma das plataformas que obteve destaque nos noticiários neste período pandêmico. A iniciativa integra uma frente 
+    internacional de inovações socialmente dirigidas, a International Covid-19 Data Alliance (ICODA).
+
+    Criada para realizar previsões epidemiológicas sobre os cenários da Covid-19, as modelagens da Pamepi auxiliam, desde 2020, 
+    nas tomadas de decisão de gestores públicos de todo Brasil, bem como nas pesquisas de grupos de diferentes universidades do país.
+        
+  originalidade: >-
+    Estes resultados servem de alerta se considerarmos, conforme análises da Pamepi, que a mobilidade é um dos fatores 
+    principais que impulsiona novas “ondas” de infecção e que a vacinação ainda não atingiu um nível de cobertura “ótimo” 
+    em termos estatísticos.
+
+    A Pamepi é uma das plataformas que obteve destaque nos noticiários neste período pandêmico. A iniciativa integra uma 
+    frente internacional de inovações socialmente dirigidas, a International Covid-19 Data Alliance (ICODA).
+
+    Criada para realizar previsões epidemiológicas sobre os cenários da Covid-19, as modelagens da Pamepi auxiliam, 
+    desde 2020, nas tomadas de decisão de gestores públicos de todo Brasil, bem como nas pesquisas de grupos de diferentes 
+    universidades do país.
+  metodologia: >+
+    Para entendermos a relatividade do número “zero” é preciso coletar dados da oscilação das médias de óbitos por COVID-19, 
+    durante ao menos três dias. As coletas dos dados (com o recurso de captura de tela) foram feitas nos últimos dias 30 de outubro,
+    10 de novembro e 20 de novembro.
+
+    A reportagem mostra em dois estados (Acre e Ceará) que zero óbitos nos últimos 15 dias é bom. Mas é preciso alertar a 
+    população em geral que a pandemia ainda não acabou e que grande mobilidade e festejos em áreas demograficamente densas e 
+    geograficamente centrais – como o exemplo de Fortaleza, no Ceará – podem fazer subir o número de casos e como consequência 
+    alterar o número dessa tão estimada média.
+
+    Todos os dados e tutoriais da Pamepi bem como os modelos estatísticos e matemáticos utilizados e seus dicionários estão no 
+    GitHub: www.pamepi.fiocruz.rondonia.br"
+
+  uf: BA
+  ano: '2022'
+  tipo_inscricao: Inovação e experimentação
+  formato: Online
+  category: Inovação e experimentação
+  image: images/edicoes/2022/B5E2EE3D-FBD1-40AD-A7EC-BF53057DAD57.png 
+- title: Conheça o lado cinza dos marketplaces
+  project_url: >-
+    https://aiotbrasil.com.br/ecommerce/o-lado-cinza-dos-marketplaces/
+    
+  veiculo: AIoT Brasil
+  autoria: Daniel dos Santos
+  data: 16/12/2021
+  resumo: >+
+    Durante 3 meses o AIoT Brasil viu ofertas com preços imbatíveis em sites de grandes varejistas online,  
+    conversou com os principais executivos  de dezenas de empresas, associações do setor, clientes, vendedores 
+    (além de fazer várias compras) e checou a base de dados da Anatel para verificar se os produtos eram homologados e legalizados.
+    E encontrou coisas como anúncios com nomes sugestivos como Sky Gato e Gato Net, aparelhos como drones, smartwatches, 
+    smartphones e acessórios vendidos por menos da metade do cobrado tradicionalmente, itens vendidos sem nota fiscal ou mesmo 
+    produtos que não têm sequer o nome do fabricante ou um número de série.  Esse tipo de atividade impacta a economia de forma 
+    negativa (ceifando empregos e impostos) e chega a colocar em risco a vida do consumidor. 
+
+  relevância: >
+    A série de reportagens é importante por alertar o consumidor (que muitas vezes acredita que, por estar comprando em uma 
+    grande loja online, como o Submarino ou Americanas, por exemplo, pode confiar plenamente nessa compra) e as autoridades 
+    sobre as várias ilegalidades que são cometidas abertamente pelas lojas online. Esse tipo de atividade impacta a economia 
+    de forma negativa (ceifando empregos e impostos) e chega a colocar em risco a vida do consumidor. 
+    
+  originalidade: >-
+    A questão sobre as infrações (pirataria, sonegação de imposto, oferta de produtos sem marca, equipamentos não homologados, 
+    aparelhos que interferem no sinal de aeroportos, produtos que podem explodir etc.) cometidas pelos grandes varejistas online 
+    (Amazon, Submarino, Americans, Shopee, Mercado Livre etc.) é muito pouco debatida pelos grandes veículos de comunicação. 
+    Possivelmente porque são grandes anunciantes ou mesmo por desconhecimento disso. 
+  metodologia: >+
+    O trabalho levou 3 meses de apuração e os dados foram levantados com o uso de ferramentas de busca como o Google e 
+    base de dados sobre homologação de produtos eletrônicos da Anatel 
+    (https://informacoes.anatel.gov.br/paineis/certificacao-de-produtos/consulta-de-produtos), além de análise manual dos 
+    anúncios oferecidos e checagem das informações com vendedores (legais e ilegais) e especialistas. Também foram entrevistados 
+    presidentes de grandes empresas e associações do setor, além de especialistas em cada área abordada. 
+
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/imagem reportagem.png
+- title: Medo, morte e abandono rondam defensoras do meio ambiente 
+  project_url: >-
+    https://azmina.com.br/reportagens/medo-e-abandono-rondam-defensoras/
+    
+  veiculo: Revista AzMina
+  autoria: Joana Suarez
+  data: 21/7/2022
+  resumo: >+
+    Todos os meses, em média, registram-se três casos de ameaças, mortes ou tentativas de assassinato de mulheres ativistas de 
+    causas ambientais no país. E essas são apenas as que ficam conhecidas, muitas não são noticiadas. Longe dos grandes centros 
+    urbanos, elas arriscam suas vidas lutando por um pedaço de terra para trabalho, para ter comida em casa, para ter um futuro e 
+    manter a natureza viva. Levantamento d'AzMina identifica mulheres ativistas que sofrem ameaças, tentativas de assassinato e 
+    perdem a vida em conflitos no campo brasileiro. 
+
+    Em 2021, foram 26 mulheres ameaçadas, duas mortes e quatro tentativas de assassinato. As que sofrem mais perigo são as 
+    posseiras, sem-terra, indígenas e quilombolas. Elas estão nas cinco regiões do país, em 18 estados, mas sobretudo no Norte e 
+    Nordeste – no Pará, Maranhão, Rondônia, Pernambuco, Bahia, Amazonas. E lideram suas comunidades. Nos relatórios da Comissão 
+    Pastoral da Terra, quase metade (42%) das mulheres foram identificadas como sendo lideranças (lembrando que muitas sequer se 
+    reconhecem assim).
+
+    Fizemos esse levantamento inédito a partir dos relatórios de conflitos no campo da Comissão Pastoral da Terra (CPT) com 
+    recorte de gênero (algo que não é feito por entidades nem órgãos oficiais), identificando nas listas todas as mulheres que 
+    foram assassinadas, sofreram tentativas de assassinatos e foram ameaçadas de 2015 até o último relatório publicado (de 2021). 
+
+    São mulheres indígenas, quilombolas, sem-terra, posseiras..., de todas as regiões do país, sobretudo Norte e Nordeste. 
+    Também traçamos como a violência de gênero se soma à violência no campo. 
+
+    Conversei com mulheres ameaçadas em diferentes atividades e partes do Brasil, busquei pesquisadores e estudos relacionados ao 
+    tema, e entrevistei o representante do governo federal sobre o programa de proteção aos defensores. 
+   
+  relevância: >
+    O Brasil é um lugar perigoso para mulheres que defendem o meio ambiente, seus territórios, seus direitos e suas 
+    comunidades. De 2015 até 2021, 24 foram mortas em áreas de conflitos no campo brasileiro. No mesmo período, 40 
+    sofreram tentativa de assassinato. E cerca de 200 mulheres foram ameaçadas de morte. Os dados são da Comissão 
+    Pastoral da Terra (CPT).
+
+    A CPT monitora os casos que são publicizados, ou que chegam até eles, para elaborar um relatório anual com os crimes e 
+    conflitos no campo. Mas não divulga com um recorte de gênero, separando as mulheres em perigo, mortas ou ameaçadas. 
+    A Revista AzMina fez esse levantamento inédito a partir dos dados de 2015 até o último relatório publicado em abril de 
+    2022 (relativo a 2021). Coletamos os nomes femininos referentes às vítimas de assassinatos, tentativas de assassinatos e 
+    ameaças de morte."
+  
+  originalidade: >-
+    Além dois dados inéditos com recorte de gênero sobre um problema que tem se intensificado no Brasil, de mortes e ameaças aos 
+    ativistas ambientais, apresentamos na matéria multimídia seletores para que os leitores pudessem selecionar o tipo de crime 
+    cometido contra as defensoras e ver ao longo da matéria os quatro gráficos com a quantidade de ocorrências ano a ano; com os 
+    estados onde essas mulheres estão no mapa do país; com os perfis (como elas se identificam enquanto grupos sociais); e com as 
+    histórias de quem morreu, quem sofreu tentativa de assassinato e quem é ameaçada há vários anos.
+    
+  metodologia: >+
+    Entramos em todos relatórios de Conflitos no Campo, da Comissão Pastoral da Terra (de 2015 a 2021), que possuem tabelas 
+    referentes às vítimas de assassinatos, tentativas de assassinatos e ameaças de morte, com os nomes, localizações, datas e 
+    perfil das pessoas. Coletamos todos os dados com nomes de mulheres em cada uma das tabelas.
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/CAPA HOME.jpg 
+- title: Na terra onde morreu Dorothy Stang, um agricultor vive ameaçado
+  project_url: >-
+    https://brasildedireitos.org.br/atualidades/na-terra-onde-morreu-dorothy-stang-um-agricultor-vive-ameaado
+    
+  veiculo: SDDH, Fundo Brasil
+  autoria: Cristivan Alves e  Rafael Ciscati
+  data: 30/8/2020
+  resumo: >+ 
+    Já das 22h do dia 12 de dezembro, quando Erasmo Alves Teófilo ouviu os primeiros tiros. 
+    Três disparos seguidos de uma ameaça esbravejada. Teófilo e família tinham ido passar a noite na casa do pai, 
+    uma residência pequena localizada na zona rural de Anapu, cidade no sudoeste do Pará. Aos 33 anos ele é homem robusto que, 
+    vítima da queda infantil, se locomove numa cadeira de rodas. É, também, presidente da Cooperativa de Agricultores da Volta 
+    Grande do Xingu (COOPEVAX). O grupo reúne cerca de 350 que, há mais de uma família, brigam na justiça pelo direito de 
+    permanecer — e produzir — nas terras que ocupam. A demanda, Teófilo, o colocou em rota de proteção. Grileiros que cobiçam o 
+    mesmo território e falsificam títulos de posse para criar gado. Naquela noite de fins de 2019.
+   
+  relevância: >
+    A primeira matéria que denúncias as ameaças que sofre o presidente da cooperativa no município de anapu no Pará.
+   
+  originalidade: >-
+    Denúncia que Erasmo Teofilo sofria e após essa reportagem ele ganha proteção das ongs dos Direitos Humanos.
+    
+  metodologia: >+
+    Entrevistas por aparelho de celular móvel  com Erasmo Teófilo e levantamentos das reportagem sobre o Município de Anapu no 
+    Pará,  e levantamentos dos caço de conflitos agrário pelo site da CPT, 
+
+  uf: AP
+  ano: '2022'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2022/captura-de-tela-2020-10-30-as-13-40-47_812x619.png
+- title: As finanças do futebol brasileiro
+  project_url: >-
+    https://ge.globo.com/negocios-do-esporte/noticia/2022/06/13/financas-do-futebol-brasileiro-em-2021-receitas-voltam-a-crescer-mas-clubes-ainda-enfrentam-dividas-e-crises.ghtml
+    
+  veiculo: GE
+  autoria: Rodrigo Capelo
+  data: 13/6/2022
+  resumo: >+
+    O jornalista explica didaticamente a situação financeira do futebol brasileiro, com base nos dados extraídos das 
+    demonstrações contábeis dos 30 principais clubes do país. Receitas, lucros e dívidas, conceitos supostamente incompreensíveis 
+    para torcedores, são apresentados de forma clara e objetiva, para que as pessoas possam entender a relação de causa e efeito 
+    entre uma boa administração, a saúde financeira da entidade e a performance do time em campo.
+   
+  relevância: >
+    Por toda a sua relevância social e econômica, o futebol tem um público cativo e enorme, que não necessariamente acompanha 
+    com afinco outras editorias, como economia e política. Este trabalho funciona quase como um "cavalo de troia": o torcedor se 
+    informa sobre seu clube do coração, ao mesmo tempo em que é introduzido a conceitos básicos de finanças e administração. 
+    O senso crítico é despertado e passa a ser útil em outras áreas da vida da pessoa.
+    
+  originalidade: >-
+    Este trabalho é o primeiro e único no jornalismo brasileiro a se aprofundar, clube a clube, em relação aos números que os 
+    cercam. Enquanto outros veículos se basearam no passado em breves análises de consultores para reportagens curtas, geralmente 
+    após a publicação dos balanços financeiros, a série anual publicada pelo ge coloca o assunto em outro patamar, em termos de 
+    relevância e aprofundamento, além de aferir grande audiência.
+    
+  metodologia: >+
+    Dados são extraídos das demonstrações contábeis e financeiras dos clubes, publicadas por força da Lei Pelé até 30 de abril do 
+    ano subsequente. As etapas do trabalho são: planilhar todos os dados, ajustá-los para que se tornem comparáveis, com auxílio de 
+    especialistas para o entendimento das regras contábeis, organizá-los de acordo com métricas para a avaliação financeira 
+    (comparação entre receitas e dívidas, detalhamento das fontes de receitas e custos, paralelo entre orçado e realizado etc), 
+    produção de gráficos e redação de mais de 30 textos individuais.
+    
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2022/WhatsApp Image 2022-08-17 at 19.50.58.jpeg
+- title: Generais criam Zona Franca de Manaus e 'capitão Bolsonaro' destrói modelo econômico
+  project_url: >-
+    https://portalopoder.com.br/2022/04/29/generais-criam-zona-franca-de-manaus-e-capitao-bolsonaro-destroi-modelo-economico/
+    
+  veiculo: Portal O Poder
+  autoria: Alessandra Aline Martins
+  data: 29/4/2022
+  resumo: >+
+    A Zona Franca de Manaus (ZFM) surgiu com a ideia de integração econômico na capital amazonense, mas, com o tempo passou a gerar 
+    desconfortos para as unidades federativas. Tais ""desconfortos"" podem fazer com que o modelo econômico do Amazonas sofra 
+    diversos ataques no atual governo do Brasil,  comando pelo capitão Jair Messias Bolsonaro (PL).
+
+    É importante ressaltar que o modelo econômico que destruí inúmeras empregos diretos e indiretos nas regiões suframadas 
+    (além do Amazonas, Acre, Rondônia, Roraima e Amapá), ganhou ""auge"" no governo do também militar general Castelo Branco,  
+    ex-presidente do Brasil. (...).
+  relevância: >
+    Exibe a economia do Estado do Amazonas. E como o impacto influencia à população da Amazônia. Além de aumentar o índice de 
+    desempenho, pode influenciar na insegurança no Estado.
+  
+  originalidade: >-
+    A história da Zona Franca de Manaus (ZFM), quando foi criada e como pode ser destruída. Um olhar econômico,  
+    científico e político. 
+    
+  metodologia: >+
+    Além de uma metodologia bibliográfica, apuração de informações através de entrevista com economista,  cientistas políticos e 
+    dados sobre o cenário econômico na capital amazonense. 
+  uf: AM
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/inbound4173867504996683257.png 
+- title: 'Gatilhos: Impacto Social'
+  project_url: >-
+    https://www.portalfuturolivre.com/post/gatilhos-impacto-social
+    
+  veiculo: Portal Futuro Livre
+  autoria: Lucas Rogério Silva Lopes
+  data: 16/8/2022
+  resumo: >+
+   Em uma pesquisa feita pelo Portal Futuro Livre, mostramos com análise de especialistas, o quanto a sociedade é impactada 
+   pelos gatilhos, ou seja, memórias. 
+
+  relevância: >
+    A sociedade vem romantizando a palavra 'gatilho', mas esta reportagem explica seu significado e sua relevância, 
+    além de apresentar em dados e análises exclusivos, o impacto social dos gatilhos na vida das pessoas. 
+  
+  originalidade: >-
+    Muito se fala em depressão, ansiedade e síndrome do pânico, mas sobre gatilhos envolvidos nestes transtornos, além de 
+    gatilhos no mundo das vendas, não se encontra reportagens especiais. 
+    
+  metodologia: >+
+    Foi realizada uma pesquisa pelo Google Docs.
+    
+
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2022/IMG-20220722-WA0002.jpg 
+- title: Eleições no Brasil
+  project_url: >-
+    https://eleicoespresidente.com/
+    
+  veiculo: Projeto independente
+  autoria: 'Responsável e autora: Gabriela Caesar; Contribuições de Tode Araújo, Tiago Maranhão e Vinicius Sueiro'
+  data: 2/8/2022
+  resumo: >+
+    Painel com dados do TSE mostra como cada estado votou nas cinco últimas eleições presidenciais
+
+  relevância: >
+    A poucos dias do início da campanha eleitoral, o projeto facilita o acesso aos dados das disputas presidenciais para mostrar 
+    como os estados votam desde 2002. No Brasil, as disputas presidenciais são marcadas pela rivalidade entre polos opostos do 
+    espectro político. Por isso, o projeto foca nos candidatos que foram ao segundo turno mesmo ao mostrar os dados do primeiro 
+    turno.
+      
+  originalidade: >-
+    O painel exibe ainda as diferenças de voto e ponto percentual, o que ajuda a enxergar mudanças de comportamento, 
+    além do percentual de eleitores em cada UF. Por exemplo, embora o estado do Amazonas seja territorialmente grande, 
+    menos de 2% dos eleitores moram lá. Já SP tem 22,16%.
+    
+  metodologia: >+
+    Este projeto foi desenvolvido em código aberto e sem apoio financeiro com o objetivo de incentivar a exploração dos dados 
+    eleitorais. A análise de dados foi feita em R e a plataforma, em HTML, CSS e Javascript. Link do repositório com todos os 
+    códigos: https://github.com/gabrielacaesar/eleicoes-presidente
+    
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/eleicoes-no-brasil.jpg
+- title: A percepção dos jornalistas sobre os impactos na saúde mental dos profissionais que atuaram na cobertura da  pandemia
+  project_url: >-
+    https://drive.google.com/file/d/1jhIwDdnQvEoyl9z41d_OXpItm4NHlkgG/view?usp=sharing
+    
+  veiculo: Trabalho de graduação de Jornalismo
+  autoria: Luiza Campos Leão
+  data: 1/11/2021
+  resumo: >+
+    O projeto de conclusão de curso visa analisar a percepção dos jornalistas sobre os
+    impactos na saúde mental dos profissionais que atuaram na cobertura da
+    pandemia. Por isso, a metodologia utilizou a pesquisa bibliográfica, exploratória,
+    documental, qualitativa e quantitativa. Foram estudados os conceitos relacionados
+    ao mundo pandêmico, à saúde mental e ao jornalismo. E o resultado da pesquisa
+    foi de que a saúde mental desses profissionais foi afetada durante a pandemia, por
+    meio de um estresse no trabalho vindo de sobrecarga, acúmulo de tarefas e
+    também de medo de perder sua fonte de renda. Toda a pesquisa leva a crer que a
+    questão da saúde mental dos jornalistas precisa ser amplamente estudada e
+    acompanhada, não só em função da pandemia mas a consequência de todo esse
+    processo pelo qual passou o jornalismo no impacto das tecnologias. Dessa forma,
+    fornecer estabilidade, canais de auxílio e apoio para a manutenção da qualidade
+    da saúde mental.
+   
+  relevância: >
+    Este trabalho perseguiu como problema de pesquisa a percepção dos Jornalistas
+    sobre os impactos na saúde mental dos profissionais que atuaram na cobertura da
+    pandemia. Ele foi cogitado pela autora no final de 2020, devido a sua preocupação
+    com a saúde mental da categoria. A saúde mental sempre foi um tema presente na
+    vida da autora, devido familiares sofrerem com doenças associadas a problemas
+    mentais e durante a sua experiência acadêmica e profissional. Além disso, a ideia
+    passou a crescer ainda mais por conta do seu transtorno de ansiedade.
+
+    Frente a tudo o que foi vivido no último ano, com a pandemia da Covid-19, a questão veio à tona de forma ainda mais forte. 
+    Enquanto muito puderam se trancar em suas casas, os profissionais da informação deveriam permanecer na rua. 
+    Por isso, foi pensado em realizar uma pesquisa atual que observasse a questão no Espírito Santo, a exemplo do que foi 
+    realizado no Brasil, pela FENAJ, e no mundo, pela FIJ. "
+      
+  originalidade: >-
+    O que meu trabalho traz de novo, é que os jornalistas de empresas regionais do Espirito Santo, que trabalham em empresas 
+    pequenas comparadas com Rio e São Paulo, também tem sofrido com a saúde mental, acumulo de trabalho e horas trabalhadas.
+    
+  metodologia: >+
+    "O projeto aplicou diversos tipos de pesquisa, entre elas, a pesquisa bibliográfica,
+    exploratória, documental, qualitativa e quantitativa."
+
+  uf: ES
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Outro
+  category: Dados Abertos
+  image: images/edicoes/2022/TCC FINAL - Luiza Campos.png
+- title: Mapa dos Conflitos
+  project_url: >-
+    https://mapadosconflitos.apublica.org
+    
+  veiculo: Agência Pública e Comissão Pastoral da Terra
+  autoria: Thiago Domenici, Bruno Fonseca, Bianca Muniz, Rafael Oliveira, Itamar Vieira Junior, Anna Beatriz Anjos, Caetano Patta, Fernando Guimarães, Clarissa Levy, Victor Brasileiro, Flávio Marcos Gonçalves de Araújo, Café.art
+  data: 27/4/2022
+  resumo: >+
+    O Mapa dos Conflitos é uma iniciativa inédita que traz dados da última década (2011-2020) e mostra como os conflitos no campo 
+    se relacionam com alguns de seus agentes causadores, como desmatamento, queimadas, mineração, água, agrotóxicos, violência e 
+    desigualdade. A publicação deste trabalho é também a consolidação de uma inquietação que temos desde que começamos os projetos 
+    relacionados à Amazônia, em 2016: como visibilizar mais e de forma didática o importante trabalho da Comissão Pastoral da Terra 
+    (CPT).
+    Ao longo de décadas, a CPT tem mapeado os conflitos no campo pelo Brasil. São ações de resistência e enfrentamento que ocorrem 
+    em diferentes contextos sociais no âmbito rural, envolvendo a luta pela terra, água e direitos e pelos meios de trabalho ou 
+    produção. Com esse que é um dos mais importantes acervos documentais sobre conflitos no campo em mãos, a equipe da Agência 
+    Pública fez um cruzamento com diferentes bases de dados públicas."
+   
+  relevância: >
+    Os dados do Mapa dos Conflitos mostram que na década passada (2011-2020), 75% dos municípios da Amazônia Legal foram 
+    afetados pela violência e injustiça fundiária. Isso representa 10% dos municípios brasileiros. Foram mais de 7 mil conflitos 
+    registrados, 100 mil famílias afetadas, mais de 2 mil vítimas e mais de 300 assassinatos.
+    O Mapa busca estimular o interesse dos leitores pelos conflitos no campo por meio de uma visualização de dados intuitiva, 
+    interativa e com um visual que remete a um jogo de videogame. Mais do que isso, a plataforma também fornece uma base valiosa 
+    para jornalistas e pesquisadores produzirem suas reportagens, artigos e análises. "
+      
+  originalidade: >-
+    O Mapa dos Conflitos traz visualização inédita dos dados de conflitos no campo catalogados pela Comissão Pastoral da Terra. 
+    A partir das notificações de ocorrências de violência reportadas por agentes da CPT no campo, o Centro de Documentação Dom Tomás
+    Balduino (Cedoc-CPT), em Goiás, produz o relatório Conflitos no Campo Brasil. Elaborado todos os anos pela CPT, o relatório traz
+    também registros de conflitos trabalhistas, trabalho escravo contemporâneo, violência contra a pessoa, conflitos por água, 
+    assassinatos, massacres etc.
+    Pela primeira vez, a CPT forneceu seus dados completos sobre conflitos no campo a um veículo jornalístico como a Pública.
+    
+  metodologia: >+
+    https://mapadosconflitos.apublica.org/metodologia
+  
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2022/capa2.png 
+- title: Mortes Invisíveis
+  project_url: >-
+    https://tab.uol.com.br/edicao/mortes-invisiveis/
+    
+  veiculo: UOL
+  autoria: Amanda Rossi, Saulo Pereira Guimarães, José Dacau, Yasmin Ayumi, Flávio Costa, Lúcia Valentim Rodrigues, Olívia Fraga, Gisele Pungan, René Cardillo, Lucas Lima, Douglas Lambert
+  data: 8/4/2022
+  resumo: >+
+    A série investigativa “Mortes Invisíveis” mostrou, pela primeira vez, a dimensão de um aspecto central, porém relegado, da 
+    violência no Brasil: as valas clandestinas. Foram identificadas pela reportagem 33 valas clandestinas em São Paulo e 8 no Rio 
+    de Janeiro, desde 2016, com 201 corpos. Duas de cada três vítimas não foram identificadas. Os dados foram reunidos e mapeados 
+    de forma inédita – nem sequer as autoridades brasileiras tinham essas informações. 
+
+    Essa é apenas a parte possível de se conhecer do problema. O número de valas ainda não descobertas no Brasil pode ser muito 
+    maior, segundo indícios reunidos pela reportagem. A análise de mais de 20 mil registros policiais de pessoas desaparecidas 
+    apontou pistas sobre sequestros, homicídios e até o local de ocultação dos corpos, sem que investigações policiais fossem 
+    adiante. Além disso, no Rio, a reportagem descobriu a existência de mais de 300 denúncias anônimas sobre valas clandestinas 
+    entre 2019 e 2021.
+
+  relevância: >
+    Ao contrário do México e da Colômbia, onde o problema das valas clandestinas é reconhecido e mapeado pelas autoridades, no 
+    Brasil não existiam estatísticas oficiais sobre o tema. 
+
+    A investigação jornalística realizada por ""Mortes Invisíveis"" reuniu, pela primeira vez, dados e informações que revelam qual 
+    é o real cenário do problema no país: não são casos isolados, mas 41 valas clandestinas com 201 vítimas, muitos deles 
+    localizados a pouca distância uns dos outros. Trata-se, portanto, de um aspecto central da violência brasileira, 
+    desconhecido e relegado pelas autoridades. 
+
+    A falta de atuação do Estado diante deste cenário contribui não apenas para a impunidade, mas também fortalece o poder de 
+    vida e morte do crime organizado. Além disso, relega centenas -- ou milhares -- de famílias brasileiras à eterna incógnita 
+    sobre o destino de seus desaparecidos.
+
+    Após a publicação, o Senado brasileiro realizou audiência pública para discutir as revelações da série de reportagens. 
+    Congressistas brasileiros também se movimentaram para retomar a tramitação de um projeto de lei para criar o crime de 
+    desaparecimento forçado no Brasil. Em São Paulo, o secretário de segurança pública foi convocado a prestar esclarecimentos na 
+    Assembleia Legislativa.
+  
+  originalidade: >-
+    O trabalho é original na temática -- pela primeira vez foi feito um raio-X do problema das valas clandestinas no Brasil. 
+    É original também na forma de contar a história, privilegiando elementos visuais e narrativos.
+    
+  metodologia: >+
+    Para chegar a esses resultados, foram usados diferentes tipos de fontes. Primeiro, foi feito um levantamento de notícias na 
+    imprensa, nacional e local, sobre encontro de corpos enterrados em todas as unidades da federação, usando a busca avançada do 
+    Google e outros buscadores. Isso gerou uma primeira planilha de casos que deveriam ser checados -- quase todos em São Paulo e 
+    Rio, mostrando que o fenômeno era concentrado nessas regiões e esporádico em outras. Então, o foco se tornou São Paulo e Rio.
+
+    Em seguida, foram buscados os registros policiais referentes a essas ocorrências, para confirmar se de fato os corpos estavam 
+    enterrados, se havia mais de um corpo no mesmo endereço, qual foi a data de localização da vala, qual era sua localização, 
+    circunstâncias do crime. 
+
+    Em São Paulo, a reportagem montou uma base de dados SQL com as ocorrências de crimes violentos, disponibilizadas mês a mês 
+    no site de transparência da Secretaria de Segurança Pública, perfazendo mais de 60 mil registros. Os dados da planilha inicial 
+    foram, então, confrontados com essa base. Além de confirmar os casos, esse processo permitiu chegar à latitude/longitude das 
+    valas clandestinas (dando origem a um mapa jamais feito sequer pelas autoridades policiais), bem como identificar o número do 
+    registro policial exato -- viabilizando a busca de mais detalhes das ocorrências diretamente nas delegacias. 
+
+    Além disso, essa base de dados permitiu identificar novos casos de valas não mapeados no levantamento inicial. Isso não foi 
+    feito por busca semântica -- já que os dados disponibilizados pela Secretaria de Segurança Pública não contemplam o histórico 
+    da ocorrência -- mas sim pela identificação de padrões. Por exemplo, ocorrências com mais de uma vítima fatal em ""área não 
+    ocupada"" -- posteriormente, esses registros eram buscados de forma reversa na imprensa ou na própria delegacia.
+
+    Já no Rio de Janeiro, os casos das planilhas iniciais foram confirmados junto às delegacias e pela Lei de Acesso à Informação.
+
+    Uma vez confirmadas as 41 valas clandestinas e os 201 corpos, foi preciso descobrir se as vítimas haviam sido identificadas. 
+
+    Em São Paulo, eram 156 corpos. Novamente, foi montada uma base de dados com os registros do IML, também disponibilizadas mês a 
+    mês no site de transparência da Secretaria de Segurança Pública, no total de mais de 150 mil casos. O número dos BOs dos casos 
+    de valas clandestinas identificado na segunda fase foi então cruzado com esses registros do IML, em busca de evidências de que 
+    houve identificação (por exemplo, registro de idade da vítima). Nesse processo, verificou-se lacunas importantes nos dados 
+    oficiais dos registros do IML. Então, de forma adicional, a reportagem conseguiu acesso ao arquivo físico (cadernos escritos 
+    à mão) do Núcleo de Antropologia do IML e fez buscas caso a caso . 
+
+    Já no Rio de Janeiro, a informação sobre a identificação ou não das vítimas foi fornecida por Lei de Acesso à Informação.
+
+    Assim, a reportagem descobriu que foram identificadas apenas 60 das 156 vítimas de São Paulo, e 7 das 45 do Rio de Janeiro.
+
+    Adicionalmente, foram consultados documentos na Justiça brasileira e autos de investigação policial. Autoridades policiais 
+    (da Polícia Civil e da Polícia Científica) foram fundamentais para obter informações sobre casos específicos, como a vala 
+    clandestina de Pedreira, em São Paulo, a maior identificada pela reportagem, com 27 vítimas.
+
+    A reportagem também teve acesso a uma planilha com cerca de 25 mil registros policiais pessoas desaparecidas em São Paulo, 
+    com histórico da ocorrência, permitindo busca semântica de casos com indícios de sequestro, homicídio e ocultação de cadáver. 
+    Também foram obtidos 253 registros policiais em papel de pessoas desaparecidas no Rio -- dados que foram parcialmente 
+    planilhados.
+
+    Além disso, a reportagem buscou contato com diversas famílias de vítimas. A maioria, por medo de represália do crime 
+    organizado, não quis dar entrevista. Outras falaram em anonimato, descrevendo um cenário de medo e ausência do Estado. 
+    Também foram ouvidos especialistas para ajudar a interpretar as descobertas da investigação.
+
+  uf: SP
+  ano: '2022' 
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação 
+  image: images/edicoes/2022/mortes invisiveis.JPG
+- title: Ceará tem ao menos 17 órgãos públicos com servidores que não comprovaram vacinação contra a Covid
+  project_url: >-
+    https://diariodonordeste.verdesmares.com.br/ceara/ceara-tem-ao-menos-17-orgaos-publicos-com-servidores-que-nao-comprovaram-vacinacao-contra-a-covid-1.3201985
+    
+  veiculo: Diário do Nordeste
+  autoria: Thatiany Nascimento/Dahiana Araújo/Karine Zaranza
+  data: 10/3/2022
+  resumo: >+
+    Matéria apontou em quais órgãos da administração pública estadual do Ceará os servidores ou empregados não se vacinaram 
+    contra a Covid.  As informações foram obtidas via LAI. No Ceará, uma lei estadual previa punições aos servidores e 
+    funcionários que não se vacinassem. O Diário do Nordeste buscou 63 órgãos públicos; incluindo os da administração direta e os 
+    da indireta como as autarquias, fundações, empresas públicas e sociedade de economia mista. 
+   
+  relevância: >
+    A relevância é justamente acessar e dar visibilidade a informações que têm importância para o debate público, sobretudo, na 
+    época em que tanto se problematizou a garantia de aplicação da vacina contra a Covid. 
+     
+  originalidade: >-
+    Dois pontos podem ser destacados: o uso da LAI de uma forma mais "exaustiva" ao ter que demandar 63 órgãos públicos estaduais. 
+    E a transparência, evidenciada no texto, sobre o que foi questionado, e de uma forma padronizada.  
+  metodologia: >+
+    Foi feito uso da LAI para realizar 63 pedidos. Foi utilizado o E-Sic estadual.
+
+  uf: CE
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/vacina 1.jpg 
+- title: Dados do emprego formal da cidade de Campinas - SP
+  project_url: >-
+    https://datastudio.google.com/u/0/reporting/a015a2c0-f8f9-4eb7-b618-d70618d6af4a/page/p_jy9zy0qltc
+    
+  veiculo: Prefeitura de Campinas
+  autoria: Juliana Servidoni de Magalhães
+  data: 22/8/2022
+  resumo: >+
+    Por meio da análise de dados com Python e visualização pelo Google Data Studio, a Secretaria de Trabalho e Renda 
+    disponibiliza em seu site (https://portal.campinas.sp.gov.br/secretaria/trabalho-e-renda/pagina/dados-do-emprego-formal-em-campinas) 
+    os dados do Cadastro Geral de Empregados e Desempregados (CAGED) sobre as movimentações do mercado de trabalho no município de 
+    Campinas. São apresentadas informações sobre saldo de empregos, média e mediana salarial, formas de contratação, classificações 
+    por seção, ocupação, faixa etária, cor/raça, gênero, entre outros dados presentes no CAGED do Ministério do Trabalho e Emprego. 
+   
+  relevância: >
+    Imprensa, estudantes e demais interessados na movimentação do emprego formal em Campinas podem ter acesso às informações de 
+    forma rápida e em constante atualização. É importante destacar que o CAGED está sempre dois meses atrás do corrente. 
+    Portanto, quando estamos em agosto, no FTP do CAGED irá constar o arquivo de junho.  
+ 
+  originalidade: >-
+    Antes esses dados eram apresentados internamente na secretaria em um relatório PDF, do qual não se tira o mérito das 
+    informações que eram altamente relevantes, mas não acompanhava a necessidade mensal da imprensa. O objetivo deste trabalho 
+    foi apresentar esses dados também para o público externo e com uma leitura rápida e simplificada. Análises mais aprofundadas 
+    são posteriormente repercutidas com a economista da secretaria. Portanto, atualmente, em vez da imprensa solicitar os dados, 
+    é só acessar o site da secretaria e conferir todos os dados.  
+    
+  metodologia: >+
+    A Secretaria de Trabalho e Renda utiliza o banco de dados do Cadastro Geral de Empregados e Desempregados (CAGED), um registro permanente de admissões e desligamentos do mercado formal de trabalho de todo o Brasil. Os dados do CAGED são disponibilizados no site http://pdet.mte.gov.br/microdados-rais-e-caged por meio de um arquivo FTP.  
+    O ministério divulga três tipos de arquivo todos os meses: movimentações do mês (MOV), movimentações fora de prazo (FOR) e movimentações excluídas (EXC). Registros enviados até o dia 07 do mês subsequente ao da competência entram no arquivo MOV. Os que são enviados após esse período farão parte do arquivo FOR. Informações inseridas de forma equivocada e depois removidas entram nos arquivos de registros excluídos, EXC.
+
+    Os arquivos em formato txt seguem a nomenclatura: CAGED + tipo da movimentação + data.
+
+    Exemplo:'
+
+    CAGEDMOV202110: possui os registros de admissões ou desligamentos do mês de outubro de 2021 informados dentro do prazo;
+
+    CAGEDFOR202110: possui os registros de admissões ou desligamentos do mês de outubro de 2021 informados após o prazo;
+
+    CAGEDEXC202110: possui os registros de admissões ou desligamentos do mês de outubro de 2021 que devem ser excluídos do CAGED.
+
+    As informações são processadas pelo Ministério do Trabalho e Previdência e disponibilizadas com as seguintes informações dos trabalhadores:
+
+    Localidade (região, UF e município)
+
+    Seção e subclasse de CNAES
+
+    Categoria (tipo de contrato de trabalho)
+
+    Classificação brasileira de ocupações (CBO)
+
+    Grau de instrução
+
+    Idade
+
+    Horas contratuais
+
+    Raça/cor
+
+    Sexo
+
+    Tipo do empregador
+
+    Tipo do estabelecimento
+
+    Tipo da movimentação
+
+    Tipo de deficiência
+
+    Indicador de trabalho intermitente
+
+    Indicador de trabalho parcial
+
+    Indicador de aprendiz
+
+    Salário
+
+    Número de vínculos do empregador
+
+    Os dados são divulgados geralmente dois meses após, por exemplo, os dados de janeiro de 2022 foram divulgados só em março de 2022.
+
+    Análise dos dados do CAGED
+
+    As informações são prestadas pelos próprios empregadores por meio, principalmente, de registros no eSocial. Dos registros de 2020 e 2021 da cidade de Campinas, mais de 33 mil foram informados pelos empregadores fora de prazo, ou seja, após o mês em que ocorreu a admissão ou o desligamento do trabalhador. Por conta destes registros extemporâneos, além dos excluídos, os dados do CAGED são muito dinâmicos e se alteram mensalmente, já que esses dois arquivos modificam dados de meses e até anos anteriores. 
+
+    Para calcular as médias e medianas salariais, o Ministério do Trabalho orienta excluir os salários menores que 0,3 salários mínimos, maiores que 250 salários, além dos contratos intermitentes. Mesmo com esse intervalo, a análise ainda sofre alguns desvios e fica sujeita aos chamados outliers (valores muito diferentes dos outros, aberrantes). 
+
+    Em outubro de 2021, em Campinas, foi registrado um salário de mais de R$ 7,2 milhões para a ocupação encarregado de manutenção mecânica de sistemas operacionais, sendo removido do conjunto de dados pelo filtro recomendado pelo ministério. Em janeiro de 2021, um salário de mais de R$ 91 mil foi adicionado à ocupação de professor de ensino fundamental de primeira a quarta série. Este último se enquadra no intervalo recomendado pelo Ministério do Trabalho, mas não reflete a realidade do salário deste tipo de ocupação. Para reduzir essa interferência dos outliers na análise é feito o cálculo da mediana. Diferente da média em que todos os valores são somados e divididos pela quantidade total, a mediana é o valor que está no meio. Os valores são ordenados, como se estivessem em uma fila, e se faz o corte no meio dessa fila para chegar à mediana. "
+    
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2022/coda_br_dados_caged_prefeitura_campinas.jpg 
+- title: Má alimentação à brasileira
+  project_url: >-
+    https://piaui.folha.uol.com.br/ma-alimentacao-brasileira/
+    
+  veiculo: Revista Piauí e Agência Fiquem Sabendo
+  autoria: José Roberto de Toledo, Camille Lichotti, Rubens Valente, Marcos Amorozo, Lianne Ceará, ,Fernanda da Escossia, Amanda Gorziza e Plínio Lopes
+  data: 7/7/2022
+  resumo: >+
+    Série de reportagens usou dados inéditos de um sistema pouco conhecido por jornalistas do Ministério da Saúde (Sisvan) 
+    para descobrir tendências da má alimentação no país.
+   
+  relevância: >
+    É o primeiro trabalho sobre a fome no país a trazer dados tão detalhados e que mostram tão claramente este fenômeno social se 
+    apresenta de diversas formas, não só na falta de alimentos, mas também na falta de qualidade dos produtos. Mostra ainda como a
+    má alimentação afeta populações em contextos diferentes (ex: população urbana x indígenas em áreas isoladas) e em fases da vida
+    distintas (crianças, adolescentes, adultos, pessoas em fase de gestação).
+       
+  originalidade: >-
+    Muitas reportagens foram feitas sobre a fome no país, mas esta é a primeira a de fato buscar uma fonte original de 
+    informações e trabalhá-la à exaustão para encontrar uma série de histórias que ainda não tinham sido contadas. Também é 
+    original por ser a única a abrir a íntegra dos dados utilizados para reprodução e reutilização, bem como todos os documentos 
+    usados.
+    
+  metodologia: >+
+    Raspados os dados do sistema Sisvan, do Ministério da Saúde, com meio de programação (Python/Selenium). 
+    Como parte dos dados não estava acessível nem com raspagem, recorremos à Lei de Acesso à Informação para obter o restante. 
+    Também utilizamos o Google Pinpoint para encontrar insights em estudos e documentos públicos obtidos nas mais diversas fontes. 
+    Todo o material foi compartilhado publicamente em newsletter da Fiquem Sabendo e em repositório do Google Pinpoint. 
+    https://fiquemsabendo.com.br/saude/magreza-obesidade-brasil/
+    Várias outras reportagens locais foram produzidas a partir dos dados que abrimos - https://www.google.com/search?q=%22fiquem+sabendo%22+%2B+%22obesidade%22&oq=%22fiquem+sabendo%22+%2B+%22obesidade%22&aqs=chrome..69i57j33i160l5.4628j0j7&sourceid=chrome&ie=UTF-8".
+    
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/WhatsApp Image 2022-08-24 at 15.05.07.jpeg 
+- title: A conexão
+  project_url: >-
+    https://piaui.folha.uol.com.br/materia/a-conexao-2/
+    
+  veiculo: Revista Piauí, OCCRP e Fiquem Sabendo
+  autoria: Luiz Fernando Toledo, Allan de Abreu, Heron Martins, José Roberto de Toledo, Fernanda da Escóssia, Rodolfo Almeida
+  data: 6/2/2022
+  resumo: >+
+    Investigação jornalística de cerca de um descobriu um esquema de lavagem e exportação de madeira extraída ilegalmente do Pará 
+    aos EUA. O esquema envolvia servidores do governo do estado do Pará, empresas americanas e até um membro do PCC.
+
+  relevância: >
+    Esta reportagem se baseou quase totalmente em uma robusta análise de dados inédita, feita entre os repórteres e 
+    engenheiros da ONG CCCA, de análise de crimes ambientais. O caso que descobrimos está motivando a ação de grupos de 
+    advocacy para evitar que este tipo de crime continue acontecendo.
+  
+  originalidade: >-
+    A reportagem mostra uma investigação própria e inédita de crime ambiental, com descrição integral do fato, algo raro no 
+    jornalismo. Com entrevistas, viagens a campo e dados, conseguimos traçar o local exato de onde a madeira foi roubada até o 
+    destino final em Nova York, na loja onde foi vendida aos consumidores. Mostramos quem são os responsáveis, com os devidos nomes,
+    as empresas envolvidas e até o conhecimento por parte do Ibama sobre o caso, embora nunca tenham feito nada a respeito.
+    A reportagem também inova pois traz uma narrativa quase literária dos fatos, com descrições detalhadas, de forma que o leitor 
+    mal percebe que se trata de uma investigação baseada em dados. Os dados, neste caso, foram subsídio para a reportagem, mas não a
+    principal informação oferecida no texto final.
+    
+  metodologia: >+
+    A série começou com vários cruzamentos de dados públicos - Cadastro Ambiental Rural (CAR) do Pará, dados de desmatamento, 
+    informações geográficas de terras públicas, etc. A partir disso identificamos os maiores grileiros no Estado do Pará, ou seja, 
+    aqueles que declaravam possuir terras em áreas públicas, e também os que mais desmatavam. Esse recorte nos levou a 
+    investigá-los de perto e identificar suas cadeias de produção. Com apoio da CCCA, chegamos até o caso do ipê, e a partir daí, 
+    usando dados que rastreiam por onde essa carga de ipê foi levada, contamos a história em campo. Nossos repórteres viajaram ao 
+    Pará e também a Nova York para mostrar todo o trajeto da madeira. 
+
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Impresso
+  category: Investigação
+  image: images/edicoes/2022/grafico-terras-1.png 
+- title: A lavagem da boiada
+  project_url: >-
+    https://piaui.folha.uol.com.br/materia/lavagem-da-boiada/
+    
+  veiculo: Revista Piauí, OCCRP, CCCA e Fiquem Sabendo
+  autoria: Allan de Abreu, José Roberto de Toledo, Fernanda da Escóssia, Luiz Fernando Toledo, Eduardo Goulart, Rodolfo Almeida
+  data: 11/7/2022
+  resumo: >+
+    Investigação própria de cerca de 8 meses identificou, com metodologia própria, como mais de 90 mil cabeças de gado criadas em 
+    áreas protegidas foram parar em açougues da Europa.
+  relevância: >
+    Muitas reportagens são produzidas sobre criação de gado em áreas protegidas, mas esta inova em produzir uma metodologia 
+    própria para chegar aos casos e, por isso, identifica um número muito maior de gado do que aquele observado inclusive por 
+    organizações internacionais especializadas em meio ambiente. Nosso trabalho e descobertas foram reconhecidos pela própria JBS, 
+    que é alvo da reportagem.
+  
+  originalidade: >-
+    Foram feitos cruzamentos de dados do Cadastro Ambiental Rural, territórios indígenas, áreas protegidas e licenças de 
+    transporte animal. As guias de trânsito animal,, de difícil acesso, ajudaram a identificar por quais fazendas o gado passou. 
+    Foi usada uma metodologia específica que identifica até mesmo quando as fazendas usam laranjas para "lavar" o gado - isto é, o 
+    gado criado em terra ilegal é vendido para uma fazenda "laranja" antes de chegar ao frigorífico, dificultando o rastreamento. 
+    Foi essa triangulação que permitiu que este projeto chegasse a um número muito maior de gado exportado ilegalmente do que 
+    outras iniciativas semelhantes.
+    
+  metodologia: >+
+    Foram feitos cruzamentos de dados do Cadastro Ambiental Rural, territórios indígenas, áreas protegidas e licenças de 
+    transporte animal. As guias de trânsito animal,, de difícil acesso, ajudaram a identificar por quais fazendas o gado 
+    passou. Foi usada uma metodologia específica que identifica até mesmo quando as fazendas usam laranjas para "lavar" 
+    o gado - isto é, o gado criado em terra ilegal é vendido para uma fazenda "laranja" antes de chegar ao frigorífico, 
+    dificultando o rastreamento. Foi essa triangulação que permitiu que este projeto chegasse a um número muito maior de 
+    gado exportado ilegalmente do que outras iniciativas semelhantes.
+    
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Outro
+  category: Investigação
+  image: images/edicoes/2022/infos-gado_arte_escala.png
+- title: Do batente ao batuque
+  project_url: >-
+    https://www.dados.rio/especiais/do-batente-ao-batuque
+    
+  veiculo: Escritório de Dados - Rio de Janeiro
+  autoria: Caio Jacintho, João Carabetta, Marcel Balassiano, Tiago Peregrino, Pedro Simões, Rafaela Bastos
+  data: 20/4/2022
+  resumo: >+
+    Nesta visualização mostramos como são os bastidores da organização do maior show da terra, o Carnaval do Rio de Janeiro. 
+    Festa mundialmente conhecida, ela leva multidões às ruas da cidade, oferecendo, além da alegria, a oportunidade de trabalho 
+    para muitos brasileiros. 
+
+    Mostramos como é esta organização e o que está por trás da festa. Um investimento que retorna para a cidade não só em valores 
+    financeiros, mas melhorias estruturais e o oferecimento de diversão gratuita para todos. Além de imagens, convidamos nossos 
+    leitores a tentarem responder um quis sobre os números desta grande festa!
+
+  relevância: >
+    Desmitificar a ideia de que o Carnaval é um "custo" para a cidade foi uma das principais razões para a elaboração desta 
+    visualização. Por meio das nossas visualizações, mostramos dados reais sobre o investimento da festa.
+
+  originalidade: >-
+    Além da originalidade de demonstrar um assunto de caráter cultural e governamental por meio da visualização de dados, 
+    tivemos a ideia de elaborar um quiz para que nossos leitores se desafiem a acertar as questões sobre o assunto.
+    
+  metodologia: >+
+    As informações, os dados e os gráficos que compõem este especial foram extraídos dos seguintes estudos, que são públicos:
+
+    Relatório Carnaval de Dados - Instituto Fundação João Goulart - FJG e Secretaria Municipal de Desenvolvimento Econômico, Inovação e Simplificação - SMDEIS
+
+    Entrevistas em Profundidade - Instituto Fundação João Goulart - FJG
+
+    A produção econômica do carnaval dos blocos de rua da cidade do Rio de Janeiro: aplicação dos modelos de mensuração das indústrias culturais e criativas. Tese (Doutorado em População, Território e Estatísticas Públicas). Escola Nacional de Ciências Estatísticas. Rio de Janeiro. 2021. Cristina Couri
+
+    Economia do Carnaval do Rio (Estudo Especial SMDEIS - no. 02/2022).
+    
+  uf: RJ
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/WhatsApp Image 2022-08-26 at 15.47.02 (1).jpeg 
+- title: Mais de 1.300 construções irregulares a menos no Rio de Janeiro
+  project_url: >-
+    https://viz.dados.rio/#/especial-seop/demolicoes
+    
+  veiculo: Escritório de Dados - Rio de Janeiro
+  autoria:  Judite Cypreste, Caio Jacintho, Diego Oliveira, João Carabetta
+  data: 9/8/2022
+  resumo: >+
+    Nesta visualização, mostramos como a Prefeitura vem combatendo o avanço de construções irregulares na cidade, 
+    principalmente em áreas ambientalmente protegidas, por meio de operações constantes de demolição destas construções. 
+    Até o momento, mais de 1.300 imóveis não habitados, não finalizados, erguidos ilegalmente e que traziam riscos à população, 
+    foram colocados abaixo, poupando a a vida de milhares de cariocas que viviam em áreas de risco.
+  
+  relevância: >
+    A proliferação de construções irregulares é um problema que tomou conta da cidade do Rio de Janeiro há algumas décadas. 
+    Em áreas sob influência do crime organizado a preocupação é ainda maior. Estudos apontam que a atividade imobiliária se 
+    tornou uma das principais fontes financeiras de alguns grupos criminosos. 
+
+    Essas construções são realizadas sem autorização da Prefeitura, em áreas públicas e protegidas, e erguidas sem nenhum 
+    acompanhamento técnico. Por trás de cada prédio construído ilegalmente e sem fiscalização, há inúmeras famílias que vivem 
+    sob o risco de terem suas casas desabadas, e perderem, a qualquer momento, sua história e também suas vidas.
+    
+  originalidade: >-
+    A publicação de dados públicos por meio de visualização de dados de fácil compreensão.
+    
+  metodologia: >+
+    As informações e os dados e os gráficos que compõem este especial foram utilizados com base nas informações veiculadas 
+    pela Prefeitura Municipal do Rio de Janeiro.
+
+  uf: RJ
+  ano: '2022'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2022/demo_1.png
