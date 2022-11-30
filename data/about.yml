@@ -1,17 +1,20 @@
 ---
 work_process:
-  enable: true
+  enable: false
   title: Resultados
   item:
   - title: Projetos
     icon: images/icons/design.png
-    content: Já recebemos e catalogamos 340 inscrições de projetos de jornalismo de dados, premiando 14 projetos.
+    content: Já recebemos e catalogamos 340 inscrições de projetos de jornalismo de
+      dados, premiando 14 projetos.
   - title: Prêmio
     icon: images/icons/print.png
-    content: Além de um troféu para cada projeto ganhador, oferecemos R$ 10 mil em prêmios.
+    content: Além de um troféu para cada projeto ganhador, oferecemos R$ 10 mil em
+      prêmios.
   - title: Agende-se
     icon: images/icons/plan.png
-    content: A cerimônia de premiação ocorre no encerramento da VII Conferência de Jornalismo de Dados e Métodos Digitais, dia 6 de novembro.
+    content: A cerimônia de premiação ocorre no encerramento da VII Conferência de
+      Jornalismo de Dados e Métodos Digitais, dia 6 de novembro.
 clients_logo_slider:
   enable: false
   title: My Clients
