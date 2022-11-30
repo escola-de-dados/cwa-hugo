@@ -4,47 +4,52 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Prêmio de Jornalismo de Dados"
 [[menu.main]]
-name = "Ferramentas"
-parent = "Jornalismo de Dados"
-url = "https://kit.jornalismodedados.org"
-weight = 1
-[[menu.main]]
-name = "Fórum"
-parent = "Jornalismo de Dados"
-url = "https://forum.jornalismodedados.org"
-weight = 2
-[[menu.main]]
-name = "Manual"
-parent = "Jornalismo de Dados"
-url = "https://jornalismodedados.org"
-weight = 3
-[[menu.main]]
-name = "Jornalismo de Dados"
-url = "https://jornalismodedados.org"
-weight = 5
-[[menu.main]]
-name = "2021"
+name = "2022"
 parent = "edições"
-url = "edicoes/2021"
-weight = 1
-[[menu.main]]
-name = "2020"
-parent = "edições"
-url = "edicoes/2020"
-weight = 2
+url = "edicoes/2022"
+weight = 4
 [[menu.main]]
 name = "2019"
 parent = "edições"
 url = "edicoes/2019"
 weight = 3
 [[menu.main]]
-name = "edições"
-url = "#"
-weight = 4
+name = "Manual"
+parent = "Jornalismo de Dados"
+url = "https://jornalismodedados.org"
+weight = 3
+[[menu.main]]
+name = "2020"
+parent = "edições"
+url = "edicoes/2020"
+weight = 2
+[[menu.main]]
+name = "Fórum"
+parent = "Jornalismo de Dados"
+url = "https://forum.jornalismodedados.org"
+weight = 2
+[[menu.main]]
+name = "Ferramentas"
+parent = "Jornalismo de Dados"
+url = "https://kit.jornalismodedados.org"
+weight = 1
+[[menu.main]]
+name = "2021"
+parent = "edições"
+url = "edicoes/2021"
+weight = 1
 [[menu.main]]
 URL = "regulamento/faq"
 name = "FAQ"
 weight = 3
+[[menu.main]]
+name = "edições"
+url = "#"
+weight = 4
+[[menu.main]]
+name = "Jornalismo de Dados"
+url = "https://jornalismodedados.org"
+weight = 5
 [[menu.main]]
 URL = "regulamento/2022"
 name = "Regulamento"
@@ -54,7 +59,6 @@ URL = "about"
 name = "Sobre"
 weight = 1
 [params]
-socialshareimg = "images/socialshare.png"
 address = "https://escoladedados.org"
 author = "Escola de Dados"
 copyright = "Nosso conteúdo está disponível sob a licença Creative Commons Atribuição 4.0 Internacional, e pode ser compartilhado e reutilizado para trabalhos derivados, desde que citada a fonte."
@@ -65,6 +69,7 @@ google_analitycs_id = "G-8L45EWVR5H"
 home = "Home"
 logo = "images/logo.png"
 phone = ""
+socialshareimg = "images/socialshare.png"
 theme_color = "#250040"
 [params.contact]
 enable = false
