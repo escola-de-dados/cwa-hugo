@@ -3,13 +3,15 @@ banner:
   title: "<B>PRÊMIO</B> <br/>CLÁUDIO WEBER ABRAMO DE JORNALISMO DE DADOS"
 about:
   enable: true
-  content: Participe da quarta edição do maior prêmio de jornalismo de dados brasileiro.
-    Leia o [regulamento](https://premio.jornalismodedados.org/regulamento/2022/) e
-    inscreva-se até 23 de setembro!
+  content: O Prêmio Cláudio Weber Abramo de Jornalismo de Dados é uma iniciativa inédita
+    criada para incentivar a excelência no uso de dados por jornalistas para questionar,
+    analisar e investigar as questões que afetam a sociedade brasileira. Acreditamos
+    que ao reconhecer os trabalhos de excelência fortalecemos este campo e a democracia
+    no Brasil.
   button:
     enable: true
-    label: QUERO ME INSCREVER!
-    URL: https://airtable.com/shrmkuzdn9YcJZMJI
+    label: Saiba Mais
+    URL: https://premio.jornalismodedados.org/about/
 skill:
   enable: false
   title: Skills
