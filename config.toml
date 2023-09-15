@@ -51,7 +51,7 @@ name = "Jornalismo de Dados"
 url = "https://jornalismodedados.org"
 weight = 5
 [[menu.main]]
-URL = "regulamento/2022"
+URL = "regulamento/2023"
 name = "Regulamento"
 weight = 2
 [[menu.main]]
