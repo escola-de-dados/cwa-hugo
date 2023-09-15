@@ -10,8 +10,8 @@ about:
     no Brasil.
   button:
     enable: true
-    label: Saiba Mais
-    URL: https://premio.jornalismodedados.org/about/
+    label: Inscrições
+    URL: https://airtable.com/appJ4XfKR1G4pTyP0/shr10L8PfVLC3GAsT
 skill:
   enable: false
   title: Skills
