@@ -51,6 +51,10 @@ name = "Jornalismo de Dados"
 url = "https://jornalismodedados.org"
 weight = 5
 [[menu.main]]
+URL = "https://airtable.com/appJ4XfKR1G4pTyP0/shr10L8PfVLC3GAsT"
+name = "Inscrições"
+weight = 1
+[[menu.main]]
 URL = "regulamento/2023"
 name = "Regulamento"
 weight = 2
