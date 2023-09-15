@@ -7,7 +7,7 @@ layout:: "list"
 ---
 
 **QUEM PODE SE INSCREVER?**
-Qualquer indivíduo ou equipe que tenha publicado trabalhos de caráter jornalístico em organizações de mídia com ou sem fins lucrativos, independente do tamanho. O trabalho inscrito deve ter sido publicado após 1º de outubro de 2021. Trabalhos realizados em parcerias envolvendo mais de uma organização também podem ser submetidos. 
+Qualquer indivíduo ou equipe que tenha publicado trabalhos de caráter jornalístico em organizações de mídia com ou sem fins lucrativos, independente do tamanho. O trabalho inscrito deve ter sido publicado após 23 de setembro de 2022. Trabalhos realizados em parcerias envolvendo mais de uma organização também podem ser submetidos. 
 
 **POSSO ENVIAR MAIS DE UM TRABALHO?**
 
@@ -21,11 +21,11 @@ São aceitos trabalhos em diferentes formatos, tais como: publicações online o
 As inscrições são gratuitas.
 
 **QUAL A PREMIAÇÃO?**
-Os vencedores do prêmio dividirão o valor total, de R$10.000 (dez mil reais). Os(as) finalistas de cada categoria receberão isenção do valor de inscrição para participar a edição de 2022 da Conferência Brasileira de Jornalismo de Dados e Métodos Digitais. Os(as) finalistas são responsáveis por estarem presentes na cerimônia de entrega da premiação, que ocorrerá presencialmente em São Paulo.
+Os vencedores do prêmio dividirão o valor total, de R$10.000 (dez mil reais). Os(as) finalistas de cada categoria receberão isenção do valor de inscrição para participar a edição de 2023 da Conferência Brasileira de Jornalismo de Dados e Métodos Digitais. Os(as) finalistas são responsáveis por estarem presentes na cerimônia de entrega da premiação, que ocorrerá presencialmente em São Paulo.
 
 **QUANDO OS RESULTADOS SERÃO DIVULGADOS?**
 
-Os(as) vencedores(as) serão anunciados(as) na cerimônia de premiação, no encerramento da VII Conferência Brasileira de Jornalismo de Dados e Métodos Digitais, que acontecerá online no dia 6 de novembro de 2022.
+Os(as) vencedores(as) serão anunciados(as) na cerimônia de premiação, no encerramento da VII Conferência Brasileira de Jornalismo de Dados e Métodos Digitais, que acontecerá online no dia 19 de novembro de 2023.
 
 **COMO SABEREI QUE MINHA INSCRIÇÃO FOI ACEITA?**
 As inscrições deverão ser feitas por meio do link disponível no site [premio.jornalismodedados.org](premio.jornalismodedados.org). Após enviar os dados, você receberá uma mensagem automática dizendo “Obrigada por enviar o formulário!”. Não é enviado nenhum e-mail automático confirmando a inscrição, mas as informações submetidas estarão conosco.
