@@ -9,6 +9,11 @@ parent = "edições"
 url = "edicoes/2022"
 weight = 4
 [[menu.main]]
+name = "2023"
+parent = "edições"
+url = "edicoes/2023"
+weight = 4
+[[menu.main]]
 name = "2019"
 parent = "edições"
 url = "edicoes/2019"
