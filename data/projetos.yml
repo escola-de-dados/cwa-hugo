@@ -18643,3 +18643,254 @@
   formato: Online
   category: Visualização
   image: images/edicoes/2023/rotasegura.png
+- title: Os gastos diretos do governo Bolsonaro com redes sociais
+  project_url: >-
+    https://nucleo.jor.br/interativos/2022-12-06-gastos-governo-bolsonaro-redes-2019-2022/
+    
+  veiculo: Núcleo Jornalismo
+  autoria: Sérgio Spagnuolo, Samira Menezes e Rodolfo Almeida 
+  data: 6/12/2022
+  resumo: >+
+    Ao final do governo Bolsonaro à frente do Executivo, o Núcleo destrinchou todos os gastos diretos da administração do presidente 
+    com redes sociais ao longo do mandato. Ao longo dos quatro anos de governo, mais de R$11,5 milhões foram gastos diretamente com 
+    redes sociais pela administração de Bolsonaro. Esse montante não representa o total dos investimentos do governo no segmento – os 
+    gastos indiretos, aqueles empenhados por agências terceirizadas, não estão no Portal da Transparência – mas são um termômetro de 
+    como recursos públicos foram utilizados para impulsionar conteúdo pelo governo federal. Com a análise e visualização dos dados, 
+    descobrimos que os maiores gastos aconteceram no primeiro ano da pandemia de Covid-19, quando o governo foi pesadamente criticado 
+    pela forma como lidou com a crise e em meio a um quase colapso do governo, com saídas turbulentas de ministros. Mais de 40% do valor
+    gasto foi desembolsado em 2020. Seguido por 2022, um ano eleitoral, período em que é muito fácil misturar os feitos do governo 
+    divulgados com campanhas políticas. Além de analisar o quanto foi gasto em cada rede social ao longo do governo Bolsonaro, a 
+    reportagem cria uma visualização que separa os investimentos por Ministério. O Ministério da Saúde liderou os gastos (R$3,6 milhões)
+    no período, seguido da Presidência da República (R$3,2 milhões) e do Ministério das Comunicações (R$2,2 milhões), que em meados de 
+    2020 passou a ser responsável pela Secretaria Especial de Comunicação Social, que faz campanhas de publicidade para o governo e 
+    antes ficava sob a Presidência. Um movimento interessante observado via análise dos dados é o crescimento do uso do TikTok pelo 
+    governo, que em 2022 chegou a ultrapassar os gastos em publicidade no Google.
+   
+  relevância: >
+    Bolsonaro sempre valorizou as redes sociais. Em 2018, sua campanha à presidência tinha pouquíssimo tempo no horário eleitoral 
+    gratuito de TV, e o então candidato concentrou boa parte de sua estratégia de divulgação nas redes sociais -- o que deu certo. 
+    Desde então, a importância das redes no jogo político tem crescido a cada ano e o conteúdo que circula nas redes têm impacto direto 
+    na sociedade, e de forma rápida. Com isso, se torna essencial ter um olhar dedicado a analisar como o governo federal destina o 
+    dinheiro público em propaganda nessas plataformas.  
+
+  originalidade: >-
+    A originalidade do trabalho está em permitir a exploração de diversos dados relacionados aos gastos com redes sociais em uma só 
+    página e de forma interativa. Ao invés de mostrarmos apenas os montantes investidos em publicidades nas plataformas digitais, o 
+    Núcleo inova ao trazer dados adjacentes, como a separação por ministérios, por redes e por tempo, e permitir que leitores naveguem 
+    na reportagem e busquem os dados mais interessantes para cada contexto. 
+    
+  metodologia: >+
+    Os dados foram coletados do Portal da Transparência a partir do CNPJ principal das três redes sociais. Veja aqui o código utilizado 
+    para extrair os dados da API do portal e analisar as informações: https://gist.github.com/sergiospagnuolo/023e8610f2bb47d5429f6ef071a34191?ref=nucleo.jor.br 
+    Twitter
+    CNPJ 16.954.565/0001-48
+    Link para Portal da Transparência: https://transparencia.gov.br/busca/pessoa-juridica/16954565000148-twitter-brasil-rede-de-informacao-ltda?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&colunasSelecionadas=linkDetalhamento%2Corgao%2CunidadeGestora%2CnumeroLicitacao%2CdataAbertura&id=37595606&ref=nucleo.jor.br 
+    Google
+    CNPJ 06.990.590/0001-23
+    Link para o Portal da Transparência: https://transparencia.gov.br/busca/pessoa-juridica/06990590000123-google-brasil-internet-ltda-?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&colunasSelecionadas=linkDetalhamento%2Corgao%2CunidadeGestora%2CnumeroLicitacao%2CdataAbertura&id=33989863&ref=nucleo.jor.br 
+    Facebook
+    CNPJ 13.347.016/0001-17
+    Link para o Portal da Transparência: https://transparencia.gov.br/busca/pessoa-juridica/13347016000117-facebook-servicos-online-do-brasil-ltda-?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&colunasSelecionadas=linkDetalhamento%2Corgao%2CunidadeGestora%2CnumeroLicitacao%2CdataAbertura&id=25843654&ref=nucleo.jor.br 
+    ByteDance
+    CNPJ 27.415.911/0001-36
+    Link para o Portal da Transparência: https://portaldatransparencia.gov.br/busca/pessoa-juridica/27415911000136-bytedance-brasil-tecnologia-ltda-?ref=nucleo.jor.br
+    Foram encontrados 1.821 gastos a partir desses dados. Os valores foram reajustados pela inflação utilizando o IPCA de out.2022. 
+    Em reportagem similar em 2021 (https://nucleo.jor.br/interativos/2021-12-09-gastos-do-governo-federal-com-google-disparam-em-2021/)  nós não reajustamos pela inflação para que os dados refletissem exatamente os que constam no Portal, mas agora entendemos que é a melhor abordagem.
+    Os valores consideram somente gastos diretos da administração pública com essas redes, não considerando gastos via terceiros em 
+    nome do governo, como agências de comunicação e de publicidade contratadas por órgãos públicos.
+    Vale notar que o Google é dono do YouTube, maior rede de vídeos do mundo, mas também oferece serviços de tecnologia, como servidores
+    e ferramentas online. É notório, no entanto, que a maioria dos gastos do governo com o Google tenha sido sob rubricas de comunicação e de divulgação.
+    Meta inclui Facebook, Instagram e WhatsApp.
+    Os gráficos foram feitos com a ferramenta Flourish: https://flourish.studio/?ref=nucleo.jor.br
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2023/nucleo.png
+- title: Como funcionários das gigantes de tecnologia avaliam as empresas no Glassdoor
+  project_url: >-
+    https://nucleo.jor.br/interativos/2023-08-18-como-funcionarios-das-gigantes-de-tecnologia-avaliam-as-empresas-no-glassdoor/
+    
+  veiculo: Núcleo Jornalismo
+  autoria: Sofia Schurig, Rodolfo Almeida e Alexandre Orrico 
+  data: 18/08/2023
+  resumo: >+
+    A reportagem analisa demissões em massa em 12 grandes empresas de tecnologia com base em avaliações do Glassdoor, evidenciando o 
+    impacto nas equipes corporativas de nível inferior. Destaca-se a afetação nos cargos de moderação de conteúdo, especialmente nas 
+    empresas ByteDance e TikTok, onde houve preocupação com o conteúdo perturbador. O Spotify recebeu a pior avaliação, com os relatos 
+    apontando para problemas na gestão de recursos humanos e desrespeito às leis locais. A Uber e o TikTok também foram criticados, 
+    principalmente pelo tratamento dos motoristas e a moderação de conteúdo. As empresas chinesas Kwai, TikTok e ByteDance foram as 
+    mais mal-avaliadas, com críticas sobre a gestão de colaboradores e práticas abusivas.
+   
+  relevância: >
+    É desafiador obter informações internas sobre a cultura corporativa em grandes empresas de tecnologia devido aos acordos de 
+    confidencialidade. As recentes demissões em massa tornaram ainda mais complicado reunir repórteres e ex-colaboradores em um mesmo 
+    local, provavelmente por receio de possíveis implicações em futuras contratações. Por isso, utilizar os dados abertos do Glassdoor — 
+    garantindo o compartilhamento das informações e preservando a privacidade dos atuais e antigos colaboradores — é uma alternativa 
+    válida e favorável para compreender o atual estado das empresas.
+  
+  originalidade: >-
+    Foi a primeira reportagem brasileira coletando dados e relatos de atuais e ex-funcionários das empresas de tecnologia no Brasil 
+    após a grande onda de demissões entre 2022 e 2023.
+    
+  metodologia: >+
+    Fizemos uma busca no Glassdoor por empresas no Brasil, utilizando filtros de localização e idioma português. Analisamos as avaliações 
+    mais positivas e negativas. Em seguida, organizamos os dados públicos utilizando as ferramentas de visualização do Flourish.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2023/nucleo-glassdoor.png
+- title: 'À Espera de um lar: Apesar de representar apenas 16% do número de adotantes, crianças do Nordeste ainda aguardam adoção'
+  project_url: >-
+    https://www.agenciatatu.com.br/noticia/a-espera-de-um-lar/
+    
+  veiculo: Agência Tatu
+  autoria: Graziela França, Karina Dantas e Lucas Thaynan 
+  data: 08/10/2023
+  resumo: >+
+    A matéria aborda a adoção tardia nos estados do Nordeste e os aspectos que levam à quantidade de crianças sem lar, mesmo que o 
+    número das aptas para adoção seja bem menor que a quantidade de pessoas que desejam adotar. Além de conversar com adolescentes que 
+    vivem em unidades de acolhimento, também ouvimos pais que adotaram crianças maiores de 9 anos e especialistas que atuam junto à 
+    causa da adoção. O intuito do texto é humanizar os dados e trazer a temática de uma forma que possa conscientizar a população, 
+    além de facilitar a compreensão dos dados e da realidade dessas crianças e adolescentes.
+   
+  relevância: >
+    O assunto é muito importante e precisa ser debatido para desmistificar o processo de adoção tardia, além de mostrar quem são as 
+    crianças que acabam tendo seu direito constitucional a um lar negado. Outrossim, o assunto é debatido sobre o viés regional, 
+    permitindo que as pessoas conheçam a realidade das crianças aptas à adoção nos diferentes estados do Nordeste. Além da idade, 
+    também tratamos de outros aspectos que podem influenciar no processo de adoção, como raça, presença de comorbidades e o fato de ter 
+    irmãos.
+  
+  originalidade: >-
+    A reportagem explora a temática da adoção a partir do ponto de vista das crianças maiores, que a cada ano veem reduzir as chances 
+    de ganharem uma família, mas também mostra como famílias que superaram esse preconceito vivem felizes e aconselham a adoção de 
+    crianças maiores de quatro anos. Os elementos de visualização empregados na matéria e o layout adotado também buscam destacar a 
+    produção de outras desenvolvidas sobre a temática a nível regional.
+    
+  metodologia: >+
+    A reportagem utilizou as técnicas do jornalismo de dados, como busca, limpeza, análise e visualização, mas com o objetivo principal 
+    de humanizar os dados, principalmente do ponto de vista regional. Além da exploração dos dados do Conselho Nacional de Justiça, 
+    fizemos diversas entrevistas com personagens e especialistas e trabalhamos com formatos diferentes de visualização dos dados.
+
+  uf: AL
+  ano: '2023'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2023/tatu-adocao.png
+- title: 'Zoneamento de SP: você sabe o que dá para construir no seu bairro? Mapa interativo mostra regras'
+  project_url: >-
+    https://www.estadao.com.br/sao-paulo/zoneamento-de-sp-voce-sabe-o-que-da-pra-construir-no-seu-bairro-mapa-interativo-mostra-regras/
+    
+  veiculo: O Estado de S. Paulo
+  autoria: Priscila Mengue, Lucas Thaynan e Bruno Ponceano
+  data: 10/08/2023
+  resumo: >+
+    O especial integra um amplo material realizado pelo Estadão ao longo da cobertura da revisão das mais importantes leis urbanísticas 
+    de São Paulo: o Plano Diretor e o zoneamento. Esta matéria em especial é voltada a explicar as normas atuais da cidade, com uma 
+    linguagem didática e acessível. Além do texto (em estilo de perguntas e respostas), o  mapa interativo permite ao leitor buscar 
+    locais, selecionar zonas e visualizar como é a distribuição hoje na cidade. Esse mapa foi realizado a partir de uma plataforma de 
+    dados da Prefeitura (Geosampa), porém traz os dados de forma mais simplificada e de fácil manipulação. Diferentemente da plataforma 
+    municipal, o mapa do Estadão  permite a visualização em diversas escalas, tem um recurso de busca visível e permite selecionar o 
+    tipo de zona. O mapa foi republicado em diversas outras ocasiões em materiais sobre o mesmo tema. Além disso, propostas semelhantes 
+    foram desenvolvidas para mostrar mudanças sugeridas e incluídas na lei, feitas igualmente pela mesma equipe. 
+   
+  relevância: >
+    As mudanças urbanas em São Paulo se tornaram um debate frequente na cidade nos últimos anos, com o boom imobiliário em alguns 
+    bairros e a revisão das duas principais leis que versam sobre o tema: o Plano Diretor e o zoneamento. De forma acessível e 
+    diferenciada, o mapa apresenta o contexto atual da cidade e permite que o leitor acesse os regulamentos de forma acessível, 
+    didática, interativa e em diálogo com um amplo texto.
+  
+  originalidade: >-
+    Nenhum outro veículo produziu mapas interativos durante a revisão das duas leis urbanísticas. Nesse caso, o material melhorou até 
+    mesmo os dados apresentados em uma plataforma pública, simplificando e tornando mais acessível dados antes acessados quase que 
+    exclusivamente por nichos de pesquisadores, profissionais de licenciamento etc. Isso mostra que temas vistos como técnicos podem 
+    ser de interesse da população se tratados de forma mais universal e didática, ainda mais em um contexto de protagonismo do tema no 
+    debate público.
+    
+  metodologia: >+
+    Os dados foram extraídos da plataforma Geosampa, da Prefeitura de São Paulo, no formato shapefile. 
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2023/zoneamento-sp.png
+- title: Quem compõe a frente digital, alinhada com interesses das big tech no congresso
+  project_url: >-
+    https://nucleo.jor.br/interativos/2023-05-25-quem-defende-interesses-bigtechs-congresso/
+    
+  veiculo: Núcleo Jornalismo
+  autoria: Laís Martins, Rodolfo Almeida e Sérgio Spagnuolo
+  data: 25/5/2023
+  resumo: >+
+    O objetivo da reportagem interativa é facilitar a visualização da movimentação política e empresarial em favor dos interesses das 
+    Big Techs no Congresso. O conteúdo explica quais parlamentares se posicionaram em favor de projetos que beneficiam as grandes 
+    empresas de tecnologia e esclarece quem está por trás da Frente Digital, que é ligada ao Instituto Cidadania Digital, um think-tank 
+    que diz facilitar a ""interlocução entre o ecossistema digital e o Congresso através do secretariado-executivo da Frente Parlamentar 
+    da Economia & Cidadania Digital. O PL 2582/2023 foi proposto em 16.mai.2023, pelo deputado federal Lafayette de Andrada (Republicanos-MG), 
+    como alternativa ao chamado PL das Fake News (2630/2020), que teve sua urgência aprovada em abr.2023, mas seguia enfrentando forte 
+    resistência na Câmara dos Deputados, especialmente por partidos de oposição. O projeto de lei 2582 foi emblemático por dois motivos: ele 
+    pega leve até demais com as plataformas digitais; e mostra que parlamentares da Frente Digital estão atuando ativamente em pautas 
+    caras às Big Tech. Bloco que apresentou proposta alternativa ao PL 2630 é repleto de parlamentares de oposição, especialmente do PL, 
+    mas tem gente do PT e até do PCdoB que apoiou sua criação. O texto do PL das Fake News é particularmente detestado pelas grandes 
+    plataformas porque impõe uma série de obrigações e deveres para essas companhias – alguns dos quais seriam inviáveis ou muito 
+    difíceis de realizar. Já a proposta de Andrada ia na direção contrária e deixava de fora muitos dos pontos importantes de 
+    transparência e moderação que especialistas esperam de uma regulação. Existia um motivo para o projeto ser mais amigável às 
+    empresas de tecnologia: o deputado é presidente da Frente Digital – apelido da Frente Parlamentar Mista da Economia e Cidadania 
+    Digital, grupo composto por deputados e senadores que atua em pautas de tecnologia e economia digital no Congresso. Criada em 2019, 
+    essa frente é diretamente ligada a grandes empresas de tecnologia – plataformas digitais, apps de entrega, serviços de hospedagem – 
+    e faz pouco esforço para esconder essa ligação. Segundo seu estatuto, o ICD tem duas empresas associadas: Associação Brasileira de 
+    Mobilidade e Tecnologia (Amobitec) e Câmara Brasileira de Economia Digital (Câmara e-net). A Amobitec e a Câmara e-net têm como 
+    associadas dezenas de empresas do setor de tecnologia, como Amazon, iFood, Flixbus, Uber, Buser, 99, Airbnb, QuintoAndar, Rappi, 
+    Shein. As principais redes sociais são associadas à Câmara e-net: Facebook, Google, Kwai, Twitter, TikTok.
+   
+  relevância: >
+    A transparência de interesses e de representação é crucial nesse momento de debate sobre regulação de redes. Nesse contexto, a 
+    Frente Digital tentou emplacar regulação mais branda para empresas de tecnologia e é importante entender os motivos que levaram ao 
+    projeto, quais são as frente de poder envolvidas em beneficiar as Big Techs e as relações que podem ser fonte de pressão nesse tipo 
+    de regulamentação que afeta tão intensamente a sociedade brasileira. Segundo eles mesmos, o Instituto Cidadania Digital auxiliou a 
+    Frente Digital na produção de quatro leis, todas "de interesse direto da sociedade civil e dos brasileiros da ponta": o Marco de 
+    Startups; a Lei do Governo Digital; a Lei da Telemedicina; a Política Nacional de Educação Digital. 
+  
+  originalidade: >-
+    A originalidade do projeto está exatamente na visualização dos dados, facilitando navegar pelas informações e compreender as 
+    relações de poder envolvidas na Frente Digital de forma mais clara. Facilitar a visualização das informações é um passo importante 
+    para expandir o conteúdo para outros públicos que, em outras situações, não absorveriam esses detalhes de tal maneira. 
+    
+  metodologia: >+
+    Esse especial é baseado inteiramente em informações e documentos públicos nos sites da Frente Digital, da Câmara dos Deputados e do 
+    Instituto Cidadania. Os dados de signatários da bancada foram tabulados pelo Núcleo e estão disponíveis neste link: 
+    https://docs.google.com/spreadsheets/d/1LviN5MXicrobKR6ZduM94mxmFukawLhAuN4rY3ylAkk/edit?usp=sharing&ref=nucleo.jor.br 
+    O Núcleo contatou a assessoria da Frente Digital e do ICD (é a mesma) na terça-feira (23.mai.2023). A Frente não enviou seu 
+    posicionamento às mesmas perguntas.
+    Perguntas feitas pelo Núcleo:
+    1. O ICD compõe o secretariado da Frente Digital. Quais são os trabalhos que isso representa (exemplo: assessoria jurídica, dia a 
+    dia operacional etc.)?
+    2. O ICD pode escrever PLs inteiros a serem apresentados pelos congressistas da Frente, ou o apenas fornece insumos para a 
+    criação dessas proposições?
+    3. O Instituto tem como associados e financiadores associações de empresas de plataformas digitais. Vocês vêem algum conflito de 
+    interesses com o trabalho de vocês na Frente Digital, especialmente porque algumas proposições sugeridas pela frente beneficiam 
+    diretamente os interesses dessas empresas?
+    4. Vocês podem divulgar quanto foi recebido pelo ICD de seus mantenedores (Amobitec, Alai e Camara e-net) até agora?
+    5. A Frente Digital teve assinaturas de 19 partidos para seu registro. No entanto, partidos de oposição ao atual governo 
+    (PL e Republicanos) são predominantes. Como funciona o multirateralismo partidário na Frente? É possível evitar que se torne um 
+    instrumento de oposição?
+    6. Quantos eventos oficiais (conferências, audiências etc.) a Frente Digital realizou com parlamentares desde sua criação?
+    7. Dada a correlação direta do ICD com empresas de tecnologia, é possível dizer que o ICD faz lobby das plataformas digitais 
+    junto a parlamentares (e aqui eu não estou demonizando a palavra lobby, que é uma atividade comum e lícita para muitos setores)
+    8. Qual a composição atual da Frente Parlamentar? O máximo que achei foi a lista de autores do REQ 920/2023, com 19 partidos e 
+    204 deputados. Posso considerar essa lista?
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2023/quem-compoe-nucleo.png 
