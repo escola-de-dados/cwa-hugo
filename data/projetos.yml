@@ -18528,3 +18528,118 @@
   formato: Online
   category: Visualização
   image: images/edicoes/2023/o-povo-mais.png
+- title: 'Rei do baião: os 110 anos de nascimento de Luiz Gonzaga'
+  project_url: >-
+    https://www.nexojornal.com.br/grafico/2022/12/13/Rei-do-bai%C3%A3o-os-110-anos-do-nascimento-de-Luiz-Gonzaga
+    
+  veiculo: Nexo Jornal
+  autoria: Caroline Souza, Cesar Gaglioni, Gabriel Zanlorenssi, Larissa Redivo, Mariana Froner e Nicholas Pretto 
+  data: 13/12/2022
+  resumo: >+
+    O material é uma biografia visual, com gráficos e ilustrações, sobre os 110 anos de Luiz Gonzaga, completados em dezembro de 2022. 
+    O trabalho envolveu uma equipe com diferentes especializações, um redator, dois cientistas de dados, duas designers e uma 
+    desenvolvedora. Isso tinha como objetivo era produzir algo que trouxesse elementos visuais variados, com atenção aos detalhes da 
+    vida de Gonzaga.
+   
+  relevância: >
+    Foi uma oportunidade de celebrar a obra do cantor e compositor pernambucano, um dos maiores da música brasileira e porta-voz da 
+    música nordestina. Serve como um material de referência tanto para quem não conhece Luiz Gonzaga, quanto para fãs de longa-data.
+    
+  originalidade: >-
+    A publicação traz uma forma única de contar a história de Luiz Gonzaga, com uso de ilustrações e gráficos. Os recursos visuais 
+    presentes proporcionam a imersão do leitor na vida do cantor e os gráficos dão a dimensão de sua obra. Uma das visualizações no 
+    material mostra a evolução tecnológica dos discos compactos de 78 RPM para discos LP, e como isso mudou o padrão de produção de 
+    Luiz Gonzaga. 
+    
+  metodologia: >+
+    Os dados do material incluem os números gerais da obra de Luiz Gonzaga, uma nuvem de palavras das músicas do cantor e um gráfico 
+    com os discos publicados. Os dados dos discos foram coletados do Ecad (Escritório Central de Arrecadação e Distribuição), do IMMuB 
+    (Instituto Memória Musical Brasileira) e do site Gonzagão Online. Realizamos uma checagem cruzada, por conta de divergências entre 
+    as fontes. Para as letras de músicas, fizemos um webscraping do site Letas.mus.br usando o pacote rvest, do R. Os dados das nuvens 
+    de palavras foram tratados com os pacotes stringr e tm, e visualizados com do pacote wordcloud. Essas imagens geradas foram trabalhadas 
+    posteriormente no Adobe Illustrator.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2023/cluadio-abramo-luiz-gonzaga.png
+- title: Junho de 2013 na capa dos principais jornais do país
+  project_url: >-
+    https://www.nexojornal.com.br/grafico/2023/06/30/Junho-de-2013-na-capa-dos-principais-jornais-do-pa%C3%ADs
+    
+  veiculo: Nexo Jornal
+  autoria: Gabriel Zanlorenssi e Mariana Froner 
+  data: 30/6/2023
+  resumo: >+
+    O trabalho faz uma análise visual das capas dos principais jornais do Brasil em junho de 2013, na cobertura das manifestações que 
+    completaram dez anos em 2023. Destaca-se quanto que os protestos ocuparam o destaque dos três principais jornais do Brasil, 
+    dia-a-dia, além de mapear as menções aos principais políticos envolvidos na época: Dilma, Haddad e Alckmin.
+   
+  relevância: >
+    Os veículos de imprensa do Brasil foram personagens importantes durante as manifestações de junho de 2013. A partir da análise das 
+    capas, mostramos as mudanças no discurso dos jornais em relação aos protestos ao longo do mês. Os principais jornais pautaram a 
+    opinião pública na época e tiveram diferentes tons ao retratar as manifestações, iniciando com uma abordagem negativa de violência, 
+    que se tornou uma visão positiva com o passar do tempo.
+
+  originalidade: >-
+    Com o uso das próprias capas como base para a representação gráfica, o material permite que o leitor identifique visualmente a 
+    evolução da cobertura das manifestações nos jornais e os padrões de cobertura que ocorreram ao longo do mês de junho e também 
+    comparar a abordagem dos diferentes veículos.
+    
+  metodologia: >+
+    Inicialmente, fizemos um levantamento de todos os itens das capas dos veículos e sua organização em ordem cronológica. 
+    Essas imagens foram obtidas a partir dos sites de acervo de cada jornal. A partir dessa análise, destacamos graficamente a área da 
+    capa ocupada pela cobertura das manifestações. Posteriormente, foram destacadas as menções dos políticos que apareciam em cada 
+    imagem. O material foi produzido com Adobe Illustrator.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2023/cluadio-abramo-junho-2013.png
+- title: 'Rota +Segura: ferramenta permite traçar os trajetos com menos roubos de veículos em SP; veja'
+  project_url: >-
+    https://www.estadao.com.br/sao-paulo/rota-segura-ferramenta-permite-tracar-os-trajetos-com-menos-roubos-de-veiculos/
+    
+  veiculo: Estado de S. Paulo
+  autoria: Lucas Thaynan, Cindy Damasceno, Bruno Ponceano 
+  data: 12/6/2023
+  resumo: >+
+    A série de reportagens aborda roubo e furto de veículos em São Paulo, a capital com maior frota do Brasil. A partir de dados de 
+    Segurança Pública do Estado de São Paulo, foi criada a ferramenta Rota+Segura, painel que permite traçar rotas com menos 
+    ocorrências de roubos de veículos. Conta ainda com uma análise do perfil do crime, reunindo informações dos roubos nos últimos 
+    20 anos. Foi possível perceber a preferência dos criminosos a partir de tipo de automóvel, tempo de uso e região da cidade.
+   
+  relevância: >
+    Ao organizar os dados de Segurança Pública, fragmentados nos sites de transparência, a reportagem traz de maneira direta o impacto 
+    da criminalidade no dia a dia do leitor.  Apontar a localização das ocorrências, contextualizando com fatores econômicos, como o 
+    envelhecimento da frota, proporciona um olhar mais aprofundado sobre o crime de roubos e furtos. 
+
+  originalidade: >-
+    Mesmo que a cobertura de segurança já tenha abordado focos de roubo e furtos de veículos, trazer essa informação em um mapa 
+    interativo dá ao leitor a possibilidade de explorar a cidade –  sem ficar limitado a uma região pré-definida. O trunfo do material 
+    é conseguir trazer esses detalhes em uma interface fácil de usar e com o auxílio de uma ferramenta de mapa aberta, como é o MapBox. 
+    
+  metodologia: >+
+    A ferramenta Rota +Segura utiliza informações do Sistema de Registro Digital de Ocorrências (RDO), a estratégia oficial da Secretaria de 
+    Segurança para reunir informações de boletins de ocorrência. Dessa forma, somente subtrações informadas à Polícia Civil entram no 
+    'radar' da Rota + Segura. Foram considerados roubos e furtos de diversos tipos de veículos na cidade de São Paulo, abrangendo automóveis, 
+    motocicletas, caminhões e outros. Estão presentes apenas registros que possuem informações de geolocalização, ou seja, latitude e 
+    longitude, o que representa 94,5% do total de casos ocorridos ao longo de 2022. Cada registro é representado no mapa por um círculo 
+    vermelho com um raio de 350 metros. A ferramenta, por padrão, testa aleatoriamente dez rotas com base nessas informações. O programa 
+    leva em consideração fatores como tempo de deslocamento, distância e a quantidade de assaltos ao longo do percurso. Essa última 
+    variável é crucial para determinar a rota com menor incidência de casos, levando em consideração o trajeto específico (de A a B) 
+    inserido pelo usuário. Como é possível constatar utilizando a ferramenta, praticamente não há rotas com zero casos de assaltos, 
+    com exceção de pequenos trajetos com alguns metros de distância e algumas poucas regiões da cidade, visto que quase todos os cantos 
+    da capital possuem registros de roubos e furtos de veículos. Com isso, mesmo a rota com menos incidência de casos não há nenhuma 
+    garantia que os registros de assaltos devem continuar no mesmo patamar ou diminuir.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2023/rotasegura.png
