@@ -18320,7 +18320,7 @@
   formato: Impresso
   category: Investigação
   image: images/edicoes/2022/FdSIApKXoAAJRLY.jpg 
-- title: Operação Mensageiro: a organização criminosa
+- title: 'Operação Mensageiro: a organização criminosa'
   project_url: >-
     https://www.youtube.com/watch?v=RrD0-RakfTc 
     
@@ -18354,4 +18354,53 @@
   tipo_inscricao: Visualização
   formato: TV
   category: Visualização
-  image: images/edicoes/2023/operacao-mensageiro.jpeg 
+  image: images/edicoes/2023/operacao-mensageiro.jpg 
+- title: MS se transforma na 'bola da vez' da indústria de celulose e ganha destaque mundial
+  project_url: >-
+    https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2023/01/30/ms-se-transforma-na-bola-da-vez-da-industria-de-celulose-e-ganha-destaque-mundial.ghtml 
+    
+  veiculo: Portal g1 MS
+  autoria: Anderson Cardoso Viegas (assina Anderson Viegas) 
+  data: 30/01/2023
+  resumo: >+
+    A reportagem mostrou como Mato Grosso do Sul em pouco mais de uma década se transformou em um dos maiores produtores mundiais de 
+    celulose e como deve se destacar ainda mais nos próximos anos, ressaltando sobretudo, que esse salto de desenvolvimento ocorre 
+    fundamentado nos princípios do ESG, em especial o aspecto da sustentabilidade, expressa nas seguintes ações e iniciativas: uso 
+    de matéria-prima de florestas plantadas; cultivo de áreas antropizadas; recuperação de áreas degradas; aumento da biodiversidade; 
+    prevenção e combate a incêndios florestais; mitigação dos gases do efeito estufa; reúso de água e devolução de 82% em média, após 
+    tratamento, a natureza; reutilização de químicos em circuito fechado; redução de pressão por extração de madeira de florestas 
+    nativas; produção de bioeletricidade a partir de resíduos da produção (como tocos de madeira e licor), boas práticas de manejo 
+    florestal e educação ambiental.
+   
+  relevância: >
+    A relevância do tema se expressa além da óbvia questão ambiental, das boas práticas do setor, que o fazem uma referência mundial, 
+    e podem servir de modelo para outros segmentos que também buscam crescer e atingir o mercado internacional até os impactos que a 
+    instalação desses mega empreendimentos têm nos municípios de pequeno porte no estado, nas áreas econômica (geração de empregos, 
+    aumento da arrecadação, fomento de novos negócios, desenvolvimento) e social (melhoria do IDH, da rede pública na saúde, educação e 
+    assistência social). Além disso, fomenta a discussão sobre as medidas mitigatórias necessárias para amenizar os impactos negativos 
+    desse processo de desenvolvimento, como crescimento populacional muito rápido e salto na demanda por serviços públicos, entre outras. 
+    
+  originalidade: >-
+    Grande reportagem com convergência de mídias que explica porque Mato Grosso do Sul (BR) se tornou um dos maiores produtores mundiais 
+    de celulose. Mostra a vocação estadual, a chegada das empresas, o impacto sócio econômico, a sustentabilidade e os gargalos. A produção 
+    demandou 6 meses,18 entrevistas com personagens em 5 cidades e análise de 2 mil páginas de documentos. O trabalho resultou em uma matéria 
+    com 10 mil palavras, 2 vídeo reportagens (o caminho da celulose, da matéria-prima ao porto e o impacto da chegada de uma gigante do setor 
+    em uma pequena cidade), 11 infográficos, 24 fotos e entrevista em áudio.  
+    
+  metodologia: >+
+    Esse amplo raio-X do setor no estado utilizou os infográficos para ilustrar e tornar mais compreensíveis dados que ao lado dos depoimentos 
+    de personagens deram a dimensão do setor em Mato Grosso o Sul. Entre os dados trabalhados como ilustrações gráficas estiveram informações sobre 
+    produção mundial de celulose, ranking nacional por estado, linha do tempo do setor no estado, nuvem de palavras para mostrar os números da área de 
+    emprego, exportações e grandes projetos de cada uma das empresas instaladas em Mato Grosso do Sul. Foram consultados desde dados abertos a consultas 
+    na internet de fontes como: FAO; Ministério do Desenvolvimento, Indústria, Comércio e Serviços; Indústria Brasileira de Árvores; Governo do Estado de MS;  
+    empresas do setor;  Associação dos Produtores de Florestas Plantadas de Mato Grosso do Sul (Reflore-MS); Federação das Indústrias de Mato Grosso do Sul (Fiems); 
+    Novo Cadastro Geral de Empregados e Desempregados (Novo Caged); prefeitura de Ribas do Rio Pardo; da Agência Nacional de Energia Elétrica (Aneel) e Energisa MS. 
+    Os dados não trabalhados em artes, foram diluídos ao longo do texto, enriquecendo e aprofundando o conhecimento do leitor sobre o assunto. 
+
+
+  uf: MS
+  ano: '2023'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2023/ms-mundial.jpg 
