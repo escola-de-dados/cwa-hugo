@@ -18463,3 +18463,68 @@
   formato: Outro
   category: Visualização
   image: images/edicoes/2023/papo-podcast.png
+- title: Violência contra a mulher dispara no país e reforça necessidade de políticas de prevenção
+  project_url: >-
+    https://tribunahoje.com/especial/2022/10/28/7-violencia-contra-a-mulher-dispara-no-pais-e-reforca-necessidade-de-politicas-de-prevencao  
+    
+  veiculo: Tribuna Hoje
+  autoria: Lucas França e Evellyn Pimentel 
+  data: 28/10/2022
+  resumo: >+
+    Os dados são aterrorizantes: a cada 60 segundos uma mulher é agredida no Brasil. A cada 10 minutos, uma mulher é estuprada. 
+    A cada 7 horas uma mulher é vítima de feminicídio. O levantamento é do Anuário da Segurança Pública 2022 e apontam ainda que a 
+    realidade em Alagoas segue o padrão nacional de aumento de todos os indicadores de violência: lesão corporal dolosa (+20%), ameaça (+27%), 
+    estupro e estupro de vulnerável (+3,6%), tentativa de estupro (+34%), assédio e importunação sexual (+117%). Entre os anos de 2006 e 2021 os 
+    números de casos de feminicídio cresceram 44%.
+   
+  relevância: >
+    Mostrar a sociedade o número crescente de violência contra mulher no país e pedir celeridade das autoridades na resolução dos casos.
+    
+  originalidade: >-
+    Investigar a partir dos dados as medidas que vem sendo tomadas, cobrar das autoridades e fazer a sociedade refletir sobre o tema, 
+    além de educar as mulheres para que elas não se calem.
+    
+  metodologia: >+
+    Pesquisar, apuração e entrevista.
+
+  uf: AL
+  ano: '2023'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2023/violencia-mulher.png
+- title: Terremotos no Ceará? 7 gráficos sobre os tremores de terra no Estado
+  project_url: >-
+    https://mais.opovo.com.br/reportagens-especiais/2023/05/18/terremotos-no-ceara-7-graficos-sobre-os-tremores-de-terra-no-estado.html
+    
+  veiculo: O POVO Mais
+  autoria: Wanderson Trindade 
+  data: 18/5/2023
+  resumo: >+
+    Dados do Laboratório Sismológico da Universidade Federal do Rio Grande do Norte revelam que 1.262 tremores de terra foram registrados 
+    no Nordeste entre janeiro de 2020 e maio de 2023. Desses, 243 ocorreram no Ceará, o 2º estado da região com maior incidência. Nesta 
+    reportagem de dados, OP+ mostra por meio de mapas e gráficos a força desses eventos, assim como os locais onde foram catalogados.
+   
+  relevância: >
+    A reportagem dá luz para um fenômeno natural existente no Brasil, apesar de pouco conhecido. Neste material, apesar de curto, a 
+    proposta é mostrar de maneira rápida e simples que os tremores de terra são mais comuns do que muitas pessoas imaginam, mas também 
+    não são motivadores de grandes preocupações.
+    
+  originalidade: >-
+    A reportagem traz à tona de maneira estruturada informações relativas aos tremores de terra no Nordeste. Até então, os materiais 
+    sobre essa temática praticamente se restringem a apenas relatar a existência dos fenômenos. Esta reportagem, porém, busca reunir e 
+    mostrar de maneira visual a existência dos tremores de terra no Nordeste, com foco no Ceará.
+    
+  metodologia: >+
+    Para esta reportagem, foram coletados dados de tremores de terra do Laboratório Sismológico (LabSis), vinculado ao Departamento de 
+    Geofísica, da Universidade Federal do Rio Grande do Norte (UFRN). Os dados estão disponibilizados em formato de boletins e foram 
+    coletados de maneira automática com códigos em Python e, principalmente, a utilização da biblioteca Beautifulsoup4. Para garantir a 
+    transparência e a reprodutibilidade desta e de outras reportagens guiadas por dados, O POVO+ mantém uma página no Github na qual 
+    estão reunidos códigos e bases de dados produzidos para as publicações."
+
+  uf: CE
+  ano: '2023'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2023/o-povo-mais.png
