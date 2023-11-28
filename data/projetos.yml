@@ -20129,49 +20129,6 @@
   formato: Online
   category: Dados Abertos
   image: images/edicoes/2023/monitor.jpg
-- title: Monitor da Bancada
-  project_url: >-
-    https://mais.opovo.com.br/interativos/monitor-da-bancada/index.php 
-  veiculo: Jornal O POVO
-  autoria: Alexandre Cajazeira
-  data: 31/8/2023
-  resumo: >+
-    Onde encontrar, de maneira rápida e de fácil acesso, como os deputados cearenses estão votando? E suas respectivas despesas e dados 
-    pessoais públicos? Essas perguntas nortearam a criação de uma ferramenta para visualização dos dados disponíveis na API de dados abertos 
-    da Câmara dos Deputados. Desta forma, o Monitor da Bancada possibilita aos leitores do Grupo de Comunicação O POVO o acompanhamento 
-    cotidiano da atividade parlamentar da bancada cearense na Câmara Federal, possibilitando a fiscalização cidadã dos deputados e 
-    deputadas do estado. 
-
-  relevância: >
-    A estruturação e disponibilização de dados abertos é crucial para o processo de fiscalização dos diferentes atores públicos. 
-    Entretanto, dados abertos nem sempre são acessíveis ou publicizados o suficiente para informar a população. A Câmara dos Deputados, 
-    espaço representativo fundamental para a democracia brasileira, possui um serviço de dados abertos via API REST (uma interface que 
-    permite a comunicação entre computadores na internet de forma segura), mas não disponibiliza dados como o placar de votações ou 
-    despesas de cada deputado em painéis visuais acessíveis a toda população. O Monitor da Bancada é uma iniciativa que busca apresentar 
-    visualmente alguns dos dados brutos divulgados via API REST pela Câmara dos Deputados. Deste modo, possibilita aos leitores do Grupo 
-    de Comunicação O POVO uma nova maneira de fiscalizar e acompanhar a atividade parlamentar de seus representantes no congresso nacional. 
-
-  originalidade: >-
-    A representatividade da população de todo o Brasil se dá, de maneira mais ampla e direta, na Câmara dos Deputados, principalmente na 
-    construção e promulgação de leis que normatizam a vida em sociedade. Deste modo, diferentes iniciativas e ações pensadas na fiscalização 
-    cidadã da atividade parlamentar podem contribuir para a democracia no Brasil. Ademais, as forças políticas e arranjos partidários 
-    possuem características muito peculiares em cada estado ou região brasileira. Inserido neste contexto, o Monitor da Bancada é uma 
-    iniciativa inovadora para a região nordeste, especialmente no estado do Ceará.
-
-  metodologia: >+
-    A ferramenta coleta e integra automaticamente informações do serviço de dados abertos da Câmara dos Deputados 
-    (https://dadosabertos.camara.leg.br/swagger/api.html), como o resultado das últimas votações registradas em plenário, o placar da 
-    bancada estadual nas pautas com votação nominal disponível, a composição atualizada da bancada cearense, os respectivos gastos e 
-    informações pessoais públicas de cada deputado. Eventuais instabilidades no serviço de dados abertos da Câmara dos Deputados podem 
-    comprometer, momentaneamente, o funcionamento da ferramenta. Neste caso, espere alguns minutos e atualize a página para verificar as 
-    últimas informações válidas. 
-  
-  uf: CE
-  ano: '2023'
-  tipo_inscricao: Dados Abertos
-  formato: Online
-  category: Dados Abertos
-  image: images/edicoes/2023/monitor.jpg
 - title: Série Obras Inacabadas Paraíba
   project_url: >-
     https://globoplay.globo.com/v/11789365/ 
