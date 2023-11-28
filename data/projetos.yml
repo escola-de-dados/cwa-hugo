@@ -19636,3 +19636,788 @@
   formato: Online
   category: Dados Abertos
   image: images/edicoes/2023/igrejas-publica.jpg
+- title: Golpeflix
+  project_url: >-
+    https://www.aosfatos.org/golpeflix/  
+  veiculo: Aos Fatos
+  autoria: Alexandre Aragão, Tai Nalon, Bernardo Moura, Bruno Fávero, Leonardo Cazes, Amanda Ribeiro, Bianca Bortolon, Ethel Rudnitzki, João Barbosa, Luiz Fernando Menezes, Marco Faustino, Milena Mangabeira, Ana Rita Cunha, Bruna Leite, Luiza Barros, Carlos Leandro, Rhenan Bartels e Café.Art
+  data: 29/3/2023
+  resumo: >+
+    Projetado para simular o funcionamento de um aplicativo de streaming num aparelho celular, Golpeflix é um catálogo digital que expõe 
+    as mentiras e conspirações que levaram aos ataques de 8 de janeiro em Brasília. Desenvolvido em um exíguo período de tempo para maximizar 
+    impacto, o projeto emula a experiência de quem é diariamente confrontado com uma enxurrada de informações enganosas e instado a navegar num 
+    mundo virtual de ódio e paranoia. Com nove capítulos, Golpeflix traça uma linha do tempo desde as eleições presidenciais brasileiras 
+    de 2022 até os ataques de 8 de janeiro, usando centenas de vídeos, arquivos de áudio e imagens que ilustram como os sentimentos antidemocráticos 
+    se deslocaram das redes sociais e aplicativos de mensagens para as ruas. Por isso, Golpeflix também é um memorial digital sobre o 
+    extremismo digital, uma vez que documenta e preserva provas sobre o envolvimento de autoridades, entidades governamentais, influenciadores, 
+    empresas e outras entidades na intentona militar. O projeto organiza uma quantidade massiva de dados para mergulhar os usuários em 
+    um mundo em que o silêncio do ex-presidente Jair Bolsonaro após perder as eleições torna-se a base para uma série de narrativas 
+    infundadas e delirantes nas quais ele se levantaria contra "a ditadura comunista fomentada pelo Supremo Tribunal" e anularia as 
+    eleições. Golpeflix torna explícitos os chamados veementes por intervenção militar de figuras proeminentes da mídia e de anônimos 
+    autointitulados "patriotas". Documenta como e quando as forças militares brasileiras foram cúmplices na organização e realização da 
+    invasão de prédios públicos na capital, além de chamar a atenção para a leniência das plataformas digitais com esse tipo de conteúdo. 
+
+  relevância: >
+    Lançado ao público no aniversário do golpe militar de 1964, o especial Golpeflix serve como um lembrete contundente de como uma 
+    horda barulhenta de cidadãos brasileiros foi encorajada a atacar a democracia e consolidar uma agenda militarista com a complacência 
+    das plataformas digitais. É um acervo público de dados sobre o extremismo digital que guarda provas de como certos grupos se engajaram 
+    numa campanha nas redes contra a democracia – e como isso não pode ser simplesmente apagado das plataformas, como acontece recorrentemente, 
+    numa tentativa de reescrever a história. Depois da publicação, as quase 150 mil mídias que deram origem ao Golpeflix foram requisitadas 
+    pelo Ministério da Justiça e pelo Tribunal Superior Eleitoral para contribuir com investigações, ainda em curso. Alguns desses dados 
+    já haviam saído do ar nas plataformas digitais, mas o arquivo do Aos Fatos mantém essas informações vivas. Aos Fatos também ganhou 
+    um grant da organização MuckRock para manter na nuvem os mais de 1 milhão de textos e mídias monitorados ao longo de 2022 e que deram 
+    origem à curadoria do Golpeflix. Aos Fatos vai distribuí-los a pesquisadores e jornalistas que comprovadamente estejam investigando conteúdo 
+    antidemocrático nas redes. Até o início de outubro, mais de 40 profissionais haviam demonstrado interesse em acessar a base de dados. O 
+    processo de cessão segue rigorosamente a Lei Geral de Proteção de Dados e ainda está em fase de análise. Dentre as justificativas 
+    dadas pelos candidatos em questionário, sobressai a necessidade de manter esses arquivos vivos e a pouca infraestrutura técnica que 
+    centros de pesquisa brasileiros têm para coletar e preservar esse tipo de dado. Importante lembrar que, nos últimos anos, empresas 
+    de tecnologia têm retrocedido em suas iniciativas de transparência e dificultado o acesso a esse tipo de dado. Em fevereiro deste 
+    ano, por exemplo, o Twitter anunciou que cobraria até US$ 42 mil pelo acesso à sua API, que antes era usada gratuitamente para coletar 
+    publicações da plataforma, inclusive para este projeto. Já a Meta parou de aceitar novos usuários no CrowdTangle, ferramenta de análise 
+    de redes sociais usada por pesquisadores, e, segundo a Bloomberg, planeja descontinuar a plataforma. Essas ações inviabilizam a análise 
+    retroativa do comportamento de grupos extremistas nas redes.
+
+  originalidade: >-
+    Com Golpeflix, Aos Fatos lançou mão de uma narrativa multimídia para oferecer uma explicação detalhada sobre os efeitos da exposição 
+    massiva a teorias da conspiração e propaganda autoritária. O objetivo é sair do relato anedótico e inserir o usuário na "realidade" 
+    que um candidato a extremista compartilha com seus pares por meio das plataformas digitais. Ao emular um aplicativo de streaming eivado 
+    de desinformação e conteúdo extremista, o especial dá dimensão ao problema. Com uma quantidade exaustiva de vídeos e imagens, é 
+    possível demonstrar cabalmente que: 1. os atos de 8 de janeiro não foram uma tentativa espontânea de derrubar o governo; 2. as 
+    plataformas digitais mostraram complacência em relação à agenda autoritária impulsionada pelos militares e seus simpatizantes. 
+
+  metodologia: >+
+    Ao longo de 2022 e no início de 2023, o algoritmo de monitoramento de desinformação do Aos Fatos, o Radar Aos Fatos, forneceu à Redação 
+    um banco de dados abrangente com 1,4 milhão de postagens em redes sociais, incluindo uma parte significativa diretamente relacionada 
+    à propaganda extremista e antidemocrática, extraídos de APIs e monitoramento de plataformas como YouTube, TikTok, Instagram, Kwai, 
+    WhatsApp e Telegram. A esses dados foram aplicados filtros com padrões linguísticos comuns àqueles usados por grupos antidemocráticos 
+    nas redes. Golpeflix apresenta uma curadoria de mídias retiradas de uma vasta coleção de mais de 119.000 imagens, 25.000 arquivos de 
+    áudio e 321 vídeos oriundos dessa filtragem. Ao longo de dois meses, a equipe de cientistas de dados, especialistas em fontes abertas 
+    (OSINT) e jornalistas do Aos Fatos analisou esse conteúdo com o auxílio de ferramentas como o Escriba, de transcrição automática de vídeos 
+    e áudios, investigando o ressentimento autoritário entre os apoiadores de Bolsonaro após sua derrota eleitoral. A equipe de designers 
+    da Café.Art, juntamente com os programadores do Aos Fatos e a equipe de edição, desenvolveram o conceito do especial. Desde março, 
+    os 687 elementos de mídia que compõem o Golpeflix estão acessíveis no site do Aos Fatos, servindo como um memorial contra a desinformação 
+    e o autoritarismo. O banco de dados, anonimizado, também está acessível a pesquisadores e jornalistas que trabalhem comprovadamente com 
+    esse tema, de acordo com a LGPD. Essa coleção única age como uma proteção contra remoções arbitrárias por parte das plataformas e dos 
+    próprios usuários, que tentam evadir de sua responsabilização. 
+
+  uf: RJ
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/golpeflix quadrado.jpg
+- title: Em meio às discussões sobre juros altos, crédito mais caro cresce no Brasil; entenda
+  project_url: >-
+    https://g1.globo.com/economia/noticia/2023/03/27/em-meio-as-discussoes-sobre-juros-altos-credito-mais-caro-cresce-no-brasil-entenda.ghtml  
+  veiculo: g1
+  autoria: Thaís Matos
+  data: 27/3/2023
+  resumo: >+
+    Estruturei dados de juros disponibilizados pelo Banco Central do Brasil e pela Instituição Fiscal Independente, do Senado, para mostrar 
+    que o aumento de juros altos em créditos considerados caros e ruins (que oferecem condições limitadas de pagamento) no Brasil, o que 
+    leva a um maior endividamento das famílias. 
+
+  relevância: >
+    A matéria mostrou uma triste realidade dos brasileiros: em vez de pegarem dinheiro barato para comprar carro ou casa, as pessoas estão 
+    pegando dinheiro caro para pagar outras dívidas. Além disso, essa condição estava atrelada à queda do emprego formal, que possibilita o 
+    acesso a modalidades de dívidas mais baratas. Assim, o comprometimento da renda e o endividamento continuaram a ser recorde. 
+
+  originalidade: >-
+    Em um momento em que o país discutia a taxa de juros básica da economia, que sufocava o orçamento familiar e coloca o brasil como o país 
+    com o maior juro real do mundo, usamos dados dados reais divulgados mensalmente pelo BC para mostrar o quanto isso impactava e retroalimentava 
+    a situação econômica das famílias. 
+
+  metodologia: >+
+    Utilizei os dados disponibilizados pelo Banco Central. 
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/g1-economia.png
+- title: 'Dia do Fogo, três anos depois: mais da metade da floresta queimada na Amazônia virou pasto'
+  project_url: >-
+    https://infoamazonia.org/2023/08/04/dia-do-fogo-tres-anos-depois-mais-da-metade-da-floresta-queimada-na-amazonia-virou-pasto/  
+  veiculo: IPAM Amazônia e InfoAmazonia
+  autoria: Bibiana Alcântara Garrido; Luiz Felipe Morais Martenexen; Ane Alencar
+  data: 4/8/2023
+  resumo: >+
+    A reportagem revela como estão as áreas queimadas no “Dia do Fogo” três anos depois do episódio que marcou 2019 com a articulação de 
+    grupos ruralistas para tocar fogo na Amazônia. Em 2023, descobrimos que mais da metade da área queimada na ação virou pasto, enquanto 
+    outros 40% ainda não tiveram uso e, aparentemente, queimaram “por queimar”.  O trabalho oferece dados abertos sobre a área de floresta 
+    queimada no “Dia do Fogo” e convertida, organizados por município, estado, terra indígena e unidade de conservação na Amazônia. 
+
+  relevância: >
+    O trabalho dá continuidade à cobertura sobre o “Dia do Fogo”, evento que chocou o Brasil e o mundo e que ainda deixa perguntas não 
+    respondidas. A proposta foi responder algumas delas: o que ficou depois do fogo ou o que foi feito da terra queimada? Um dos crimes 
+    ambientais mais expressivos dos últimos anos, o “Dia do Fogo” deixou rastros que se multiplicam e se relacionam com o ambiente ano 
+    após ano. Até então, não havia uma reportagem mostrando o resultado do episódio. Na ideia de contribuir para a produção de conhecimento 
+    em torno do fato, o trabalho mostrou, por exemplo, cidades que mais registraram área de floresta queimada e que estavam, até então, “fora 
+    do eixo” entendido como central para o “Dia do Fogo” – Novo Progresso (PA) e margens da BR-163 – como Boca do Acre (AM), a 2,3 mil 
+    quilômetros de distância. A reportagem também coloca em discussão as consequências de crimes socioambientais com incêndios, ou pelo 
+    fogo de desmatamento, acrescentando o impacto negativo que é a floresta degradada. A análise dos dados produzidos para a reportagem 
+    mostrou que quase 40% da área queimada no “Dia do Fogo” permaneceu sem uso, mas se tornou uma floresta degradada que perdeu a capacidade 
+    de funcionamento para sustentar as vidas da sociobiodiversidade e para manter serviços ecossistêmicos como os ciclos naturais da água, 
+    do carbono e do nitrogênio. A degradação é um dos impactos ainda pouco noticiados e discutidos publicamente quando o assunto é dano 
+    socioambiental. Por mais que a repercussão de dados como os de fogo e desmatamento tenha se estabelecido como pauta na imprensa e 
+    rotina mensal para órgãos governamentais e instituições, estamos passos atrás com a degradação, com a urgência de dados consolidados 
+    nacionalmente. A reportagem também traz o relato de um entrevistado que vive na terra indígena que teve maior área queimada no “Dia 
+    do Fogo”, contando alguns dos efeitos do fogo e da fumaça na saúde das pessoas, como ardência nos olhos e dificuldade para respirar, 
+    por exemplo. Em suma, o trabalho se soma às produções jornalísticas na área que suscitam a reflexão e subsidiam o debate público com 
+    dados, ao reportar modelos predatórios ainda vigentes e que pressionam a sociobiodiversidade na contramão da agenda climática global 
+    com justiça social.  
+
+  originalidade: >-
+    A originalidade do trabalho é encontrada no ineditismo da pauta, passível de ser atualizada ano a ano, na medida em que o mapeamento 
+    de uso e cobertura da terra no país é também renovado. É inédita a informação trazida a público pela reportagem de que mais da metade 
+    da área queimada no “Dia do Fogo” virou pasto, e outros 40% não foram usados, virando floresta degradada. A descoberta oferece pistas 
+    de como ocorre o processo exploratório na Amazônia, e de como o argumento da “necessidade de abrir novas áreas” para exploração não se 
+    sustenta, dado que grande parcela da área queimada sequer foi utilizada, ainda que fosse de maneira irregular. O trabalho também é original 
+    ao oferecer os dados abertos para quem quiser consultar, organizados por área de floresta queimada e convertida em municípios, estados, terras 
+    indígenas e unidades de conservação na Amazônia no “Dia do Fogo”. Tais dados apresentam um potencial de consulta e replicabilidade para novas 
+    pautas em cada categoria disposta na tabela, com orientações na descrição da metodologia e bases de dados utilizadas ao final da reportagem. 
+    Um dos pontos de originalidade no trabalho está também na parceria entre uma organização da sociedade civil e um site especializado em jornalismo 
+    de dados para a publicação da matéria. De um lado, a equipe de jornalistas do IPAM produziu a reportagem com participação de pesquisadores na definição 
+    da metodologia e na coleta dos dados; de outro, a equipe do InfoAmazonia cuidou da edição, da infografia e da divulgação do material. 
+
+  metodologia: >+
+    A análise utilizou dados da plataforma Monitor do Fogo (https://plataforma.brasil.mapbiomas.org/monitor-do-fogo) para área queimada mensal, 
+    e do MapBiomas Brasil (Coleção 7.1) para cobertura e uso do solo (https://plataforma.brasil.mapbiomas.org/cobertura). Os dados da Coleção 7.1 
+    são os mais recentes disponíveis e compreendem imagens de satélite de 1985 a 2021, portanto, os dados contidos na reportagem não englobam os anos 
+    de 2022 e 2023. A partir das plataformas foi possível cruzar as áreas queimadas com áreas de floresta para chegar ao número da área de floresta 
+    queimada. Os dados foram selecionados considerando o período de agosto a outubro de 2019, de forma a minimizar alterações por cobertura de fumaça 
+    ou nuvens, por exemplo. Para fins de comparação com a floresta amazônica antes de 2019, foram utilizadas imagens de satélite de 2018. Os dados 
+    abertos divulgados na reportagem estão neste link, organizados em área queimada e convertida por município, estado, terra indígena e 
+    unidade de conservação na Amazônia: https://lookerstudio.google.com/u/1/reporting/a8b36c50-4914-4b90-acd4-32b95c5484b5/page/Qg3WD  
+
+  uf: DF
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/dia-do-fogo.jpg
+- title: Série Obras Inacabadas
+  project_url: >-
+    https://jornaldaparaiba.com.br/obras-inacabadas/
+  veiculo: Jornal da Paraíba
+  autoria: Laerte Cerqueira e Beto Silva
+  data: 17/7/2023
+  resumo: >+
+    Em quatro matérias, visitamos obras inacabadas no Brejo, Sertão e Cariri da Paraíba. Algumas, são esperadas há mais de uma década. 
+    Além dessas creches, quase prontas que nunca receberam uma criança. A série traz também postos de saúde que não saíram do papel, vilas 
+    olímpicas sem quadra, sem piscinas ou pistas de atletismo. Um conjunto habitacional entregue ao tempo. A população de algumas cidades 
+    ainda espera a conclusão de um teatro, mercado público, matadouro e sistema de irrigação com águas da transposição do Rio São Francisco.
+    A definição das obras foi baseada nos relatório e painéis do TCU, TCE-PB, CGU e Ministério Público Federal, que trazem dados abertos 
+    sobre o andamento/paralisação das construções. Moradores relataram os prejuízos causados pela falta de conclusão das obras; especialistas 
+    comentam sobre o desperdício do dinheiro público em projetos com erros de planejamento e executados. As punições previstas para gestores 
+    e gestões. E, ainda, as soluções e prazos previstos para que a população tenha acesso aos benefícios que podem chegar com a conclusão 
+    dessas obras. 
+
+  relevância: >
+    No nosso ponto de vista, as reportagens colocam luz em um problema crônico no país e na Paraíba: obras inacabadas. Cobra de gestores 
+    providências, mas promove uma reflexão sobre a falta de fiscalização eficiente, a necessidade de rever formas de contratações, de punir 
+    gestores, empresas e gestões que, de forma direta ou indireta, contribuem para o desperdício. E ainda desvela, de maneira dura, os 
+    prejuízos sociais e econômicos que perfuram com a falta de conclusão das obras.   
+
+  originalidade: >-
+    As reportagens trazem para o centro do debate os prejuízos sociais de uma obra inacabada, além dos prejuízos financeiros do cidadão 
+    comum. O roteiro foi estabelecido a partir da confirmação, in loco, de dados de relatórios e painéis de órgãos de controle. Em alguns 
+    momentos é possível perceber que o que está no sistema online não se concretiza na realidade. O trabalho de campo serviu, inclusive, para 
+    alertar órgãos de fiscalização da necessidade de serem mais ágeis no acompanhamento e registro. Também foi possível escancarar a 
+    dificuldade que esses órgãos, detentores de dados, tem vistoriar, fiscalizar a tempo de evitar um prejuízo maior aos cofres públicos.
+
+  metodologia: >+
+    Iniciamos o trabalho verificando a quantidade de obras consideradas paralisadas e inacabadas no site do TCU 
+    (https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de ). 
+    Depois fomos em busca de relatório da CGU para comparar e filtrar dados dos órgão federais, que fiscalizam repasses da União. O MPF 
+    também foi fundamental com a disponibilização de relatórios de inquéritos de obras que poderiam estar incluídas nas já identificadas 
+    no painel do TCU. Após isso, fomos em busca fonte de dados estaduais com informações sobre obras. Verificamos que o TCE 
+    ( https://paineldeobras.tce.pb.gov.br/) tem um painel de obras, mas sem informações claras sobre as que estão paradas e inacabadas. 
+    Em conversa com auditor, apresentamos o questionamento e o órgão se comprometeu a tornar a experiência de obtenção de dados mais 
+    fácil. Em seguida, fomos em busca de relatórios do Ministério Público da Paraíba, que não tem uma plataforma para implantação dos 
+    dados, mas disponibiliza relatórios de inquéritos com informações sobre as obras. Com os dados em mãos, fizemos uma filtragem, 
+    confirmamos situação das obras com moradores, líderes e agentes comunitários das cidades, antes de pegar viagem. E, em seguida, 
+    após ouvir a população, verificar in loco as obras, fomos em busca das autoridades para confrontar informações que estavam nas mãos 
+    dos órgãos de controle e as explicações sobre a demora para execução de obras. 
+
+  uf: PB
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/Creche-abandona-em-aracagi.jpg
+- title: Agência Tatu de Jornalismo de Dados
+  project_url: >-
+    https://www.agenciatatu.com.br/
+  veiculo: Agência Tatu de Jornalismo de Dados
+  autoria: Graziela França da Silva, Lucas Cavalcanti Maia e Lucas Thaynan Gomes dos Santos
+  data: 5/10/2023
+  resumo: >+
+    A Agência Tatu é um veículo que se dedica a explorar os dados da região Nordeste para fins jornalísticos, mas sempre com a 
+    preocupação de, ao fim de cada matéria ou produto desenvolvido, disponibilizar a base de dados utilizada em formato aberto, 
+    para que o público consiga acessar e explorar mais possibilidades dentro daqueles dados. A transparência é uma missão abraçada 
+    pela Agência Tatu mesmo antes de seu lançamento, e, por isso, além da disponibilização dos dados e metodologias aplicadas, a Lei de 
+    Acesso à Informação está sempre presente nos conteúdos, seja a utilizando em sua forma ativa ou passiva. 
+
+  relevância: >
+    A Agência Tatu surgiu para combater o vazio de notícias produzidas com dados, principalmente humanizados, desenvolvendo um trabalho 
+    muito importante de análise, exploração e visualização deste tipo de informação na região que tem o o maior deserto de notícias do 
+    país, o Nordeste. Além disso, a Tatu foi um dos primeiros veículos independentes de Alagoas e abriu portas para que mais iniciativas 
+    se firmassem nessa área e explorassem outros vazios informacionais locais.   
+
+  originalidade: >-
+    Agência Tatu surgiu como o primeiro veículo especializado em jornalismo de dados do Nordeste. Desde então, se dedica a inovar no 
+    jornalismo local e regional, desenvolvendo reportagens e produtos que aliem a prestação de serviços, exploração dos dados, tecnologia 
+    e inovação.
+
+  metodologia: >+
+    Ao final de todas as matérias produzidas pela Agência Tatu há a disponibilização dos dados em formato aberto, mas também é possível 
+    acessar os códigos de alguns produtos desenvolvidos pela Agência Tatu no GitHub: https://github.com/agenciatatu.
+
+  uf: AL
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/agenciatatu.png
+- title: Quilombolas formam escudos de preservação da floresta na Amazônia Legal
+  project_url: >-
+    https://infoamazonia.org/2023/05/22/quilombolas-formam-escudos-de-preservacao-da-floresta-na-amazonia-legal/
+  veiculo: InfoAmazonia
+  autoria: Jullie Pereira
+  data: 22/5/2023
+  resumo: >+
+    Essa reportagem investigou e mostrou que 99% dos territórios quilombolas titulados na Amazônia Legal estão preservados. A reportagem 
+    conseguiu, via LAI, dados exclusivos com as informações dos territórios titulados e suas localizações e apresentou um storymap com 
+    linguagem moderna. Entrevistando líderes quilombolas, a reportagem também mostrou como essa proteção é feita e valorizou com critérios 
+    de diversidade as fontes consultadas.
+
+  relevância: >
+    Essa reportagem conseguiu verificar os dados geoespaciais da plataforma do acervo fundiário do Incra, que estão defasados. Fizemos 
+    um cruzamento com as planilhas obtidas via LAI, que mostravam informações e os dados geográficos do acervo fundiário. Assim, conseguimos 
+    fazer o cálculo de área desmatada dentro e ao redor dos territórios quilombolas da Amazônia Legal, mostrando que eles estão sendo 
+    preservados e formam escudos contra o desmatamento ao redor. Esse trabalho foi inédito e tem sido usado como referência para outras 
+    reportagens a respeito do tema. Durante seu desenvolvimento, houve contato direto com a CONAQ (Coordenação Nacional de Articulação de 
+    Quilombos) e os dados foram considerados relevantes pela organização. Por conta dessa reportagem, a InfoAmazonia também foi convidada 
+    a participar de reunião com o GT Quilombos, da 6ª Câmara de Coordenação e Revisão do Ministério Público Federal. Os procuradores do 
+    MPF também obtiveram os dados apurados para avaliar o cenário de informação que o Brasil tem sobre o tema.   
+
+  originalidade: >-
+    O cálculo de preservação dos territórios quilombolas é o que a reportagem traz de mais inédito. Depois, a matéria obteve, via LAI, 
+    uma planilha com dados de série histórica com informações sobre os territórios quilombolas no Brasil entre 1995, quando o primeiro 
+    quilombo foi titulado, até abril de 2023. Além disso, a reportagem também denunciou a falta de titulação e a importância de titular 
+    mais de 500 territórios que ainda aguardam a conclusão desse processo. Isso é importante justamente pelo potencial de preservação 
+    que os quilombos titulados têm e que foi comprovado com a reportagem.
+
+  metodologia: >+
+    Junto com essa reportagem também publicamos uma página de transparência, em que explicamos cada passo dado pela reportagem para obtenção 
+    de dados. A reportagem também disponibilizou as bases de dados usadas, o modelo de pedido de LAI e de recurso dentro do pedido que foi feito. 
+    A página de transparência também mostra que a reportagem trabalhou a diversidade das fontes, considerando a igualdade regional, de 
+    cor e de gênero. A página de transparência foi criada para deixar claro ao leitor como a reportagem foi feita e quais as limitações 
+    dos dados. Leia aqui: https://infoamazonia.org/2023/05/22/como-investigamos-a-importancia-dos-quilombos-para-preservacao-da-amazonia/ 
+
+  uf: AM
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/quilombolas.png
+- title: Importância dados indígenas
+  project_url: >-
+    https://open.spotify.com/episode/6wqvBFHHrPiNdHbGT7X2rQ?si=49b338bc7b294019&nd=1
+  veiculo: Fundação Paraense de Radiodifusão (FUNTELPA)
+  autoria: Cláudio Lobato e João Paulo Seabra
+  data: 6/10/2023
+  resumo: >+
+    Após sucessivos atrasos, os dados do censo 2022 foram finalmente divulgados em agosto deste ano. Dentre esses, os dados do censo 
+    indígena chamam a atenção pela quantidade e distribuição desta população. Os resultados também trazem à tona a importância do 
+    jornalismo de dados, uma das áreas do jornalismo que mais tem crescidos nos últimos anos.
+
+  relevância: >
+    O censo brasileiro é um dos maiores do mundo. É a principal pesquisa que envolve coleta de dados no país. A questão indígena chamou 
+    atenção com dados que precisavam ser melhor explicados: aumentou essa população ou aumentou o número dos que se autodeclaram indígenas? 
+    alcançado os 144 municípios paraenses por meio da frequência fm 93.7, o conteúdo jornalístico desta reportagem também é disponibilizado 
+    no site www.portalcultura.com.br e plataformas como castbox e spotfy. É relevante a produção jornalística crítica e reflexiva na 
+    cidade sede da cop 30, belém do pará, que envolva temáticas ambientais com suas populações tradicionais.   
+
+  originalidade: >-
+    a reportagem utiliza uma linguagem descontraída e coloquial, intercalando dados e informações sobre o próprio jornalismo de dados, 
+    ao mesmo tempo tratando dessa especialidade jornalística e sobre as estatísticas mais revelantes a respeito de terras indígenas e 
+    quantidade de habitantes. Nem sempre o veículo rádio consegue se inserir nessa temática, representando, portanto, um ato ousado,
+    inovador e um avanço para podcasts jornalísticos.
+
+  metodologia: >+
+    A produção da reportagem contou com pesquisa sobre o censo demográfico divulgado em 2023, no site do ibge (instituto brasileiro de 
+    geografia e estatística), na categoria cidades e portal, assim como informações de cunho antropológico de universidades como ufpa 
+    (universidade federal do pará) – banco de teses e dados públicos da secretaria de estado de saúde (sespa). esta última foi ouvida 
+    para comentar a utilização de dados para a criação de políticas públicas e sobre uma possível pesquisa interna e própria com dados 
+    locais mais refinados. foi feita também pesquisa sobre agências nacionais de jornalismo de dados, com a fala de pesquisadores do 
+    campo da comunicação social em nível de pós-graduação.  
+  
+  uf: PA
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Rádio
+  category: Dados Abertos
+  image: images/edicoes/2023/dados-indigenas.jpg
+- title: Série de reportagens “As atas secretas do Comitê de Crise da Covid-19 não analisadas pela CPI”
+  project_url: >-
+    https://apublica.org/2023/02/as-atas-secretas-do-comite-de-crise-da-covid-19-nao-analisadas-pela-cpi/
+  veiculo: Agência Pública de Jornalismo Investigativo
+  autoria: Bianca Muniz, Caio de Freitas Paes, Rubens Valente, Alice Maciel, Laura Scofield, Matheus Santino, Thiago Domenici
+  data: 8/2/2023
+  resumo: >+
+    Série de reportagens que analisam as atas das 233 reuniões do Centro de Coordenação das Operações do Comitê de Crise da Covid-19 
+    (CCOP) de março de 2020 a setembro de 2021 que envolveram representantes de 26 órgãos da Esplanada, incluindo os principais ministérios, 
+    agências reguladoras, bancos públicos, a Polícia Federal e a Abin (Agência Brasileira de Inteligência). O documento inédito de 806 
+    páginas detalha a memória das reuniões e revelam diversos aspectos desconhecidos e bastidores sobre o combate à pandemia.
+
+  relevância: >
+    No Brasil, a Lei de Acesso à Informação (LAI), sancionada no final de 2011, regulamenta o direito constitucional de acesso dos 
+    cidadãos às informações públicas. No entanto, ao longo de seus quatro anos, o governo de Jair Bolsonaro utilizou-se de uma série de 
+    estratégias para diminuir a transparência nos órgãos federais e sonegar informações de interesse público. Diante da desastrosa gestão 
+    da pandemia no Brasil, a equipe da Agência Pública buscava acesso às atas do Centro de Coordenação das Operações do Comitê de Crise 
+    da Covid-19 (CCOP) desde 2020 via LAI, mas recebeu repetidas negativas do governo Bolsonaro. Mesmo após a realização de uma Comissão 
+    Parlamentar de Inquérito (CPI) em 2021, que investigou durante meses as ações e omissões do Governo Federal durante a crise sanitária, 
+    diversas questões continuaram sem respostas. Por isso, mesmo com o final do mandato de Bolsonaro, a Agência Pública continuou empenhada 
+    em conseguir e investigar esses documentos, que foram finalmente obtidos via LAI em fevereiro de 2023. Nesta série de reportagens, 
+    a Agência Pública revelou documentos de interesse público que haviam sido mantidos em sigilo e, mais do que isso, explicou os principais 
+    fatos descobertos pela análise das 806 páginas revelou informações inéditas descobertas pela análise minuciosa desse grande volume de 
+    registros, dando transparência às ações e omissões de diferentes órgãos do governo que levaram aos números trágicos de vítimas da 
+    Covid-19 que vimos no Brasil. O trabalho respondeu perguntas que ainda haviam ficado em aberto mesmo após a Comissão Parlamentar de 
+    Inquérito (CPI) da Pandemia, em 2021. Para dar um exemplo: uma das questões que a CPI investigou mas não conseguiu obter uma resposta 
+    clara foi quem havia dado a ordem para que o Exército aumentasse a produção de cloroquina por meio do seu Laboratório Químico Farmacêutico. 
+    Com base nos documentos inéditos, a Agência Pública revelou que o Ministério da Defesa foi bastante proativo no tema da cloroquina, 
+    revelando-se, no mínimo, coautor da decisão da produção do medicamento. Após a publicação da série, membros da CPI se basearam nos 
+    documentos revelados pela Agência Pública para pedir a reabertura de inquéritos que haviam sido arquivados pela Procuradoria-Geral 
+    da República (PGR). As reportagens também foram republicadas por diversos veículos nacionais, como MSN, Carta Capital e Nexo, e algumas 
+    também saíram em veículos internacionais, como Interferencia (Chile), elDiarioAR (Argentina) e Polígrafo (Portugal). Além disso, as 
+    reportagens geraram diversas repercussões e entrevistas. Nosso diretor Thiago Domenici deu entrevista sobre o especial para os 
+    programas UOL News e ICL Notícias. A repórter Alice Maciel foi entrevistada pelo Metrópoles. O podcast Medo e Delírio em Brasília 
+    fez um episódio sobre as atas secretas, que ficou entre os 10 mais ouvidos do país naquela semana no Spotify. O jornalista Ricardo 
+    Kotscho também escreveu sobre as revelações dos documentos em sua coluna   
+
+  originalidade: >-
+    A série de reportagens sobre a “Caixa-preta do Governo Bolsonaro” foi viabilizada por meio do financiamento coletivo de milhares de 
+    leitores da Agência Pública. A partir de pedidos de Lei de Acesso à Informação, as reportagens revelam os potenciais crimes e abusos 
+    cometidos pelo governo Bolsonaro que ficaram escondidos por trás de sigilos, negativas e outras táticas de sonegação de informação. Nossa 
+    equipe obteve, via Lei de Acesso à Informação, as atas de 233 reuniões secretas realizadas entre março de 2020 e setembro de 2021. 
+    A equipe se organizou para analisar e verificar minuciosamente os dados e informações registrados nas 806 páginas produzidas pelo 
+    comitê, além de relacioná-los com o que já havia sido noticiado pela imprensa nacional e em investigações anteriores e sido descoberto 
+    pela Comissão Parlamentar de Inquérito instaurada em 2021 para investigar as ações e omissões do governo durante a pandemia. Como 
+    forma de transparência e interesse público, disponibilizamos na íntegra as atas das 233 reuniões
+
+  metodologia: >+
+    Para a reportagem “Campeões de ausências e omissões: o papel de cada ministério nas atas secretas”, trabalhamos com Python para 
+    extrair e padronizar o texto do arquivo em PDF com as 233 atas. A extração foi feita com a biblioteca PyPDF2. Para facilitar a 
+    visualização de padrões, o texto foi limpo com a biblioteca re e o resultado após a limpeza foi colocado em uma planilha editável 
+    no Google Sheets.
+    A partir dos textos nas células, foram estruturadas as seguintes informações de cada ata, utilizando as fórmulas =SEERRO, 
+    =EXT.TEXTO e =PROCURAR
+    - Número da reunião;
+    - Data;
+    - Horário de início;
+    - Horário de término;
+    - Memória;
+    - Encaminhamentos.
+    Na coluna “Memória”, buscamos por expressões específicas sobre a participação de uma determinada pasta, como a sigla do órgão 
+    seguido de um informe, registro de ausência. Os arquivos contendo as atas, dados e códigos utilizados nesta reportagem podem ser 
+    vistos no GitHub da Agência Pública: https://github.com/apublica/atas_covid 
+  
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/comite-crise-covid.JPG
+- title: 'Policiais suicidas: em um país dominado pelo crime, os principais responsáveis por tirar a vida dos policiais são eles mesmos'
+  project_url: >-
+    https://tab.uol.com.br/edicao/policiais-suicidas/ 
+  veiculo: UOL
+  autoria: Luís Adorno, Reinaldo Canato, Guilherme Zamarioli e Olívia Fraga
+  data: 18/10/2022
+  resumo: >+
+    Trata-se de um raio-x analítico e humanizado sobre os motivos que levam policiais civis e militares do Brasil ao suicídio.
+
+  relevância: >
+    Até a publicação da reportagem, não havia nenhum trabalho de fôlego na imprensa brasileira que tivesse como alvo, de maneira técnica, 
+    os motivos das mortes dos policiais. Entendendo que policiais morrem mais a partir deles mesmos do que em confrontos, debates públicos 
+    começaram a ser feitos por políticos, nas esferas estadual e federal. A Câmara brasileira sugeriu um dabete público, entre políticos 
+    e sociedade civil, para discutir melhorias nos mecanismos de saúde mental de policiais. E a sociedade civil brasileira, a partir do 
+    Forum Brasileiro de Segurança Pública, por exemplo, iniciou um monitoramento, com debates constantes em pauta, sobre a temática. Após 
+    a apuração jornalística, foi possível perceber que tem policiais que entram na corporação com boas ideias. Talvez até românticas. 
+    Que giram em torno de tornar a vida de seus similares mais segura. No entanto, uma vez dentro, tudo se modifica. A violência é constante 
+    e as humilhações hierárquicas idem. Culminando com baixo salário e grande família, a mente dos policiais se torna um barril de 
+    pólvora. E isso uma hora explode. Seja com violência policial contra inocentes, seja contra sua própria vida.  
+
+  originalidade: >-
+    Apesar de ser uma reportagem baseada em dados, o material humaniza os números, trazendo as vítimas dos casos como sendo as 
+    principais fontes do trabalho, trazendo uma aproximação entre quem não vive o caso no dia a dia e a sociedade.
+
+  metodologia: >+
+    Conversando com policiais sobre pautas do dia a dia, um caso me chamou a atenção: um policial civil de São Paulo que afirmou que 
+    tentou se matar, mas desistiu quando viu o sofrimento da família de um colega também policial que concluiu um suicídio. Ele me 
+    relatou os problemas diários que o levavam a crer que nada mais fazia sentido. E todos esses problemas tinham relação direta com o 
+    trabalho. Então, decidi procurar os dados de mortes de policiais no Brasil. Encontrei um relatório até então recente da Ouvidoria 
+    das Polícias de São Paulo que continha os dados, mas, até então, estavam sem eco na imprensa e sociedade. E me choquei quando 
+    percebi que, num país tão violento, os homens e mulheres responsáveis por enfrentar diariamente o crime organizado mais morrem de 
+    suicídio do que de confronto. Conversei com cerca de 20 policiais e familiares de policiais que enfrentam ou enfrentaram esse tipo 
+    de problema dentro de casa. Muitos desistiram de falar em cima da hora, por receio de represálias, vergonha ou temor de humilhações 
+    públicas. Mas teve quem topou falar.
+    Assim, consegui obter as seguintes informações:
+    1) Brasil teve em 2021 mais de 47,5 mil mortes violentas e mais de 1 milhão de crimes contra o patrimônio;
+    2) Durante o serviço, 43 policiais foram mortos em trocas de tiros no Brasil;
+    3) No mesmo período, mais do que o dobro cometeu suicídio: 101 policiais brasileiros tiraram a própria vida;
+    4) São muitos os motivos que levam o policial ao suicídio: pesquisa científica brasileira mostra que o policial pode até saber 
+    manejar o possível risco de morte em um combate, mas não tolera violências verbais, humilhações, perseguições e abuso de autoridade 
+    contra ele;
+    5) Mostramos as vidas de policiais que tentaram se matar: um deles conta que a rotina do trabalho o levou a isso -depois de ter 
+    saído da polícia e migrado sua carreira para outra profissão, os problemas se foram;
+    6) Mostramos as vidas de familiares de policiais que se mataram: uma delas conta que o policial tentou procurar ajuda psicológica, 
+    mas enfrentou o preconceito dentro da própria corporação;
+    7) Entrevistamos médicos, advogados e pesquisadores que analisam a problemática: a conclusão é que o estado brasileiro e a 
+    polícia brasileira não trata seus servidores como seres humanos. E isso implica em diversas outras complexidades da segurança 
+    pública nacional.
+  
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/policiais-suicidas.jpg
+- title: Monitor da Bancada
+  project_url: >-
+    https://mais.opovo.com.br/interativos/monitor-da-bancada/index.php 
+  veiculo: Jornal O POVO
+  autoria: Alexandre Cajazeira
+  data: 31/8/2023
+  resumo: >+
+    Onde encontrar, de maneira rápida e de fácil acesso, como os deputados cearenses estão votando? E suas respectivas despesas e dados 
+    pessoais públicos? Essas perguntas nortearam a criação de uma ferramenta para visualização dos dados disponíveis na API de dados abertos 
+    da Câmara dos Deputados. Desta forma, o Monitor da Bancada possibilita aos leitores do Grupo de Comunicação O POVO o acompanhamento 
+    cotidiano da atividade parlamentar da bancada cearense na Câmara Federal, possibilitando a fiscalização cidadã dos deputados e 
+    deputadas do estado. 
+
+  relevância: >
+    A estruturação e disponibilização de dados abertos é crucial para o processo de fiscalização dos diferentes atores públicos. 
+    Entretanto, dados abertos nem sempre são acessíveis ou publicizados o suficiente para informar a população. A Câmara dos Deputados, 
+    espaço representativo fundamental para a democracia brasileira, possui um serviço de dados abertos via API REST (uma interface que 
+    permite a comunicação entre computadores na internet de forma segura), mas não disponibiliza dados como o placar de votações ou 
+    despesas de cada deputado em painéis visuais acessíveis a toda população. O Monitor da Bancada é uma iniciativa que busca apresentar 
+    visualmente alguns dos dados brutos divulgados via API REST pela Câmara dos Deputados. Deste modo, possibilita aos leitores do Grupo 
+    de Comunicação O POVO uma nova maneira de fiscalizar e acompanhar a atividade parlamentar de seus representantes no congresso nacional. 
+
+  originalidade: >-
+    A representatividade da população de todo o Brasil se dá, de maneira mais ampla e direta, na Câmara dos Deputados, principalmente na 
+    construção e promulgação de leis que normatizam a vida em sociedade. Deste modo, diferentes iniciativas e ações pensadas na fiscalização 
+    cidadã da atividade parlamentar podem contribuir para a democracia no Brasil. Ademais, as forças políticas e arranjos partidários 
+    possuem características muito peculiares em cada estado ou região brasileira. Inserido neste contexto, o Monitor da Bancada é uma 
+    iniciativa inovadora para a região nordeste, especialmente no estado do Ceará.
+
+  metodologia: >+
+    A ferramenta coleta e integra automaticamente informações do serviço de dados abertos da Câmara dos Deputados 
+    (https://dadosabertos.camara.leg.br/swagger/api.html), como o resultado das últimas votações registradas em plenário, o placar da 
+    bancada estadual nas pautas com votação nominal disponível, a composição atualizada da bancada cearense, os respectivos gastos e 
+    informações pessoais públicas de cada deputado. Eventuais instabilidades no serviço de dados abertos da Câmara dos Deputados podem 
+    comprometer, momentaneamente, o funcionamento da ferramenta. Neste caso, espere alguns minutos e atualize a página para verificar as 
+    últimas informações válidas. 
+  
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/monitor.jpg
+- title: Monitor da Bancada
+  project_url: >-
+    https://mais.opovo.com.br/interativos/monitor-da-bancada/index.php 
+  veiculo: Jornal O POVO
+  autoria: Alexandre Cajazeira
+  data: 31/8/2023
+  resumo: >+
+    Onde encontrar, de maneira rápida e de fácil acesso, como os deputados cearenses estão votando? E suas respectivas despesas e dados 
+    pessoais públicos? Essas perguntas nortearam a criação de uma ferramenta para visualização dos dados disponíveis na API de dados abertos 
+    da Câmara dos Deputados. Desta forma, o Monitor da Bancada possibilita aos leitores do Grupo de Comunicação O POVO o acompanhamento 
+    cotidiano da atividade parlamentar da bancada cearense na Câmara Federal, possibilitando a fiscalização cidadã dos deputados e 
+    deputadas do estado. 
+
+  relevância: >
+    A estruturação e disponibilização de dados abertos é crucial para o processo de fiscalização dos diferentes atores públicos. 
+    Entretanto, dados abertos nem sempre são acessíveis ou publicizados o suficiente para informar a população. A Câmara dos Deputados, 
+    espaço representativo fundamental para a democracia brasileira, possui um serviço de dados abertos via API REST (uma interface que 
+    permite a comunicação entre computadores na internet de forma segura), mas não disponibiliza dados como o placar de votações ou 
+    despesas de cada deputado em painéis visuais acessíveis a toda população. O Monitor da Bancada é uma iniciativa que busca apresentar 
+    visualmente alguns dos dados brutos divulgados via API REST pela Câmara dos Deputados. Deste modo, possibilita aos leitores do Grupo 
+    de Comunicação O POVO uma nova maneira de fiscalizar e acompanhar a atividade parlamentar de seus representantes no congresso nacional. 
+
+  originalidade: >-
+    A representatividade da população de todo o Brasil se dá, de maneira mais ampla e direta, na Câmara dos Deputados, principalmente na 
+    construção e promulgação de leis que normatizam a vida em sociedade. Deste modo, diferentes iniciativas e ações pensadas na fiscalização 
+    cidadã da atividade parlamentar podem contribuir para a democracia no Brasil. Ademais, as forças políticas e arranjos partidários 
+    possuem características muito peculiares em cada estado ou região brasileira. Inserido neste contexto, o Monitor da Bancada é uma 
+    iniciativa inovadora para a região nordeste, especialmente no estado do Ceará.
+
+  metodologia: >+
+    A ferramenta coleta e integra automaticamente informações do serviço de dados abertos da Câmara dos Deputados 
+    (https://dadosabertos.camara.leg.br/swagger/api.html), como o resultado das últimas votações registradas em plenário, o placar da 
+    bancada estadual nas pautas com votação nominal disponível, a composição atualizada da bancada cearense, os respectivos gastos e 
+    informações pessoais públicas de cada deputado. Eventuais instabilidades no serviço de dados abertos da Câmara dos Deputados podem 
+    comprometer, momentaneamente, o funcionamento da ferramenta. Neste caso, espere alguns minutos e atualize a página para verificar as 
+    últimas informações válidas. 
+  
+  uf: CE
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/monitor.jpg
+- title: Série Obras Inacabadas Paraíba
+  project_url: >-
+    https://globoplay.globo.com/v/11789365/ 
+  veiculo: TVs Cabo Branco e Paraíba
+  autoria: Laerte Cerqueira, Beto Silva, Otávio Farias e Williams Campos 
+  data: 17/10/2023
+  resumo: >+
+    Em quatro REPORTAGENS DE TV, visitamos obras inacabadas no Brejo, Sertão e Cariri da Paraíba. Algumas, são esperadas há mais de uma 
+    década. Além dessas creches, quase prontas que nunca receberam uma criança. A série traz também postos de saúde que não saíram do 
+    papel, vilas olímpicas sem quadra, sem piscinas ou pistas de atletismo. Um conjunto habitacional entregue ao tempo. A população de 
+    algumas cidades ainda espera a conclusão de um teatro, mercado público, matadouro e sistema de irrigação com águas da transposição 
+    do Rio São Francisco.  A definição das obras foi baseada nos relatório e painéis do TCU, TCE-PB, CGU e Ministério Público Federal, 
+    que trazem dados abertos sobre o andamento/paralisação das construções. Moradores relataram os prejuízos causados pela falta de 
+    conclusão das obras; especialistas comentam sobre o desperdício do dinheiro público em projetos com erros de planejamento e executados. 
+    As punições previstas para gestores e gestões. E, ainda, as soluções e prazos previstos para que a população tenha acesso aos 
+    benefícios que podem chegar com a conclusão dessas obras.
+
+  relevância: >
+    No nosso ponto de vista, as reportagens colocam luz em um problema crônico no país e na Paraíba: obras inacabadas. Cobra de gestores 
+    providências, mas promove uma reflexão sobre a falta de fiscalização eficiente, a necessidade de rever formas de contratações, de 
+    punir gestores, empresas e gestões que, de forma direta ou indireta, contribuem para o desperdício. E ainda desvela, de maneira dura, 
+    os prejuízos sociais e econômicos que perfuram com a falta de conclusão das obras
+
+  originalidade: >-
+    As reportagens trazem para o centro do debate os prejuízos sociais de uma obra inacabada, além dos prejuízos financeiros do cidadão 
+    comum. O roteiro foi estabelecido a partir da confirmação, in loco, de dados de relatórios e painéis de órgãos de controle. Em 
+    alguns momentos é possível perceber que o que está no sistema online não se concretiza na realidade. O trabalho de campo serviu, 
+    inclusive, para alertar órgãos de fiscalização da necessidade de serem mais ágeis no acompanhamento e registro. Também foi possível 
+    escancarar a dificuldade que esses órgãos, detentores de dados, tem vistoriar, fiscalizar a tempo de evitar um prejuízo maior aos 
+    cofres públicos.
+
+  metodologia: >+
+    Iniciamos o trabalho verificando a quantidade de obras consideradas paralisadas e inacabadas no site do TCU 
+    (https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de ). Depois 
+    fomos em busca de relatório da CGU para comparar e filtrar dados dos órgão federais, que fiscalizam repasses da União. O MPF também 
+    foi fundamental com a disponibilização de relatórios de inquéritos de obras que poderiam estar incluídas nas já identificadas no 
+    painel do TCU. Após isso, fomos em busca fonte de dados estaduais com informações sobre obras. Verificamos que o TCE 
+    ( https://paineldeobras.tce.pb.gov.br/) tem um painel de obras, mas sem informações claras sobre as que estão paradas e inacabadas. 
+    Em conversa com auditor apresentamos o questionamento e o órgão se comprometeu a tornar a experiência de obtenção de dados mais 
+    fácil. Em seguida, fomos em busca de relatórios do Ministério Público da Paraíba, que não tem uma plataforma para implantação dos 
+    dados, mas disponibiliza relatórios de inquéritos com informações sobre as obras.
+  
+  uf: PB
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: TV
+  category: Dados Abertos
+  image: images/edicoes/2023/obras-inacabadas-pb.png
+- title: Mais de 182 mil moradias em áreas de risco em SP
+  project_url: >-
+    https://g1.globo.com/sp/sao-paulo/bom-dia-sp/video/mais-de-182-mil-moradias-em-areas-de-risco-11582161.ghtml 
+  veiculo: TV Globo SP
+  autoria: Gustavo Justino, Ariane Brione, Gabriel Siqueira, Marina Carqueijo, Thaís Luquesi, Edson Gabriel, Hélio Oliveira, Ângelo Polizelo; 
+  data: 2/5/2023
+  resumo: >+
+    Reportagem especial para o Projeto Morar SP, da TV Globo SP, onde trabalhamos exclusivamente com matérias sobre habitação / moradia. 
+    Neste material mostramos a população que mora em áreas consideradas de risco; pessoas que estão sujeitas a perder a moradia diariamente, 
+    e ainda pagam por isso. Na capital paulista, a Defesa Civil estima que a área considerada de risco é de 1.725 hectares, o equivalente 
+    a 1.600 campos de futebol ou a 12 parques do Ibirapuera.
+
+  relevância: >
+    Mapear e exibir essa realidade expõe a precariedade de atenção, agilidade e investimento oferecido pelo poder público às pessoas que 
+    vivem em áreas de risco. A matéria evidencia uma questão de "tragédia anunciada" que é tratada de forma paliativa ou com soluções 
+    emergenciais quando o problema já aconteceu evidenciando a necessidade de uma política efetiva, ágil e preventiva.
+
+  originalidade: >-
+    O trabalho expôs a falta de políticas adequadas para esse contingente de pessoas; a inexistência dos dados de boa parte das esferas 
+    responsáveis e até a troca de continuidade num trabalho por conta de uma troca de governo impacta diretamente no aumento evidente de 
+    moradias e pessoas nessas áreas. O Ministério Público, a partir da reportagem, passou a cobrar o Plano de Redução de Riscos no município; 
+    uma realidade que infelizmente afeta a maioria dos municípios do estado de São Paulo, como aconteceu em 2023 no litoral norte devastado 
+    pelas fortes chuvas.
+
+  metodologia: >+
+    Essa reportagem surgiu após uma resposta de pedido via LAI à Secretaria Estadual de Habitação de São Paulo de um mapa de áreas de 
+    risco; a secretaria informou que não possuía um dado / mapa de áreas de risco no estado em razão da troca de governo (mesmo com 
+    quatro meses da nova gestão). E que um novo levantamento estaria sendo elaborado com prazo para o fim de 2023. Pensando nisso, 
+    buscamos contato com todas as prefeituras do estado de São Paulo e descobrimos que não existe padrão, nem todas possuem dados, 
+    algumas possuem dados desatualizados. E conversando com especialistas entendemos que o dado é o ponto principal para que políticas 
+    habitacionais fossem desenvolvidas. Com essa lacuna fomos buscar dados com a Defesa Civil e, a partir daí, utilizamos o GeoSampa, 
+    um tipo de mapa digital da cidade de SP que permite obter um tipo de análise estratégica territorial e que tem seu uso técnico pouco 
+    difundido entre os colegas da nossa redação. Extraímos o máximo de informações possíveis para detalhando, por meio de artes na reportagem, 
+    todos os números que obtivemos para mapearmos as áreas de risco em níveis, tipos e contextualizando em campo mostrando a realidade 
+    das pessoas a partir desta pesquisa.
+  
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: TV
+  category: Dados Abertos
+  image: images/edicoes/2023/morar-sp.jpeg
+- title: Só 0,04% das multas são pagas em Mato Grosso
+  project_url: >-
+    https://www.gazetadigital.com.br/edicao.inc.php?ano=2022&mes=09&dia=25  
+  veiculo: Grupo Gazeta de Comunicação - Jornal A Gazeta
+  autoria: Silvana Bazani
+  data: 25/9/2022
+  resumo: >+
+    Danos ao meio ambiente em Mato Grosso resultaram na aplicação de multas que somam R$ 5,1 bilhões desde 2019. Em menos de 4 anos 
+    foram pagos apenas R$ 222,3 milhões referentes às sanções aplicadas pelos órgãos estaduais que atuam no combate aos crimes ambientais. 
+    O valor pago equivale a 0,04% das cobranças punitivas, incluindo acordos por meio de Termos de Ajustamento de Conduta (TAC), conforme 
+    levantamento realizado pela Secretaria Estadual de Meio Ambiente (Sema), a pedido do Jornal A Gazeta. De acordo com o Tribunal de 
+    Justiça de Mato Grosso (TJMT) o prazo para apurar infração ambiental prescreve  em 5 anos, a partir do ato infracional, prevê o 
+    decreto estadual nº 1.436/2022. Quinze mil processos de multas aplicados nos últimos dez anos foram julgados em Mato Grosso a 
+    partir de 2019. A Sema não disponibiliza dados sobre contestações ou prescrições de multas. As consequências da degradação ambiental 
+    são sentidas por todos. Problemas respiratórios decorrentes da piora da qualidade do ar devido a queimadas, incêndios e desmatamento 
+    elevam a procura por medicamentos. As farmácias tiveram aumento de até 15% no faturamento durante o inverno de 2022, seco e quente, 
+    com temperaturas de até 40 graus em Mato Grosso, segundo o Sindicato do Comércio Varejista de Produtos Farmacêuticos (Sincofarma). Neste 
+    ano o total de autos de infração por crimes ambientais lavrados até setembro superam em 327,9% o quantitativo dos 12 meses de 2018. 
+    Subiu de 679 para 2.906 no período, segundo a Sema. Somente em 2021 foram 5.004 autuações, totalizando 12.951 nos últimos 5 anos. Denúncias 
+    sobre incêndios e queimadas aumentaram 16% no 1º semestre deste ano ao somar 362 registros, ante 311 no mesmo intervalo de 2021, 
+    conforme registros do Corpo de Bombeiros Militar (CBM) de Mato Grosso. Apesar dos danos ambientais que comprometem a qualidade de 
+    vida da população e causam prejuízos, o tema meio ambiente foi pouco contemplado nas propostas dos 4 candidatos ao governo de Mato 
+    Grosso na eleição deste ano. Em alguns casos, sequer consta no plano de governo.
+
+  relevância: >
+    A reportagem chama atenção para as falhas do poder público e desinteresse de candidatos em tratar a temática ambiental com mais 
+    seriedade no atual contexto de emergência climática, com danos à população. Os dados citados na matéria foram fornecidos pelo 
+    próprio poder público. No caso do governo de Mato Grosso, o órgão ambiental informou não dispor de estatísticas de multas de 
+    gestões anteriores a 2019, contemplando apenas o período de gestão do atual governador , reeleito em 2022
+
+  originalidade: >-
+    Destaca a cobrança de multas ambientais e a ineficácia em cobrá-las, fragilizando um combate mais efetivos às infrações ao meio 
+    ambiente.
+
+  metodologia: >+
+    Solicitação e confronto de dados públicos e de entidades organizadas.
+  
+  uf: MT
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Impresso
+  category: Dados Abertos
+  image: images/edicoes/2023/multas-ambientais.jpeg
+- title: Publicação da UFMG e da PBH revela vivências da população idosa LGBT+
+  project_url: >-
+    https://ufmg.br/comunicacao/noticias/publicacao-da-ufmg-e-da-pbh-revela-vivencias-da-populacao-idosa-lgbt   
+  veiculo: Centro de Comunicação da Universidade Federal de Minas Gerais
+  autoria: Ruleandson do Carmo, Beatriz Campos, Bruno Ihara, Clarice Oliveira, Alessandra Dantas, Breno Rodrigues, Flávio de Almeida
+  data: 4/8/2023
+  resumo: >+
+    Produção Intermídias do Centro de Comunicação da Universidade Federal de Minas Gerais, com versão para mídia textual (Portal UFMG), 
+    mídia sonora (Rádio UFMG Educativa) e mídia audiovisual (Instagram @ufmg), que evidencia um diagnóstico da população idosa LGBT+ de 
+    Belo Horizonte, que está na interseção de grupos de pessoas às quais direitos são negados, a partir de uma publicação com dados 
+    inéditos lançada pelo Núcleo Jurídico de Diversidade Sexual e de Gênero (Diverso) da UFMG e pela Prefeitura de Belo Horizonte (PBH). 
+    O Relatório "Envelhecer LGBT+: histórias de vida e direitos" é estruturada em oito eixos temáticos: Subjetividades e envelhecimento, 
+    Sexualidade e identidade de gênero, Violências e discriminações, Cuidados e instituições de longa permanência (ILPIs), Saúde, 
+    Cultura, lazer e ativismo político, Acesso à renda e empregabilidade e serviços públicos.
+
+  relevância: >
+    A vivência de pessoas idosas é cercada de diversas discriminações. A vivência de pessoas LGBT+ (não heterossexuais e/ou não 
+    cisgêneras) também. Quando as duas condições se unem, o preconceito é experimentado em dose dupla. No Brasil, em 2022, mais de 35 
+    mil denúncias de maus-tratos a idosos foram registradas, segundo o Ministério dos Direitos Humanos. O país apresenta, ainda, 
+    números preocupantes em relação aos atos de violência contra as pessoas LGBT+: alta de 300% no número de denúncias de violência 
+    contra a comunidade foi registrada nos primeiros cinco meses de 2023, sendo 2,5 mil alertas de janeiro a maio deste ano e 560 de 
+    janeiro a maio do ano passado.
+
+  originalidade: >-
+    Produção intermídias que ilustra um relatório público, produzido por parceria entre a Universidade Federal de Minas Gerais e a 
+    Prefeitura de Belo Horizonte, mostrando a vivências de pessoas LGBT+ e como tais vivências tornam os dados levantados mais humanizados. 
+    Além disso, a apresentação dos conteúdos em mídias diversas permite o alcance a públicos com hábitos de consumo de informação 
+    distintos. 
+
+  metodologia: >+
+    A partir do acesso ao Relatório "Longeviver LGBT+: Envelhecimento da população LGBT+ em Belo Horizonte", foram procuradas pessoas 
+    LGBT+ e simultaneamente idosas para entender como a interseccionalidade afetava a vida e rotinas de tais pessoas, subsidiando a 
+    produção de conteúdos em diversos formatos, para alcançar a diversos públicos. 
+    Link para acesso ao relatório: https://diversoufmg.com/projetos/longeviver/
+    Matéria em versão textual (Portal UFMG): https://ufmg.br/comunicacao/noticias/publicacao-da-ufmg-e-da-pbh-revela-vivencias-da-populacao-idosa-lgbt
+    Matéria em versão sonora: https://soundcloud.com/radioufmgeducativa/publicacao-da-ufmg-e-da-pbh-revelam-vivencias-da-populacao-idosa-lgbt
+    Matéria em versão audiovisual: https://www.instagram.com/reel/CvhoPI8tRGV/?igshid=MzRlODBiNWFlZA==
+  
+  uf: MG
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/MAPEAMENTOLGBT.png
+- title: 'Exclusivo: Em 20 anos, BNDES emprestou R$ 25,5 bilhões para mineradoras'
+  project_url: >-
+    https://observatoriodamineracao.com.br/exclusivo-em-20-anos-bndes-emprestou-r-255-bilhoes-para-mineradoras/   
+  veiculo: Observatório da Mineração
+  autoria: Alexandre Facciolla e Mauricio Angelo
+  data: 10/7/2023
+  resumo: >+
+    Reportagem - guiada por dados, pedidos de LAI e entrevistas - exclusiva sobre os investimentos, via empréstimos bilionários, que o 
+    BNDES fez diretamente ao ramo de mineração entre 2002 e 2022. A reportagem revela os valores por empresas, por ano e até por tipo de 
+    mineração diretamente estimulada pelo banco de fomento estatal, além de apontar os principais projetos contemplados com os maiores 
+    valores e quais as implicações socioambientais de cada um. 
+
+  relevância: >
+    A reportagem consolida, através de informações e explicações de especialistas, como se deu a política de "Campeões Nacionais" 
+    (2007 - 2014) nos governos Lula 2 e Dilma 1, e por que é foi um método de atuação pouco eficaz para a indústria de mineração. Além 
+    disso, torna acessível - inclusive com visualizações - uma parte da base de dados on-line que o banco mantém, e que muitas vezes 
+    pode ser desafiador conseguir filtrá-la de forma rápida e certeira. A matéria traz luz também ao projeto Aripuanã, da holding Nexa 
+    Resources (braço do grupo Votorantim), no Mato Grosso. Foi o único empreendimento com investimento massivo e significativo que o 
+    governo Bolsonaro fez em 4 anos. O trabalho também demonstra que mineradoras foram muito mais beneficiadas se não usarmos filtros 
+    sem especificar o subgrupo CNAE agrupado de "mineração".
+
+  originalidade: >-
+    Um dos principais pontos originais do trabalho foi analisa e deixa público uma parte da base de dados de empréstimos do BNDES e 
+    como utilizá-la. Outro ponto de originalidade foi o uso de visualizações em Python para checagem, e visualizações no Flourish, 
+    feitas sob medida para tornar o mais claro e prático o acesso aos dados analisados ao longo da matéria. 
+
+  metodologia: >+
+    A partir de uma resposta de pedido de LAI, fiz o download direto do site do BNDES. Primeiro, já com Python, fiz as adaptações 
+    necessárias, como a budança de xls ou xlsx para csv. Depois, fui fazendo todas as análises e recortes possíveis nas tabelas e as 
+    salvando em documentos a parte quando estava certo que o recorte estava adequado - apenas para deixar claro, também submeti meu 
+    código a dois colegas capacitados para tal, antes da consolidação da reportagem. Busquei confirmações e explicações sobre os dados 
+    e algumas incongruências. A mais gritante, e que foi destacada  no final da matéria, é a impossibilidade de individualizar o valor 
+    exato por município. 
+  
+  uf: DF
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/bndes.png
+- title: 'Novo PAC: saiba quais são as obras previstas na sua cidade'
+  project_url: >-
+    https://folha.com/cj2k13hp   
+  veiculo: Folha de S.Paulo
+  autoria: Augusto Conconi, Cristiano Martins, Daniel Mariani, João Pedro Pitombo e Rafael Martins
+  data: 16/8/2023
+  resumo: >+
+    Após divulgação das obras Novo PAC sem transparência pelo governo federal, trabalho de raspagem permitiu análises mais aprofundadas, 
+    além de possibilitar a consulta detalhada aos leitores. Publicação pressionou pela abertura oficial dos dados, liberados dias depois 
+    no site da Casa Civil em formato de planilha.
+
+  relevância: >
+    O Novo PAC é até o momento o principal programa divulgado pelo novo governo do PT. Anúncio foi realizado em evento com a presença 
+    do presidente no Theatro Municipal do Rio de Janeiro e com forte apelo publicitário, porém sem mínimos critérios de transparência. 
+    Reportagem revelou o grande número de obras paradas e "ressuscitadas" nesta versão repaginada do programa.
+
+  originalidade: >-
+    Apuração envolveu métodos de raspagem e cruzamento de dados para driblar a falta de transparência da Casa Civil. Até onde foi 
+    possível pesquisar, trata-se da única iniciativa bem-sucedida com esse propósito na cobertura do Novo PAC, tendo pressionado o 
+    governo a publicar os dados em formato aberto. 
+
+  metodologia: >+
+    Os dados foram publicados inicialmente em um painel do tipo Power BI no site da Casa Civil. A equipe do Deltafolha investigou a 
+    estrutura de carregamento das páginas e conseguiu automatizar a navegação e coleta dos dados exibidos dinamicamente no navegador. 
+    Posteriormente, foi realizada a checagem e padronização para vincular os nomes dos municípios aos seus respectivos códigos IBGE.
+  
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/pac.jpg
