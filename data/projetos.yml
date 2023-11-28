@@ -19134,3 +19134,441 @@
   formato: Online
   category: Visualização
   image: images/edicoes/2023/selo_twitter.png
+- title: 'Brasil: relatório da absolar mostra que energia solar já produz mais que Itaipú'
+  project_url: >-
+    https://nexjor.upf.br/2023/07/11/brasil-relatorio-da-absolar-mostra-que-energia-solar-ja-produz-mais-que-itaipu/ 
+  veiculo: NEXJOR - UPF
+  autoria: Anthony Bernardo Baruffi Buqui e Marlusa Oliveira 
+  data: 11/7/2023
+  resumo: >+
+    A reportagem destaca o crescimento rápido da energia solar no Brasil, impulsionado por sua fonte sustentável e pelo clima favorável. 
+    A energia solar experimentou um aumento significativo desde 2012, com mais de 1,9 milhão de sistemas solares em operação e um crescimento 
+    de 110% em potência instalada em um ano. O Rio Grande do Sul se destaca como o segundo maior produtor de energia solar no país. 
+    A transição para fontes de energia renovável é vista como essencial para a sustentabilidade, porém a reportagem também ressalta o 
+    desafio do descarte responsável dos painéis solares, que contêm materiais difíceis de reciclar. Apesar disso, a energia solar 
+    continua a crescer, trazendo benefícios econômicos e ambientais para o Brasil.
+
+  relevância: >
+    A reportagem destaca a crescente importância da energia solar no Brasil  devido aos benefícios ambientais, econômicos e de 
+    segurança energética que ela proporciona. A energia solar está impulsionando investimentos, empregos e contribuindo para a 
+    independência energética do país. Além disso, o Brasil está se destacando internacionalmente no setor, embora também enfrente 
+    desafios ambientais relacionados ao descarte responsável de painéis solares. 
+
+  originalidade: >-
+    O trabalho traz informações atualizadas sobre o crescimento contínuo e significativo da energia solar no Brasil, destacando sua 
+    importância crescente na matriz energética do país. Além disso, apresenta dados específicos sobre o aumento na instalação de 
+    sistemas fotovoltaicos nos últimos anos, bem como o destaque do Rio Grande do Sul como um dos principais estados produtores de 
+    energia solar no Brasil. Outro ponto novo é a ênfase nos desafios ambientais associados ao descarte de painéis solares, destacando 
+    a necessidade de regulamentações e práticas adequadas de reciclagem, o que pode ser um fator crítico para a sustentabilidade da 
+    indústria solar no futuro. 
+
+  metodologia: >+
+    Realizamos a coleta e análise de dados por meio de ampla pesquisa nas instituições públicas que forneceram dados sobre energia 
+    solar, a exemplo do Atlas Solar do RS e relatórios do Ministério de Minas e Energia. Também utilizamos o canal Fala BR onde 
+    solicitamos dados atualizados e legislação específica sobre a atual situação da produção de energia solar no Brasil. Além dessas 
+    bases, consultamos prioritariamente a  Absolar (Associação Brasileira de Energia Solar Fotovoltaica) que fornece dados mensalmente. 
+    Como fontes para falar dos impactos no meio ambiente, consultamos a Bióloga Fabiana Machado. Já para trazer a questão econômica, 
+    consultamos Irema Lima  que é empresária do ramo fotovoltaico e para finalizar, trouxemos uma fonte consumidora, para tratar dos 
+    reais impactos na vida cotidiana.
+    LINK: https://www.absolar.org.br/mercado/infografico/
+
+  uf: RS
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/brasil-relatorio.jpg
+- title: Menos de 1% dos boletins de ocorrência pela internet são investigados pela polícia em Pernambuco
+  project_url: >-
+    https://jc.ne10.uol.com.br/colunas/seguranca/2023/07/15538641-menos-de-1-dos-boletins-de-ocorrencia-pela-internet-sao-investigados-pela-policia-em-pernambuco.html 
+  veiculo: Jornal do Commercio
+  autoria: Raphael Guerra 
+  data: 5/7/2023
+  resumo: >+
+    Reportagem foi produzida a partir de dados obtidos por meio da Lei de Acesso à Informação, revela que dos mais de 96 mil boletins de 
+    ocorrência registrados pela internet em Pernambuco, no ano de 2022, apenas 363 (0,37%) resultaram em inquéritos policiais .
+
+  relevância: >
+    A reportagem demonstra que a Polícia Civil de Pernambuco não dá a devida atenção aos boletins de ocorrência que são registrados 
+    pela internet, mesmo incentivando o cidadão a usar esse mecanismo (já que a maioria das delegacias fica fechada à noite e nos fins 
+    de semana, dificultando uma rejeição presencial). Na lista de crimes, estão incluídos roubos, furtos e até violência contra a mulher.  
+
+  originalidade: >-
+    O trabalho inédito aponta de forma muito clara a forte impunidade em Pernambuco, porque, apesar do governo de Pernambuco incentivar 
+    que o cidadão registre boletins de ocorrência pela internet, praticamente todas as denúncias on-line não são investigadas pela 
+    Polícia Civil. A reportagem mostra que, dos pouquíssimos inquéritos instaurados, só metade deles foi concluída. 
+
+  metodologia: >+
+    Basicamente, a reportagem comparou o número de boletins de ocorrência virtuais registrados no ano de 2022 com o total de inquéritos 
+    instaurados a partir deles. Também analisou o total de investigações concluídas (número solicitado via LAI). Policiais civis foram 
+    ouvidos, além de especialistas em segurança pública. Porta-voz foi solicitado à Polícia Civil de Pernambuco, que só se pronunciou 
+    por nota. 
+
+  uf: PE
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/delegacia.png
+- title: Número de contas bancárias por brasileiro salta para mais de 5; Isso é bom ou ruim?
+  project_url: >-
+    https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2023/01/23/numero-de-contas-bancarias-por-brasileiro-salta-para-mais-de-5-isso-e-bom-ou-ruim.ghtml 
+  veiculo: Valor Investe
+  autoria: Nathália Medeiros Fraga Larghi 
+  data: 23/1/2023
+  resumo: >+
+    A reportagem fala sobre o recente e forte aumento na média de contas bancárias que cada brasileiro tem, bem como suas causas e 
+    consequências. A matéria foi baseada em pesquisas feitas nas bases de dados do Banco Central, da bolsa de valores brasileira e do 
+    Serasa, além de entrevistas com especialistas e personagens. Dados do Banco Central mostraram que nos últimos cinco anos, a média de 
+    relacionamentos bancários por pessoa saiu de 2,4 contas em diferentes bancos e instituições por cidadão para uma média de 5,2. Isso 
+    foi resultado de uma série de avanços, tanto legais quanto tecnológicos, do sistema financeiro, todos abordados e explicados na 
+    reportagem. Por um lado, a Lei 12.865, de 2013, permitiu que empresas que não são bancos operem contas. Isso possibilitou o 
+    surgimento de ""carteiras digitais"", que oferecem alguns serviços financeiros de maneira simples e eficiente aos clientes, muitos 
+    às vezes ""esquecidos"" pelas instituições tradicionais. Aliado a isso, a evolução da tecnologia permitiu que tanto as empresas que 
+    oferecem essas ""contas alternativas"" quanto os próprios bancos tradicionais ampliassem sua oferta de serviços, especialmente de 
+    forma digital, o que facilitou e impulsionou diversos produtos financeiros. No entanto, suas consequências são mistas. Na vida 
+    financeira das pessoas, uma consequência positiva foi o acesso a mais serviços e produtos, o que permitiu que as pessoas tivessem 
+    mais autonomia para escolher qual instituição as atende melhor e por preços mais atrativos. Por outro lado, houve quem se endividasse 
+    ou perdesse o controle das finanças justamente por ter muitas contas para administrar. No sistema financeiro, esse movimento também 
+    apresenta resultados distintos. Por um lado, ele ajudou a popularizar e facilitar o acesso dos brasileiros ao universo dos investimentos, 
+    informação que é corroborada pelos números de cadastrados na bolsa de valores brasileira. Por outro lado, no entanto, o efeito no 
+    crédito ainda foi pouco sentido. Mesmo com uma maior oferta de ""players"" no mercado de serviços financeiros, dados do Banco Central 
+    e do Serasa mostram que há um aumento do endividamento e uma piora na qualidade do crédito tomado.
+
+  relevância: >
+    O trabalho é importante por trazer as causas e consequências de um forte movimento na economia doméstica, avaliando seus resultados 
+    não só para o sistema financeiro como também para as finanças pessoais da população. Nele, são abordados de forma minuciosa os 
+    principais fatores que permitiram e incentivaram que o número de contas bancárias dos brasileiros aumentasse, o que ajuda o leitor 
+    a compreender um pouco da evolução recente do sistema financeiro. Além disso, o texto também apresenta as diferentes consequências 
+    desse movimento, baseadas em entrevista de especialistas, de personagens contando suas experiências pessoais e em dados do mesmo 
+    sistema financeiro. Somados, tanto as entrevistas quanto os indicadores e números mostram como esse movimento tem afetado e ainda 
+    pode afetar a vida financeira das pessoas. A reportagem, portanto, serve não só para explicar um movimento como também para alertar 
+    o público sobre os cuidados a serem tomados a partir desse novo cenário.
+
+  originalidade: >-
+    Desde que as contas digitais surgiram e ganharam popularidade no país, o crescimento da abertura dessas contas foi noticiado. No entanto, 
+    até então, nenhum veículo havia abordado, na forma de reportagem especial, como essa movimentação afetou não só a vida financeira das pessoas 
+    como todo o sistema financeiro (incluindo também as instituições "tradicionais", que também passaram a ofertar suas contas digitais e contribuíram 
+    para o aumento da média de contas correntes por pessoa). Foi inédita não só a abordagem das "consequências" que esse movimento traz, 
+    como também o cruzamento dos dados de contas bancárias por pessoa com indicadores de envididamento, de crédito e do número de investidores 
+    no país. O resultado disso foi que a reportagem, além de contar um fato e analisar tudo que o permeia, também ajuda os brasileiros a 
+    cuidar da melhor forma possível do seu dinheiro, atentando-os para certos cuidados e destacando como eles podem se aproveitar desse 
+    cenário com mais competidores. 
+
+  metodologia: >+
+    A reportagem foi baseada na análise de dados disponíveis no Banco Central, que podem ser encontrados no SGS, o Sistema 
+    Gerenciador de Séries Temporais (https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries ). 
+    Além disso, também foram usados dados disponíveis pelo Serasa em suas pesquisas de inadimplência e crédito (https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/) 
+    e também da B3, a bolsa de valores brasileira .(https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/mercado-a-vista/perfil-pessoas-fisicas/perfil-pessoa-fisica/ ).
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/numero-contas.png
+- title: Metade dos parlamentares eleitos que dizem ser negros são brancos
+  project_url: >-
+    https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/20/metade-dos-parlamentares-eleitos-que-dizem-ser-negros-sao-brancos.htm
+  veiculo: UOL
+  autoria: Simone Freire, Beatriz Mazzei (reportagem); Helton Simões Gomes (edição)
+  data: 22/11/2022
+  resumo: >+
+    A reportagem do UOL levantou as declarações étnico-raciais de cada um dos deputados federais, estaduais e senadores eleitos nas 
+    eleições de 2022. Em seguida, submeteu aqueles que se declararam negros (pretos e pardos) a uma banca de heteroidentificação, 
+    método usado para evitar fraudes em cotas raciais. A partir daí, concluiu que, dos 517 parlamentares autodeclarados negros, apenas 
+    263 são negros de fato. Com isso, a representatividade de pessoas negras, estabelecida em 32,3% pelas declarações fajutas, cai para 
+    16,4% dos assentos nas casas legislativas, índice para lá de distante da fatia correspondente a essa população na sociedade, de 56%, 
+    de acordo com o último Censo. Entre os autodeclarados negros reprovados pela banca estão Arthur Lira (PP-AL), Andreia Siqueira (MDB-Pará) 
+    e Silvye Alves (União Brasil-GO). A descoberta foi ainda mais importante, pois foi a primeira eleição em que os partidos foram obrigados, 
+    após uma decisão do TSE, a destinar de forma proporcional às campanhas de candidatos negros o dinheiro dos fundos partidário e eleitoral 
+    –este último, dotado de R$ 4,9 bilhões, a maior verba desde a sua criação, em 2017. 
+
+  relevância: >
+    Como o pleito de 2022 foi a primeira eleição em que os partidos foram obrigados, após decisão do TSE, a destinar de forma proporcional 
+    às campanhas de candidatos negros o dinheiro dos fundos partidário e eleitoral, a reportagem levanta pontos importantes sobre como possíveis 
+    fraudes na autodeclaração podem camuflar a falta de avanço da representatividade na política — ainda longe de espelhar a fatia negra 
+    na população brasileira, de 56,2% — como também impedir a análise da efetividade da ação afirmativa. O assunto é tão espinhoso que, 
+    partidos de oposição e da base do governo, se organizaram para incluir na mini-reforma eleitoral uma redução da obrigação legal de 
+    destinar parte da verba eleitoral a candidatos negros.
+
+  originalidade: >-
+    Esta foi a primeira vez que, no conjunto das eleições, um portal de notícias submeteu os parlamentares eleitos que se declararam 
+    negros ao mesmo escrutínio que candidatos a gozar de cotas raciais enfrentam: as bancas de heteroidentificação. Usadas em concursos 
+    públicos, elas são um instrumento para evitar fraudes e constantemente atacadas por detratores das cotas raciais. Até então, as 
+    reportagens que abordavam a autodeclaração dos candidatos se limitavam à avaliação da autodeclaração dos mesmos, revelando casos em 
+    que os candidatos mudaram sua autodeclaração entre uma e outra eleição. De forma inédita, a reportagem do UOL levantou os pontos de 
+    análise no processo de heteroidentificação nas eleições. 
+
+  metodologia: >+
+    O UOL compilou todos os eleitos autodeclarados pretos e pardos no registro do TSE e submeteu a lista a uma banca de heteroidentificação 
+    selecionada por Marcilene Garcia de Souza, doutora em sociologia pela Unesp (Universidade Estadual Paulista) que atua há 15 anos nesses 
+    processos para concursos de acesso ao serviço público e a universidades públicas. O grupo escolhido por ela foi composto por cinco 
+    especialistas, todos com ao menos 4 anos de atuação em universidades e concursos públicos. A análise seguiu uma portaria de 2018, do 
+    antigo Ministério do Planejamento, Desenvolvimento e Gestão, que regula a checagem racial de cotistas negros em concursos públicos 
+    federais. O procedimento averigua os fenótipos negroides das pessoas, ou seja, os detalhes físicos pelos quais elas são percebidas 
+    como negras. Por exemplo: pele escura, cabelos crespos ou encaracolados, lábios e nariz grossos. As planilhas compiladas pelo UOL 
+    está no seguinte link: https://docs.google.com/spreadsheets/d/1iwVZSCy5EEhFwACLhCAk10MCP027gh4X/edit?usp=sharing&ouid=102495747454592016189&rtpof=true&sd=true; 
+    já o trabalho do grupo geral um relatório técnico, que pode ser checado no seguinte link: https://download.uol.com.br/files/2022/11/4189200666_nota-tecnica-fraudes-nas-eleicoes-final-para-publicar-19.11-18h.pdf
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/deputados-uniao.jpg
+- title: 'Mapa exclusivo: 7 a cada 10 roubos e furtos de veículos estão na Região Metropolitana de SP; pesquise sua rua'
+  project_url: >-
+    https://g1.globo.com/monitor-da-violencia/noticia/2023/08/13/mapa-exclusivo-7-a-cada-10-roubos-e-furtos-de-veiculos-no-estado-de-sp-estao-na-regiao-metropolitana-pesquise-sua-rua.ghtml 
+  veiculo: g1/ TV Globo
+  autoria: Clara Velasco, Marina Pinhoni e Victor Farias
+  data: 13/8/2023
+  resumo: >+
+    A partir de dados disponibilizados pela Secretaria de Segurança de São Paulo, o g1 reuniu todas as ocorrências de roubos e furtos 
+    de veículos que aconteceram no primeiro semestre 2023 na Região Metropolitana para criar um mapa interativo com a geolocalização 
+    desses crimes. A reportagem também traz análises comparativas sobre as cidades da RMSP e bairros da capital paulista.  
+
+  relevância: >
+    Além de servir de alerta sobre a tendência de aumento que indica que o mercado  de venda de peças roubadas está aquecido, a análise 
+    dos dados pode auxiliar políticas públicas para enfrentamento deste tipo de crime nas áreas mais afetadas. A reportagem investigativa 
+    feita pelo Fantástico, em parceria nesta série, também identificou um esquema de desmanche de veículos que atua de forma organizada, 
+    em plena luz do dia.
+
+  originalidade: >-
+    Os dados brutos de roubos e furtos de veículos estão disponíveis em formato aberto no site de Transparência da SSP-SP, mas esta é a 
+    primeira vez que um veículo de imprensa disponibiliza essas informações de maneira tratada, com geolocalização, em um mapa interativo 
+    que permite a busca das ocorrências por todas as ruas das 39 cidades que compõem a Região Metropolitana de São Paulo. 
+
+  metodologia: >+
+    Para analisar a tendência dos crimes de roubo e furto de veículos no estado, o g1 utilizou os números disponíveis no site de 
+    Estatísticas da SSP-SP. Estes dados representam os balanços oficiais e consolidados dos crimes ocorridos no estado. Há informações 
+    por ano, mês, cidade e distritos policiais – mas não há informações por endereço e dia, dados necessários para fazer um mapa de 
+    crimes. Por isso, o g1 também utilizou outra fonte de informações oficiais da SSP-SP, o site da Transparência, que possui dados 
+    mais detalhados sobre os principais crimes do estado. Por conta de uma mudança de metodologia da atual gestão do estado, porém, 
+    apenas há dados auditados de fevereiro a junho destes dados detalhados. Os dados disponíveis de janeiro seguem a metodologia 
+    anterior e não são auditados. Isso quer dizer que eles não passam por uma checagem para garantir a confiabilidade das informações. Eles 
+    apresentam diferença considerável em relação ao dado oficial e fechado de ocorrências divulgado pela SSP. Por conta dessa discrepância, 
+    o g1 optou por não utilizar estes dados no mapa junto com os dados auditados. Assim, o mapa possui ocorrências de fevereiro a junho 
+    deste ano. Além disso, algumas das ocorrências presentes da base de dados da Transparência estão sem geolocalização – o dado 
+    necessário para determinar o ponto espacial em que o crime aconteceu – ou estão sem informação por conta de determinações da Lei 
+    Geral de Proteção de Dados Pessoais, que preserva o endereço residencial das vítimas.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/roubo_veiculos.jpg
+- title: 'Série Mais Ensino - três reportagens sobre o cumprimento da meta 6 do PNE: educação em tempo integral'
+  project_url: >-
+    https://www.jornalnh.com.br/noticias/regiao/2023/07/14/educacao-em-tempo-integral-ainda-nao-e-realidade-na-regiao.html 
+  veiculo: Jornal NH - Grupo Sinos
+  autoria: Débora Ertel
+  data: 14/7/2023
+  resumo: >+
+    A série "Mais Ensino" apresenta três reportagens sobre o não cumprimento da meta 6 do Plano Nacional de Educação: educação em tempo 
+    integral. Em 14/07, "Educação em tempo integral ainda não é realidade na região" traz um panorama geral e uma avaliação dos motivos 
+    e das consequências do não cumprimento da meta; em 21/07 "A cidade que consegue oferecer ensino integral a 100% dos estudantes" 
+    conta a história de Araricá, onde o ensino integral contempla toda a rede municipal; e em 28/07, "Os desafios de inserir o ensino 
+    médio na jornada integral" mostra como o Rio Grande do Sul buscar tornar o ensino médio uma modalidade de educação integral, com 
+    case da Escola Fernando Ferrari. O recorte de dados se concentra nas 39 cidades de circulação do Jornal NH. Seguem os links de todas 
+    as matérias.
+    14/07- Educação em tempo integral ainda não é realidade na região https://www.jornalnh.com.br/noticias/regiao/2023/07/14/educacao-em-tempo-integral-ainda-nao-e-realidade-na-regiao.html
+    21/07- A cidade que consegue oferecer ensino integral a 100% dos estudantes
+    https://www.jornalnh.com.br/noticias/regiao/2023/07/21/a-cidade-que-consegue-oferecer-ensino-integral-a-100--dos-estudantes.html
+    28/07- Os desafios de inserir o ensino médio na jornada integral
+    https://www.jornalnh.com.br/noticias/regiao/2023/07/28/os-desafios-de-inserir-o-ensino-medio-na-jornada-integral.html
+
+  relevância: >
+    O PNE está prestes a vencer e não há na sociedade um movimento de cobrança sobre o cumprimento das metas. A série apresenta, com 
+    enfoque regional, mas que se aplica à realidade nacional, o que foi realizado em relação à meta 6, que estabelece o ensino em tempo 
+    integral. Mostra que a região está longe de atender o que estabelece a lei e o quanto é necessário ainda fazer. Também apresenta 
+    experiências que deram certo e movimentos públicos para se buscar o cumprimento, tudo baseado em dados. 
+
+  originalidade: >-
+    Até então não havia uma trabalho jornalístico que apontasse dados específicos sobre o cumprimento da meta do 6 do PNE. Uma política 
+    de educação que impacta não somente nos estudantes, mas em suas famílias, pois oferece segurança alimentar e mais qualidade de ensino 
+    para quem frequenta a escola durante mais tempo. A reportagem serviu como alerta para a população, de modo a acompanhar a efetividade do 
+    PNE e a fiscalização do serviço público. 
+
+  metodologia: >+
+    Foram utilizados os dados do Censo Escolar e Ideb, números disponíveis na base do INEP/MEC. Por se tratar se matéria com foco 
+    regional, foi preciso fazer o recorte dos números referentes aos 39 municípios que compõem a região do NH, com filtros por cidade e 
+    nível de matrícula (infantil, fundamental 1 e 2 e médio). Foi um trabalho "trabalhoso" calcular e cruzar os dados, de modo a ter um 
+    cenário sobre a realidade local do cumprimento da meta 6 do PNE.
+
+  uf: RS
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/dados.jpg
+- title: Investigação revela dados do rio São Francisco utilizando a LAI
+  project_url: >-
+    https://infosaofrancisco.canoadetolda.org.br/reportagens/acesso-a-informacao-reportagens/investigacao-revela-dados-do-rio-sao-francisco-utilizando-a-lai/  
+  veiculo: InfoSãoFrancisco
+  autoria: Antônio Heleno Caldas Laranjeira
+  data: 31/7/2023
+  resumo: >+
+    O InfoSãoFrancisco usou a Lei de Acesso à Informação para fazer 90 pedidos. Nos achados as respostas nem sempre apontavam soluções 
+    para problemas ambientais do rio São Francisco. Relembramos nesse artigo aquilo que querem que você se esqueça…
+
+  relevância: >
+    Com essa publicação somamos esforços com a plataforma Achados e Pedidos para circular e recircular esses achados até mais 
+    jornalistas que possam realizar outras pautas de reportagens investigativas que ainda dependem de novos pedidos via LAI, mas também 
+    de financiamento e equipes dispostas a aprender mais sobre os problemas socioambientais dessa bacia hidrográfica. A reportagem, de 
+    modo instrutivo, encoraja a cooperação jornalística entre organizações da sociedade civil e cientistas engajados na cidadania para 
+    uso dos achados da LAI de modo ecologicamente eficiente.
+
+  originalidade: >-
+    Foi o primeiro pedido dos horários das vazões das hidrelétricas do rio São Francisco no trecho abaixo da UHE-Xingó 
+    (construída entre Sergipe e Alagoas) usando a LAI em toda sua história. Este pedido de acesso à informação por uma rede jornalística 
+    independente pressionou a Chesf que, em sua primeira resposta, informou apenas que poderia conceder o acesso parcial; o que levou 
+    nossa equipe a recorrer junto à Controladoria Geral da União (CGU) requerendo acesso total aos dados hídricos. Após a decisão 
+    judicial favorável à transparência, em junho de 2020 o InfoSãoFrancisco obteve com exclusividade os horários de vazão diária do 
+    maior rio do Nordeste do Brasil. Essa foi uma relevante conquista institucional e social no âmbito do jornalismo investigativo 
+    orientado por dados ambientais com base na LAI.
+
+  metodologia: >+
+    Nesta reportagem fizemos um balanço de achados com base em 90 pedidos via Lei de Acesso à informação por meio do sistema da CGU 
+    (Fala BR) e a plataforma Achados e Pedidos da Abraji. Em 3 anos de cobertura da vazões do rio São Francisco orientada por dados 
+    abertos nos âmbitos federal e estadual, tudo conquistado via LAI, conseguimos argumentar porque esse ecossistema, palco das primeiras 
+    hidrelétricas do país, depende da visibilidade midiática para um engajamento público em torno nos problemas e das soluções que o rio 
+    e sua população precisam.
+    Entrada: https://esic.cgu.gov.br/
+    Saída: https://www.achadosepedidos.org.br/
+
+  uf: BA
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/saofrancisco.jpeg
+- title: Teresina é a 4ª capital do Brasil com mais energia solar nas residências
+  project_url: >-
+    https://www.pinegocios.com.br/noticia/1699-teresina-e-a-4--capital-do-brasil-com-mais-energia-solar-nas-residencias
+  veiculo: Piauí Negócios
+  autoria: Robert Pedrosa
+  data: 20/3/2023
+  resumo: >+
+    A reportagem mostra o avanço da energia solar entre as residências de Teresina.
+
+  relevância: >
+    Com o forte calor de Teresina, uma das capitais mais quentes do Brasil, o uso do ar-condicionado é necessidade. Para baratear a 
+    conta de energia, muitas famílias estão recorrendo a painéis de energia solar para gerar energia. Com isso, têm melhor qualidade de 
+    vida.
+
+  originalidade: >-
+    O levantamento mostra visualmente o ranking de Teresina e do Piauí em nível Brasil e tem depoimentos de especialistas e clientes 
+    sobre o assunto.
+
+  metodologia: >+
+    Observação.
+
+  uf: PI
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/tereinfo.jpeg
+- title: Revelando e organizando as notas fiscais do cartão corporativo de todos os ex-presidentes brasileiros
+  project_url: >-
+    https://fiquemsabendo.substack.com/p/veja-quais-foram-os-gastos-do-cartao
+  veiculo: Fiquem Sabendo e DataFixers.org
+  autoria: Luiz Fernando Toledo, Alexandre Facciolla, Bruno Morassutti, Beatriz Cintra e Taís Seibt 
+  data: 12/1/2023
+  resumo: >+
+    A Fiquem Sabendo passou meses advogando pela abertura dos dados do cartão corporativo de ex-presidentes brasileiros, que até então 
+    eram mantidos sob sigilo e, quando divulgados, apareciam somente com números genéricos no Portal da Tramsparencia. Não só conseguimos 
+    abri-los antes de toda a imprensa como também escaneamos todas as notas fiscais dos últimos quatro anos e incentivamos a publicação 
+    de mais de 1 mil reportagens em todo o mundo, incluindo veículos como The Guardian no Reino Unido. Todos os veículos brasileiros 
+    falaram sobre o assunto por dias, sempre com crédito à agência. 
+
+  relevância: >
+    A abertura dos dados possibilitou uma série de reportagens produzidas por todos os principais veículos de comunicação, com destaque 
+    para o Estadão e o UOL, que publicaram em parceria conosco que o dinheiro do cartão foi usado para fins eleitorais, em motociatas e 
+    passeios de jetski. Graças ao trabalho o TCU passou a investigar o gasto de Bolsonaro. Também por consequência do trabalho o governo 
+    federal passou a digitalizar por conta própria as notas e publicar no portal de transparência. 
+
+  originalidade: >-
+    Nenhum dos dados era conhecido do público e nem mesmo de muitas autoridades. Todo o trabalho é autoral. Fomos a primeira organização 
+    a estruturar documentos de despesas do cartão corporativo com este grau de detalhamento.
+
+  metodologia: >+
+    Pedidos de LAI e denúncias a órgãos de controle para abertura dos dados; digitalização com equipe composta de 3 pessoas, todos os 
+    dias; formação de equipe multidisciplinar para organização dos documentos. Google pinpoint e document cloud para facilitar a busca. 
+    Uso de API do Portal da Transparência e Python/Pandas para comparar com dados agregados já divulgados. 
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/cartao-corporativo.jpeg
+- title: 'Projeto Data Fixers: organizando dados para investigar crimes ambientais'
+  project_url: >-
+    https://datafixers.org/
+  veiculo: Data Fixers
+  autoria: Luiz Fernando Toledo
+  data: 1/1/2023
+  resumo: >+
+    Data Fixers é um projeto de jornalismo investigativo e dados criado a partir da percepção de que grande parte das investigações 
+    sobre crimes ambientais no jornalismo precisa das mesmas bases de dados: CAR, GTA, autos de infração, dentre outras. O projeto, com 
+    financiamento e mentoria do Brown Institute for Media Innovation - Universidade de Columbia, foi o primeiro do Brasil a receber a 
+    prestigiada Magic Grant da universidade, competindo com trabalhos de todo o mundo.  
+
+  relevância: >
+    Em apenas um ano, o Data Fixers virou referência internacional e foi contratado por alguns dos mais relevantes meios de comunicação 
+    interessados em reportagens sobre crimes ambientais. Um dos nossos parceiros, The Washington Post, usou uma base de dados que 
+    produzimos sobre multas prescritas para produzir uma matéria que foi finalista do Prêmio Pulitzer em 2023. A BBC e o Al Jazeera 
+    publicaram reportagens exclusivas em parceria com o projeto. O InfoAmazonia contratou o projeto para participar de uma investigação 
+    transnacional de impacto, o Amazon UnderWorld. Os dois maiores consórcios de jornalismo investigativo do mundo, ICIJ e OCCRP, nos 
+    EUA e Europa, contrataram os serviços do Data Fixers para a produção de investigações que resultaram em impacto concreto - uma das 
+    reportagens, que investigou o contrabando de pau-brasil, levou a empresa investigada a fechar as portas. Neste caso, toda a 
+    reportagem foi feita por Data Fixers, em parceria com piaui e occrp. 
+
+  originalidade: >-
+    Este é o primeiro projeto de consultoria de dados e recursos públicos focado em crimes ambientais com foco transnacional, ou seja, 
+    aqueles crimes que envolvem diversos países. Alguns exemplos são: tráfico de madeira, grilagem de terras, tráfico de barbatanas de 
+    tubarão, etc. o diferencial deste projeto é tornar mais acessíveis os métodos e ferramentas já consagradas entre veículos que 
+    cobrem meio ambiente, dando novas possibilidades a qualquer parceiro. Mais de 100 matérias foram publicadas com base neste trabalho.
+
+  metodologia: >+
+    Obtenção inicial de bases de dados, públicas e algumas sigilosas, como Cadastro Ambiental Rural de diversos estados, Guia de Trânsito 
+    Animal de diversos estados, autos de infração do ibama e icmbio, dentre outros. Webscraping e análise de grande quantidade de dados 
+    com uso de Python e Google big query. Organização de documentos na plataforma document cloud,  com criação de tags produzidas com 
+    apoio de inteligência artificial. Reportagem tradicional, com alio de fontes, para obter certos dados que não estão públicos.  
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/datafixers.jpeg
+- title: Alagoas ainda convive com fantasma da intolerância religiosa
+  project_url: >-
+    https://tribunahoje.com/especial/2022/10/28/6-alagoas-ainda-convive-com-fantasma-da-intolerancia-religiosa
+  veiculo: Tribuna Hoje
+  autoria: Lucas França e Wellington Santos
+  data: 28/10/2022
+  resumo: >+
+    Após 111 anos do Quebra de Xangô (1912), um dos maiores registros de intolerância religiosa no Brasil, ainda há resquícios desse 
+    triste legado; de 2022 até maio de 2023, foram 24 casos de violência contra adeptos de matriz africana e católicos em Alagoas. 
+
+  relevância: >
+    Mostrar a sociedade os números crescentes dos casos de preconceito e intolerância religiosa em Alagoas e provocar os órgãos de 
+    proteção a investigar e punir os culpados. 
+
+  originalidade: >-
+    Nesta reportagem, a ideia foi trabalhar não apenas os ataques aos templos de matriz africana, mas também o crescente número de 
+    ataques nas igrejas católicas na capital  alagoana e no interior do estado.
+
+  metodologia: >+
+    Metodologia usada foi de pesquisa quantitativa e qualitativa, além de buscar direto com as fontes oficiais os registros dos casos.  
+
+  uf: AL
+  ano: '2023'
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2023/intolerancia-religiosa.jpg
