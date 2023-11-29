@@ -20374,3 +20374,146 @@
   formato: Online
   category: Dados Abertos
   image: images/edicoes/2023/pac.jpg
+- title: PM perde 20% da tropa e até dobra salário com hora-extra
+  project_url: >-
+    https://opopular.com.br/cidades/pm-perde-20-da-tropa-e-ate-dobra-salario-com-hora-extra-1.3034898  
+  veiculo: O Popular
+  autoria: Márcio Leijoto
+  data: 2/6/2023
+  resumo: >+
+    A partir da folha salarial da Polícia Militar de 2010 para cá, mas principalmente desde o início da gestão do atual governador, 
+    o jornal mostra as principais mudanças no quadro policial, com reforço nas equipes especializadas, apesar de uma grande redução no 
+    total da tropa, sendo isso possível principalmente com ganhos nas horas extras e sobrecarga de trabalho. A reportagem também descobre 
+    excessos de promoções como forma de estimular a tropa, mas bagunçando a hierarquia, já que pela primeira vez os soldados e cabos não 
+    são maioria e temos muitos policiais com funções de comando sem ter o que comandar. Por fim, mostramos também que esta “especialização” 
+    da PM citada no começo do parágrafo veio acompanhado de um aumento do número de civis mortos em ações policiais e de uma redução inicial 
+    dos índices de criminalidade que depois de um tempo se estabilizou.
+
+  relevância: >
+    Ao colocar os dados da folha de pagamento dos policiais militares em uma tabela do excel, foi possível descobrir uma série de informações 
+    e situações que a corporação e o governo estadual escondem da sociedade e que são muito difíceis de apurar pelos caminhos tradicionais. 
+    Em Goiás, a PM não fala com a imprensa, nem o governo sobre estratégias e mudanças na corporação. As entrevistas são só para falar o 
+    oficial das operações policiais e das prisões de criminosos. Matérias mais críticas ou assuntos mais espinhosos são ignorados. Reportagens 
+    sobre violência policial são alvo de ataques nas redes. Com a pesquisa feita em cima dos contracheques, o jornal conseguiu apontar 
+    com fatos situações que o governo nunca falaria, como: 1 – Queda no número de policiais, atingindo em 2023 o seu menor efetivo nos 
+    últimos 13 anos; 2 – Fim da pirâmide hierárquica, com soldados deixando de ser maioria da corporação pela primeira vez desde 2021 e 
+    aumento do número de policiais em patentes de comando, o que levou a uma bagunça organizacional; 3 - Aumento do número de unidades da 
+    PM focadas no confronto ou especializadas e de efetivo destas unidades; com o aumento do efetivo sendo possível através da sobrecarga 
+    de horas extras para policiais nas ruas; 4 - Mudanças nas estratégias do governo em relação ao deslocamento dos policiais, em número 
+    cada vez menor de efetivo; 5 - Aumento descontrolado de promoções e excesso de horas extras; 6 - Número recorde de civis mortos em 
+    ações policiais no atual governo ao mesmo tempo em que se acentuou o foco nas unidades de combate e confronto e sobrecarga de horas 
+    extras. Entender como o governo trabalha as estratégias envolvendo a PM é fundamental para que a sociedade possa cobrar melhorias 
+    em segurança pública e saber de fato como está caminhando o enfrentamento à criminalidade. Goiás é um dos estados em que as forças 
+    armadas mais matam civis e conta com uma PM cada vez mais sobrecarregada e fragilizada, como atestam as entrevistas feitas a partir 
+    dos dados coletados. Como era de conhecimento que os índices de criminalidade estavam caindo desde 2018 e que por outro lado o de 
+    morte de civis em ações policiais chegou a um nível recorde, uma das hipóteses (confirmadas pelos números e pelas entrevistas a partir 
+    disso) era a de que o governo apostava numa "especialização" da polícia, reforçando as unidades de combate e reduzindo as de patrulhamento 
+    convencional. Com os dados em mãos, o jornal conseguiu pela primeira vez com que a PM tratasse de forma oficial com a imprensa sobre 
+    estes temas.
+
+  originalidade: >-
+    Todos os dados sobre as mudanças na corporação da PM, a evolução do quadro de policiais, os excessos e a especialização da PM, com 
+    menos efetivo e mais reforço nas tropas consideradas de elite, só foi possível de se apurar a partir de uma tabulação inédita de 
+    dados contidos na folha de pagamento da corporação. É uma estratégia de apuração que pode ser facilmente replicada por outros jornais 
+    de Goiás e de outros Estados, inclusive não só envolvendo a PM como outros órgãos públicos. A primeira tabela bruta, apesar de mais 
+    trabalhosa, serve como banco de dados para ser atualizado de tempos em tempos para acompanhamento dos temas abordados. Geralmente, o 
+    que temos visto são matérias envolvendo a folha de pagamento para mostrar evolução salarial apenas. Esta reportagem foi além. Todos 
+    os tópicos citados ao abordar a relevância da matéria estão nos contracheques, só precisavam ser devidamente organizados.
+
+  metodologia: >+
+    Para fazer a matéria o primeiro passo foi baixar a relação da folha de pagamento dos policiais militares de Goiás disponível no Portal 
+    de Transparência do governo estadual desde janeiro de 2010. Baixei no Excel todos os meses de janeiro até 2023. A escolha pelos meses 
+    de janeiro foi porque no caso do atual governo, eu teria o retrato do que o governador encontrou ao assumir o cargo em janeiro de 2019.
+    Em seguida fui montando diversas tabelas com base nos dados disponibilizados. Numa folha salarial de um mês da PM aparecem os seguintes 
+    dados considerados relevantes para a reportagem: nome, patente, onde estava lotado,  salário separando os valores de 13° e férias e número 
+    de identificação (além dos nomes, o que permitiu que se separassem pessoas homônimas e descobrissem as promoções, visto que de uma folha 
+    para outra muda a patente, os números de identificação continuam os mesmos).
+    Algumas tabelas serviram para que se fizessem outras, como quando criei uma mostrando a evolução de praças e oficiais ou a evolução 
+    do total de policiais por quartéis da corporação, descobrindo quais as novas unidades da PM criadas no atual governo, quais foram extintas 
+    e quais ganharam mais policiais.
+    Com todas as tabelas prontas, fiz leituras delas e montei os infográficos que originaram as que saíram na reportagem em si. Todas 
+    as observações percebidas ao visualizar as tabelas foram confrontadas com representantes das associações ligadas aos PMs e com oficiais 
+    em off. A corporação também foi questionada. Isso para evitar o risco de ser publicada uma análise equivocada. Todas as informações 
+    das tabelas foram corroboradas pelas fontes antes da publicação.
+    O governo e as lideranças da Polícia Militar não abrem o jogo e não falam com jornalistas se não for assuntos positivos. Neste caso 
+    emitiram uma nota ao jornal após serem confrontados com os dados que o jornalista levantou nos contracheques. Os policiais possuem 
+    associações separadas por patentes ou grupos de. Foram procuradas todas. Também procurei ex-comandantes, policiais de destaque na mídia, 
+    que já tinham experiência em falar com jornalistas, políticos que saíram dos quartéis e fontes de matérias anteriores. Mas só foi discutido 
+    com elas o que foi levantado nos contracheques.
+    Todas as tabelas podem ser acessadas aqui: https://drive.google.com/drive/folders/1SbDsMAmNeODAWK5x3Hrd7z7oew254j4S?usp=drive_link.
+  
+  uf: GO
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Impresso
+  category: Investigação
+  image: images/edicoes/2023/contracheques.jpg
+- title: 'Grilagem digital’: grileiros fraudam documentos virtuais para roubar terras indígenas na Amazônia'
+  project_url: >-
+    https://www.estadao.com.br/politica/grilagem-digital-grileiros-fraudam-documentos-virtuais-para-roubar-terras-indigenas-na-amazonia/  
+  veiculo: Estadão
+  autoria: Vinícius Valfré
+  data: 31/3/2023
+  resumo: >+
+    Trabalho mostra como o mecanismo digital para controle ambiental de imóveis rurais do Brasil, o Cadastro Ambiental Rural (CAR), é usado 
+    para “grilagem” de terras públicas e das pertencentes a povos tradicionais da Amazônia. Investigação analisa o avanço de grileiros sobre 
+    territórios indígenas em fase inicial do processo de demarcação (Pirititi, Ituna/Itatá, Jareúba/Katawii, Piripkura e Tanaru) e aponta 
+    o surgimento das fazendas ilegais ao longo do tempo. A reportagem possibilita uma visualização do andamento da grilagem ao longo do tempo 
+    e aponta nomes e identidades de invasores. O trabalho focou em terras indígenas com "restrição de uso", ou seja, em uma fase ainda inicial 
+    do processo de demarcação e exatamente por isso com proteção precária por parte do Estado brasileiro. 
+
+  relevância: >
+    A reportagem mostra uma consequência da paralisação dos processos de demarcação de terras indígenas e da mensagem antiambiental do governo 
+    passado. Nos últimos quatro anos, processos de demarcação de terras indígenas foram paralisados, o que intensificou ações de grilagem 
+    em áreas que deveriam estar preservadas. Além disso, a reportagem traz datas, nomes e modo de atuação de grupos de grileiros em uma das 
+    áreas mais sensíveis e vulneráveis da Amazônia. Também foi exitosa ao fazer a ligação de cada área registrada ilegalmente às pessoas 
+    pessoas por trás dos documentos irregulares, embora os dados do Cadastro Ambiental Rural não sejam públicos. Uma investigação possibilitou 
+    o acesso a dados completos de cada lote, incluindo nomes, endereços e polígonos para geração de mapas. 
+
+  originalidade: >-
+    O trabalho cruzou técnicas de investigação e de geojornalismo a partir de informações sigilosas. Pela primeira vez uma reportagem 
+    identificou todos os imóveis registrados ilegalmente sobre terras indígenas e apontou a data exata da reivindicação de cada uma delas. 
+    O trabalho trouxe uma visualização das áreas griladas ao longo do tempo e também identificou os responsáveis pelos cadastros irregulares. 
+    Em uma dos territórios analisados, no Pará, uma única pessoa aparecia como responsável por quase metade das fazendas.
+
+  metodologia: >+
+    A investigação nasceu da geração de mapas que mostram a distribuição no território brasileiro de fazendas e lotes registrados no Cadastro 
+    Ambiental Rural (CAR). Trata-se de um mecanismo do governo para monitorar os itens que existem sobre as terras, como florestas, nascentes e 
+    cachoeiras. É autodeclaratório, cabe a cada dono de fazenda enviar as informações para o banco de dados regional. 
+    A hipótese era a de que houve descontrole do CAR nos últimos anos porque, no governo de Jair Bolsonaro, a ferramenta, usada para monitoramento 
+    ambiental, passou a ser gerida pelo Ministério da Agricultura. 
+    A apuração se deu predominantemente com técnicas de jornalismo de dados e geojornalismo. O governo brasileiro disponibiliza todos os 
+    polígonos registrados no CAR, ou seja, os “quadrados” que representam as fazendas inscritas no sistema. O único detalhamento, porém, 
+    é por cidade e estado onde elas estão. Demais informações necessárias como proprietário, data do cadastro e responsável pelo cadastro 
+    não são disponibilizadas publicamente.
+    A proposta definida era estudar o que ocorreu com as fazendas registradas no entorno de  cinco áreas que deveriam ser ocupadas exclusivamente 
+    por comunidades tradicionais da floresta em Roraima, Rondônia, Amazonas, Pará e Mato Grosso. As cinco foram escolhidas porque estão 
+    em fase inicial dos respectivos processos de reconhecimento e, portanto, são mais cobiçadas pela especulação imobiliária e pela grilagem.
+    Em um programa de geração de mapas e narrativas visuais, distribuímos todas as fazendas inscritas no CAR em municípios das redondezas 
+    das terras indígenas. Também colocamos no mapa a área oficial dos territórios dos povos tradicionais, onde inclusive estão indígenas 
+    que ainda vivem em isolamento. A sobreposição mostrou um feroz avanço de fazendas sobre as terras indígenas. 
+    Ao todo, foram identificadas 325 fazendas registradas ilegalmente, entre 2014 e 2023.
+    Como o poder público leva anos para analisar cada registro, o grileiro inscreve áreas virgens no sistema e consegue 
+    instantaneamente um documento oficial da terra. A demora na análise do cadastro dá tempo ao falsificador de se consolidar como 
+    proprietário de seu suposto imóvel. Apesar de não ter valor fundiário, o papel permite a fazendeiros, por exemplo, emitir guia para 
+    transporte de gado e até solicitar financiamentos.
+    A investigação seguiu em busca de informações que pudessem explicar quando cada imóvel foi inserido no CAR. Uma hipótese era a de 
+    que, com o governo Bolsonaro, aumentou o número de invasões. Outra era a de que algum mecanismo travou o registro de fazendas sobrepostas 
+    a áreas indígenas. 
+    Contudo, as bases de dados do CAR não disponibilizam as datas dos cadastros. Foi preciso acionar diversas fontes de universidades, 
+    do governo e de empresas privadas em busca de caminhos que pudessem oferecer dados adicionais. Após semanas de trabalho, a abertura 
+    foi possível. 
+    O próximo passo foi identificar nomes e datas de cada fazenda registrada por cima das terras indígenas analisadas. No QGIS, programa 
+    de geração de mapas, usamos o complemento TimeManager para gerar uma visualização temporal. Em seguida, criamos uma visualização que 
+    mostrava o avanço das fazendas irregulares. A visualização era muito informativa. Decidimos apresentá-la em GIF dentro da própria 
+    reportagem que seria publicada, o que possibilitou o entendimento dos leitores sobre o avanço gradual de grileiros. 
+    A fase seguinte do trabalho foi ir em busca de histórias. Com os nomes de proprietários e cadastrantes, localizamos pessoas que 
+    criaram os CARs com irregularidades. Eles confirmaram interesses irregulares. Também cruzamos os nomes com investigações da Polícia 
+    Federal sobre roubo de terras e encontramos suspeitos de crimes recorrentes.
+  
+  uf: DF
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/grilagem digital.gif
