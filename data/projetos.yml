@@ -20448,7 +20448,7 @@
   formato: Impresso
   category: Investigação
   image: images/edicoes/2023/contracheques.jpg
-- title: 'Grilagem digital’: grileiros fraudam documentos virtuais para roubar terras indígenas na Amazônia'
+- title: 'Grilagem digital: grileiros fraudam documentos virtuais para roubar terras indígenas na Amazônia'
   project_url: >-
     https://www.estadao.com.br/politica/grilagem-digital-grileiros-fraudam-documentos-virtuais-para-roubar-terras-indigenas-na-amazonia/  
   veiculo: Estadão
@@ -20517,3 +20517,141 @@
   formato: Online
   category: Investigação
   image: images/edicoes/2023/grilagem digital.gif
+- title: Nome aos bois
+  project_url: >-
+    https://nomeaosbois.reporterbrasil.org.br/  
+  veiculo: Repórter Brasil
+  autoria: Marina Rossi e Ana Magalhães
+  data: 30/11/2022
+  resumo: >+
+    Nome aos Bois é um trabalho inédito que revela a elite pecuária brasileira, mostrando o nome, o rosto e onde estão os maiores produtores 
+    de carne do país. A partir da pergunta "de onde vem a carne do seu churrasco?" fomos investigar os gigantes da pecuária e suas 
+    implicações. Por meio do cruzamento de dados, revelamos que quase todos eles (nove, dos dez) estão na Amazônia, assim como têm ou 
+    já tiveram alguma área embargada pelo Ibama ou já receberam alguma multa ambiental. Alguns acumularam milhões em multas.Revelamos 
+    também o histórico de trabalho análogo à escravidão de muitos desses gigantes da pecuária e mostramos como eles fizeram fortunas 
+    desmatando e desrespeitando leis trabalhistas. Traçamos a relação muito tênue entre o desmatamento na Amazônia e a carne produzida 
+    no Brasil, mostrando que uma das maiores commodities brasileiras deixa um rastro imenso de devastação.
+
+  relevância: >
+    O tema é de extrema relevância em um momento em que a Amazônia é sufocada especialmente pela agropecuária e pelo garimpo no Brasil. 
+    Algumas das empresas reveladas na investigação exportam para o mundo todo. Outras têm capital aberto. Muitas se declaram defensoras 
+    de uma política sustentável diante dos seus investidores. Por isso os impactos do trabalho são a longo prazo e por toda uma cadeia.
+
+  originalidade: >-
+    A revelação dos maiores nomes da pecuária brasileira e suas implicações ambientais e trabalhistas é inédita e só foi possível 
+    graças a uma profunda investigação jornalística, dada a falta de transparência do setor. Pela primeira vez, alguém deu nome e a 
+    cara da elite pecuarista do Brasil, mostrando também um histórico igualmente inédito de infrações amabientais e dos direitos humanos. 
+
+  metodologia: >+
+    Este trabalho só pôde ser realizado graças ao cruzamento de uma série de dados. 
+    Primeiro fizemos um levantamento com os maiores donos de terras, segundo dados públicos do Incra. Cruzamos com dados sobre 
+    movimentação de gado e levantamos, por meio de pesquisa, os maiores nomes da pecuária brasileira. A princípio, tínhamos uma lista 
+    com 50 nomes, que foi sendo reduzida com a ajuda de diversas conversas com fontes do setor e muita pesquisa, até chegarmos em 10 
+    nomes. A segunda etapa do trabalho, que levou seis meses para ser concluído, consistiu em cruzar esses dez nomes, suas propriedades 
+    e negócios em diferentes bases de dados. As bases de multas e embargos do Ibama e ICMBio deram suporte para levantar as multas e os 
+    embargos ambientais. Também consultamos as autuações estaduais e, neste caso, nem todos os estados disponibilizam essas informações 
+    com a transparência devida. Então tivemos que recorrer à LAI em alguns casos. Contamos também com a ajuda do pessoal da Comissão 
+    Pastoral da Terra (CPT), que fez um grande levantamento sobre os conflitos agrearios envolvendo esses fazendeiros. Também consultamos 
+    a lista suja do trabalho escravo e uma extensa base de dados relacionados ao tema. Utilizamos também o Cruzagrafos e a base do Jusbrasil 
+    para consultas processsuais.
+  
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/nomeaosbois.png
+- title: Quanto custou o seu voto na corrida para deputado estadual do RN?
+  project_url: >-
+    https://tcmnoticia.com.br/politica/quanto-custou-o-seu-voto-na-corrida-para-deputado-estadual-do-rn/ 
+  veiculo: TCM Noticia
+  autoria: Filipo Cunha
+  data: 6/10/2022
+  resumo: >+
+    A investigação com dados revelou quanto "custou" cada o voto conquistados pelos candidatos para deputado estadual no RIo Grande do 
+    Norte nas eleições de 2022. Um cruzamento entre votos recebidos e valores gastos mostram que poder econômico não garante eleição, e 
+    revelou possíveis candidaturas laranjas.
+
+  relevância: >
+    O cruzamento de dados de financiamento de campanha e o resultado das eleições é útil para revelar a força do poder econômico num 
+    processo que isso deveria ser limitado. A investigação feita nesta reportagem revelou candidaturas com características suspeitas. 
+    Estes dados fizeram o Ministério Público começar a investigar alguns casos (a decisão de fazer isso foi abordada em outra reportagem).
+
+  originalidade: >-
+    O uso de dados no jornalismo potiguar é praticamente inexistente. Iniciativas como esta reportagem do TCM Notícia pretender mostrar 
+    a importância e a possibilidade do uso de dados mesmo em estados pequenos. Queremos abrir os olhos para este tipo de cobertura na 
+    nossa região e mostrar nosso compromisso com uma cobertura imparcial - num estado marcado por veículos administrados por políticos. 
+
+  metodologia: >+
+    Nós fizemos um cruzamento usando a linguagem phyton para saber quantos votos cada candidato teve, e o quanto ele gastou durante a 
+    campanha. Isso gera o que chamamos "custo do voto" - então sabemos que gastou muito e praticamente não teve votos. Depois usamos 
+    estes dados em um gráfico (Viz para entendermos melhor os dados que temos) para demonstrar os outliers.
+  
+  uf: RN
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/inscricao_claudioabramo.png
+- title: Fronteiras do crime
+  project_url: >-
+    https://oeco.org.br/reportagens/fronteiras-do-crime/ 
+  veiculo: Associação ((o))eco
+  autoria: Aldem Bourscheit (Brasil) e Aldo Benítez (Paraguai)
+  data: 29/3/2023
+  resumo: >+
+    Reportagem especial investigou métodos, rotas, estatísticas e conexões nacionais e internacionais do tráfico de agrotóxicos ao 
+    Brasil, com uma atenção especial ao Mercosul - Mercado Comum do Sul.
+
+  relevância: >
+    Citando apenas algumas das revelações da reportagem, o mercado de agrotóxicos no Brasil movimenta R$ 75 bilhões anuais, cerca de 
+    US$ 14,4 bilhões. As perdas tributárias e econômicas por crimes com insumos agrícolas foi de R$ 20,8 bilhões em 2022, equivalentes 
+    a cerca de US$ 4 bilhões. Ao mesmo tempo, produtores têm perdido lavouras inteiras pelo uso de venenos adulterados ou falsificados. 
+    Além disso, crescem as investigações confirmando a contaminação de águas, solos, pessoas e biodiversidade, a derrocada de polinizadores 
+    e a proliferação de doenças ligadas aos agrotóxicos, como o câncer. 
+
+  originalidade: >-
+    Pela primeira vez jornalistas no Brasil e Mercosul se debruçaram sobre esse tema, que gera impactos econômicos, ambientais e produtivos, 
+    tanto em países fornecedores quanto em nações usuárias desses itens traficados. 
+
+  metodologia: >+
+    A reportagem buscou e aproveitou uma série de dados públicos governamentais e também privados, estudos científicos e análises de 
+    ongs, além de fontes de variados setores e em campo, tudo para traçar um grande e inédito cenário do tráfico e do contrabando de 
+    defensivos, nos escopos do local ao internacional. Também buscou possíveis soluções para a problemática, que incluir melhor regulação 
+    entre os países do Mercosul, ainda hoje uma grande via de acesso para itens fruto de crimes no Brasil.
+  
+  uf: DF
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/pixesl_abramo.jpg
+- title: 7 em cada 10 potiguares se internaram fora da própria cidade em 2021
+  project_url: >-
+    https://tcmnoticia.com.br/mossoro/7-em-cada-10-potiguares-se-internam-fora-da-propria-cidade/
+  veiculo: TCM Notícia
+  autoria: Filipo Cunha
+  data: 31/8/2023
+  resumo: >+
+    Um levantamento mostrou que 7 em cada 10 potiguares se internam fora da própria cidade em 2021. Foram 24.298 internações hospitalares – 
+    mas apenas em 31,3% destes casos, os pacientes estavam na mesma cidade em que moravam.
+
+  relevância: >
+    O trabalho mostrou que este problema silencioso existe e é uma questão sensível para a saúde pública do estado. Após a reportagem, 
+    a secretária estadual de Saúde, Lyane Ramalho, prometeu ações para diminuir os deslocamentos. 
+
+  originalidade: >-
+    Os dados mostram que temos um problema no acesso a saúde aqui no RN, principalmente na média e alta complexidade. A cobertura jornalística 
+    focada na capital faz com que problemas sensíveis ao restante do estado seja esquecido, e mostramos com dados que isso deve ser 
+    olhado com mais atenção.
+
+  metodologia: >+
+    Usamos dados do Painel de Deslocamentos e Gastos Hospitalares dos municípios brasileiros, elaborado do Tesouro Nacional. E mostramos 
+    a gravidade disso através de mapas e tabelas.
+  
+  uf: RN
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/tcm-jornalconecta.png
