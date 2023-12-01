@@ -20556,7 +20556,7 @@
     para consultas processsuais.
   
   uf: SP
-  ano: '2023'
+  ano: '2022'
   tipo_inscricao: Investigação
   formato: Online
   category: Investigação
@@ -20588,7 +20588,7 @@
     estes dados em um gráfico (Viz para entendermos melhor os dados que temos) para demonstrar os outliers.
   
   uf: RN
-  ano: '2023'
+  ano: '2022'
   tipo_inscricao: Investigação
   formato: Online
   category: Investigação
@@ -20657,7 +20657,7 @@
   image: images/edicoes/2023/tcm-jornalconecta.png
 - title: Homem passa 40 dias preso no Cotel por crime que não cometeu
   project_url: >-
-    https://drive.google.com/file/d/1XL_KVLxc5ehJ2A4Qvk0RDP-SsAt-gGG_/view?usp=sharing 
+    https://jc.ne10.uol.com.br/colunas/seguranca/2023/07/15543579-homem-passa-40-dias-preso-no-cotel-por-crime-que-nao-cometeu-dias-muito-dificeis.html 
   veiculo: Jornal do Commercio
   autoria: Raphael Guerra
   data: 13/7/2023
@@ -20697,3 +20697,446 @@
   formato: Impresso
   category: Investigação
   image: images/edicoes/2023/preso cotel.jpg
+- title: Grande Recife tem 148 prédios com risco muito alto de desabamento; confira localização no mapa feito pelo g1
+  project_url: >-
+    https://g1.globo.com/pe/pernambuco/noticia/2023/08/10/grande-recife-tem-148-predios-com-risco-muito-alto-de-desabamento-confira-localizacao-no-mapa-feito-pelo-g1.ghtml
+  veiculo: g1 Pernambuco
+  autoria: Juliana Cavalcanti e Paulo Veras
+  data: 10/8/2023
+  resumo: >+
+    O g1 elaborou um mapa com informações de geolocalização dos 148 prédios com risco muito alto de desabamento, com base nos dados 
+    levantados pelo Instituto de Tecnologia de Pernambuco (ITEP).
+
+  relevância: >
+    No total, existem mais de 2 mil prédios do tipo caixão com risco de desabar na Região Metropolitana do Recife. A maior parte deles 
+    continua ocupado. Desde o início do ano, dois desses prédios desabaram, nas cidades de Olinda e Paulista. Vinte pessoas morreram nos 
+    dois casos.
+
+  originalidade: >-
+    Essa é a primeira vez em que a lista de prédios com risco alto de desabamento é tornada pública em Pernambuco. A geolocalização 
+    também ajuda as pessoas a entenderem se os seus imóveis, ou imóveis nas suas ruas, estão sob risco. 
+
+  metodologia: >+
+    Utilizamos um raspador para extrair os dados estruturados dos documentos em PDF do ITEP para um CSV. Depois, analisamos a base 
+    usando o Google Sheets. Com os endereços, fomos fazendo buscas no Google Maps e checando as imagens com as fichas de identificação 
+    do ITEP. Depois da base toda mapeada, produzimos o mapa interativo que foi publicado no site.
+  
+  uf: PE
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/Mapa RMR Predios Caixao.jpg
+- title: Sábado de carnaval é o dia do ano em que mais acontecem roubos em Pernambuco
+  project_url: >-
+    https://g1.globo.com/pe/pernambuco/ne1/video/sabado-de-carnaval-foi-o-dia-do-ano-com-mais-roubos-em-2018-2019-e-2020-11370458.ghtml
+  veiculo: TV Globo Recife
+  autoria: Lílian Oliveira, Paulo Veras e Diogo Franco
+  data: 15/2/2023
+  resumo: >+
+    Uma análise dos dados da Secretaria de Defesa Social de Pernambuco mostra que o sábado de Carnaval foi o dia do ano com mais crimes 
+    ao patrimônio no estado nos últimos três anos em que houve a festa: 2018, 2019 e 2020. A maior parte desses crimes estão concentrados 
+    em Recife e Olinda, as duas principais cidades do Carnaval pernambucano.
+
+  relevância: >
+    O principal objetivo era oferecer um serviço à população. O sábado de Carnaval coincide, em Pernambuco, com grandes manifestações 
+    culturais de rua, como o Galo da Madrugada e o Homem da Meia-Noite. Mais de mil crimes violentos ao patrimônio foram registados 
+    nessa data em três anos. Com o alerta antecipado, as pessoas podem se preparar melhor para participar desses eventos.
+
+  originalidade: >-
+    Em Pernambuco, essa é a primeira análise que correlaciona, de forma sazonal, o número de crimes violentos ao patrimônio com o 
+    sábado de Carnaval na imprensa. 
+
+  metodologia: >+
+    Baixamos os microdados de crimes violentos ao patrimônio (CVP) em Pernambuco no site da Secretaria de Defesa Social. Analisamos os 
+    dados usando Python para pivotar a quantidade de crimes cometidos em cada dia do ano, tanto no estado, como nas principais cidades. 
+    Depois, cruzamos as datas com o calendário para identificar o padrão que levava ao maior número de crimes em datas tão diferentes 
+    ano a ano; e identificamos que todas elas têm em comum o fato de serem o sábado de Carnaval (o dia exato varia anualmente).
+  
+  uf: PE
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: TV
+  category: Investigação
+  image: images/edicoes/2023/Materia Olinda Carnaval.jpg
+- title: Ambulancioterapia revela 'buracos' na assistência médica do SUS; vai e vem de pacientes provoca 4 milhões de deslocamentos no país
+  project_url: >-
+    https://g1.globo.com/saude/noticia/2023/05/21/ambulancioterapia-revela-buracos-na-assistencia-medica-do-sus-vai-e-vem-de-pacientes-provoca-4-milhoes-de-deslocamentos-no-pais.ghtml
+  veiculo: Portal g1
+  autoria: Marina Pagno
+  data: 21/5/2023
+  resumo: >+
+    A reportagem utilizou um painel criado pela equipe de dados do Tesouro Nacional que fez um cruzamento de informações públicas para 
+    mostrar o vai e vem de pacientes pelo Brasil. Com base nesses dados, a matéria mostrou que a chamada "ambulancioterapia" é um 
+    problema grave de saúde pública no Brasil, e revelou que o SUS possui vazios assistenciais, principalmente no interior do país, 
+    o que fazem com que milhares de pacientes se desloquem por grandes distâncias para tratar de problemas de saúde simples, que poderiam 
+    ser resolvidos na próxima região de origem do paciente, caso tivesse o atendimento adequado. 
+
+  relevância: >
+    Olhando para os dados mostrados na matéria, especialistas concluíram que os gestores públicos precisam ficar mais atentos à 
+    administração do SUS nas localidades, a fim de reduzir as distâncias percorridas pelos pacientes em busca de atendimento médico 
+    pelo país, ampliando a assistência e reduzindo mortes. 
+    Na semana da publicação, a reportagem em questão apareceu no site da Global Investigative Journalism Network (GIJN) na lista dos 10 
+    mais interessante trabalhos de jornalismo de dados do mundo 
+    (https://gijn.org/data-journalism-top-10-bats-next-pandemic-china-electric-dominance/) e foi elogiada pelo criador do painel de dados 
+    do Tesouro Nacional (https://x.com/barbalhofernand/status/1661024658249109504?s=20). 
+
+  originalidade: >-
+    Até então, não se tinha um número exato sobre o vai e vem de pacientes pelo Brasil em busca de atendimento médico. Com os dados do 
+    painel do Tesouro Nacional, mostrado na reportagem, foi possível saber com mais exatidão o tamanho do impacto da ambulancioterapia 
+    no SUS e na saúde dos pacientes, além de saber quais são as principais regiões brasileiras e cidades que mais recebem pacientes ou 
+    mais emitem pacientes para outras localidades. 
+
+  metodologia: >+
+    A reportagem teve origem e utilizou dados do painel “Deslocamentos e gastos hospitalares dos municípios brasileiros”, feito pelo 
+    cientista de dados Fernando Barbalho, do Tesouro Nacional (https://siconfi-atendimento-hospitalar.tesouro.gov.br/) e a consulta de 
+    especialistas que analisaram as informações contidas no painel. 
+  
+  uf: DF
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/fotoambulancia.jpg
+- title: Em 16 meses, R$ 92 milhões foram gastos com bônus secreto na Câmara; veja os vereadores que mais distribuíram
+  project_url: >-
+    https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/06/05/camara-do-rio-gasta-r-6-milhoes-em-1-mes-com-bonus-secreto-que-aumenta-salario-de-metade-dos-funcionarios.ghtml
+  veiculo: TV Globo/GloboNews
+  autoria: Marcelo Bruzzi, Marcelo Gomes, Anita Prado, Guilherme Ramalho, Ávilis Muniz, Henrique Pinho e Jade Curvello
+  data: 6/6/2023
+  resumo: >+
+    Esta série de reportagens revelou o pagamento de “bônus secretos” pagos todos os meses a metade dos funcionários da Câmara de 
+    Vereadores do Rio de Janeiro: um gasto de R$ 6 milhões por mês, até então, sem nenhuma transparência nem critérios claros. A 
+    reportagem mostrou de forma inédita o descumprimento das regras sobre o pagamento das gratificações, a participação de funcionários 
+    fantasmas que turbinavam seus salários com esses pagamentos mesmo sem trabalhar e a ocultação dos dados no Portal de Transparência 
+    da Casa.
+
+  relevância: >
+    Após a publicação da série de reportagens, a Câmara de Vereadores abriu uma sindicância para apurar as denúncias e passou a dar 
+    mais transparência em seu site sobre as regras e o pagamento dos encargos especiais. Também foram abertas pelo menos quatro investigações 
+    em diferentes órgãos públicos. Na esfera criminal, o Ministério Público e a Polícia Civil apuram a suspeita de peculato, ou seja, 
+    desvio de dinheiro dos cofres da Câmara. O MP também apura improbidade administrativa. O Tribunal de Contas do Município tem um 
+    processo em andamento para fiscalizar se as regras foram respeitadas. 
+
+  originalidade: >-
+    O trabalho trouxe de forma inédita o detalhamento de pagamentos de bônus que turbinavam com dinheiro público o salário de metade 
+    dos funcionários da Câmara de Vereadores, inclusive de quem não aparecia para trabalhar. A reportagem apresentou não só o montante 
+    de dinheiro usado como também o quantitativo de bônus direcionado para cada gabinete de vereador. Revelou que a maioria dos 
+    gabinetes desrespeitava a própria regra da Câmara que prevê o limite de 8 gratificações - inclusive o presidente da Casa. 
+
+  metodologia: >+
+    Para fazer a reportagem, foram usadas diferentes técnicas e ferramentas para uso de dados, como Lei de Acesso à Informação, web 
+    scrapping, programação e uso avançado de Excel. O pontapé inicial foi com a LAI para saber as regras e como chegar ao "bônus secreto", 
+    que até então não eram disponibilizados no site da Câmara. Depois, foi criado um robô para fazer a raspagem dos dados no site da 
+    Câmara ao longo de 16 meses. A reportagem analisou todos os pagamentos entre janeiro de 2022 e abril de 2023: 33.234 contra-cheques 
+    de 2.742 funcionários. Depois, usamos Excel para extrair, categorizar e apresentar os dados utilizados na matéria.
+  
+  uf: RJ
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: TV
+  category: Investigação
+  image: images/edicoes/2023/premio-dados.jpg
+- title: Juíza recebeu R$ 700 mil em licença remunerada para produzir dissertação considerada incompleta
+  project_url: >-
+    https://www.cnnbrasil.com.br/nacional/juiza-recebeu-r-700-mil-em-licenca-remunerada-para-produzir-dissertacao-considerada-incompleta/
+  veiculo: CNN BRASIL
+  autoria: Marcos Guedes
+  data: 7/4/2023
+  resumo: >+
+    Juíza do trabalho recebeu licença remunerada de mais de R$ 700 mil para produzir uma dissertação para o mestrado e foi reprovada, 
+    por apresentar um trabalho "incompleto, inconsistente e ruim", segundo banca examinadora. Ela obteve o privilégio para se ausentar 
+    das atividades profissionais e continuar recebendo um salário, considerado alto para os padrões nacionais, somente para se dedicar 
+    aos estudos, e ainda assim não foi capaz de produzir uma dissertação razoável.  
+
+  relevância: >
+    É notório que membros do judiciário recebem supersalários que extrapolam o teto constitucional. Ainda que haja previsão legal para 
+    o recebimento, há uma necessidade de vigilância sobre as regalias que ficam restritas a uma parcela minúscula da sociedade. Jogar 
+    luz em situações como essas fortalece o sistema de vigilância pública, uma vez que os dados de recebimentos de servidores estão 
+    presentes nas páginas de transparência dos respectivos órgãos. 
+
+  originalidade: >-
+    "Grande parte da população brasileira não pode parar de trabalhar para se dedicar a especializações ou qualquer outra modalidade de 
+    estudo. Usar a máquina pública em benefício da sociedade é uma ideia razoável, mas a vigilância e maior rigor em critérios devem ser 
+    observados. A apuração refinada que ilustra a reportagem que fala sobre o uso do dinheiro público é o que se destaca como mais original 
+    no trabalho. 
+
+  metodologia: >+
+    O portal da transparência do Tribunal de Justiça do Maranhão foi reformulado após a reportagem. Ainda assim, atualmente é possível 
+    verificar o salário dos magistrados de acordo com o posto ocupado. À época da apuração, compilei todos os dados sobre verbas remuneratórias - 
+    que são aquelas que devem permanecer no âmbito do teto constitucional, quanto os dados das verbas indenizatórias - que podem extrapolar 
+    o teto constitucional. A partir da compilação, usei fórmulas simples de excel para concatenar e filtrar dados. 
+  
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/Capturar.JPG
+- title: Redutos do Centrão inflam números do SUS e aumentam tetos de emendas
+  project_url: >-
+    https://www.metropoles.com/colunas/guilherme-amado/redutos-do-centrao-inflam-numeros-do-sus-e-aumentam-tetos-de-emendas
+  veiculo: Metrópoles
+  autoria: Natália Portinari
+  data: 27/7/2023
+  resumo: >+
+    Em 27 de julho, publicamos uma série especial de reportagens no Metrópoles, na coluna Guilherme Amado, sobre dados distorcidos da 
+    produção hospitalar e ambulatorial do SUS em Alagoas em redutos do Centrão, especialmente aqueles ligados ao presidente da Câmara 
+    dos Deputados, Arthur Lira. As cidades foram agraciadas com o orçamento secreto, mas uma análise de dados produzida pela coluna, 
+    somada a uma verificação feita in loco nas próprias cidades, mostra que as estatísticas do sistema de saúde não batem com a realidade.
+    A série foi publicada em 4 links separados:
+    https://www.metropoles.com/colunas/guilherme-amado/redutos-do-centrao-inflam-numeros-do-sus-e-aumentam-tetos-de-emendas
+    https://www.metropoles.com/colunas/guilherme-amado/investigada-prefeitura-do-pai-de-lira-mantem-gasto-de-r-1-milhao-em-sigilo
+    https://www.metropoles.com/colunas/guilherme-amado/com-fundo-milionario-reduto-do-centrao-em-alagoas-deixa-moradores-sem-remedio
+    https://www.metropoles.com/colunas/guilherme-amado/saude-investiga-distorcoes-nos-dados-do-sus-em-467-municipios"  
+
+  relevância: >
+    O trabalho mostrou irregularidades na execução dos gastos de saúde nos municípios e nas informações disponibilizadas por eles ao 
+    público no DataSUS. Com um orçamento da União cada vez mais descentralizado por emendas parlamentares, é essencial fiscalizar como 
+    as prefeituras estão usando os milhões que são despejados em seus caixas todos os anos por indicação de parlamentares. No caso das 
+    cidades citadas nas reportagens, há uma população carente que está sendo privada de remédios e de exames por conta de uma administração 
+    ineficiente, além de gastos exorbitantes sobre os quais não foi dada transparência. Verificamos problemas em duas prefeituras importantes 
+    ligadas ao presidente da Câmara dos Deputados, Arthur Lira, uma delas administrada pelo pai de Lira, Benedito de Lira. O trabalho é 
+    base para a investigação das autoridades competentes, como o próprio Ministério da Saúde e a Polícia Federal, que já estão se debruçando 
+    sobre os problemas denunciados.
+
+  originalidade: >-
+    O trabalho mostra problemas no sistema de saúde em cidades que, normalmente, não teriam atenção da imprensa. São cidades de poucos 
+    habitantes em Alagoas, em um perfil de município que, justamente por ser pouco visado pela imprensa, pode ser palco de desvios que 
+    políticos acreditam que possam passar despercebidos. Por isso a importância e o ineditismo de olhar para essas cidades e analisar 
+    como está estruturado seu sistema de saúde. As revelações trazidas pela investigação são os aspectos originais do trabalho. 
+
+  metodologia: >+
+    A principal fonte de informação foi o TabNet do DataSUS, onde constam as informações sobre a produção hospitalar e ambulatorial nos 
+    municípios brasileiros. A partir disso, foi feito um cruzamento com dados do Portal da Transparência, do SIOP (Sistema Integrado de 
+    Planejamento e Orçamento) e do Sindorc (Sistema de Indicação Orçamentária) para rastrear a fonte do dinheiro, ou seja, os pedidos e 
+    execuções de indicações no orçamento secreto e em outras modalidades de execução orçamentária. Os dados foram analisados com Python 
+    (através da plataforma Google Colab) e Google Sheets.
+    https://datasus.saude.gov.br/informacoes-de-saude-tabnet/
+    https://www.siop.planejamento.gov.br/modulo/login/index.html#/
+    https://sindorc.camara.leg.br/login
+    https://portaldatransparencia.gov.br/emendas/
+  
+  uf: DF
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/reduto-centrao.jpg
+- title: Cidade de SP tem um registro de celular roubado ou furtado a cada 3 minutos
+  project_url: >-
+    https://g1.globo.com/monitor-da-violencia/noticia/2023/03/26/cidade-de-sp-tem-um-registro-de-celular-roubado-ou-furtado-a-cada-3-minutos.ghtml
+  veiculo: g1
+  autoria: Clara Velasco, Marina Pinhoni e Victor Farias
+  data: 26/3/2023
+  resumo: >+
+    A cidade de São Paulo registrou mais de 200 mil ocorrências de roubos e furtos de celulares em 2022, o que representa um caso a 
+    cada três minutos, em média. É o que aponta um levantamento exclusivo do Monitor da Violência do g1, em parceria com o Fantástico, 
+    feito com base nos dados de boletins de ocorrência disponíveis no site de Transparência da Secretaria de Segurança Pública (SSP) do 
+    estado. O levantamento identifica que o número representa uma alta em relação a 2021 e também analisa as especificidades dos crimes 
+    na cidade (concentração na região Central; vias com mais registros; diferentes características dos crimes a depender do tipo de 
+    logradouro; principal período do dia em que crimes acontecem; principais marcas roubadas por região da cidade, etc).  
+
+  relevância: >
+    Esta foi a primeira vez que um veículo jornalístico coletou e analisou os boletins de ocorrência de roubos e furtos de celulares 
+    presentes na página da Transparência da SSP-SP. O trabalho levou semanas por conta das dificuldades técnicas de lidar com estes 
+    dados, e o resultado analítico teve grande repercussão. Houve parceria com o Fantástico, da TV Globo, que flagrou diversos crimes 
+    de celulares na região central da cidade. A série de reportagens não apenas pautou a discussão pública durante dias, como também 
+    motivou uma operação da Polícia Civil de SP contra ladrões de celulares.
+
+  originalidade: >-
+    O trabalho é original por ter conseguido, pela primeira vez, coletar e analisar os boletins de ocorrência presentes na página da 
+    Transparência da SSP sobre os crimes de roubos e furtos de celulares em SP. Estes são dados que, até então, não eram auditados pelo 
+    governo de São Paulo. Por isso, os passos de coleta e de limpeza das informações foram desafiadores e cuidadosos. Além disso, a 
+    série de reportagens foi multiplataforma, contando não apenas com textos e diversos gráficos publicados no g1, bem como vídeos e 
+    entradas na TV Globo.
+
+  metodologia: >+
+    Os dados apresentados na reportagem foram coletados na página de Transparência da Secretaria de Segurança Pública do estado de São 
+    Paulo. Para chegar aos números finais, foram analisadas 12 planilhas de cada tipo de crime (roubo e furto) nos anos de 2019, 2020, 
+    2021 e 2022, totalizando 96 planilhas, com mais de um milhão de linhas.
+    Os dados, então, foram analisados com a linguagem de programação Python. Seguindo instruções da SSP, foram retiradas as duplicadas 
+    com base nas colunas DELEGACIA_CIRCUNSCRICAO, NUM_BO e o ano do registro de ocorrência, retirado da coluna DATAELABORACAO. 
+    Em caso de crimes em que havia registro de roubo e furto no mesmo BO, foi selecionado somente o roubo, crime de maior gravidade, 
+    também seguindo instruções da SSP.
+    Em seguida, foram selecionados os dados da cidade de São Paulo ou das outras cidades do estado.
+    Cerca de 80% da base de 2022 da cidade de São Paulo continha a informação de latitude e longitude, o que permitiu a elaboração de 
+    mapas mostrando os registros dentro da cidade.
+    Foram notadas pequenas falhas na base, como quantidade de celulares com número quebrado (este dado não foi usado) e delegacias de 
+    outras cidades localizadas dentro de SP. Esses erros foram informados à SSP e não impactaram na análise, já que eram residuais.
+  
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/roubos-sp.png
+- title: 'Operação Mensageiro: contratos entre a Serrana e municípios do Sul do estado atravessaram gestões'
+  project_url: >-
+    https://www.youtube.com/watch?v=VqsigGbLNxw
+  veiculo: NDTV RecordTV
+  autoria: Felipe Kreusch, Gabriela Ferrarez, Diego Tonnera, James Andrei, Pâmela Schreiner
+  data: 6/3/2023
+  resumo: >+
+    A Operação Mensageiro deflagrada em dezembro de 2022, investiga a suspeita de superfaturamento nas licitações, com pagamento de 
+    propina para prefeitos, passando de um mandato para o outro em municípios de Santa Catarina, essa reportagem abrange as cidades do 
+    sul do estado, Atualmente são 16 prefeitos presos no estado, com diversos dados apurados em mais de 4000 páginas do processo.
+
+  relevância: >
+    A importância é a denuncia da corrupção que parece estar normalizada em nosso país, o dono da empresa que pagava propina aos 
+    prefeitos, chamada Serrana Engenharia, disse que pagava muitas vezes porque os prefeitos pediam o valor, em troca de pagar em dia e 
+    reajustar o contrato, um direito da empresa, mas que era usado como barganha pelos agentes públicos, ele mesmo disse que em pelo 
+    menos 40 municípios isso ocorria. Como repórter me preocupei em deixar a matéria o mais didática possível para que todos possam 
+    entender o esquema que é segundo o MPSC o maior já descoberto no estado. 
+
+  originalidade: >-
+    Todas as informações trazidas aqui foram obtidas com exclusividade por nossa equipe, com acesso ao processo que na época estava em 
+    sigilo nível 5, mas com fontes que nos ajudaram conseguimos as mais de 4000 páginas para destrinchar as informações e entender o 
+    esquema. As artes para apresentar os dados form um grande diferencial, mostrando a escalada dos preços que a empresa pivô do esquema 
+    recebia, e os prejuízos aos cofres públicos.// 
+
+  metodologia: >+
+    Eu Felipe Kreusch repórter da NDTV e a repórter Gabriela Ferrarez do portal ND Mais, fomos os responsáveis por analisar todos os 
+    documentos que tivemos acesso de forma independente, página por página para extrair tudo que hávia de interessante e merecia ser 
+    noticiado, nos dividimos nesse trabalho de apuração e fechamos nossas reportagens em conjunto. 
+  
+  uf: SC
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: TV
+  category: Investigação
+  image: images/edicoes/2023/operacao.jpeg
+- title: Verba destinada a mulheres e negros irrigou campanhas de homens brancos
+  project_url: >-
+    https://noticias.uol.com.br/politica/ultimas-noticias/2022/12/02/verba-destinada-a-mulheres-e-negros-irrigou-campanhas-de-homens-brancos.htm
+  veiculo: UOL
+  autoria: Ingrid Fernandes, João Gabriel Leite, Karina Ferreira e Will Araújo (reportagem); Helton Simões Gomes (edição)
+  data: 2/12/2022
+  resumo: >+
+    A eleição de 2022 foi a primeira em que funcionou a divisão igualitária de verba eleitoral com recorte de gênero e raça. Ainda assim, 
+    alguns concorrentes deram um jeitinho de driblar essa regra. A reportagem do UOL revelou uma delas e mostrou como, ao menos, 149 
+    candidaturas de mulheres e negros doaram parte ou quase toda a verba pública de campanha a 222 candidatos brancos, que não poderiam 
+    usufruir como quisessem desse dinheiro devido a regras restritivas da Justiça Eleitoral sobre o uso dos repasses. As conclusões 
+    foram feitas após um levantamento exclusivo nas bases do TSE, seguido de um acompanhamento da prestação de contas e de um cotejamento 
+    entre o que foi declarado e o que a lei permitia. Os dados comprovaram o desvio de função da verba do Fundão Eleitoral recebida, o 
+    que incorre em crime eleitoral.
+
+  relevância: >
+    A lei eleitoral estipula que o dinheiro destinado a candidaturas negras e de mulheres faz parte de uma ação afirmativa. Deste modo, 
+    não poderia ser dividido com candidatos homens, a não ser que beneficie as duas campanhas, o que foi checado pela reportagem e 
+    descartado na ampla maioria dos casos. Nas situações identificadas pela reportagem, a legislação prevê restituição ao Tesouro 
+    Público e até a perda do mandato, avaliaram especialistas ouvidos. Além disso, o uso irregular de verba tem várias consequências 
+    danosas, como dificultar a transparência sobre gasto eleitoral e restringir a efetividade da política afirmativa. A reportagem jogou 
+    luzes em um ponto tão sério do jogo eleitoral que o financiamento cruzado relevado é um dos pontos a serem anistiados pela minirreforma 
+    eleitoral, costurada entre oposição e base governista no Congresso em 2023.
+    O caso mais emblemático –e que dá o tom de como a situação captada pela reportagem é complexa– foi o de Helder Barbalho (MDB-PA), 
+    governador eleito do Pará. Ele foi o homem branco que mais gozou do Fundão Eleitoral destinado a candidaturas femininas, mas não 
+    detalhou totalmente como gastou o dinheiro.
+    Recebeu R$ 300 mil de sua mãe, Elcione Therezinha Zahluth Barbalho (MDB), eleita deputada federal pelo Pará. Destinatária de R$ 2,5 
+    milhões do FEFC, ela, por sua vez, foi a mulher que doou o valor mais alto a um candidato branco. Eleito no primeiro turno, Helder 
+    citou gasto de R$ 232.910 em campanha impressa ""casada"" com a mãe, o que é legal, mas não revelou como aplicou os R$ 67.090 
+    restantes. 
+
+  originalidade: >-
+    A reportagem se valeu de dois dois dispositivos originais na checagem do uso de verba pública para campanhas eleitorais: 1) averiguou 
+    como o dinheiro doado de um candidato para outro foi usado e fez isso para todos as candidaturas (eleitas ou não) de mulheres e 
+    pessoas negras beneficiadas pelo Fundão Eleitoral que destinaram verba para candidatos homens; 2) checou se o uso estava de acordo 
+    com o previsto na lei eleitoral (a saber: esse expediente, as chamadas “campanhas casadas”, só é lícito se resultar em benefícios 
+    para o doador)
+    A partir daí, a reportagem concluiu que a soma do dinheiro doado sem a justificativa chegou a R$ 10,2 milhões, 69.54% dos cerca de 
+    R$ 14,75 milhões enviados por cotistas do Fundão Eleitoral (pessoas e mulheres) em 248 doações a candidatos homens brancos. Este 
+    dinheiro foi enviado por 61 mulheres (R$ 2,7 milhões) e por 88 candidatos negros (R$ 7,5 milhões).
+
+  metodologia: >+
+    O esforço de reportagem levantou quem eram todos os candidatos autodeclarados negros (pretos e pardos) e as mulheres. Essa etapa 
+    envolveu o uso de linguagens SQL e Python. Depois, constatou quanto receberam do FEFC (Fundo Especial de Financiamento e Campanha) 
+    e quanto repassaram dessa quantia para candidatos brancos. Após a prestação de contas para candidaturas encerradas no primeiro turno, 
+    foi possível constatar como esses destinatários usaram o dinheiro. A maioria ou não declarou como a verba foi gasta ou relatou usos 
+    não previstos na lei eleitoral para esse tipo de repasse. Ao longo do processo, a equipe de reportagem recorreu aos dados abertos do 
+    TSE, checados exaustivamente para evitar erros de digitação, incoerências e dados perdidos. Para elaborar as narrativas trazidas pelos 
+    dados, a equipe trabalhou com clusters de candidatos que melhor serviriam de amostragem entre as centenas de casos encontrados.
+  
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/o-governador.jpg
+- title: 'Pesquisa CUIA/SEBRAE: Maioria dos fundadores das startups do Piauí têm mais de 30 anos de idade'
+  project_url: >-
+    https://www.pinegocios.com.br/noticia/1652-maioria-dos-fundadores-das-startups-do-piaui-tem-mais-de-30-anos-de-idade
+  veiculo: Piauí Negócios
+  autoria: Nícolas Barbosa
+  data: 8/2/2023
+  resumo: >+
+    O trabalho faz um levantamento completo das startups piauienses mapeadas pelo Sebrae no Piauí.
+
+  relevância: >
+    Chama a atenção o fato de que a maioria dos fundadores das startups têm mais de 30 anos, o que estimula pessoas já com experiência a 
+    apostar em ideias novas.
+
+  originalidade: >-
+    O trabalho traz depoimentos de especialistas sobre o interesse de adultos já com experiência no mercado de trabalho a arriscar seu 
+    tempo no mundo incerto das startups.
+
+  metodologia: >+
+    Análise do relatório.
+  
+  uf: PI
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/capa-startup.jpg
+- title: Klabin atrai investidores com papel e celulose 'verdes', mas dissimula atividade de mineração milionária
+  project_url: >-
+    https://reporterbrasil.org.br/2023/04/klabin-atrai-investidores-com-papel-e-celulose-verdes-mas-dissimula-atividade-de-mineracao-milionaria/
+  veiculo: Repórter Brasil
+  autoria: Maiara Marinho e Naira Hofmeister
+  data: 4/4/2023
+  resumo: >+
+    A reportagem apresentou uma investigação inédita sobre a atuação de uma empresa de papel e celulose, no segmento da mineração. 
+    Durante a investigação descobrimos que a Klabin, empresa investigada, não declarou, nos últimos 10 anos, os valores investidos e a 
+    emissão de gases de efeito estufa nos relatórios da Comissão Mobiliária dos EUA e do Brasil. A reportagem também descobriu que a 
+    empresa tem requerimentos minerários em áreas de preservação permanente em São Paulo e no Paraná.
+
+  relevância: >
+    Os dados compilados, organizados e publicados sobre a atividade da Klabin no segmento de mineração são inéditos, assim como a 
+    descoberta da atividade em áreas de preservação permanente. Essas informações possivelmente irão contribuir com investigações 
+    futuras, que tenham o objetivo de aprofundar ou trazer novos elementos à tona. 
+
+  originalidade: >-
+    Informações detalhadas e organizadas sobre a atuação da Klabin no segmento de mineração através de dados abertos da Agência 
+    Nacional de Mineração e dos documentos abertos das Comissões Mobiliárias de Valores dos EUA e do Brasil, bem como dos relatórios 
+    de sustentabilidade da Klabin. Essas informações serviram para identificar, através da plataforma QGIS, a presença de requerimentos 
+    minerários da empresa em duas áreas de preservação permanente, em São Paulo e no Paraná. Após a verificação, os órgãos ambientais 
+    dos estados foram questionados sobre os requerimentos e informaram que não tinham conhecimento. Com isso, a investigação apresentou 
+    ao público uma informação inédita que culminou na descoberta de atividades irregulares de uma empresa que tem a sustentabilidade 
+    como principal produto no seu portfólio.
+
+  metodologia: >+
+    A investigação começou com o recorte do Vale do Ribeira, uma região de Mata Atlântica em São Paulo onde vive a maior concentração 
+    de comunidades quilombolas do estado. A primeira tentativa era investigar quais empresas estavam interessadas na privatização do 
+    Parque Estadual Turístico do Alto Ribeira. Devido ao fato de que a reportagem seria financiada pela Forests & Finance, havia uma 
+    exigência de investigar utilizando os dados de empresas cadastradas na plataforma F&F. A Klabin, que aparecia na lista de mineradoras 
+    no Vale do Ribeira, e também na lista da F&F, entrou no rol. A partir daí iniciei uma investigação sobre a atuação da empresa no 
+    segmento de mineração, algo que se mostrou desconhecido por diversos pesquisadores e ativistas da área. Considerando que a atuação 
+    na empresa neste segmento já tem mais de 100 anos, optei por fazer um recorte temporal de 10 anos na análise. Com isso, li todos os 
+    relatórios financeiros da Klabin de 2012 a 2022, tanto os da bolsa de valores estrangeira quanto os da Comissão Mobiliária de 
+    Valores. Em nenhum documento a empresa registra seus ganhos, investimentos e a medição de GEE pela atividade na mineração. No 
+    entanto, somente a demonstração de que esta atividade fazia parte da cartilha da empresa, reconhecida internacionalmente com selos 
+    de sustentabilidade, investiguei se ela estava descumprindo alguma lei por omissão. Descobri, então, que a CVM permite às empresas 
+    não declarar atividades que não componham até 10% do valor global de ganhos. Após isso, busquei entender que mineração é essa, onde 
+    ela é feita e como. Utilizei a plataforma da Agência Nacional de Mineração e filtrei os pedidos feitos pela Klabin S.A. e, através 
+    da plataforma QGIS, descobri dois pedidos da empresa em áreas de proteção ambiental, em São Paulo, no Vale do Ribeira, e no Paraná. 
+    Em entrevista com os órgãos ambientais dos dois estados, Cetesb e Instituto Água e Terra (IAT), elas afirmaram que não têm conhecimento 
+    dos requerimentos ativos nos locais e que portanto não havia qualquer permissão concedida até o momento em que a matéria foi publicada. 
+    Além disso, na pesquisa feita com os dados da ANM, foi possível traçar um perfil do tipo de mineração da Klabin e os valores ganhos 
+    com a atividade em cada ano. A investigação foi iniciada em maio de 2022 e terminou em maio de 2023, com publicação no dia 4 de abril.
+  
+  uf: DF
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/imagemdedestaque.jpeg
