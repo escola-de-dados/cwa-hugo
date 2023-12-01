@@ -21741,3 +21741,137 @@
   formato: Online
   category: Investigação
   image: images/edicoes/2023/cemiterios maceio.png
+- title: Laços de Família
+  project_url: >-
+    https://jornalismoufsc.shorthandstories.com/lacos-de-familia-tcc/index.html
+  veiculo: Curso de Jornalismo - Universidade Federal de Santa Catarina
+  autoria: Karoline Bernardi e Jullia de Andrade Gouveia
+  data: 11/8/2023
+  resumo: >+
+    A grande reportagem online de título “Laços de Família” é um produto jornalístico dividido em quatro partes. Os textos, imagens, 
+    gráficos e dados apurados explicam como a prática da Constelação Familiar está inserida no Sistema Único de Saúde (SUS), nas 
+    Universidades Federais e nos Tribunais de Justiça do país. A reportagem revela informações sobre o número de atendimentos da 
+    prática no SUS e o montante gasto em cursos e workshops no Judiciário, até então desconhecidos.
+  relevância: >
+    A Constelação Familiar é considerada uma prática pseudocientífica por inúmeros especialistas e contra-indicada para fins 
+    terapêuticos pelo Conselho Federal de Psicologia (CFP). Desta maneira, revelar como a prática se comporta nas instituições públicas, 
+    quem a aplica, quantos atendimentos foram realizados e o montante gasto, são imprescindíveis e de interesse público. Além disso, até 
+    o momento as reportagens sobre o assunto continham apenas relatos e uma abordagem superficial do tema. Foram realizados mais de 100 
+    pedidos de Lei de Acesso à Informação, para conseguir obter a profundidade pretendida. 
+  originalidade: >-
+    O trabalho revela o número de atendimentos de Constelação Familiar realizados pelo SUS de 2019 a 2022, discriminados por estado, 
+    além de apurar e apontar o nome das Universidades Federais que oferecem ou ofereceram a prática. E ainda, apresenta dados inéditos 
+    dos valores gastos por cada Tribunal de Justiça do país com cursos, palestras, workshops e diárias sobre Constelação Familiar, 
+    desde que ela começou a ser utilizada no Judiciário. Essas informações não estavam anteriormente disponíveis ou de fácil acesso ao 
+    público e este trabalho foi o primeiro a consegui-las e divulgá-las.
+
+  metodologia: >+
+    Para os dados apurados sobre o SUS, as jornalistas utilizaram a base de dados do Sistema de Informação em Saúde para a Atenção 
+    Básica - SISAB, selecionando as informações de interesse e gerando tabelas com os resultados. Os dados de atendimento das cidades e 
+    estados brasileiros foram tratados e compilados por programa online de tabelas.
+    O número e nome das Universidades Federais que oferecem ou ofereceram Constelação Família foi obtido através do envio de um pedido 
+    de Lei de Acesso à Informação (LAI) a cada uma das 68 entidades.
+    Já os dados sobre o valor gasto pelos Tribunais de Justiça reuniu mais do que um método. Foram enviados pedidos de LAI para todos 
+    os Tribunais de Justiça do país, solicitando a data, nome do curso/workshop/palestra sobre Constelações e a despesa gerada. Em 
+    paralelo, foram feitas buscas com o termo “Constelação Familiar” nos Diários Oficiais de Justiça de cada estado, no período de 
+    2008 até 2023, o mesmo procedimento foi realizado no portal JusBrasil. Por fim, as informações da LAI foram cruzadas com os dados 
+    obtidos pelas buscas manuais e obtivemos os valores gastos pelos Tribunais. Além disso, também foram enviados pedidos de LAI para 
+    os Centros Judiciários de Solução de Conflitos e Cidadania (CEJUSCs) de cada Tribunal, a fim de obter a informação de quais e 
+    quantos tinham a prática de Constelação Familiar institucionalizada.
+
+  uf: SC
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/foto.png
+- title: Orçamento fictício Maioria das subprefeituras de São Paulo não cumpriu orçamento de 2022
+  project_url: >-
+    https://agenciamural.org.br/especiais/maioria-das-subprefeituras-de-sao-paulo-nao-cumpriu-orcamento-de-2022/
+  veiculo: Agência Mural de Jornalismo das Periferias
+  autoria: Paulo Talarico, Ira Romão, Matheus Oliveira, Mariana Lima, Magno Borges
+  data: 22/3/2023
+  resumo: >+
+    Reportagem revela que 24 das 32 administrações regionais da cidade de São Paulo investiram menos do que o previsto. Cenário reforça 
+    enfraquecimento da área em meio à centralização das decisões no município e a desigualdade no repasse de dinheiro público
+  relevância: >
+    A reportagem mostra como o orçamento da cidade de São Paulo foi executado de forma desigual e o quanto a influência política tem 
+    afetado as políticas públicas em cada uma das subprefeituras da cidade. Com base nos dados apurados, conseguimos fazer um raio-x de 
+    onde a execução foi superior ao prometido, enquanto bairros ficaram sem verba para ações básicas
+  originalidade: >-
+    O orçamento em si costuma ser abordado durante a votação da Lei Orçamentária Anual, mas o quanto da proposta votada é realmente 
+    realizado? A reportagem traz isso. Mostra o quão fictício tem sido o orçamento da cidade de São Paulo para algumas regiões, em 
+    especial nas periferias da cidade. Outras, contudo, tem tido um investimento bem superior ao prometido.
+
+  metodologia: >+
+    Com base nos dados abertos da Prefeitura de São Paulo, baixamos as informações da execução orçamentária de 2022. A partir dessa 
+    planilha, filtramos os dados relacionadas a cada uma das subprefeiuras, o quanto foi orçado, o quanto foi gasto e em que áreas 
+    houve essa redução.
+    Com isso, conseguimos estabelecer quais regiões tiveram despesas abaixo do que estava previsto e as que superaram a estimativa.
+    Ouvimos especialistas, moradores, lideranças comunitárias e conselheiros participativos sobre a situação das regiões em que o 
+    cenário foi mais gritante e questionamos a prefeitura sobre a situação.
+    Também disponibilizamos a base de dados para os leitores.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/orçamento ficticio.png
+- title: '"Estamos aqui somente para sobreviver": a história dos Warao em Fortaleza'
+  project_url: >-
+    https://mais.opovo.com.br/reportagens-especiais/indigenas-warao-fortaleza/2023/08/23/estamos-aqui-somente-para-sobreviver-a-historia-dos-warao-em-fortaleza.html
+  veiculo: O POVO
+  autoria: Catalina Leite e Marcela Tosi
+  data: 23/8/2023
+  resumo: >+
+    A matéria denuncia as condições de vida insalubres dos indígenas venezuelanos Warao em Fortaleza, sujeitos a cobranças de aluguel 
+    leoninas, à falta de saneamento básico e ao desamparo institucional. Ouvimos a história de Wilmer Parede e sua família, da migração 
+    ao Ceará à luta diária por sustento.
+  relevância: >
+    São mais de 100 indígenas Warao morando em Fortaleza sem nenhum amparo institucional. Além da compreensão das vidas e culturas 
+    dessas famílias, a abordagem por dados estabelece um perfil oficial de quem são os Warao no Brasil. Assim, ainda que se conte a 
+    história de uma família em específico (a de Wilmer Parede), os dados dão materialidade aos mais de 53 mil venezuelanos em situação 
+    de refúgio no Brasil. A reportagem ganha relevância ao explicitar em que condições os grupos estão vivendo no Ceará, reforçando os 
+    desafios entre as demandas dos Warao e a burocracia das entidades governamentais.
+  originalidade: >-
+    A reportagem dedica-se a não apenas denunciar as condições dos Warao atualmente, mas traçar históricos que valorizem as memórias 
+    culturais dos entrevistados. Por isso, dedicou-se espaço a discutir tradições, cosmogonias e estilo de vida; além de defender o 
+    respeito e a escuta destes no processo de abrigamento dos Warao na Capital.
+
+  metodologia: >+
+    Para o material foram consultados dados relacionados à população refugiada no Brasil a partir dos dados do Comitê Nacional para os 
+    Refugiados (Conare), extraídos tanto do Portal de Imigração do Ministério da Justiça e Segurança Pública (MJ) e do Painel interativo 
+    das decisões de mérito da Conare.
+
+  uf: CE
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/capa-indigenas-warao-foto-fernanda-barros.jpg
+- title: 'O crime compensa: Os Privilégios dos Militares Expulsos das Forças Armadas'
+  project_url: >-
+    https://noticias.uol.com.br/politica/ultimas-noticias/2023/07/17/o-crime-compensa-os-privilegios-dos-militares-expulsos-das-forcas-armadas.htm
+  veiculo: UOL
+  autoria: Luiz Fernando Toledo e Eduardo Militão
+  data: 17/7/2023
+  resumo: >+
+    Militares que foram expulsos das Forças Armadas por crimes graves, como estupro e homicídio, mantém pensões vitalícias pagas a seus 
+    familiares. Esta é a primeira reportagem que quantificou e explicou em detalhes tal fenomeno, bem como contou histórias específicas 
+    de diversos casos graves.
+  relevância: >
+    O trabalho foi o primeiro a conseguir os dados de todos os pagamentos, vencendo uma disputa via LAI contra as Forças Armadas. 
+  originalidade: >-
+    O trabalho foi o primeiro a conseguir os dados de todos os pagamentos, vencendo uma disputa via LAI contra as Forças Armadas. 
+
+  metodologia: >+
+    Obtenção das bases de dados por meio da LAI, raspagem de dados do site do Tribunal Superior Militar e cruzamento de planilhas por 
+    meio de linguagem Python.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/brazil.jpeg
