@@ -21294,3 +21294,450 @@
   formato: TV
   category: Investigação
   image: images/edicoes/2023/Emendas.jpeg
+- title: 'Deforestation inc: madeireiras com selo de sustentabilidade receberam multas milionárias do IBAMA'
+  project_url: >-
+    https://apublica.org/2023/03/mais-de-340-empresas-com-certificado-de-sustentabilidade-sao-acusadas-de-crimes-ambientais/#Multas
+  veiculo: Revista Piauí, Poder 360 e Agência Pública
+  autoria: Allan de Abreu, Bernardo Esteves, Guilherme Waltenberg, Luiz Fernando Toledo, Mario Cesar Carvalho e Rafael Oliveira
+  data: 1/3/2023
+  resumo: >+
+    Reportagem transnacional identificou empresas de todo o mundo que, embora possuam selos de sustentabilidade de boa reputação, como 
+    o FSC, têm histórico de crimes ambientais no Brasil e em outros países.
+
+  relevância: >
+    Reportagem revelou uma série de irregularidades cometidas por empresas que, no papel, vendem-se como sustentáveis, mostrando a 
+    fragilidade da metodologia dos selos como o FSC, mundialmente usado até por governos para reconhecer práticas que não impactam o 
+    meio ambiente.
+  originalidade: >-
+    Esta é a primeira reportagem que investiga a fundo, e de forma internacional os selos de sustentabilidade. No Brasil olhamos 
+    somente para o FSC, mas parceiros em outros países analisaram outras organizações.
+
+  metodologia: >+
+    Trabalho coordenado pelo International Consortium of Investigative Journalists (ICIJ). Participaram do projeto 39 redações de todo 
+    o mundo. No Brasil, baixamos as listas de empresas certificadas e cruzamos os dados com todas as multas ambientais do Ibama desde a 
+    década de 90, por meio da biblioteca Fuzzy Match no Python. Em seguida obtivemos acesso inédito aos autos de infração por meio da 
+    Lei de Acesso  à Informação de todas essas multas e contamos as histórias das principais empresas.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/deforestion.jpeg
+- title: 'Série: como o Pau-Brasil, ameaçado de extinção e símbolo nacional, acaba em arcos de violino na Europa'
+  project_url: >-
+    https://piaui.folha.uol.com.br/como-o-pau-brasil-arvore-ameacada-de-extincao-e-simbolo-nacional-acaba-em-arcos-de-violino-na-europa/ 
+  veiculo: Revista Piauí e OCCRP
+  autoria: Luiz Fernando Toledo, Fernanda da Escóssia e Fernanda Santana
+  data: 26/4/2023
+  resumo: >+
+    Um simples cruzamento de dados entre empresas madeireiras e a lista de autuações do Ibama levou à descoberta de um grupo criminoso 
+    que extraía pau-brasil de unidades de conservação na Bahia e os exportou, em forma de varetas, para EUA e Europa, onde são fabricados 
+    arcos de violino e vendidos em uma operação mais lucrativa do que o tráfico de cocaína. A apuração levou cerca de seis meses e envolveu 
+    viagens para Nova York e Londres para entrevistar os donos de lojas e contar a eles que a madeira que vendiam era de origem ilegal. 
+    A reportagem resultou no fim das atividades de uma das empresas considerada líder do esquema e também acelerou uma investigação de 
+    homicídio no Parque Nacional do Pau-Brasil relacionada ao contrabando da madeira, que estava parada até os repórteres questionarem 
+    os policiais na região.
+  relevância: >
+    A reportagem resultou no fim das atividades de uma das empresas considerada líder do esquema e também acelerou uma investigação de 
+    homicídio no Parque Nacional do Pau-Brasil relacionada ao contrabando da madeira, que estava parada até os repórteres questionarem 
+    os policiais na região. Foi a primeira reportagem a dar nome aos empresários e fazer o mapeamento do começo ao fim do processo, com 
+    apuração em campo tanto no Parque Nacional do Pau Brasil quanto nas lojas em Nova York e Londres onde as varetas são vendidas. 
+  originalidade: >-
+    Nunca foi feita uma investigação por veículo brasileiro sobre o contrabando de pau-brasil. A única outra reportagem pública tinha 
+    sido feita com base somente em uma investigação da polícia e sem mencionar os nomes dos empresários. Esta série avança diversos 
+    pontos não alcançados pelos policiais, como o ingresso em um grupo de Whatsapp e participação de reuniões em que alguns dos 
+    fabricantes de arcos admitem terem cometido crimes. (conforme parte 2 da série: https://piaui.folha.uol.com.br/nova-batalha-do-pau-brasil/)
+
+  metodologia: >+
+    Foi feito amplo levantamento de dados de empresas madeireiras e depois cruzamento com a base de dados do Ibama, por meio da 
+    biblioteca Fuzzy Match do Python. Também foi solicitado, via LAI, cópia das multas. Por meio da ferramenta Document Cloud 
+    conseguimos organizar todos os mais de 100 PDFs de multas e extrair insights para identificar a rede de empresários envolvidos. 
+    Também enviamos pedidos por meio da lei de acesso americana, a FOIA, e recebemos parte da investigação contra um dos empresários 
+    que atuava nos EUA - justamente a empresa que admitiu o fim das atividades após a reportagem ser publicada.
+
+  uf: BA
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/paubrasil.jpeg
+- title: Em 1.459 dias como presidente, Bolsonaro mentiu 6.685 vezes
+  project_url: >-
+    https://www.aosfatos.org/todas-as-declara%C3%A7%C3%B5es-de-bolsonaro/
+  veiculo: Aos Fatos
+  autoria: Tai Nalon, Bernardo Moura, Luís Felipe dos Santos, Ana Freitas, Ana Rita Cunha, Alexandre Aragão, Amanda Ribeiro, Luiz Fernando Menezes, Bruno Fávero, Priscila Pacheco, Marco Faustino, Carolina Cavaleiro, Rômulo Collopy, Erico Rosa, Guilherme Lobo, Sérgio Spagnuolo, Bárbara Libório
+  data: 30/12/2022
+  resumo: >+
+    Durante os quatro anos de governo de Jair Bolsonaro, uma equipe de mais de 20 profissionais do Aos Fatos se engajou em acompanhar 
+    diariamente o que ex-presidente do Brasil dizia. Com um time de repórteres, editores, programadores e líderes de inovação, a 
+    organização desenvolveu métodos e novas tecnologias para dar conta da empreitada.
+    Desse modo, Aos Fatos analisou ininterruptamente discursos, entrevistas, lives, redes sociais, entre outras aparições públicas de 
+    Bolsonaro, para entender quais foram os principais alvos de sua batalha contra a verdade factual. O resultado foi um trabalho 
+    abrangente e meticuloso que mostra a ascensão do golpismo no Brasil. Também catalisou um processo de transformação editorial que 
+    mudou fundamentalmente como a imprensa brasileira cobre a desinformação oficial.
+  relevância: >
+    Aos Fatos considera o contador de mentiras de Bolsonaro um projeto de longo prazo cujo impacto só poderia ser medido ao fim do 
+    mandato do ex-presidente, em 2022. Portanto, seria impossível dizer em 2019, quando planejamos essa cobertura, o potencial que ele 
+    teria, tanto do ponto de vista de repercussão, quanto da capacidade de finalizá-lo e consolidá-lo como um documento completo.
+    Com um projeto semelhante, o Washington Post teve dificuldades em finalizar sua cobertura: https://www.washingtonpost.com/politics/2021/01/24/trumps-false-or-misleading-claims-total-30573-over-four-years/. 
+    Aos Fatos, com uma equipe de 10 a 15 jornalistas e metodologia de checagem consistente, publicou seus resultados pontualmente em 30 
+    de dezembro de 2022.
+    Um dos impactos mais notáveis da cobertura sobre todas as mentiras ditas por Bolsonaro foi o então candidato à Presidência Lula 
+    mencionar, durante o principal debate das eleições de 2022, ao vivo, que Bolsonaro havia mentido, até então, 6.498 vezes durante o 
+    seu mandato, atribuindo o dado ao Aos Fatos. Isso gerou repercussão sem precedentes:
+    - O portal UOL repercutiu nas suas redes (TikTok, YouTube, Twitter) o registro de Lula (https://www.tiktok.com/@uol/video/7159763525135600902) 
+    alcançando cerca de 10 milhões de seus seguidores;
+    - O debate gerou recorde de audiência para o horário, o maior em 16 anos, segundo o jornal Valor Econômico;
+    - Jornais como Correio Braziliense e Diário de Pernambuco também republicaram o levantamento.
+    Outro impacto substancial da cobertura foi ter subsidiado um pedido de abertura de inquérito que apura a participação de Bolsonaro 
+    na incitação aos atos antidemocráticos que culminaram na invasão do Congresso Nacional, do Palácio do Planalto e do Supremo Tribunal 
+    Federal em 8 de janeiro de 2023. Esse documento, encaminhado em 12 de janeiro de 2023 ao procurador-geral da República, Augusto Aras, 
+    afirma que "Bolsonaro tem sugerido em diversas manifestações públicas, desde setembro de 2021" que as "instituições democráticas não 
+    são confiáveis". A informação foi retirada dessa investigação de longo prazo do Aos Fatos. Esse pedido foi acatado e, hoje, o ex-presidente 
+    está sob investigação.
+    A base de dados oriunda desse acompanhamento sistemático subsidiou pesquisas acadêmicas – algumas delas ainda em fase de investigação. 
+    Já neste ano, por exemplo, foi base do artigo "All the President’s Lies: How Brazilian News Media Addressed False and Inaccurate 
+    Claims in TheirTitles", publicado no Journalism Practice com autoria de Marília Gehrke, Marcelo Träsel, Álvaro Ramos & Júlia Ozorio. 
+    A investigação também foi mencionada em veículos internacionais, como Poynter, Deustch Welle e Washington Post. O que é mais notável 
+    na imprensa brasileira, no entanto, é que Aos Fatos criou uma cultura de acompanhamento sistemático das falas de Bolsonaro, tornando 
+    mais comum no noticiário do país análises críticas de declarações falsas ou enganosas dele e de demais políticos que se utilizam da 
+    mentira como arma política.
+    Imprescindível ressaltar que, por conta de sua cobertura de desinformação, Aos Fatos foi severamente atacado ao longo dos anos 
+    Bolsonaro. Não só este projeto, mas todas as operações do Aos Fatos – da checagem de fatos às investigações de campanhas de desinformação 
+    – sofreram com assédio judicial e campanha de ódio nas redes. Desde 2018, antes do início oficial da campanha presidencial daquele 
+    ano, jornalistas do Aos Fatos já sofriam doxxing e ameaças de violência por conta de seu trabalho.
+    Em 2022, Bolsonaro afirmou em entrevista o seguinte: "Geralmente, quem busca tolher a liberdade e impor um regime de força é o 
+    chefe do Executivo. Aqui é exatamente o contrário. Aqui é o chefe do Executivo que resiste a agências de checagem, a arbitrariedades 
+    estapafúrdias. Duas ou três pessoas passam a valer mais do que todos nós juntos, que a Câmara, que outros órgãos do Judiciário. 
+    Vamos ceder para dois ou três?" Este é só um exemplo. 
+    Também como resultado de seu trabalho, o perfil do Aos Fatos no Twitter foi bloqueado pelo perfil oficial de Bolsonaro, dificultando 
+    o mapeamento de suas declarações. 
+  originalidade: >-
+    Embora tenha sido um formato explorado originalmente pelo Washington Post durante a presidência de Donald Trump, Aos Fatos adaptou 
+    a cobertura das declarações de Bolsonaro à realidade brasileira. Nenhum outro veículo nacional conseguiu estruturar cobertura 
+    semelhante, muito menos desenvolver tecnologias de acompanhamento do noticiário para dar conta de entregar um trabalho de modo 
+    imediato e preciso.
+    Só entre 2022 e 2023, por conta deste projeto, Aos Fatos produziu as seguintes reportagens originais, comprovando uso de dinheiro 
+    público para patrocinar atos golpistas, negacionismo e conspiração contra o sistema eleitoral brasileiro:
+    – Secom pagou R$ 3,2 mi para veicular discursos golpistas e mentiras de Bolsonaro na TV Brasil (https://www.aosfatos.org/noticias/secom-tvbrasil-mentiras-bolsonaro/)
+    - Secom pagou R$ 40 mil para transmitir evento em que Bolsonaro mentiu sobre meninas venezuelanas (https://www.aosfatos.org/bipe/bolsonaro-meninas-venezuelanas-secom-pagou-transmissao/)
+    – Bolsonaro mentiu mais de quatro vezes por dia durante governo (https://www.aosfatos.org/noticias/mentiras-bolsonaro/)
+    - As 356 mentiras sobre ditadura, Judiciário e urnas que compõem quatro anos de golpismo de Bolsonaro (https://www.aosfatos.org/noticias/bolsonaro-mentiras-quatro-anos-de-golpismo/
+
+  metodologia: >+
+    Em 2019, diante da perspectiva de que Bolsonaro emularia Donald Trump e seria um mentiroso contumaz em seu governo, Aos Fatos 
+    preparou um banco de dados público de declarações do presidente, organizado por temas e por origem das declarações: 
+    https://www.aosfatos.org/todas-as-declara%C3%A7%C3%B5es-de-bolsonaro/. O banco de dados foi desenvolvido em Django e era 
+    primeiramente integrado a uma tabela dinâmica do serviço Google Spreadsheets. Em 2021, devido à enorme quantidade de dados e 
+    dificuldade de sincronização, foi integrado totalmente ao CMS nativo do Aos Fatos.
+    Também no início da cobertura, Aos Fatos vasculhava manualmente veículos jornalísticos, páginas oficiais nas redes sociais e 
+    documentos do governo em busca de declarações públicas do presidente. Isso demandava um gasto de tempo e de recursos humanos muito 
+    grande: ao menos um repórter e um editor usavam mais de dois dias inteiros de trabalho na semana entre o mapeamento das falas, a 
+    checagem e a publicação. No fim de 2021, Aos Fatos desenvolveu a ferramenta Escriba (https://escriba.aosfatos.org/), de transcrição 
+    automática de vídeos e áudios com grande acurácia. Isso acelerou o processo de acompanhamento das declarações. O ganho de produtividade 
+    para essa atividade foi de aproximadamente 150h/mês, em média.
+    Foi assim que conseguimos chegar ao número de quatro mentiras por dia ditas por Bolsonaro.
+    Ou seja, além de ter gerado impacto externo, mudando a cultura de cobertura de declarações de políticos no Brasil, o projeto de 
+    monitoramento das mentiras de Bolsonaro causou uma revolução interna de produtividade no Aos Fatos. 
+
+  uf: RJ
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/contador bolsonaro card quadrado.jpg
+- title: Prefeitura de Sorocaba é órgãos públicos mantêm contratos com família de diretor da Urbes
+  project_url: >-
+    https://globoplay.globo.com/v/11966254/
+  veiculo: TV TEM (afiliada Rede Globo)
+  autoria: Wilson Gonçalves Junior, Marcel Scinocca, Diogo Nolasco e Fernando Bellon
+  data: 21/9/2023
+  resumo: >+
+    O trabalho, de seis meses de apuração, demonstrou uma extensa ligação de empresas de uma família com a Prefeitura de Sorocaba. 
+    A família do diretor da empresa pública de trânsito e transporte da cidade (Urbes) tem mais de 17 contratos firmados com o município, 
+    com valores que ultrapassam os 32 milhões.
+    As diversas empresas e uma entidade estão em nome de integrantes da família, de funcionários do grupo empresarial e funcionam no 
+    mesmo endereço na sede do grupo.  Todos os dados de contratos foram obtidos após cruzamento de vários portais de transparência.   
+  relevância: >
+    A matéria jornalística mostrou uma relação extensa entre o poder público e a iniciativa privada que estavam completamente escondida. 
+    O trabalho já gerou frutos importantes, como a abertura de uma investigação por parte do Ministério Público, a exoneração do diretor 
+    da empresa pública e a abertura de uma Comissão Parlamentar de Inquérito (CPI). 
+  originalidade: >-
+    A originalidade do trabalho foi mostrar didaticamente, por intermédio de uma painel de investigação, todas as ligações, com cada 
+    empresa, cada integrante da família, cada contrato e suas respectivas ligações. Como o volume de ligações era grande, decidimos 
+    mostrar quadro a quadro, para que os telespectadores conseguisse acompanhar e entender todas as relações. Além da troca com as 
+    fontes, que foram checadas e utilizamos os dados para substanciar os elementos, também fizemos câmeras escondidas para confirmar a 
+    questão da troca de sociedade.   
+
+  metodologia: >+
+    Usamos dados abertos da Prefeitura de Sorocaba e da empresa pública chamada Urbes. Para cruzamento das informações, utilizamos 
+    também o portal de transparência municipal do Tribunal de Contas do Estado de São Paulo (TCE/SP). 
+    Todo dado foi planilhado para chegar ao número de contratos existentes, os valores de cada um e alcançar o valor final. Fizemos 
+    também os valores recebidos até o momento da exibição da matéria. 
+    https://transparencia.sorocaba.sp.gov.br/tdaportalclient.aspx?418
+    https://leideacesso.etransparencia.com.br/sorocaba.urbes.sp/tdaportalclient.aspx?418
+    https://transparencia.tce.sp.gov.br/municipio/sorocaba
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: TV
+  category: Investigação
+  image: images/edicoes/2023/prefeitura-sorocaba.jpeg
+- title: Aos 75 anos, Declaração Universal dos Direitos Humanos é desrespeitada todos os dias no Brasil
+  project_url: >-
+    http://agenciasn.com.br/arquivos/19484
+  veiculo: Agência Social de Notícias
+  autoria: José Pedro Soares Martins
+  data: 9/8/2023
+  resumo: >+
+    Reportagem mostra como o Brasil observa, ou não, cada um dos 30 artigos da Declaração Universal dos Direitos Humanos, que completa 
+    75 anos em dezembro de 2023. São ouvidos alguns dos principais símbolos da luta pelos direitos humanos no país nas últimas décadas 
+    e lideranças de movimentos sociais, entre outras fontes. 
+  relevância: >
+    Não é comum a verificação de como está a observação de cada um dos 30 artigos da Declaração Universal dos Direitos Humanos. 
+    A reportagem reforça a divulgação da própria Declaração, um dos principais documentos dos últimos séculos e que não é conhecida por 
+    grande parte da população. 
+  originalidade: >-
+    A originalidade está na escuta de representantes de diferentes movimentos sociais, compondo um painel amplo sobre a situação dos 
+    direitos humanos no Brasil.
+
+  metodologia: >+
+    Foram consultadas, pesquisadas e ouvidas diferentes fontes que trabalham com dados, como Instituto Brasileiro de Geografia e 
+    Estatística (IBGE), Fórum Brasileiro de Segurança Pública, Observatório da Erradicação do Trabalho Escravo e do Tráfico de Pessoas, 
+    Comissão Interamericana de Direitos Humanos, Conselho Indigenista Missionário (Cimi) e Comissão Pastoral da Terra. Dados foram 
+    trabalhados considerando o contexto dos fatos e ouvindo-se importantes personagens da luta pelos direitos humanos no Brasil em 
+    diferentes segmentos.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/Capa1.jpg
+- title: Identificação de autores de homicídios cresce em Fortaleza, mas ainda não chega a 1/3
+  project_url: >-
+    https://mais.opovo.com.br/reportagens-especiais/2023/06/09/identificacao-de-autores-de-homicidios-cresce-em-fortaleza-mas-ainda-nao-chega-a-1-3.html
+  veiculo: O Povo
+  autoria: Lucas Barbosa
+  data: 9/6/2023
+  resumo: >+
+    Levantamento exclusivo do O POVO localizou 846 inquéritos policiais instaurados em 2022 para investigar casos de homicídios em 
+    Fortaleza — ao todo, de acordo com a Secretaria da Segurança Pública e Defesa Social do Ceará (SSPDS), ocorreram 850 assassinatos 
+    na Capital no ano passado. Foi verificado que apenas 246 inquéritos (29,1% do total) resultaram em acusações pelo Ministério Público 
+    Estadual (MPCE). 
+  relevância: >
+    Os índices de criminalidade do Ceará são altíssimos. Parte dessa problemática se deve ao baixo nível de resolução de homicídios, 
+    que faz com que não haja responsabilização de homicidas e criminosos contumazes continuem em liberdade para matar ainda mais, assim 
+    como ciclos de vinganças se instaurem. Munir a sociedade de dados que apontem para essa problemática, portanto, é de extrema 
+    importância, pois pode fazer com que os órgãos competentes sejam pressionados para melhorar tais indicadores 
+  originalidade: >-
+    Não há um serviço público de elucidação de crimes no Ceará. Portanto, o trabalho é uma das poucas formas de a sociedade ter uma 
+    noção de quais foram os crimes que foram e os que não foram elucidados em Fortaleza
+
+  metodologia: >+
+    O trabalho identificou quais foram os inquéritos instaurados para investigar cada caso de homicídio em Fortaleza e, a partir do 
+    sistema de consulta processual do Tribunal de Justiça do Ceará, compilou em um arquivo as ações penais instauradas e como estão os 
+    seus andamentos
+
+  uf: CE
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/index (3).jpg
+- title: Portal da Transparência de Mariana não é claro sobre uso dos recursos da CFEM
+  project_url: >-
+    https://lampiaodigitalufop.wixsite.com/lampiaoufop/post/portal-da-transpar%C3%AAncia-de-mariana-n%C3%A3o-%C3%A9-claro-sobre-uso-dos-recursos-da-cfem
+  veiculo: Lampião Jornal Laboratório
+  autoria: Ana Júlia Amorim e Tatiane Análio
+  data: 20/10/2022
+  resumo: >+
+    O site de Mariana não permite saber, de forma clara, como os recursos da Compensação Financeira pela Exploração Mineral (CFEM), 
+    repassados pela Agência Nacional de Mineração, foram destinados ao município. De acordo com o Portal da Transparência de Mariana (MG), 
+    a Prefeitura recebeu, no ano de 2020, um total de R$ 63.080.963,50 em recursos provenientes da Compensação Financeira pela Exploração 
+    Mineral (CFEM). Em 2021, o valor total recebido foi de R$ 98.576.267,43. O levantamento é do projeto “De Olho na CFEM”, desenvolvido 
+    pelo Comitê Nacional em Defesa dos Territórios frente à Mineração com o apoio do Instituto de Estudos Socioeconômicos (Inesc), do grupo 
+    de pesquisa Política, Economia, Mineração, Ambiente e Sociedade (PoEMAS), em parceria com a Rede Justiça nos Trilhos, do Maranhão, e a 
+    Universidade Federal do Sul e Sudeste do Pará (Unifesspa).
+  relevância: >
+    Permitir que a população marianense tenha acesso aos dados sobre os recursos da CFEM no Portal da Transparência da cidade. Além de 
+    mostrar o entendimento sobre o que consiste a CFEM e quais dados a prefeitura disponibiliza ou não, assim como a forma com que o 
+    dinheiro foi destinado.
+  originalidade: >-
+    Primeiramente, a investigação sobre os recursos da CFEM (nenhum portal de informação da cidade havia pesquisado sobre isso antes); 
+    o cruzamento de dados para entender como foram e para quais setores públicos foram destinados os recursos da CFEM em Mariana.
+
+  metodologia: >+
+    - Esquema comparativo entre os recursos recebidos nos anos de 2020 e 2021;
+    - Análise e cruzamento dos dados de 2020 e de 2021 (separadamente);
+    - Interpretação dos dados (para quais setores os recursos foram destinados);
+    - Entrevistas com os responsáveis pela CFEM; analistas e professores;
+    - Gráficos feitos no Infogram.  
+
+  uf: MG
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/portal-transparencia.png
+- title: 'Série "Rodovias do Pará, Maranhão e Piauí: impactos socioambientais para comunidades quilombolas e indígenas"'
+  project_url: >-
+    https://open.spotify.com/episode/5v6asZzhpQzeEifolAVC0X?si=672af3674d484bbd
+  veiculo: E-COAR
+  autoria: 'A série Rodovias do Pará, Maranhão e Piauí: impactos socioambientais para comunidades quilombolas e indígenas é produzida por Marta Alencar, Rosana Barros, José Carlos Almeida, Josycleide Santos, Pedro Sannas, Kaylane Freire e Alicy Teixeira. Com Edição de Rosana Barros.'
+  data: 2/8/2023
+  resumo: >+
+    O Podcast E-COAR apresenta a série Rodovias do Pará, Maranhão e Piauí: impactos socioambientais para comunidades quilombolas e 
+    indígenas, dividida em três reportagens: Estradas no maranhão e o silêncio das comunidades (Parte I e II); Estradas do caos e 
+    Estradas de risco: perigos de ir e vir.
+  relevância: >
+    Nesta série, o E-COAR escuta indígenas e quilombolas que vêm reivindicando o direito à consulta prévia aos órgãos responsáveis, 
+    como o Departamento Nacional de Infraestrutura de Transportes (DNIT), na execução de rodovias federais e estaduais. O impacto 
+    nessas comunidades atinge o direito deles de serem ouvidos, pois os moradores se sentem silenciados. 
+  originalidade: >-
+    O trabalho entrevista comunidades quilombolas e indígenas das regiões Norte e Nordeste, que convivem com as piores malhas 
+    rodoviárias no Brasil, trechos danificados e acidentes de trânsito.
+
+  metodologia: >+
+    A equipe do Podcast E-COAR trabalhou com dados de relatórios da Confederação Nacional do Transporte (CNT), do Instituto 
+    Brasileiro de Geografia e Estatística (IBGE), do Ministério Público Pará, Maranhão e Piauí, além de dados do Departamento Nacional 
+    de Infraestrutura de Transportes e da Polícia Rodoviária Federal (PRF).
+
+  uf: PI
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Outro
+  category: Investigação
+  image: images/edicoes/2023/ecoar.jpeg
+- title: Máfia das Apostas
+  project_url: >-
+    https://oglobo.globo.com/esportes/futebol/noticia/2023/05/mafia-das-apostas-veja-passo-a-passo-como-suspeitos-ganharam-mais-de-r-700-mil-em-uma-rodada-do-brasileirao.ghtml
+  veiculo: O Globo
+  autoria: Rafael Soares, Thales Machado, Laís Malek, Felipe Grinberg, Athos Moura, Breno Angrisani, Caio Marques, Mario Martinho e Vinicius Machado
+  data: 26/5/2023
+  resumo: >+
+    Em maio de 2023, o futebol brasileiro se viu envolto num dos maiores escândalos de sua história: a Operação Penalidade Máxima 
+    revelou que uma quadrilha especializada em apostas ilegais manipulou partidas da Série A do Brasileirão — campeonato nacional mais 
+    importante do país.
+    Por mais de um mês, uma equipe do GLOBO analisou as 5 mil páginas do processo judicial, entrevistou mais de 50 envolvidos e 
+    conduziu uma investigação jornalística independente sobre o caso. A apuração culminou na publicação de um mapa interativo do 
+    escândalo, com informações sobre todos os jogos manipulados e personagens da investigação), que serviu de base para a publicação 
+    de uma série de reportagens exclusivas.
+  relevância: >
+    A cobertura do GLOBO foi a única na imprensa brasileira a extrapolar a investigação formal do caso pelo Ministério Público: o jornal 
+    criou sua própria base de dados e conduziu uma investigação jornalística independente, que trouxe à tona uma série de informações 
+    exclusivas que tiveram impacto imediato. A ferramenta criada pelo GLOBO passou a ser usada até mesmo pelos investigados da Operação 
+    Penalidade Máxima e por parlamentares integrantes da CPI das Apostas Esportivas, também criada para investigar o caso.
+    Em 10 de maio, em meio à produção da base, o GLOBO revelou o envolvimento — até então desconhecido do público — de 19 jogadores com 
+    a quadrilha de apostadores e trouxe à tona a verdadeira dimensão do escândalo. No mesmo dia, o ministro da Justiça, Flávio Dino, 
+    determinou que a Polícia Federal abrisse um inquérito para investigar o caso "diante de indícios de manipulação de resultados em 
+    competições esportivas, com repercussão interestadual e até internacional".
+    Três dos jogadores cuja participação veio à tona a partir de reportagens do GLOBO — Sávio, Bryan García e Diego Porfírio — acabaram 
+    admitindo, posteriormente, os crimes ao Ministério Público. Os três fecharam acordos com a Promotoria e vão depor contra integrantes 
+    da quadrilha. 
+    As provas trazidas à tona na série de reportagens do jornal também motivaram o afastamento ou rescisão de contrato de sete atletas 
+    por seus clubes no Brasil — como Pedrinho e Bryan García, ambos afastados e demitidos do Athletico Paranaense. A repercussão das 
+    reportagens também chegou aos Estados Unidos, onde o Colorado Rapids afastou o jogador Max Alves após o GLOBO revelar indícios de 
+    que o atleta havia manipulado uma partida da liga norte-americana.
+  originalidade: >-
+    A investigação jornalística independente do GLOBO, a partir da construção de uma base de dados de jogos e investigados, trouxe à 
+    tona informações inéditas sobre o escândalo da máfia das apostas. Ao todo, 35 partidas do futebol brasileiro tiveram seus resultados 
+    manipulados entre 2022 e 2023. Desse total, 23 dos jogos foram válidos pela Série A do Brasileirão, maior campeonato do país.
+    A apuração do jornal também trouxe à tona o envolvimento de 72 pessoas — 43 delas, atletas profissionais — com uma quadrilha 
+    especializada em apostas ilegais. A partir da análise de comprovantes de pagamento e planilhas de contabilidade da quadrilha, o 
+    GLOBO também revelou que R$ 835 mil foram pagos a jogadores de futebol por apostadores num intervalo de apenas seis meses.
+
+  metodologia: >+
+    Como a investigação do Ministério Público de Goiás sobre a máfia das apostas era complexa — o inquérito envolvia quase uma centena 
+    de personagens e diálogos extraídos de mais de uma dezena de aparelhos celulares — os jornalistas do GLOBO passaram a abastecer uma
+    base de dados com informações retiradas do processo judicial e obtidas com fontes. 
+    A base foi abastecida pelos repórteres com informações sobre todas as partidas com suspeitas de manipulação (resultados, equipes 
+    envolvidas, os lances combinados) e também sobre cada um dos envolvidos (apostadores, financiadores, intermediários e jogadores). 
+    A coleta foi determinante na apuração do caso: a catalogação dos jogos e personagens acabou trazendo à tona informações inéditas 
+    sobre o escândalo (como, por exemplo, a participação de 19 dos jogadores envolvidos) e possibilitou que a equipe chegasse ao número 
+    inédito de 35 jogos com suspeitas de manipulação.
+    Além de ser usada internamente na produção de reportagens sobre o caso, a base de dados também foi disponibilizada pelo GLOBO 
+    aos leitores, em forma de um mapa interativo. 
+    As bases de dados que deram origem ao mapa interativo e às reportagens do jornal podem ser encontradas nos links a seguir:
+    https://docs.google.com/spreadsheets/d/1zbg7lzyxD8hiX1rrGdyb58XtgBpaiZzUbUYYAGxGRFc/edit?usp=sharing
+    https://docs.google.com/spreadsheets/d/1ltbwnX3-Mp1sgOoZRR-0NIe5obKSmFK2Yob0CwmagQw/edit?usp=sharing
+
+  uf: RJ
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/MÁFIA_APOSTAS.jpg
+- title: 'Huntington: Feira Grande é o segundo município no ranking brasileiro de incidência da doença'
+  project_url: >-
+    https://tribunahoje.com/noticias/saude/2023/09/30/127290-huntington-feira-grande-e-o-segundo-municipio-no-ranking-brasileiro-de-incidencia-da-doenca
+  veiculo: Tribuna Independente
+  autoria: Valdete Calheiros
+  data: 30/9/2023
+  resumo: >+
+    Investigar a incidência da Doença de Huntington nos municípios com mais casos no Brasil, em especial no estado de Alagoas. Onde o 
+    pequeno município de Feira Grande se destaca pela grande quantidade de casamentos consaguíneos.
+  relevância: >
+    Ajudar a desmistificar os tabus e crenças a cerca dos pacientes da Doença de Huntington, visto como pessoas nervosas, loucas e que 
+    deviam ser enjaulados sem receber tratamento adequado. 
+  originalidade: >-
+    Trazer a luz, a história de vida, sofrimento, aspectos emocionais ligados à Doença de Huntington. Doença hereditária, genética, 
+    rara no país e no mundo. 
+
+  metodologia: >+
+    Levantamento de dados junto à Associação Brasil Huntington, única entidade que detém estatísticas sobre a doença que, por ser rara, 
+    não é de notificação obrigatória junto ao Ministério da Saúde e, por consequência, junto às secretarias estaduais e municipais de 
+    saúde do Brasil. Levantamento de dados junto à Defensoria Pública da União. 
+    Pesquisa de campo até achar pacientes da Doença de Huntington e de pessoas que foram fundamentais na trajetória de mostrar a 
+    sociedade que o paciente precisa de apoio e cuidados especiais.
+
+  uf: AL
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Impresso
+  category: Investigação
+  image: images/edicoes/2023/huntington.png
+- title: Sem vagas, cemitérios de Maceió enterram 80% dos mortos em cova rasa
+  project_url: >-
+    https://www.agenciatatu.com.br/noticia/sem-vagas-cemiterios-maceio-enterram-em-cova-rasa/
+  veiculo: Agência Tatu de Jornalismo de Dados
+  autoria: Karina Dantas
+  data: 26/5/2023
+  resumo: >+
+    A reportagem apresenta dados que evidenciam a superlotação dos cemitérios públicos de Maceió, já que 80% dos mortos na capital 
+    alagoana são enterrados em covas rasas. Durante quase dois meses, a Agência Tatu entrevistou mais de uma dezena de fontes, levantou 
+    e analisou dados públicos nem sempre acessíveis e fez incursões nos cemitérios e adjacências para entender a extensão dos impactos 
+    dessa crise no sistema funerário. 
+    A matéria também mostra que a situação está relacionada ao afundamento de solo causado pela empresa petroquímica Braskem, que 
+    desapropriou cerca de 60 mil moradores de suas residências e interditou o cemitério da região, o que agravou a situação funerária 
+    em Maceió.
+  relevância: >
+    O trabalho investigativo buscou apresentar dados e informações importantes que mostrassem o que há muito tempo vêm sendo denunciado 
+    pela população local que necessita dos serviços funerários públicos. 
+    Após a publicação da reportagem sobre a situação - à beira de um colapso - nos cemitérios em Maceió, o MPF, MPAL e DPU emitiram 
+    uma recomendação conjunta que busca amenizar e solucionar o caso dos sepultamentos na capital (https://www.mpf.mp.br/al/sala-de-imprensa/noticias-al/recomendacao-conjunta-do-mpf-mpal-e-dpu-busca-solucoes-imediatas-para-a-crise-nos-cemiterios-de-maceio/), o UOL repercutiu a notícia utilizando dados exclusivos da Agência Tatu (https://noticias.uol.com.br/colunas/carlos-madeiro/2023/06/04/maceio-colapso-funerario-enterro-covas-rasas.htm), além de movimentar políticos da cidade para solucionar o problema (https://www.maceio.al.leg.br/noticia/camara-formaliza-comissao-para-discutir-solucoes-sobre-a-falta-de-vagas-em-cemiterios-publicos-29-08-2023-00-00-785 e https://www.maceio.al.leg.br/noticia/galba-netto-destaca-necessidade-da-construcao-de-cemiterio-publico-no-benedito-bentes-03-08-2023-15-38-766). "
+  originalidade: >-
+    O trabalho investigativo apresentou dados inéditos sobre a situação funerária na capital, mostrando que 8 em cada 10 mortos não 
+    tiveram um enterro digno, sendo enterrados em covas rasas. Houve um obstáculo imenso para conseguir esses dados, uma vez que a 
+    Prefeitura de Maceió busca a todo custo escondê-los e dificultar o acesso, e só foi possível com muita cobrança e persistência da 
+    reportagem. Além disso, os órgãos responsáveis não possuem uma forma de registro simplificada dos mortos na capital, o que também 
+    dificultou a obtenção dos dados.
+    Outro aspecto inédito que a reportagem trouxe foram as informações contidas em um memorando de um ex-gestor do setor funerário de 
+    Maceió, que foi exonerado dias após o envio do documento para o gabinete da Secretaria responsável. O documento relata a urgência 
+    na construção de um novo cemitério e ampliação de um dos cemitérios da cidade, sob risco de colapso na rede funerária da capital.  
+
+  metodologia: >+
+    O levantamento do número de mortos nos cemitérios públicos de Maceió foi feito de forma simples, com a criação de um gráfico de 
+    barras que melhor demonstra a situação precária apresentada na reportagem. Foram separados os dados de pessoas sepultadas por tipo 
+    de cova. 
+    Os dados foram organizados em planilha excel, que foi disponibilizada na íntegra na própria reportagem da Agência 
+    Tatu: https://docs.google.com/spreadsheets/d/1ogC-IqDPDo9f8VONlgcSnZPRWrA2ZLvcyiO4n-3RTzU/edit#gid=1383697366 ."
+
+  uf: AL
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/cemiterios maceio.png
