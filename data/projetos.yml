@@ -20655,3 +20655,45 @@
   formato: Online
   category: Investigação
   image: images/edicoes/2023/tcm-jornalconecta.png
+- title: Homem passa 40 dias preso no Cotel por crime que não cometeu
+  project_url: >-
+    https://drive.google.com/file/d/1XL_KVLxc5ehJ2A4Qvk0RDP-SsAt-gGG_/view?usp=sharing 
+  veiculo: Jornal do Commercio
+  autoria: Raphael Guerra
+  data: 13/7/2023
+  resumo: >+
+    Trabalho conta a história do pernambucano Edivaldo dos Santos Júnior, que ficou preso por 40 dias acusado por um crime que não 
+    cometeu. Isso ocorreu por causa de um erro no mandado de prisão preventiva, que constava no banco alimentado por tribunais de todo 
+    o País e sob a vigilância do Conselho Nacional de Justiça. Reportagem também revelou que, ao mesmo tempo em que a polícia cometeu 
+    um grave erro ao prender um inocente, mais de 13 mil mandados de prisão seguem aguardando cumprimento em Pernambuco (8º estado do 
+    País com mais mandados em aberto).
+
+  relevância: >
+    Somente após a reportagem ser publicada, a Corregedoria do Tribunal de Justiça de Pernambuco decidiu apurar a responsabilidade pelo 
+    erro identificado no mandado de prisão preventiva. O mesmo ocorreu com a Corregedoria da Secretaria de Defesa Social, que decidiu 
+    investigar a conduta dos policiais. O desdobramento da reportagem, que identificou no banco de dados do CNJ que mais de 13 mil mandados 
+    de prisão seguem em aberto em Pernambuco, apontou que há casos em que a impunidade já dura mais de uma década. Por causa da reportagem, 
+    a OAB-PE decidiu criar um grupo de trabalho para analisar os casos e sobrar das autoridades o cumprimento desses mandados. Posteriormente, 
+    o governo de Pernambuco também decidiu criar um grupo com representantes das forças de segurança para agilizar o cumprimento dos mandados 
+    de prisão. 
+
+  originalidade: >-
+    Primeiro ponto a ser destacado é que a reportagem jogou luz sobre o drama vivido por Edivaldo dos Santos Júnior e fez com que as 
+    corregedorias do TJPE e da Secretaria de Defesa Social instaurassem investigações para apurar os erros cometidos no cumprimento do 
+    mandado de prisão. O segundo ponto é que a reportagem foi além pesquisando os dados públicos do banco de mandados de prisão do CNJ, 
+    identificando o total de mandados em aberto e analisando vários casos antigos para apontar que há acusados que deveriam estar presos 
+    há mais de dez anos. A reportagem resultou em mais desdobramentos com a OAB-PE e o governo de Pernambuco criando grupos de trabalho 
+    com a promessa de "destravar" e diminuir o número de mandados sem cumprimento. 
+
+  metodologia: >+
+    No site do CNJ (https://portalbnmp.cnj.jus.br/#/pesquisa-peca), foi feita uma pesquisa com o recorte do Estado de Pernambuco. A partir 
+    do total de mandados em aberto, foram analisados os 500 primeiros casos para identificar os processos mais antigos e relatos contidos 
+    nas decisões judiciais (nome dos acusados, crimes cometidos...). Ao longo das reportagens, os órgãos públicos (Polícia Civil, TJPE, 
+    CNJ, SDS) foram convocados a responderem aos questionamentos.
+  
+  uf: PE
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Impresso
+  category: Investigação
+  image: images/edicoes/2023/preso cotel.jpg
