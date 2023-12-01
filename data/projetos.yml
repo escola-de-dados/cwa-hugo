@@ -21083,7 +21083,7 @@
     Análise do relatório.
   
   uf: PI
-  ano: '2022'
+  ano: '2023'
   tipo_inscricao: Investigação
   formato: Online
   category: Investigação
@@ -21135,8 +21135,162 @@
     com a atividade em cada ano. A investigação foi iniciada em maio de 2022 e terminou em maio de 2023, com publicação no dia 4 de abril.
   
   uf: DF
-  ano: '2022'
+  ano: '2023'
   tipo_inscricao: Investigação
   formato: Online
   category: Investigação
   image: images/edicoes/2023/imagemdedestaque.jpeg
+- title: O crime do século
+  project_url: >-
+    https://piaui.folha.uol.com.br/materia/o-crime-do-seculo/
+  veiculo: Revista Piauí
+  autoria: Glenda Mezarobba, em pareceria com o Instituto Vladimir Herzog e a agência de dados Fiquem Sabendo
+  data: 1/10/2022
+  resumo: >+
+    A reportagem apresentou uma investigação inédita sobre a atuação de uma empresa de papel e celulose, no segmento da mineração. 
+    Durante a investigação descobrimos que a Klabin, empresa investigada, não declarou, nos últimos 10 anos, os valores investidos e a 
+    emissão de gases de efeito estufa nos relatórios da Comissão Mobiliária dos EUA e do Brasil. A reportagem também descobriu que a 
+    empresa tem requerimentos minerários em áreas de preservação permanente em São Paulo e no Paraná.
+
+  relevância: >
+    Além da revelação propriamente dita de material jurídico até então inédito, a relevância do trabalho reside no fato de, 
+    exclusivamente a partir de documentos oficiais, produzidos pela Justiça militar, explicitar o grau de violência e perversão da 
+    ditadura militar, nunca oficialmente reconhecido pelas Forças Armadas. À luz de fatos recentes da história brasileira, o trabalho 
+    também explicita como o debate em torno dos crimes daquele período segue atual e imprescindível, não apenas para a transformação da 
+    instituição militar, mas também para o enraizamento da democracia brasileira.
+
+  originalidade: >-
+    O conteúdo de processo judicial militar, que foi mantido sob sigilo por cerca de meio século.
+
+  metodologia: >+
+    Os dados foram obtidos por meio do uso sistemático da Lei de Acesso à Informação perante o Superior Tribunal Militar. Inicialmente, 
+    foram protocolados pedidos de informação exploratórios, buscando localizar dados que permitissem uma identificação inequívoca da 
+    localização da informação. Com a localização precisa dos documentos, realizou-se o pedido de informação para obtenção dos dados do 
+    processo. A íntegra do processo judicial pode ser acessada via link disponível aqui: https://fiquemsabendo.com.br/transparencia/exclusivo-abrimos-o-processo-dos-militares-condenados-por-tortura-durante-a-ditadura/
+  
+  uf: RJ
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Impresso
+  category: Investigação
+  image: images/edicoes/2023/crime-seculo.png
+- title: Sextorsão - o que há por trás do golpe dos nudes
+  project_url: >-
+    https://gauchazh.clicrbs.com.br/seguranca/noticia/2023/09/audios-ineditos-mostram-como-funciona-o-golpe-dos-nudes-ouca-podcast-clmjua6bc00a1010i0qetyycu.html
+  veiculo: Rádio Gaúcha e GZH
+  autoria: Cid Martins
+  data: 9/8/2023
+  resumo: >+
+    Em parceria com o Fernando Bortolin, na sonoplastia, divulgamos episódios sobre o chamado Golpe dos Nudes ou Sextorsão. São áudios, 
+    grande parte deles inéditos, que remontam o que ocorre neste tipo de estelionato na visão da vítima: contato com adolescente (neste 
+    caso, usamos com voz distorcida a gravação de uma jovem de 17 anos que era aliciada por facção para gravar áudios que eram repassados 
+    para vítimas), mãe e pai da adolescente, advogado, delegado de polícia. Até então, conforme a visão da vítima, um suposto caso de 
+    pedofilia após troca de nudes. 
+    Por outro lado, a reportagem faz um retorno ao início de tudo no segundo episódio, ou seja, traz de novo parte dos mesmos áudios na 
+    visão da vítima, que pensava estar falando com uma adolescente (o que na maioria das vezes não é, mas que, no caso divulgado por nós, 
+    era sim a gravação de uma jovem aliciado por golpistas) e depois familiares dela, bem como advogado e por fim policiais. Mas o que 
+    iremos revelar na segunda parte desta matéria, é o que tem por trás disso tudo. Um golpe, extorsão, crime. Basicamente áudios e inéditos 
+    mostram golpistas debochando das vítimas, rindo dos nudes que eles enviam, combinando preços, depósitos, formas de persuadir as pessoas 
+    a pagarem mais e mais para não terem nudes enviados. 
+    Mas além disso, a reportagem traz dados, de uma forma diferente, bem como, modalidades deste tipo de delito e ainda uma discussão 
+    sobre se pode ou não pode ser pedofilia a intenção destes homens. Mais ainda, a matéria traz também formas de prevenção e como buscar 
+    ajuda. A reportagem ainda mostra uma sugestão interna na polícia de se criar um Departamento específico, tipo Deic e Denarc (que investigam 
+    crimes mais graves e tráfico) só para combater crimes cibernéticos. Hoje só tem uma delegacia para todo o Estado. Entre os entrevistados, 
+    estão delegados, vítimas, ex-chefe da polícia gaúcha e especialista em crimes cibernéticos, psicólogo, entre outros. 
+
+  relevância: >
+    Trazer à tona o que realmente ocorre durante o golpe dos nudes. Ao iniciar a reportagem mostrando a visão da vítima para depois, 
+    mostrar - por meio de áudios inéditos - o que tem por trás dos áudios e mensagens de texto e troca de fotos íntimas. A reportagem 
+    fez um levantamento próprio devido à falta de dados específicos, mas mais, este trabalho trouxe fatos que passaram um pouco desapercebidos, 
+    como três suicídios decorrentes e a informação de que não havia registro deste golpe no RS de 2018 para trás. Mas mais, a reportagem 
+    trouxe a análise de especialistas, formas de combater este crime por parte de policiais, psicólogos sobre o fato, dicas de como não 
+    cair, evitar e denunciar este crime. Mas mais, ong que ajuda vítimas deste crime e a sugestão de se criar um departamento especial 
+    na polícia sobre crimes cibernéticos. A reportagem traz também a discussão sobre a vítima estar ou não sujeita a envolvimento em possível 
+    crime de pedofilia por ter, mesmo que sejam golpistas do outro lado, intenção de relacionamento sexual com uma adolescente. 
+
+  originalidade: >-
+    A originalidade está na forma de como revelar, montando uma história na visão da vítima, que pensa estar falando com uma adolescente, 
+    depois, mãe, pai e advogado da família, para depois pensar estar falando com policiais e estar frente a frente com possível tratamento 
+    médico, psiquiátrico e até morte da adolescente. Depois, vem o que tem por trás destes áudios todos, áudios inéditos: deboche, conversas de 
+    golpistas com vítimas, estelionatários, boa parte é de presos buscando vítimas e vítimas, lavagem de dinheiro, roteiros de como persuadir 
+    ainda mais a vítima a pagar valores, quadrilhas que se especializaram em montar cenários de delegacias e quadrilhas que se especializaram 
+    em atacar somente empresários ou políticos. Uma das quadrilhas gaúchas chegou a aliciar uma adolescente, como mostramos desde o início da 
+    reportagem e detalhamos ao longo dos episódios, e pagou para ela por áudios e imagens íntimas que foram usados em todos os golpes que aplicaram. 
+    E, por fim, além das repercussões com especialistas em segurança e psicólogo, a própria busca por um tipo de levantamento mais 
+    próximo possível da realidade pelo fato de se ter apenas dados gerais sobre estelionato, ou seja, sem especificar o tipo, que, 
+    neste caso, se buscava por golpe dos nudes. 
+
+  metodologia: >+
+    Foi feito um levantamento inédito que nem a polícia tem: casos de golpe dos nudes no Rio Grande do Sul conforme operações policiais. 
+    Não se tem dados deste delito, já que todos os golpes são enquadrados na estatística da Secretaria de Segurança Pública como estelionato. 
+    Então, a reportagem fez uma clipagem de todo site de GZH, G1, Polícia Civil RS e Brigada Militar para fazer um recorte da realidade, 
+    não um trabalho científico, claro (para isso usou os dados de estelionato em geral, os únicos disponibilizados, mesmo depois de pedidos 
+    via LAI), mas um levantamento para se ter uma ideia do que o golpe dos nudes causou, ou seja, dezenas de presos, mais de 20 operações, 
+    mais de três mil vítimas, mas mais, três suicídios de vítimas do golpe e um fato interessante: não houve registro de casos oficiais 
+    em 2018, indicando que o golpe no RS iniciou em 2019 e aumentou durante a pandemia. 
+
+  uf: RS
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Rádio
+  category: Investigação
+  image: images/edicoes/2023/sextorcao.jpg
+- title: 'Violência contra LGBTQIA+ em Alagoas: em 2022, 10 foram mortos e 617 denúncias de agressões registradas'
+  project_url: >-
+    https://tribunahoje.com/especial/2022/10/26/2-violencia-contra-lgbtqia-em-alagoas-em-2022-10-foram-mortos-e-617-denuncias-de-agressoes-registradas
+  veiculo: Tribuna Hoje
+  autoria: Lucas França e Gabriely Castelo
+  data: 26/10/2022
+  resumo: >+
+    Em 2022, de acordo com o Grupo Gay de Alagoas (GGAL), o estado já registrou 10 mortes violentas de pessoas LGBTQIA+, a sigla que 
+    representa lésbicas, gays, bissexuais, transexuais, queers, intersexos, assexuais e demais orientações e identidades. Destes casos, 
+    apenas quatro foram elucidados, afirma o presidente da entidade Nildo Correia. Ele aponta que seis desses assassinatos foram registrados 
+    no interior de Alagoas.
+
+  relevância: >
+    Alguns casos ganharam repercussão nacional; Ministério Público e OAB/AL garantem apoio às vítimas e matéria fez autoridades 
+    competentes agilizar investigações
+
+  originalidade: >-
+    Material exclusivo com dados de apuração pautada na investigação  e com tema que em Alagoas não está na mídia tradicional.
+
+  metodologia: >+
+    Apuração, pesquisa de campo  e investigação.
+
+  uf: AL
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/resistencia.jpg
+- title: Bituruna é a cidade paranaense que mais vai receber dinheiro de emendas pix em 2023
+  project_url: >-
+    https://globoplay.globo.com/v/11867092/
+  veiculo: RPC Curitiba
+  autoria: Aline Pavaneli, Carolina Wolf, Luciana Grande, Leonardo Morrone, Ricardo Muiños, Ivan Rasera, Adilson Cardoso
+  data: 16/8/2023
+  resumo: >+
+    A reportagem mostra quais cidades do Paraná devem receber os maiores valores em emendas pix em 2023. Aprofundamos as informações sobre 
+    a cidade de Bituruna, porque o deputado federal Valdir Rossoni, que destinou o maior valor ao município, é pai do atual prefeito da 
+    cidade. Também fizemos comparações em relação ao PIB dos municípios e mostramos quais municípios vão receber os maiores e menores 
+    valores por habitante.
+
+  relevância: >
+    O trabalho dá transparência à distribuição de emendas pix no Paraná. Trata-se dinheiro público de difícil fiscalização.
+
+  originalidade: >-
+    A reportagem detalha as cidades que devem receber os maiores valores em emendas pix em 2023 no Paraná, faz cruzamentos com dados 
+    relacionados à população segundo o Censo 2022 e ao PIB. Essas informações ainda não tinham sido disponibilizadas dessa forma para a 
+    população do estado.
+
+  metodologia: >+
+    Utilizados a base de dados do Portal da Transparência do Governo Federal, cedida pela ONG Transparência Brasil, com os dados 
+    referentes às transferências especiais empenhadas até 19/07/2023. A partir dessa base, utilizamos o excel para fazer o cruzamento 
+    de dados com a população de cada município, segundo o Censo IBGE 2022, e em relação ao PIB (IBGE, 2020).
+
+  uf: PR
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: TV
+  category: Investigação
+  image: images/edicoes/2023/Emendas.jpeg
