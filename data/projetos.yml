@@ -21875,3 +21875,433 @@
   formato: Online
   category: Investigação
   image: images/edicoes/2023/brazil.jpeg
+- title: Dívida de igrejas com a União dobrou durante governo Bolsonaro
+  project_url: >-
+    https://apublica.org/2022/11/divida-de-igrejas-com-a-uniao-dobrou-durante-governo-bolsonaro/
+  veiculo: Agência Pública
+  autoria: Bruno Fonseca, Matheus Santino, Mariama Correia, Nathallia Fonseca
+  data: 16/11/2022
+  resumo: >+
+    Com dados obtidos via Lei de Acesso à Informação (LAI), gráficos e apurações, a reportagem mostra que as dívidas de templos 
+    religiosos com a União dobraram durante o governo do ex-presidente Jair Bolsonaro. A partir das informações da Receita Federal, 
+    a equipe de repórteres descobriu que as igrejas de pastores próximos ao ex-presidente estavam entre as maiores devedoras. Também, 
+    que a imunidade tributária das igrejas foi ampliada durante o governo de Bolsonaro, que se elegeu com grande apoio do público 
+    evangélico e católico conservador brasileiro. 
+  relevância: >
+    A investigação é relevante porque expõe as relações entre instituições religiosas e o governo Bolsonaro, que teve nos grupos 
+    cristãos conservadores um dos principais pilares de sustentação. A reportagem mostra como grupos religiosos, sobretudo evangélicos 
+    e católicos, foram beneficiados por essa proximidade do governo, com perdão de dívidas tributárias e ampliação de benefícios. Ao 
+    fazer uso da LAI, o trabalho utiliza um instrumento de transparência pública para trazer à tona dados inéditos, que mostram como 
+    grandes grupos religiosos - alguns deles proprietários de templos em vários estados do país e grandes sistemas de comunicação, 
+    tanto têm dívidas milionárias com os cofres públicos quanto se beneficiaram das relações próximas com Bolsonaro para ampliar suas 
+    vantagens tributárias. A reportagem foi repercutida na imprensa e republicada em 25 veículos.  
+  originalidade: >-
+    O trabalho expõe dados inéditos obtidos via LAI. A reportagem não apenas mostra o volume das dívidas e as principais instituições 
+    devedoras, como traça conexões entre elas e o ex-presidente Bolsonaro. Também aprofunda a apuração sobre o maior devedor da União, 
+    entre os templos religiosos. Até a publicação da reportagem, não se tinha informações sobre as conexões dessa empresa religiosa com 
+    uma administradora de planos de saúde, que já foi uma das maiores do ramo no Brasil, mas quase foi à falência nos anos 90. 
+
+  metodologia: >+
+    Os dados de dívidas da União foram obtidos via Lei de Acesso à Informação (LAI). As informações foram consolidadas em uma 
+    planilha pela equipe de jornalismo de dados da Pública. Essa planilha subsidiou as apurações, os gráficos e o texto final da 
+    reportagem.  
+
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/divida-igrejas.png
+- title: O que a farmácia sabe sobre mim
+  project_url: >-
+    https://noticias.uol.com.br/reportagens-especiais/o-que-a-farmacia-sabe-sobre-mim/
+  veiculo: UOL
+  autoria: 'Reportagem: Amanda Rossi, Edição: Graciliano Rocha, Diego Assis, Leonardo Rodrigues e Patrícia Junqueira, Arte: Guilherme Zamarioli'
+  data: 1/9/2023
+  resumo: >+
+    Investigação revela o que está por trás da pergunta mais feita nas farmácias do Brasil: qual seu CPF? Farmácias se valem de 
+    distorção em regra federal, que tabela preços de remédios muito acima do preço de mercado, e oferecem descontos fictícios em 
+    troca da identificação do consumidor. RaiaDrogasil, a maior rede de farmácias do país, armazena até 15 anos de todas as compras de 
+    48 milhões de pessoas - 1 de cada 5 da população brasileira. Desde 2021, monetiza os dados para anunciantes interessados em traçar 
+    perfis de clientes a partir das compras de remédios e outros produtos de saúde. A propaganda é depois exibida não só nos canais das 
+    farmácias, mas em redes sociais, publicidade do Google e YouTube.
+  relevância: >
+    Todos precisamos, em algum momento da vida, comprar remédios para nós próprios ou nossos familiares. E nos deparamos com descontos 
+    de até 70% em troca dos nossos dados pessoais. A reportagem revela pela primeira vez que a maior rede de farmácias do país se vale 
+    do CPF para armazenar 15 anos de dados sensíveis sobre a saúde de 48 milhões de pessoas. Também prova que essa rede está vendendo 
+    os dados para anunciantes, mesmo que isso não seja explicitado na sua política de privacidade. Além disso, a reportagem evidencia 
+    qual é o mecanismo dos descontos fictícios, a partir da comparação de duas bases de dados federais: o Banco de Preços em Saúde (BPS) 
+    e a Lista de Preços de Medicamentos da CMED (Câmara de Regulação do Mercado de Medicamentos). 
+  originalidade: >-
+    A reportagem compara os preços pagos por medicamentos em compras públicas (desde grandes compras de órgão federais até pequenas 
+    compras de pequenas prefeituras) com os preços pagos por uma rede de hospital privado e os preços cobrados na RaiaDrogasil, com e 
+    sem CPF. Também apresenta os valores em relação ao valor máximo autorizado para venda para o consumidor pela CMED (Câmara de Regulação 
+    do Mercado de Medicamentos). Essa comparação, que é original em uma reportagem, evidencia que os descontos são fictícios. 
+    Outro aspecto original da reportagem é a solicitação dos dados pessoais armazenados pelas farmácias se valendo de um direito 
+    previsto ao titular de dados pela LGPD (Lei Geral de Proteção de Dados). Isso permitiu demonstrar qual é o escopo e a abrangência 
+    dos dados armazenados.
+
+  metodologia: >+
+    A reportagem se valeu de duas bases de dados federais, que foram analisadas em arquivos no formato de planilha eletrônica: Banco de 
+    Preços em Saúde (https://www.gov.br/saude/pt-br/acesso-a-informacao/banco-de-precos) e a Lista de Preços de Medicamentos da 
+    CMED (https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/cmed/precos). A primeira mostra qual foi o preço pago em compras de 
+    medicamentos feitas por órgãos públicos. A segunda estabelece qual é o valor máximo que pode ser cobrado dos consumidores em cada 
+    medicamento. A comparação dos preços dos remédios nas duas bases de dados mostra um abismo: os preços praticados chegam a ser 
+    10.000% mais baixos do que o preço autorizado ao consumidor. Um determinado genérico da Nimesulida, por exemplo, custou R$ 1,08 em 
+    compras públicas, de acordo com o BPS. Já o preço máximo autorizado ao consumidor na Lista de Preços de Medicamentos da CMED era de 
+    R$ 31,78. Essa distorção é usada pelas farmácias para fornecer descontos fictícios em troca do CPF. O valor de R$ 31,78 era 
+    justamente o preço cobrado em unidades da RaiaDrogasil caso o consumidor não quisesse se identificar. Já com o CPF, o valor caía 
+    para R$ 8,50. A reportagem dedicou algumas semanas para tentar compatibilizar as duas tabelas, no intuito de oferecer ao leitor a 
+    possibilidade de pesquisar pelo seu medicamento e ver tanto quanto custou em compras públicas como também o preço máximo autorizado. 
+    Porém, as duas tabelas apresentam os remédios de formas completamente diferentes, não havendo nenhum denominador único para cada 
+    princípio ativo, de cada laboratório e cada formulação. Além disso, o preço no BPS é por comprimido, enquanto na Lista de Preços de 
+    Medicamentos é por caixa com determinado número de unidades. Após um longo trabalho de limpeza, na tentativa de compatibilizar os 
+    dados das duas bases de dados, desistimos de apresentar a tabela única, devido à possibilidade de erros. Assim, decidimos selecionar 
+    os medicamentos de uso mais frequente no país (obtidos após análise da base de dados de receitas controladas: https://dados.gov.br/dados/conjuntos-dados/venda-de-medicamentos-controlados-e-antimicrobianos---medicamentos-industrializados) 
+    e por consulta a auditoria de vendas do setor farmacêutico, obter os dados específicos de preços desses remédios e apresentá-los em 
+    um infográfico.
+    Outro trabalho de dados realizado na reportagem foi a transformação de dados de consumo nas farmácias, obtidos após solicitação 
+    via LGPD, de PDF para Excel, para que os descontos pudessem ser analisados.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/uol_farmacia_.jpg
+- title: 'Balas perdidas - Apreensão de munições cai 97% em área de milícia no Rio'
+  project_url: >-
+    https://www.intercept.com.br/2023/08/03/apreensao-de-municoes-cai-97-em-area-de-milicia-no-rio/
+  veiculo: Intercept Brasil
+  autoria: Cecília Olliveira, Laís Martins e Marcelo Soares
+  data: 3/8/2023
+  resumo: >+
+    O referido trabalho revela que o número de operações policiais com apreensão de munição no Rio de Janeiro despencou 77% em 2021 na 
+    comparação com o ano anterior – o menor desde 2014, segundo dados obtidos com exclusividade pelo Intercept. Em áreas dominadas por 
+    milícias a redução chega a 97%. O Instituto de Segurança Pública e Polícia Civil fazem jogo de empurra sobre dados, mas base da 
+    polícia mostra queda drástica sem explicações plausíveis. As bases de dados detalhadas enviadas pela divisão de Transparência da 
+    Polícia Civil não informam quantas munições foram apreendidas - e sim, o número de operações - e revela que a apreensão de munições 
+    importadas caiu mais do que a apreensão de munições nacionais. 
+
+  relevância: >
+    A partir dos dados sobre apreensão de munições e de operações policiais - obtidos com exclusividade pelo Intercept -, traçamos um 
+    mapa da capital fluminense que mostra, por área de abrangência de delegacias, onde mais caíram as apreensões em 2021. A análise por 
+    zonas geográficas e circunscrições policiais mostra detalhes intrigantes sobre a não ação das polícias em áreas de milícia, onde a 
+    apreensão de munições quase zerou em 2021. Os órgãos do governo estadual responsáveis pelos dados não explicaram a queda.
+
+  originalidade: >-
+    Balas perdidas - Apreensão de munições cai 97% em área de milícia no Rio revela informações inéditas da série histórica de dados 
+    sobre apreensão de munição no Rio de Janeiro, cruza esta base dados com outra, sobre operações policiais, do Grupo de Estudos dos 
+    Novos Ilegalismos da Universidade Federal Fluminense, que nos permitiu aferir que as operações são menos focadas em áreas dominadas 
+    por milícias - grupo historicamente constituído de agentes públicos de segurança da ativa e aposentados. Mostramos também que o 
+    Instituto de Segurança Pública, órgão governamental responsável por produzir dados e estatísticas criminais no Rio e a Polícia Civil, 
+    que também produz dados, não se intenderam entre si diante dos questionamentos dos repórteres e não explicam a queda de quase 100% 
+    nas apreensões em áreas de milícia.
+
+  metodologia: >+
+    A partir dos dados sobre apreensão de munições e de operações policiais, traçamos um mapa da capital que mostra, por área de 
+    abrangência de delegacias, onde mais caíram as apreensões em 2021. A análise por zonas geográficas e circunscrições policiais 
+    mostra detalhes ainda mais intrigantes.
+
+  uf: RJ
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/Apreensao-de-Municoes.jpg
+- title: Como o Marco Temporal varreu uma terra indígena do Censo
+  project_url: >-
+    https://apublica.org/2023/08/como-o-marco-temporal-varreu-uma-terra-indigena-do-censo/
+  veiculo: Agência Pública de Jornalismo Investigativo
+  autoria: Anna Beatriz Anjos, Bruno Fonseca, Rafael Oliveira, Bianca Muniz
+  data: 8/8/2023
+  resumo: >+
+    Dados do Censo 2022 revelam que no extremo Oeste de Santa Catarina, 336 pessoas moram em uma área de cerca de 3 mil hectares que 
+    é uma Terra Indígena. Apesar de viverem por lá, nenhuma delas se declara indígena. Segundo a Agência Pública apurou, os Guarani de 
+    Araça’í existem e seguem reivindicando o pedaço de terra localizado entre Saudades e Cunha Porã. Mas, por conta do marco temporal, 
+    não estão vivendo em sua terra ancestral, como constatou o IBGE.
+
+  relevância: >
+    O uso dos dados do Censo Demográfico, após 12 anos da divulgação do censo anterior deve ser destacado pois é um novo retrato da 
+    população brasileira. Em doze anos, as políticas, o ambiente, a migração, a sobrevivência das pessoas mudaram. Todo o contexto em 
+    transformação afeta os dados do censo, e poder utilizá-los em sua versão mais recente é uma forma de valorizar o trabalho de 
+    recenseamento, informar sobre o status de uma localidade e poder impactar em mudanças no território e em seus habitantes (como na 
+    implementação de políticas públicas, por exemplo). Conhecer os dados e comunicar insights sobre eles nos faz agir sobre a situação 
+    que essas informações retratam. A reportagem foi republicada por outros 20 veículos, como Brasil de Fato, Mídia Ninja e Nexo.
+
+  originalidade: >-
+    O uso de dados do Censo Demográfico 2022 para exemplificar uma consequência do Marco Temporal.
+
+  metodologia: >+
+    Com a divulgação dos dados sobre população indígena no Censo Demográfico de 2022, comparamos as informações sobre população 
+    declarada indígena no censo de 2010 e no censo mais recente. Cruzamos as tabelas correspondentes entre os dois censos usando Google 
+    Sheets e fizemos uma análise exploratória dos dados, buscando observar tendências, números extremos, aumento ou diminuição de 
+    população nas TIs. A partir dessa “entrevista” na planilha, identificamos uma terra indígena que tinha 253 pessoas contabilizadas 
+    como população indígena em 2010, mas que 12 anos depois, esse valor foi igual a zero: a TI Guarani de Araçaí. Apesar disso, a 
+    população residente no território é de 336 pessoas, 31 a mais que o censo anterior. 
+    Com essa informação, decidimos consultar fontes oficiais, especialistas (para saber se houve algum erro, entender a metodologia da 
+    coleta e verificar mudanças técnicas) e apurar com o povo Guarani de Araça’í para entender a atual situação da população.
+    Além do Google Sheets, utilizamos os software QGIS e Adobe Illustrator para indicar as TIs mencionadas na reportagem, que obtemos 
+    a partir de shapefiles da Funai.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/marco-temporal.jpg
+- title: 'Exclusivo: Dados de beneficiários do Auxílio Brasil foram usados para venda de consignado'
+  project_url: >-
+    https://brazilian.report/society/2022/10/24/exclusivo-vazamento-auxilio-brasil-consignado/
+  veiculo: The Brazilian Report
+  autoria: Amanda Audi
+  data: 24/10/2022
+  resumo: >+
+    A reportagem obteve os dados de 3,7 milhões de beneficiários do Auxílio Brasil que estavam em posse de representantes bancários 
+    para a venda de crédito consignado. 
+    Por meio de cruzamento de dados em fontes públicas, foi possível checar que todos eram verdadeiros e haviam sido vazados do 
+    governo para adiantar a venda do empréstimo, antes mesmo de o ex-presidente Jair Bolsonaro autorizar a medida.
+    A matéria mostra que, nas semanas antes das eleições de 2022, o governo Bolsonaro editou normas focando no público de baixa renda, 
+    como o empréstimo para os beneficiários de programas sociais, para alavancar seus votos. Houve uma correlação entre o anúncio das 
+    medidas e aumento das intenções de voto nele.
+    Conseguimos demonstrar que o vazamento ilegal de dados pessoais ajudou a turbinar o programa, pois os representantes já 
+    tinham dados de telefone, endereço e outras informações sigilosas para ofertar o crédito (e o estavam fazendo).
+
+  relevância: >
+    Duas entidades ligadas à proteção de dados entraram com ações judiciais após a publicação da reportagem. Uma delas foi acatada pela 
+    Justiça recentemente, que obrigou Caixa, Dataprev, Ministério da Cidadania e ANPD a tomarem medidas para melhorarem a proteção aos 
+    dados de usuários do CadÚnico, e também ordenou que cada um dos beneficiários que teve os dados vazados seja indenizado em R$ 15 
+    mil. https://www1.folha.uol.com.br/colunas/monicabergamo/2023/09/justica-determina-que-caixa-e-uniao-indenizem-4-mi-de-beneficiarios-do-auxilio-brasil-por-vazamento.shtml 
+
+  originalidade: >-
+    A reportagem expõe um dos maiores vazamentos de dados pessoais já registrados no Brasil. O caso toma dimensões ainda mais graves ao 
+    avaliarmos seu aspecto eleitoral: o governo federal ativamente violou os direitos dos cidadãos para aumentar o acesso de eleitores 
+    pobres a empréstimos rápidos, numa tentativa de melhorar clima econômico. A apuração buscou contatar várias das vítimas para 
+    confirmar a veracidade dos dados — e o nível de detalhe trazido pela matéria levou um tribunal a condenar a Caixa e outras agências 
+    do governo a indenizar as vítimas: um caso sem precedentes.
+
+  metodologia: >+
+   Em primeiro lugar, analisamos os 23 arquivos com 3,7 milhões de registros e sistematizamos os dados (que estavam desorganizados). 
+   Depois fizemos um trabalho manual de checagem de amostras de dados, por estado, para checar se eram verdadeiros. Buscamos pelas 
+   pessoas em fontes abertas na internet e entramos em contato para confirmar a identidade. Deixamos o material em um local seguro 
+   para evitar novos vazamentos dos dados sensíveis, e nenhuma das informações pessoais foi publicada para preservar o sigilo.
+
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/tudo-nada.png
+- title: Governo Bolsonaro escondeu caso de homem detido em Cancún acusado da morte de Marielle
+  project_url: >-
+    https://apublica.org/2023/09/governo-bolsonaro-escondeu-caso-de-homem-detido-em-cancun-acusado-da-morte-de-marielle/
+  veiculo: Agência Pública de Jornalismo Investigativo
+  autoria: Bruno Fonseca, Jamil Chade, Natalia Viana
+  data: 4/9/2023
+  resumo: >+
+    Em julho de 2019, durante uma viagem de férias em Cancún, no México, um membro de uma família brasileira foi detido devido a um 
+    alerta internacional ligando-o ao assassinato da vereadora Marielle Franco no Rio de Janeiro. O governo brasileiro, liderado por 
+    Jair Bolsonaro, interveio para resolver a situação e organizar o retorno da família e do suspeito ao Brasil, mas a identidade do 
+    indivíduo não foi revelada. Os detalhes dessa ação do Itamaraty e do governo, que jamais avisou nem à família de Marielle, foram 
+    revelados por um telegrama da embaixada do México ao Itamaraty, obtido via Lei de Acesso à Informação. 
+    Além disso, a reportagem apurou que a diplomacia brasileira sob o governo Bolsonaro tentou minimizar o caso Marielle Franco, 
+    evitando discussões internacionais e boicotando eventos no exterior relacionados ao crime, enquanto instruía seus embaixadores a 
+    defender a posição de que os ativistas de direitos humanos eram protegidos no Brasil. O quadro revelado pela reportagem é de uma 
+    ação de acobertamento da prisão de um suspeito, em vez de um governo lutando para defender e elucidar um crime político. 
+    Enquanto a primeira reportagem “Governo Bolsonaro escondeu caso de homem detido em Cancún acusado da morte de Marielle” revelou o 
+    caso do homem detido em Cancún, a segunda matéria “Descobrimos quem é o homem detido no México acusado da morte de Marielle (https://apublica.org/2023/09/descobrimos-quem-e-o-homem-detido-no-mexico-acusado-da-morte-de-marielle/)  revelou a identidade deste homem - que é o ex-vereador do Rio de Janeiro e suplente de deputado federal pelo Progressistas (PP), Marcello Moraes Siciliano - e sua relação com Mauro Cid, o ajudante de ordens de Jair Bolsonaro."
+
+  relevância: >
+    A prisão de um suspeito do crime político mais importante da história recente gerou um embate diplomático internacional e mobilizou 
+    recursos públicos. Mas esse fato nunca tinha sido revelado, e nem mesmo os familiares de Marielle foram avisados, o que demonstra a 
+    decisão do governo federal de Jair Bolsonaro de abafar o caso. “É muito grave só saber deste ocorrido agora e por fontes, que não 
+    fazem parte da investigação. Respostas, resoluções e transparência com os familiares é o que exigimos das autoridades brasileiras”, 
+    disse Monica Benicio, viúva de Marielle Franco. 
+    Apurações posteriores demonstraram que a atuação de membros da cúpula do governo no caso foram ainda mais profundas. A segunda 
+    reportagem relata como o homem detido no México, o ex-vereador Marcello Siciliano, teria falsificado dados de vacina em nome da 
+    esposa do ajudante de ordens de Jair Bolsonaro, Mauro Cid, para resolver o problema do visto americano. Em troca, Cid deveria 
+    arranjar um encontro de Siciliano com o cônsul dos Estados Unidos no Brasil. 
+    A reportagem que revelou o caso teve mais de 60 mil acessos. O furo foi republicado em mais de 50 veículos, como Revista Fórum, 
+    Estado de Minas e iG, além de ter sido a manchete principal do portal Terra. A reportagem também foi repercutida no Seu Jornal, da 
+    Rede TVT, e na newsletter Achados e Pedidos, que fala sobre Lei de Acesso à Informação.  
+
+  originalidade: >-
+    As reportagens sobre esse evento desconhecido e revelador da postura do governo Bolsonaro sobre o caso de Marielle foram obtidas 
+    graças ao projeto “Caixa-Preta do Bolsonaro”, uma campanha participativa de arrecadação de fundos realizada pela Agência Pública no 
+    final de 2022. O objetivo era realizar uma força-tarefa de pedidos pela LAI para esclarecer fatos dos últimos 4 anos e responsabilizar 
+    o governo Bolsonaro. 
+    A Pública chegou a mais de 2 mil apoiadores no período, o que viabilizou a produção dessas e de outras reportagens do Especial. Foi 
+    graças a esse apoio que conseguimos fazer um mutirão, que incluiu pedidos de Bruno Fonseca para todos os telegramas diplomáticos que 
+    mencionassem o caso Marielle. 
+    Assim chegamos ao telegrama em questão. O documento do Itamaraty, assinado pela cônsul-geral do Brasil no México, Wanja Campos da 
+    Nóbrega, também indica que a empresa de aviação Copa teria se comprometido a repatriar tanto o sujeito quanto seus familiares, para 
+    retornarem ao Brasil num voo, no mesmo dia 27, pelo Panamá. 
+
+  metodologia: >+
+    O trabalho foi feito a partir de uma série de pedidos de LAIs que revelaram um fato grave e desconhecido. A reportagem então passou 
+    a apurar os fatos junto a diversos órgãos, com ajuda do jornalista Jamil Chade, especializado na cobertura do Itamaraty. 
+    A reportagem questionou o Itamaraty sobre a identidade do sujeito detido em Cancun. A chancelaria explicou que não comentaria e que 
+    isso seria um assunto para as autoridades policiais. Isso reforça o fato de que o Itamaraty segue sendo um dos ministérios mais 
+    opacos. 
+    Também conversamos com altas fontes no Ministério da Justiça, que desconheciam o fato. A identidade do sujeito também não foi 
+    informada via Lei de Acesso com a justificativa que se trata de “dados pessoais” — nem mesmo durante o governo Lula.  
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/midia-ninja.jpg
+- title: 'Midialão do Nunes: Ricardo Nunes pagou R$ 16,5 milhões a jornais de bairro de aliados'
+  project_url: >-
+    https://www.intercept.com.br/2023/09/25/ricardo-nunes-propaganda-em-jornais-de-bairro-de-sao-paulo/
+  veiculo: Intercept Brasil
+  autoria: Paulo Motoryn
+  data: 25/9/2023
+  resumo: >+
+   A investigação é resultado em um cruzamento de dados obtidos no Portal da Transparência e no Portal de Processos Administrativos da 
+   Prefeitura de São Paulo com um extenso trabalho de análise de jornais de bairro ligados a 48 empresas que receberam verbas públicas. 
+   O trabalho revelou que o prefeito Ricardo Nunes, do MDB, gastou um valor recorde com anúncios em publicações do tipo e, em contrapartida ao 
+   investimento de mais de R$ 16 milhões, a imagem do prefeito foi promovida em jornais distribuídos gratuita e massivamente pela capital 
+   paulista.
+
+  relevância: >
+    O trabalho mostra que, com o maior orçamento para gastos em publicidade dos últimos 12 anos na Prefeitura, o prefeito Ricardo Nunes 
+    tem se beneficiado por jorrar dinheiro em jornais de bairro, setor em que ele mesmo atuou e tem uma série de aliados. Dois dias 
+    depois da publicação da reportagem, três políticos entraram com ações pedindo a investigação do uso de verbas da prefeitura nos 
+    jornais. O vereador Celso Gianazzi, o deputado estadual Carlos Gianazzi e a deputada federal Luciene Cavalcante, todos do Psol, 
+    acionaram o Tribunal de Contas do Município, o Ministério Público Eleitoral e o Ministério Público de São Paulo para que investiguem 
+    os gastos públicos com jornais de bairro, com a devida responsabilização dos envolvidos, se forem constatadas violações aos princípios 
+    da administração pública.  As petições, baseadas na investigação, também mencionam as ligações e a orientação política dos veículos – 
+    que têm, entre sócios e colunistas, aliados de Ricardo Nunes. Elas questionam possíveis violações aos princípios da impessoalidade, da 
+    legalidade e da moralidade nos gastos públicos. Ao Ministério Público Eleitoral, os políticos também pediram a investigação de um 
+    possível uso da máquina pública em prol da reeleição do prefeito. 
+  originalidade: >-
+    A originalidade do trabalho é o cruzamento de dados obtidos no Portal da Transparência e confirmados em notas fiscais do Portal de 
+    Processos Administrativos com um levantamento minucioso que analisou o conteúdo de jornais de bairro ligados a 48 empresas que 
+    recebem verbas municipais. O trabalho permitiu chegar aos seguintes números: entre 36 capas de jornais ligados às empresas que 
+    receberam verba da prefeitura – todas elas foram publicadas desde o início do ano, 30 são positivas para a gestão Nunes – o que 
+    corresponde a 88% das publicações analisadas –, sendo 21 a matéria principal ou alguma referência sobre entregas ou eventos da 
+    administração municipal, nove textos com fotos do prefeito e uma com um publieditorial com o logo da prefeitura. Para além disso, 
+    os dados gerais de investimentos em jornais de bairro foram revelados pela primeira vez por meio do levantamento. Os números também 
+    chamam a atenção: em 2021, a prefeitura investiu R$ 4,3 milhões em publicações do tipo. No ano seguinte, quase dobrou o valor, 
+    subindo para R$ 8,5 milhões. Só de janeiro a julho de 2023, já foram R$ 3,7 milhões. Desde o início da atual administração municipal, 
+    o valor é de R$ 16,5 milhões.
+
+  metodologia: >+
+    A investigação faz parte de um amplo trabalho de investigação sobre o uso das verbas de publicidade para a promoção do prefeito 
+    Ricardo Nunes, do MDB, que busca a reeleição. Desde junho, o Intercept analisa as prestações de contas de dois contratos da 
+    prefeitura, assinados com as agências de publicidade Propeg e a Mworks. Os acordos tinham valor inicial de R$ 160 milhões, mas 
+    saltaram para R$ 200 milhões cada após um aditamento feito em abril – e que está sob investigação do Ministério Público de São 
+    Paulo, que busca explicações que justifiquem o aumento. Para acessar os dados utilizados na reportagem, foi preciso acionar duas 
+    plataformas: o Portal da Transpariencia e o Portal de Processos Administrativos. No primeiro, obtive os dados anuais de gastos com 
+    veículos de comunicação. No segundo, nas notas fiscais e comprovantes de pagamentos dos contratos da Propeg e da MWorks, pude 
+    confirmar que a verba direcionada aos jornais de bairro era proveniente das agências de publicidade em questão. Isso foi importante 
+    para associar os gastos à "caixa-preta" sobre a qual estávamos debruçados e porque as próprias agências forneceram informações 
+    valiosas para a apuração. Caso os dados fossem somente obtidos no Portal da Transparência, isso não seria possível. Além disso, foi 
+    feito um levantamento minucioso para buscar jornais de bairro associados às 48 empresas que receberam verba da Prefeitura. Com 
+    métodos de OSINT, foram localizadas 36 capas de jornais ligados às empresas que receberam verba da prefeitura – todas elas foram 
+    publicadas desde o início do ano, sendo 30 positivas para a gestão Nunes.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/midialao-nunes.png
+- title: Amazônia Sitiada
+  project_url: >-
+    https://www.intercept.com.br/2022/11/09/sob-bolsonaro-clubes-de-tiro-explodem-em-areas-de-conflito-da-amazonia-legal/
+  veiculo: Intercept Brasil
+  autoria: Carol Castro, Rodolfo Almeida, Rodrigo Bento, Tatiana Dias, Amanda Miranda
+  data: 11/9/2022
+  resumo: >+
+   A política armamentista do ex-presidente Jair Bolsonaro impactou também os estados da Amazônia Legal. Com um levantamento de dados, 
+   constatamos que as cidades onde mais foram abertos clubes de tiro coincidem com as áreas mais violentas daquela região — e avaliamos 
+   os impactos dessa política armamentista. 
+
+  relevância: >
+    Conseguimos comprovar, por meio do cruzamento de dados, que a expansão do acesso às armas de fogo de forma legal, assim como o 
+    interesse por elas, cresceu nas regiões mais violentas do país. Ao colocar os novos clubes de tiro no mapa, constatamos ainda que 
+    eles cercam de forma preocupante as terras indígenas e as unidades de conservação. Com a ajuda de especialistas, contextualizamos o 
+    histórico de conflitos nessas cidades onde mais foram abertos clubes de tiro e avaliamos os impactos negativos das políticas 
+    armamentistas. 
+
+  originalidade: >-
+    Muitas matérias alardearam sobre os perigos das políticas armamentistas e da expansão dos clubes de tiro sob a gestão Bolsonaro — 
+    com reportagens, por exemplo, sobre a falta de fiscalização e o descontrole de venda e compras de armas. Mas ainda não havia uma 
+    análise de dados que comprovasse uma relação direta entre zonas de conflito e aumento de armas em circulação. Como não é possível 
+    acessar a localização de novos CACs, nossa ideia foi avaliar a expansão dos clubes de tiro — uma vez que esses estabelecimentos 
+    permitem aos proprietários direito maior de compra e armazenamento de armas e munições, além de indicar interesse dos moradores 
+    pelo tema. Ao longo da apuração constatamos que cidades com intensos conflitos fundiários e agrários, como Marabá e Redenção, no 
+    Pará, tiveram um número de inauguração destes estabelecimentos atípico para o tamanho da cidade. Por exemplo, com 85 mil habitantes, 
+    Redenção ganhou três novos clubes em apenas dois anos. E se tornou a terceira cidade paraense com mais clubes de tiro (atrás apenas 
+    da capital Belém e de Marabá, que tem uma população três vezes maior). Conseguimos, portanto, correlacionar dados de violência com 
+    dados sobre a expansão dos clubes de tiro e relevar os impactos negativos das políticas armamentistas nas regiões amazônicas.
+
+  metodologia: >+
+    Via Lei de Acesso à Informação, solicitamos ao Exército Brasileiro uma lista com todas as informações sobre os clubes de tiro em 
+    atividade no Brasil, com endereço completo e data de abertura, a fim de conferir como a eleição de Bolsonaro e suas políticas 
+    armamentistas haviam estimulado a abertura desses estabelecimentos. O Exército enviou uma extensa lista, mas alegou não ter 
+    informações cadastradas sobre ano de inauguração. A partir disso, limpamos a tabela para deixar apenas os estados da Amazônia 
+    Legal. Buscamos, a partir do CNPJ, o ano de abertura de cada uma dessas empresas. Os dados indicaram uma alta crescente e 
+    considerável a partir de 2017: enquanto o ano anterior apontou 9 clubes de tiro abertos nessa região, em 2020, foram 45 novos 
+    clubes. Com a comprovação da expansão desses estabelecimentos, precisávamos buscar outros dados para correlacionar conflitos 
+    violentos com a demanda por armas. Solicitamos, então, ao CIMI e à CPT os números de todos os conflitos naqueles estados, com a 
+    cidade específica dos ataques, no período de 2017 a 2022. Buscamos também os dados de desmatamento do Prodes e do Ibama para 
+    delimitar as terras indígenas e unidades de conservação. O designer Rodolfo Almeida juntou todos esses dados em um mapa: arco do 
+    desmatamento, clubes de tiro, terras indígenas, unidades de conservação e histórico de assassinatos e conflitos agrários e 
+    fundiários. A partir disso, com a visualização, conseguimos estabelecer a relação entre a expansão dos clubes de tiro e as regiões 
+    mais violentas do país.
+
+  uf: RJ
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/amazonia-sitiada-imgcorte.png
+- title: Infrações à malha cicloviária superam em 18 vezes o ano de 2021
+  project_url: >-
+    https://mais.opovo.com.br/interativos/cicloviaria-fortaleza/episodio-02.php
+  veiculo: Jornal O POVO
+  autoria: Gabriela Custódio e Thays Lavor
+  data: 17/10/2022
+  resumo: >+
+    Há décadas a população de Fortaleza — principalmente trabalhadores de bairros de baixa renda — arrisca a vida ao deslocar-se 
+    cotidianamente de bicicleta e disputar o espaço da rua com automóveis. 
+	  A Central de Jornalismo de Dados do O POVO analisou e fez cruzamentos de diferentes bases de dados relacionados ao sistema 
+    cicloviário e indicadores socioeconômicos na cidade de Fortaleza, evidenciando não só uma má distribuição do sistema como 
+    também uma maior vulnerabilidade de ciclistas nas regiões periféricas da cidade e o crescimento das infrações à malha cicloviária 
+    nos últimos anos. 
+    Durante a investigação, a equipe de reportagem fez também diversos trajetos de bicicleta, ao longo dos quais foi possível observar 
+    e constatar os diferentes obstáculos e problemas levantados durante a análise de dados.
+
+  relevância: >
+    A mobilidade urbana tem impacto significativo no direito à cidade e a bicicleta é um dos meios mais democráticos de transporte. 
+    Logo, se faz necessário um acompanhamento amplo e irrestrito às políticas públicas relacionadas ao tema. Investigações guiadas por 
+    dados podem contribuir significativamente neste contexto, pois possibilitam o cruzamento de informações, a validação de hipóteses e 
+    o apontamento de novas problemáticas. 
+	  Esta reportagem é um exemplo da urgência em se discutir os vieses e desigualdades na implantação de políticas de mobilidade urbana 
+    nas cidades brasileiras, reunindo análise de dados e outras investigações jornalísticas.
+
+  originalidade: >-
+    Norteados por princípios como transparência e reprodutibilidade, uma página detalhada da metodologia 
+    (https://github.com/datadoc-opovo/especial-ciclomobilidade#epis%C3%B3dio-2) foi desenvolvida reunindo códigos, dados-fonte, 
+    datasets gerados e visualizações desenvolvidas no âmbito da reportagem. Além disso, diferentes formas de apresentação de conteúdo 
+    foram utilizadas, a exemplo de um Story Map com a biblioteca MapBox que ajudou a evidenciar a maior letalidade de sinistros 
+    envolvendo bicicletas nas regiões periféricas da cidade. 
+
+  metodologia: >+
+    O detalhamento da metodologia, os dados obtidos e também códigos e recursos desenvolvidos estão descritos neste 
+    repositório (https://github.com/datadoc-opovo/especial-ciclomobilidade#epis%C3%B3dio-2). Em resumo, a Central de Jornalismo de 
+    Dados do O POVO (DATADOC) analisou para esta reportagem a distribuição geográfica das multas e dos acidentes envolvendo bicicleta, 
+    o índice de desenvolvimento humano (IDH) por bairro e a distribuição do sistema cicloviário de Fortaleza. A partir do cruzamento 
+    das bases, verificamos a variação temporal de multas e sinistros de trânsito envolvendo bicicletas e a letalidade dos sinistros em 
+    cada região da cidade, agrupadas pelo IDH.    
+
+  uf: CE
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/ciclovia.jpg
