@@ -20797,7 +20797,7 @@
   tipo_inscricao: Investigação
   formato: Online
   category: Investigação
-  image: images/edicoes/2023/fotoambulancia.png
+  image: images/edicoes/placeholder.png
 - title: Em 16 meses, R$ 92 milhões foram gastos com bônus secreto na Câmara; veja os vereadores que mais distribuíram
   project_url: >-
     https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/06/05/camara-do-rio-gasta-r-6-milhoes-em-1-mes-com-bonus-secreto-que-aumenta-salario-de-metade-dos-funcionarios.ghtml
@@ -22261,6 +22261,51 @@
   category: Investigação
   image: images/edicoes/2023/amazonia-sitiada-imgcorte.png
 - title: Infrações à malha cicloviária superam em 18 vezes o ano de 2021
+  project_url: >-
+    https://mais.opovo.com.br/interativos/cicloviaria-fortaleza/episodio-02.php
+  veiculo: Jornal O POVO
+  autoria: Gabriela Custódio e Thays Lavor
+  data: 17/10/2022
+  resumo: >+
+    Há décadas a população de Fortaleza — principalmente trabalhadores de bairros de baixa renda — arrisca a vida ao deslocar-se 
+    cotidianamente de bicicleta e disputar o espaço da rua com automóveis. 
+	  A Central de Jornalismo de Dados do O POVO analisou e fez cruzamentos de diferentes bases de dados relacionados ao sistema 
+    cicloviário e indicadores socioeconômicos na cidade de Fortaleza, evidenciando não só uma má distribuição do sistema como 
+    também uma maior vulnerabilidade de ciclistas nas regiões periféricas da cidade e o crescimento das infrações à malha cicloviária 
+    nos últimos anos. 
+    Durante a investigação, a equipe de reportagem fez também diversos trajetos de bicicleta, ao longo dos quais foi possível observar 
+    e constatar os diferentes obstáculos e problemas levantados durante a análise de dados.
+
+  relevância: >
+    A mobilidade urbana tem impacto significativo no direito à cidade e a bicicleta é um dos meios mais democráticos de transporte. 
+    Logo, se faz necessário um acompanhamento amplo e irrestrito às políticas públicas relacionadas ao tema. Investigações guiadas por 
+    dados podem contribuir significativamente neste contexto, pois possibilitam o cruzamento de informações, a validação de hipóteses e 
+    o apontamento de novas problemáticas. 
+	  Esta reportagem é um exemplo da urgência em se discutir os vieses e desigualdades na implantação de políticas de mobilidade urbana 
+    nas cidades brasileiras, reunindo análise de dados e outras investigações jornalísticas.
+
+  originalidade: >-
+    Norteados por princípios como transparência e reprodutibilidade, uma página detalhada da metodologia 
+    (https://github.com/datadoc-opovo/especial-ciclomobilidade#epis%C3%B3dio-2) foi desenvolvida reunindo códigos, dados-fonte, 
+    datasets gerados e visualizações desenvolvidas no âmbito da reportagem. Além disso, diferentes formas de apresentação de conteúdo 
+    foram utilizadas, a exemplo de um Story Map com a biblioteca MapBox que ajudou a evidenciar a maior letalidade de sinistros 
+    envolvendo bicicletas nas regiões periféricas da cidade. 
+
+  metodologia: >+
+    O detalhamento da metodologia, os dados obtidos e também códigos e recursos desenvolvidos estão descritos neste 
+    repositório (https://github.com/datadoc-opovo/especial-ciclomobilidade#epis%C3%B3dio-2). Em resumo, a Central de Jornalismo de 
+    Dados do O POVO (DATADOC) analisou para esta reportagem a distribuição geográfica das multas e dos acidentes envolvendo bicicleta, 
+    o índice de desenvolvimento humano (IDH) por bairro e a distribuição do sistema cicloviário de Fortaleza. A partir do cruzamento 
+    das bases, verificamos a variação temporal de multas e sinistros de trânsito envolvendo bicicletas e a letalidade dos sinistros em 
+    cada região da cidade, agrupadas pelo IDH.    
+
+  uf: CE
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/ciclovia.jpg
+title: Infrações à malha cicloviária superam em 18 vezes o ano de 2021
   project_url: >-
     https://mais.opovo.com.br/interativos/cicloviaria-fortaleza/episodio-02.php
   veiculo: Jornal O POVO
