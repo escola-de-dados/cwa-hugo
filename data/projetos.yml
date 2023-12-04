@@ -22304,7 +22304,7 @@ title: Ambulancioterapia revela 'buracos' na assistência médica do SUS; vai e 
   formato: Online
   category: Investigação
   image: images/edicoes/placeholder.png
-title: 'Internações por câncer: Fortaleza recebe 70% dos deslocamentos de pacientes do interior do CE'
+- title: 'Internações por câncer: Fortaleza recebe 70% dos deslocamentos de pacientes do interior do CE'
   project_url: >-
     https://diariodonordeste.verdesmares.com.br/ceara/internacoes-por-cancer-fortaleza-recebe-70-dos-deslocamentos-de-pacientes-do-interior-do-ce-1.3407180
   veiculo: Diário do Nordeste
@@ -22343,3 +22343,64 @@ title: 'Internações por câncer: Fortaleza recebe 70% dos deslocamentos de pac
   formato: Online
   category: Investigação
   image: images/edicoes/2023/lar-amigos-de-jesus.jpeg
+- title: Você está na rota da lama? Veja locais que seriam soterrados por rompimento de barragens
+  project_url: >-
+    https://reporterbrasil.org.br/2023/04/voce-esta-na-rota-da-lama-veja-locais-que-seriam-soterrados-por-rompimento-de-barragens/
+  veiculo: Repórter Brasil
+  autoria: Hélen Freitas, Marina Rossi e Hugo Nicolau
+  data: 5/4/2023
+  resumo: >+
+    Oito anos após o rompimento da barragem da Samarco em Mariana (MG), que deixou 18 mortos, e quatro anos após o desastre da Vale em 
+    Brumadinho (MG), cuja avalanche de rejeitos matou 270 pessoas, dados obtidos com exclusividade pela Repórter Brasil mostram 700 
+    áreas do país em 178 cidades com risco de ficarem submersas no caso de rompimentos semelhantes; bairros residenciais, escolas, rios 
+    e terras indígenas correm risco de destruição. 
+
+  relevância: >
+    A relevância do Mapa da Lama é disponibilizar pela primeira vez informações sobre as àreas que correm risco de ficarem inundadas em 
+    caso de rompimento de barragens. Apesar de esse ser um dado público, ele é guardado em sua forma físia nas prefeituras, impedindo o 
+    acesso à informação. 
+    Além disso, O Mapa da Lama foi republicado no UOL atingindo grande audiência. Somente no mês de sua publicação, a Repórter Brasil 
+    teve mais de 32 mil visualizações nas páginas do mapa e reportagem.
+    Outro ponto de relevância é o impacto na vida das pessoas com a publicação. Um ativista de Congonhas (MG) entrou em contato para 
+    contar que, após a matéria, a prefeitura instalou correndo umas placas no Parque das Cachoeiras com orientações sobre a rota de 
+    fuga, coisa que não havia na época. Também nos disse que seria realizado um simulado no parque para, em caso de rompimento, todos 
+    saberem para onde deveriam ir.
+
+  originalidade: >-
+    Desde 2022, as empresas de mineração são obrigadas a enviar à Agência Nacional de Mineração (ANM) os mapas de inundação de barragens, 
+    com o objetivo principal de a agência saber quais áreas correm riscos em caso de rompimento.
+    Apesar do evidente interesse público, essas informações ficam guardadas em sua forma física nas prefeituras e departamentos de 
+    defesa civil e precisam ser solicitados via lei de acesso à ANM. Essa é a primeira vez que essas dados são disponibilizados ao 
+    público de forma fácil e acessível. A partir do nosso mapa. qualquer pessoa pode ver onde a lama passaria em caso de rompimento de 
+    nova barragem.
+    Além disso, é a primeira vez que há uma cobrança para que as empresas divulguem esses dados. A partir da análise dos dados 
+    fornecidos pela ANM, verificamos que 113 sequer enviaram informações, colocando em risco a população.
+
+  metodologia: >+
+    Durante 4 meses, a reportagem trabalhou em cima dos dados recebidos pelo Comitê Nacional em Defesa dos Territórios Frente à Mineração, 
+    por meio de Lei de Acesso à Informação,, e enviados com exclusividade para a Repórter Brasil. 
+    A ANM enviou a maioria dos arquivos em formato shapefile, sendo assim, conseguimos aplicar no mapa e cruzar com as informações de 
+    onde estão localizadas as barragens de rejeitos no Brasil. Primeiro, começou o desenvolvimento do Mapbox onde todas as informações 
+    seriam aplicadas e disponibilizadas para consulta pública. Dessa forma, é possível ver exatamente quais casas, ruas, escolas a lama 
+    atingiria.
+    Há 926 barragens de mineração cadastradas, mas o mapa mostra a localização de 920. A diferença é devido a erros de coordenadas em 
+    seis delas nas informações fornecidas pela agência. 
+    A Repórter Brasil também criou três filtros no mapa: áreas que, em caso de acidente, os rejeitos chegariam em até 30 minutos 
+    (chamadas de Zonas de Autosalvamento); terrenos onde a inundação ocorreria após 30 minutos – o que, em tese, permitiria salvamento 
+    por serviços e agentes de proteção civil (chamados de Zonas de Segurança Secundária); e zonas afetadas, porém que não foi possível 
+    saber a informação temporal. Além disso, é possível reconhecer onde estão localizadas as barragens com e sem informação sobre os 
+    mapas de inundação. 
+    Em paralelo ao desenvolvimento do mapa, a reportagem fez o cruzamento de dados. São quase 700 áreas suscetíveis de norte a sul: 
+    vilas, distritos, rodovias, rios e florestas de 178 municípios em 15 estados. As chamadas manchas de inundação – áreas sujeitas a 
+    destruição – somam 2.050 km², o suficiente para cobrir as superfícies dos municípios de São Paulo e Curitiba. Enfileirados, os 
+    terrenos inundáveis formariam um rio de lama com cerca de 7.000 km de comprimento, a distância de Porto Alegre ao México em linha 
+    reta.
+    O mapa também foi dispoibilizado em um link separado para que o usuário pudesse navegar por ele: 
+    https://reporterbrasil.org.br/mapa-da-lama-confira-se-sua-casa-seria-soterrada-pelo-rompimento-de-uma-barragem-de-mineracao/   
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/Mapa da Lama.jpg
