@@ -22876,3 +22876,410 @@ title: Ambulancioterapia revela 'buracos' na assistência médica do SUS; vai e 
   formato: Online
   category: Investigação
   image: images/edicoes/2023/politica-da-seca.jpg
+- title: 83 parlamentares tiveram dados sigilosos de e-mails e senhas vazados
+  project_url: >-
+    https://www.estadao.com.br/politica/83-parlamentares-tiveram-dados-sigilosos-de-e-mails-e-senhas-vazados-saiba-quem-sao-eles/
+  veiculo: Estado de S. Paulo
+  autoria: Cindy Damasceno, Natália Santos, Lucas Thaynan, Bruno Ponceano, Cristina Souza, Thiellen Rodrigues e Vanessa Loiola
+  data: 1/10/2023
+  resumo: >+
+    Com o auxílio de um repositório virtual de incidentes de segurança, a reportagem investigou quais parlamentares já tiveram alguma 
+    informação comprometida em episódios de vazamento de dados. O levantamento mostrou que, dos 594 políticos, entre senadores e 
+    deputados federais, 83 já tiveram detalhes privados expostos nestas ocorrências, contando contas institucionais e pessoais afetadas. 
+    Entre os dados vazados estão senha, endereço de IP e endereço físico dos parlamentares. Entende-se como institucionais os correios 
+    eletrônicos ligados aos parlamentares dos domínios @camara.leg.br e @senado.leg.br. Já os e-mails particulares foram recolhidos a 
+    partir do Requerimento de Registro de Candidatura (RRC), disponibilizado no TSE. 
+
+  relevância: >
+    Em um cenário onde a exposição de dados pode ser usada para intimidação, saber como anda a segurança digital de pessoas de 
+    interesse como políticos é fundamental para a transparência pública. Faz parte da função de um parlamentar lidar com informações 
+    sigilosas de governança – seja no Senado ou na Câmara. Expor essa vulnerabilidade mostra que existem brechas na segurança da 
+    informação de entes públicos – o que pode permitir acesso indevido à vida privada dos congressistas. 
+
+  originalidade: >-
+    A reportagem inova ao utilizar fontes públicas de informação – afinal, tanto os e-mails particulares como os institucionais estão 
+    disponíveis em plataformas governamentais –  para identificar conexões entre parlamentares e episódios de vazamento de dados 
+    catalogados pela plataforma Have I Been Pwned. Ao revelar padrões de vulnerabilidade, ainda pouco explorados na cobertura 
+    convencional, o material mostra que é possível acompanhar essa questão sem precisar recorrer a detalhes privados dos políticos. 
+
+  metodologia: >+
+    A reportagem utilizou a plataforma Have I Been Pwned, repositório virtual de vazamentos de dados. A ferramenta permite mapear 
+    incidentes ligados a uma determinada conta de e-mail. 
+    Foram contabilizados vazamentos verificados pela plataforma e que permanecem ativos. Para preservar a vida privada dos políticos, 
+    somente incidentes que aconteceram durante mandatos na esfera federal entraram na contagem. 
+    É importante deixar evidente que os dados dos parlamentares não foram armazenados. Para evitar que a informação seja encontrada em 
+    bancos de dados, os nomes dos episódios foram omitidos. 
+    Entende-se como institucionais os correios eletrônicos ligados aos parlamentares dos domínios @camara.leg.br e @senado.leg.br, 
+    disponíveis nos sites das casas legislativas. 
+    Já os e-mails particulares foram recolhidos a partir do Requerimento de Registro de Candidatura (RRC), disponibilizado no TSE. 
+    Todos os 594 parlamentares foram avaliados, mas entraram no mapeamento apenas contas com ligação óbvia com o congressista Contatos
+    relacionados à assessoria jurídica ou a partidos foram descartados.
+    Para o deputado fictício João Silva, por exemplo, seriam listados apenas e-mails como joao.silva@dominio.com ou sjoao@dominio.com e 
+    desconsiderados contatos como jlpe@dominio.com. 
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/VazaParlamentares.png
+- title: Com moderação capenga, culto a assassinos e massacres escolares corre solto no TikTok
+  project_url: >-
+    https://nucleo.jor.br/reportagem/2023-01-26-culto-a-autores-de-massacres-corre-livre-no-tiktok/
+  veiculo: Núcleo Jornalismo
+  autoria: Sofia Schurig, Samira Menezes e Rodolfo Almeida
+  data: 26/1/2023
+  resumo: >+
+    A reportagem mostra que conteúdos de comunidades que idolatram autores de massacres no Brasil e em diversos países estão se 
+    espalhando de maneira viral no TikTok. Vídeos desse teor alcançam milhões de visualizações. O alarmante é que esse tipo de 
+    material não passa por moderação efetiva na plataforma e, de fato, é promovido pelo algoritmo do TikTok. Isso inclui a exposição de 
+    imagens gráficas de extremistas exibindo armas, vítimas e suicídios dos perpetradores, sem nenhum tipo de tarja ou alerta.
+
+  relevância: >
+    A reportagem, publicada em janeiro, antecipou o fenômeno da organização de massacres em escolas no Brasil, que se concretizou três 
+    meses depois, em abril. Considerando que a maioria dos usuários dessa comunidade é composta por menores de idade, essa veneração 
+    representa um grave problema para a segurança e a saúde mental, especialmente das crianças e adolescentes, podendo contribuir para 
+    a radicalização e a promoção de violência.
+ 
+
+  originalidade: >-
+    A reportagem é uma das poucas brasileiras que conseguiu identificar os padrões de comportamento da comunidade ativamente monitorando 
+    usuários, ao invés de depender de relatórios de monitoramento ou estudo de terceiros.
+    Além disso, o texto resultou na remoção de hashtags nacionais e internacionais com milhões de visualizações, bem como de vários 
+    perfis que cultuavam os autores desses atos, destacando a urgência das empresas de tecnologia tratarem essa questão com seriedade.
+
+  metodologia: >+
+    A metodologia incluiu a criação de uma conta no TikTok para acompanhar e monitorar perfis, posts e hashtags vinculados à comunidade 
+    que idolatra os perpetradores de massacres. Ao longo de dezembro de 2022 a janeiro de 2023, foram monitorados 112 perfis e 36 
+    hashtags.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/image-resize.todoist.jpg
+- title: Por dentro da máquina do Brasil Paralelo para dominar as buscas no Google
+  project_url: >-
+    https://nucleo.jor.br/especiais/2023-01-31-a-maquina-do-brasil-paralelo/
+  veiculo: Núcleo Jornalismo
+  autoria: Julianna Granjeia, Rodolfo Almeida, Lucas Lago, Sérgio Spagnuolo e Alexandre Orrico
+  data: 31/1/2023
+  resumo: >+
+    A reportagem especial do Núcleo investigou e explicou em detalhes, com análises e visualização de dados, como a produtora de vídeos 
+    alinhada com o bolsonarismo Brasil Paralelo faz para ficar no topo do mecanismo de buscas do Google.
+    A produtora Brasil Paralelo se denomina como uma plataforma de ""educação e entretenimento – para resgatar bons valores, ideias e 
+    sentimentos no coração de todos os brasileiros"". Mas, nos últimos anos, ela vem sendo criticada por historiadores, cientistas 
+    políticos, jornalistas e figuras da esquerda por publicizar uma agenda neoliberal de direita alinhada ao bolsonarismo e ao olavismo, 
+    promovendo o que se chama de revisionismo histórico. A produtora, por sua vez, afirma que não apoia candidatos nem partidos. Toda 
+    essa controvérsia contribui para o engajamento que faz com que o site do Brasil Paralelo esteja sempre no topo das buscas do Google.
+    O Núcleo investigou, com ajuda de profissionais de publicidade e marketing digital, e do software SemRush – que analisa palavras-chave, 
+    domínio, tráfego, entre outros, auxiliando estratégias de SEO – quais são os termos comprados pela empresa no Google e quais as 
+    palavras usadas para melhorar o ranqueamento do site, entre outros dados sobre o domínio. O resultado é uma reportagem especial que 
+    destrincha a estratégia que eleva a relevância da produtora ainda mais no principal buscador online. 
+
+  relevância: >
+    A produtora Brasil Paralelo tem muito dinheiro para fazer anúncios na internet e os faz de maneira muito eficiente. Ela é a maior 
+    anunciante do país em propagandas na Meta. Em um único mês, nov.2021, o Brasil Paralelo atraiu um tráfego massivo de busca orgânica 
+    que custaria impressionantes R$45 milhões caso fosse comprado, segundo estimativa do SemRush. Valor maior do que o orçamento anual 
+    de muitas empresas e do próprio BP, segundo os especialistas ouvidos pelo Núcleo.
+    Em out.22, mês da eleição, o site da Brasil Paralelo teve cerca de 4,5 milhões de visitas. Não há concorrentes similares. Também em 
+    out.22, o TSE determinou a desmonetização do canal do Brasil Paralelo no YouTube por promover fake news.
+    Entender o funcionamento da estratégia da produtora é essencial para compreender melhor o alcance, o impacto e os riscos dessa 
+    expansão de influência online. 
+
+  originalidade: >-
+    Essa foi a primeira reportagem que se dedicou a entender e explicar a estratégia utilizada pela produtora Brasil Paralelo para 
+    expandir e consolidar a própria influência online, indo além da cobertura sobre o volume de investimento da produtora no Google. 
+
+  metodologia: >+
+    A investigação foi feita com ajuda de profissionais de publicidade e marketing digital, e do software SemRush – que analisa palavras-chave, 
+    domínio, tráfego, entre outros, auxiliando estratégias de SEO – quais são os termos comprados pela empresa no Google e quais as 
+    palavras usadas para melhorar o ranqueamento do site, entre outros dados sobre o domínio. O SemRush não tem acesso aos dados 
+    internos das empresas responsáveis pelos domínios, então os valores calculados pela plataforma são estimativas.
+    Além disso, utilizamos dados da Biblioteca de Anúncios da Meta (https://www.facebook.com/ads/library/report/?source=nav-header).
+    O Núcleo não recebeu retorno sobre os pedidos de informações sobre a estratégia digital do Brasil Paralelo nem sobre as solicitações 
+    entrevistas com os diretores da empresa.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/maquina-brasil.jpg
+- title: Canais de médicos antivacina continuam bombando no Telegram
+  project_url: >-
+    https://nucleo.jor.br/especiais/2023-04-27-canais-de-medicos-antivacina-continuam-bombando-no-telegram/
+  veiculo: Núcleo Jornalismo
+  autoria: Chloé Pinheiro, Henrique Rieger, Rodolfo Almeida e Sérgio Spagnuolo
+  data: 27/4/2023
+  resumo: >+
+    O Núcleo investigou e analisou canais de médicos antivacina no Telegram que continuam com alto volume de audiência e interações em 
+    2023. Esses canais aproveitam a leniência do Telegram com moderação de conteúdo para espalhar desinformação sobre vacinas, algo que 
+    já foi denunciado anteriormente e seguiu sem maiores consequências. A reportagem especial é um levantamento exclusivo produzido pelo 
+    Núcleo em parceria com o Pulitzer Center e dá uma ideia da dimensão desses grupos.
+    Desde o início da pandemia, 16 canais e grupos ligados a médicos negacionistas angariaram 192 milhões de visualizações. Em 2022, 
+    enquanto havia uma percepção de que os ataques à vacina estavam diminuindo, na verdade a audiência duplicou, de 79 milhões no ano 
+    anterior para 167 milhões de views. E, mesmo em 2023, eles continuam ganhando atenção: em apenas 3 meses já somavam mais de 20 
+    milhões de impressões desses conteúdos. Esses canais também acabam se tornando fonte de informação e nutrem outros grupos com 
+    conteúdo, muitos privados - aos quais a reportagem não teve acesso. Ou seja, esses números de audiência estão ainda subestimados.
+    A investigação analisa as informações distribuídas nesses espaços e o alcance do conteúdo antivacina na plataforma. 
+
+  relevância: >
+    A reportagem demonstra, com base em dados e análises importantes, o quanto os grupos antivacina no Telegram seguem sendo relevantes 
+    dentro da sociedade brasileira. É notável a perda de engajamento direto (como reações, respostas ou encaminhamentos) e o “requentamento” 
+    de boatos sobre vacinas nos grupos e canais analisados, mas mesmo assim eles seguem com uma audiência considerável. As visualizações 
+    nessas redes, em conteúdos classificados como antivax, nos três primeiros meses de 2023 já correspondiam à metade do total de 2022.
+    Com a pauta da saúde perdendo força, já que a pandemia estava em um momento mais tranquilo, o discurso foi tomando outras formas. 
+    Surgiu uma maior predominância de grupos conspiracionistas e transfobia e homofobia passaram a ser outra pauta em ascensão nesse 
+    universo.
+    Desde que a pauta foi politizada, a recusa vacinal tem aumentado. Esse comportamento é um risco para a saúde pública brasileira. 
+    O Telegram acabou se tornando um refúgio para esse tipo de conteúdo, por dificultar mapear os responsáveis pelos canais, ter uma 
+    moderação mais displicente e dificultar o acesso da polícia a suspeitos de cometerem crimes na plataforma.
+
+  originalidade: >-
+    A reportagem especial é um levantamento exclusivo produzido pelo Núcleo em parceria com o Pulitzer Center e é a primeira grande 
+    reportagem que dá uma ideia da dimensão dos grupos antivacina no Telegram em 2023. Com o arrefecimento da pandemia, a cobertura 
+    jornalística deixou de olhar tão de perto para esse movimento na plataforma e a investigação é essencial para esclarecer a relevância 
+    do movimento no Telegram ainda em 2023. 
+
+  metodologia: >+
+    Entre jan-fev.2023, mapeamos cerca de 100 perfis antivacina no Youtube, Instagram, Twitter e Telegram. Excluímos os políticos e 
+    celebridades que compartilhavam conteúdo antivax para não poluir os números, porque eles também postam sobre muitos outros assuntos.
+    Decidimos focar no Telegram por entender que essa era uma rede mais escondida, e boa parte do que estava sendo compartilhado ali 
+    (e o alcance desse pessoal) era desconhecida pela sociedade.
+    Com o levantamento em mãos, analisamos manualmente os números em busca dos perfis que tinham mais audiência, e focamos a análise 
+    nos grupos de médicos. A ideia foi entender como o engajamento deles mudou durante a pandemia e a participação deles no ecossistema 
+    antivacina. Como métricas de engajamento, usamos visualizações e encaminhamento das mensagens.
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/medicos-nucleo.png
+- title: Municípios de Sergipe receberam mais de R$ 133 milhões via Emenda Pix de deputados federais e senadores. A falta de transparência é regra nos repasses
+  project_url: >-
+    https://manguejornalismo.org/municipios-de-sergipe-receberam-mais-de-r-133-milhoes-via-emenda-pix-de-deputados-federais-e-senadores-a-falta-de-transparencia-e-regra-nos-repasses/
+  veiculo: Mangue Jornalismo
+  autoria: Ana Paula Rocha
+  data: 26/6/2023
+  resumo: >+
+    Usando técnicas de OSINT, descobri que as cidades de Sergipe que receberam os maiores valores em recursos via transferência especial 
+    estavam diretamente relacionadas aos congressistas que transferiram o dinheiro, ou seja, não houve critério para a distribuição a 
+    não ser o interesse pessoal e político. A transferência especial é uma modalidade de repasse de verbas federais sem burocracia ou 
+    exigências de transparência e que, por esse motivo, ficou conhecida como ""emenda Pix"".
+    Um dos destaques foi a cidade de Lagarto, terceira maior de Sergipe, que recebeu de um único parlamentar, o deputado federal Gustinho 
+    Ribeiro (Republicanos-SE) mais de 10 milhões de reais entre 2020 e 2022, o que responde por 98% de todo o valor recebido pelo município 
+    via transferência especial no triênio supracitado.  A prefeita da cidade, Hilda Ribeiro (Solidariedade), é casada com o parlamentar 
+    que destinou a cifra milionária. A transparência da prefeitura de Lagarto quanto à prestação de contas da aplicação desse recurso foi 
+    nula na plataforma Transfere.gov, onde deveria ser registrada. 
+    Para além de trazer dados sobre a distribuição dos recursos entre as 69 cidades sergipanas beneficiadas, tendo desenvolvido e 
+    disponibilizado para consulta planilha própria, levantei discussões sobre como se deu a aprovação da emenda constitucional que 
+    estabeleceu as transferências especiais, quais seus principais problemas do ponto de vista das boas práticas em gestão pública e 
+    quais interesses estão em jogo na permanência e expansão desse dispositivo. Entrevistei todos os parlamentares sergipanos ativos 
+    entre 2020-2022, gestores municipais, especialistas em orçamento público e entidades que representam os municípios. 
+
+  relevância: >
+    O ecossistema de mídia voltado para notícias em Sergipe ainda é ínfimo em quantidade e diversidade, além de ser muito atrelado a 
+    figuras públicas poderosas, como empresários e políticos, o que desvia a atenção da cobertura de orçamento público. Uma das consequências 
+    disso é a inexistência, até o surgimento da Mangue Jornalismo (lançada em abril deste ano), da publicação perene e constantemente 
+    aprimorada de investigações baseadas em dados e utilizando técnicas de OSINT.
+    Portanto, a minha reportagem apresenta ao estado a importante possibilidade do jornalismo de dados como método replicável - uma vez 
+    que deixo claro no texto quais bancos de dados e procedimentos utilizei para chegar às informações - e aprofunda o debate sobre as 
+    consequências negativas do chamado ""parlamentarismo orçamentário"", oferecendo a todos os cidadãos, mas particularmente aos eleitores, 
+    contexto sobre o jogo político que rege a distribuição de verbas parlamentares no país.
+
+  originalidade: >-
+    Primeiramente, é preciso ressaltar que, antes da publicação da reportagem, não havia nenhum trabalho similar sobre transferência 
+    especial e parlamentares sergipanos. 
+    A descoberta de um padrão na distribuição dos valores, que consistia na pulverização de cifras menores entre vários municípios e 
+    alocação de valores maiores para cidades diretamente relacionadas aos interesses políticos dos congressistas, foi o grande achado 
+    da investigação. 
+
+  metodologia: >+
+    Para iniciar a investigação, minha hipótese era de que, dada a facilidade com que se podia conceder verbas federais via 
+    transferência especial, os parlamentares priorizariam cidades a eles relacionadas política ou pessoalmente. Tendo essa formulação 
+    como guia, dividi a investigação em quatro fases:
+    1) leitura de trabalhos acadêmicos e matérias jornalísticas de referência sobre emendas parlamentares, particularmente a 
+    transferência especial, para compreender do que se tratava essa recente modalidade de repasse, quais as principais discussões 
+    acerca de sua aplicação e quais os enfoques que outros jornalistas já haviam dado para o tema em suas matérias;
+    2) levantamento de dados no portal Tranfere.gov sobre cada um dos municípios sergipanos que receberam verbas via transferência 
+    especial e a distribuição deles em uma planilha própria que informava o nome da cidade, quais parlamentares doaram quanto, qual o 
+    ano do repasse e seu status da prestação de contas;
+    3) separação das doações com foco nos maiores repasses únicos ou combinados de um mesmo parlamentar para uma única cidade e; 
+    4) usando técnicas de OSINT, procurei por conexões entre o político doador com a cidade beneficiada, tendo como guia as seguintes 
+    questões: é sua cidade natal ou de residência nos últimos anos? O parlamentar e prefeito da cidade beneficiada são do mesmo partido? 
+    Há familiares do congressista trabalhando na gestão do município? As informações coletadas eram inseridas na planilha. 
+    Concluída a quarta fase e constatada a minha hipótese inicial, passei para a escrita da matéria. Abri o meu ""arquivo-mestre"" - 
+    onde constava a planilha com todos os dados que reuni - e converti os dados e conexões expressas em sentenças curtas e objetivas em 
+    textos recheados com informações que contextualizavam os números e relações que encontrei. 
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/Capa reportagem sobre emendas Pix em Sergipe.png
+- title: Título do trabalho Em quatro anos, Prefeitura de São Paulo fecha 322 turmas da EJA
+  project_url: >-
+    https://agenciamural.org.br/em-quatro-anos-prefeitura-de-sao-paulo-fecha-322-turmas-da-eja/
+  veiculo: Agência Mural
+  autoria: Matheus Oliveira e Paulo Talarico
+  data: 31/5/2023
+  resumo: >+
+    A reportagem destaca os reflexos da redução do número de turmas da EJA (Educação de Jovens e Adultos) na vida de estudantes e 
+    professores do bairro periférico de São Mateus, na zona leste da cidade de São Paulo. Por meio de dados obtidos junto a prefeitura 
+    paulistana, o texto humaniza as informações sobre a EJA e investiga o desmonte do programa de ensino.
+
+  relevância: >
+    A reportagem se destaca ao dar relevância a um tema pouco noticiado e apresentar os impactos da redução no número de turmas da EJA 
+    na vida das pessoas.
+
+  originalidade: >-
+    Quando se pensa em dados sobre educação logo vem à mente questões como frequência escolar e notas estudantis dos ciclos fundamental 
+    e médio de ensino. A reportagem traz um programa de ensino ausente do cotidiano de grande parte do público, a EJA, e investiga os 
+    dados gerais do programa e os direciona para o aspecto local, recorte norteador da Agência Mural. Outro diferencial é apresentar o 
+    problema para além do ambiente escolar, no caso. Como o desmonte do programa resulta em uma maior distância para estudar e 
+    consequentemente mais cansativo para os estudantes e uma perda de renda para os professores.
+
+  metodologia: >+
+    Os dados foram obtidos no portal Dados Abertos da prefeitura municipal de São Paulo. Com as planilhas em mãos foi necessário um 
+    processo de limpeza para restringir as informações referentes à EJA. Com os dados apurados foi possível visualizar as informações 
+    dos números de turmas, professores, alunos e escolas relacionadas à educação de jovens e adultos. Visualizamos a redução no número 
+    de turmas na subprefeitura de São Mateus e com essa informação fomos atrás dos entrevistados para checar a situação. Por meio do 
+    intermédio de pessoas ligadas a rede de ensino, realizamos a entrevista com os professores e os profissionais indicaram uma das 
+    alunas apresentadas. Por fim solicitamos à prefeitura autorização para ir à escola fotografar as turmas e conversar com mais 
+    estudantes. 
+
+  uf: SP
+  ano: '2023'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/eja-agencia.jpg
+- title: Roubo moto Cumbica
+  project_url: >-
+    https://recordtv.r7.com/balanco-geral/videos/jovens-sao-presos-suspeitos-de-roubar-moto-em-guarulhos-sp-18072022 
+  veiculo: RecordTV
+  autoria: Edição texto RICARDO CAMPITELI   Pauta  YARA BASTOS   Edição de imagens  FRANCISCO BARBOSA   Imagens ANTÔNIO CARLOS BARBOSA   Reportagem  MAURILIO GOELDNER / AGUIAR JUNIOR
+  data: 24/9/2022
+  resumo: >+
+    O Balanço Geral acompanhou o caso dos amigos Davi e Rafael, presos em Guarulhos (SP) no dia 8 de maio de 2022, acusados de roubar 
+    uma moto. Imagens mostraram a abordagem policial aos dois rapazes. Ambos foram reconhecidos através de uma foto que um dos policiais 
+    mandou por WhatsApp para a vítima, o que, segundo especialista consultado pela reportagem, é ilegal. Investigações também reuniram 
+    imagens que mostram os dois em um local diferente na hora em que foi cometido o crime. A vítima desse roubo ligou para um amigo que 
+    é policial. Durante a abordagem, esse amigo policial mandou as fotos dos suspeitos para a vítima pelo celular e foi assim que eles 
+    foram reconhecidos. Os dois estavam em uma festa no momento do crime em Guarulhos (SP). A equipe de jornalismo reuniu provas em três 
+    reportagens e os rapazes foram soltos.
+
+  relevância: >
+    Através de um minucioso trabalho entre pauta e edição, a equipe reuniu provas, comparou dados de boletins de ocorrência, horário do 
+    crime... E comprovou que os amigos estavam em outro lugar no momento do crime. Além disso, apontou erro na abordagem policial. Os 
+    jovens foram identidades através de fotos em um celular.
+
+  originalidade: >-
+    Um fato histórico nesse trabalho de comparações de dados é que um juiz citou no documento de soltura a reportagem exibida pelo 
+    Balanço Geral. E que isso foi fundamental para a liberdade dos jovens presos inocentemente.
+
+  metodologia: >+
+    Reunimos dados palpáveis: horários de boletim de ocorrência e com isso comparamos com o local onde os jovens estavam no momento do 
+    crime. Além disso reunimos sonoras de familiares e juntamos dados pessoas dos presos - se tinham passagens pela polícia, se trabalhavam, 
+    como era o caráter deles.  Apontamos falhas na condução da investigação e conduta policial.
+    Imagens de câmeras de segurança conseguidas pela nossa equipe mostraram que no momento do crime, os jovens estavam a 1km de 
+    distância do local do assalto. Traçamos a rota, utilizamos artes para mostrar que com essa distância seria impossível os amigos 
+    estarem na cena do crime.
+
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: TV
+  category: Investigação
+  image: images/edicoes/2023/amigos-presos.jpg
+- title: 'Infância Minada: garimpos ilegais de ouro no Tapajós adoecem crianças ribeirinhas'
+  project_url: >-
+    https://www.brasildefato.com.br/2022/12/03/infancia-minada-garimpos-ilegais-de-ouro-no-tapajos-adoecem-criancas-ribeirinhas
+  veiculo: Brasil de Fato
+  autoria: Sarah Fernandes
+  data: 3/12/2022
+  resumo: >+
+    O podcast Infância Minada é um especial sobre impactos do garimpo ilegal de ouro na saúde e na segurança de crianças que vivem na 
+    bacia do Rio Tapajós, no Pará, região que mais concentra garimpos no país. Durante meses, a reportagem se debruçou em estudos e 
+    pesquisas e percorreu milhares de quilômetros em carro, avião, ônibus e barcos para ouvir de meninos e meninas como o garimpo afeta 
+    sua saúde, sua segurança e seu desenvolvimento. O trabalho denuncia a situação crítica de centenas de meninos e meninas que passaram 
+    os últimos anos completamente desassistidos pelo Estado.
+
+  relevância: >
+    Estudos de universidades e instituições de pesquisa comprovaram a exposição da população ribeirinha do Tapajós ao mercúrio, uma 
+    substância extremamente tóxica ao organismo. Neste cenário, um grupo é especialmente vitimizado: o das crianças, principalmente na 
+    primeira infância, dos 0 aos 6 anos, considerando prioridade absoluta pela Constituição Federal. É nelas que o mercúrio pode causar 
+    danos irreversíveis no sistema nervoso central, que afetarão o desenvolvimento, a capacidade de aprendizagem e a saúde geral.
+    “Estamos falando de uma geração inteira exposta ao mercúrio, que pode ter dificuldades de se desenvolver plenamente. É uma perda 
+    para o meio ambiente, a saúde pública, cadeias econômicas tradicionais, mas principalmente para o futuro da região, porque uma 
+    geração inteira pode ser inviabilizada de ir para frente”, pontua o porta-voz do Greenpeace Amazônia, Danicley de Aguiar."
+
+  originalidade: >-
+    Muito se fala sobre a exposição de crianças indígenas Munduruku ao mercúrio proveniente de garimpos ilegais de ouro. Grande parte 
+    delas vive em terras indígenas localizadas ao longo do curso no rio Tapajós, chamadas de alto e médio Tapajós. O trabalho aqui 
+    apresentado investigou também os efeitos dessa contaminação nas crianças que vivem mais próximas à foz do Rio Tapajós, o Baixo 
+    Tapajós, local que recebe todos os sedimentos contaminados da área mais alta do rio e que poucas vezes recebe atenção, por não 
+    haver atividade garimpeira presente.
+
+  metodologia: >+
+    Pesquisa, tabulação e análise de dados abertos da UFOPA, do MapBiomas, da Fiocruz, do Ministério da Saúde e de organizações não 
+    governamentais sobre a atuação garimpeira e sobre a contaminação de crianças do baixo Tapajós ao mercúrio de garimpos ilegais de 
+    ouro.
+
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Rádio
+  category: Investigação
+  image: images/edicoes/2023/infancia-minada.jpeg
+- title: 'Terror em Brasília: vídeos mostram como atos bolsonaristas levaram vandalismo e destruição à capital'
+  project_url: >-
+    https://www.youtube.com/watch?v=PK84jcr8WI8
+  veiculo: UOL
+  autoria: Amanda Rossi, Eduardo Militão, Luís Adorno, Saulo Pereira Guimarães, Liel Marin, Luane Santos, Daniel Neri, Gisele Pungan, Santhiago Lopes e João Pedro Pinheiro
+  data: 22/12/2022
+  resumo: >+
+    A investigação visual do UOL analisou 20 horas de imagens distribuídas por 111 vídeos gravados em Brasília durante os ataques de 12 
+    de dezembro de 2022 e divulgados no Twitter, TikTok, Facebook, Instagram, WhatsApp e Youtube. Com o auxílio de ferramentas online, 
+    as filmagens tiveram seus locais de registro identificados e foram colocadas em ordem cronológica antes de serem submetidas à análise, 
+    que buscou detalhes até então não explorados dos distúrbios. Após serem reunidos, os dados passaram por um trabalho de arte e edição 
+    de imagens e som diferenciado com o objetivo de permitir ao espectador um mergulho na atmosfera da cidade no dia em que os ataques 
+    aconteceram. 
+
+  relevância: >
+    A reportagem retrata um evento até então inédito e que se revelou um ensaio geral para os atos antidemocráticos de 8 de janeiro de 
+    2023 -- inclusive com cenários e métodos em comum. Além disso, mostra o clima tenso na capital do país menos de 20 dias antes da 3ª 
+    posse de Lula como presidente da república.
+
+  originalidade: >-
+    O trabalho foi um dos primeiros a usar a técnica de video analytics (análise de vídeo) para produtos jornalísticos no Brasil, 
+    combinando-a a métodos clássicos da reportagem -- como apuração in loco de informações ainda não divulgadas e entrevistas com 
+    especialistas para melhor contextualização dos fatos.
+
+  metodologia: >+
+    No dia seguinte aos ataques, três jornalistas já estavam mobilizados para o download de lives e outros vídeos dos ataques. As 111 
+    gravações somam mais de 20 horas e foram organizadas por meio de uma tabela com 112 linhas, 11 colunas e mais de 1100 dados sobre 
+    os vídeos, tais como origem dos filmes, horário aproximado da gravação e local em que as imagens foram feitas. A tabela foi o ponto 
+    de partida para elaboração da reportagem e teve seu desenvolvimento inspirado nas técnicas usadas por The New York Times para 
+    produção de conteúdo relacionado à invasão do Capitólio, em Washington D.C., em 6 de janeiro de 2021. Após a elaboração da tabela, 
+    os vídeos foram analisados com o auxílio de um editor de vídeo, que usou as lives como referência para ordenar o material no tempo 
+    e observou o conjunto de imagens em busca de detalhes inéditos e outros pontos que merecessem destaque. O Google Earth foi usado 
+    para uma investigação geográfica e permitiu a localização exata dos cenários mostrados nas imagens, além da compreensão da dinâmica 
+    espacial de alguns eventos. Um deles foi a tentativa dos bolsonaristas de jogar um ônibus em chamas contra a sede da Polícia Federal, 
+    registrada em mais de 2O vídeos diferentes e reconstituída espacial e temporalmente com o auxílio da tabela e do Google Earth. 
+    Eventuais inconsistências e questões que exigissem desdobramentos eram esclarecidas presencialmente pela equipe de Brasília -- como, 
+    por exemplo, a informação de que os botijões de gás do posto de gasolina estavam vazios. Em paralelo, entrevistas com especialistas 
+    e pessoas que tiveram seus carros destruídos eram produzidas -- assim como toda parte de arte e de edição de som do vídeo final, 
+    pensada para transmitir a atmosfera da cidade no dia dos ataques. Há efeitos sonoros para destacar nuances da arte e dos vídeos da 
+    internet.
+
+  uf: SP
+  ano: '2022'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2023/terror-brasilia.png
