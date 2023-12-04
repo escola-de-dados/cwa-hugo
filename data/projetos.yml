@@ -20759,45 +20759,6 @@
   formato: TV
   category: Investigação
   image: images/edicoes/2023/Materia Olinda Carnaval.jpg
-- title: Ambulancioterapia revela 'buracos' na assistência médica do SUS; vai e vem de pacientes provoca 4 milhões de deslocamentos no país
-  project_url: >-
-    https://g1.globo.com/saude/noticia/2023/05/21/ambulancioterapia-revela-buracos-na-assistencia-medica-do-sus-vai-e-vem-de-pacientes-provoca-4-milhoes-de-deslocamentos-no-pais.ghtml
-  veiculo: Portal g1
-  autoria: Marina Pagno
-  data: 21/5/2023
-  resumo: >+
-    A reportagem utilizou um painel criado pela equipe de dados do Tesouro Nacional que fez um cruzamento de informações públicas para 
-    mostrar o vai e vem de pacientes pelo Brasil. Com base nesses dados, a matéria mostrou que a chamada "ambulancioterapia" é um 
-    problema grave de saúde pública no Brasil, e revelou que o SUS possui vazios assistenciais, principalmente no interior do país, 
-    o que fazem com que milhares de pacientes se desloquem por grandes distâncias para tratar de problemas de saúde simples, que poderiam 
-    ser resolvidos na próxima região de origem do paciente, caso tivesse o atendimento adequado. 
-
-  relevância: >
-    Olhando para os dados mostrados na matéria, especialistas concluíram que os gestores públicos precisam ficar mais atentos à 
-    administração do SUS nas localidades, a fim de reduzir as distâncias percorridas pelos pacientes em busca de atendimento médico 
-    pelo país, ampliando a assistência e reduzindo mortes. 
-    Na semana da publicação, a reportagem em questão apareceu no site da Global Investigative Journalism Network (GIJN) na lista dos 10 
-    mais interessante trabalhos de jornalismo de dados do mundo 
-    (https://gijn.org/data-journalism-top-10-bats-next-pandemic-china-electric-dominance/) e foi elogiada pelo criador do painel de dados 
-    do Tesouro Nacional (https://x.com/barbalhofernand/status/1661024658249109504?s=20). 
-
-  originalidade: >-
-    Até então, não se tinha um número exato sobre o vai e vem de pacientes pelo Brasil em busca de atendimento médico. Com os dados do 
-    painel do Tesouro Nacional, mostrado na reportagem, foi possível saber com mais exatidão o tamanho do impacto da ambulancioterapia 
-    no SUS e na saúde dos pacientes, além de saber quais são as principais regiões brasileiras e cidades que mais recebem pacientes ou 
-    mais emitem pacientes para outras localidades. 
-
-  metodologia: >+
-    A reportagem teve origem e utilizou dados do painel “Deslocamentos e gastos hospitalares dos municípios brasileiros”, feito pelo 
-    cientista de dados Fernando Barbalho, do Tesouro Nacional (https://siconfi-atendimento-hospitalar.tesouro.gov.br/) e a consulta de 
-    especialistas que analisaram as informações contidas no painel. 
-  
-  uf: DF
-  ano: '2023'
-  tipo_inscricao: Investigação
-  formato: Online
-  category: Investigação
-  image: images/edicoes/placeholder.png
 - title: Em 16 meses, R$ 92 milhões foram gastos com bônus secreto na Câmara; veja os vereadores que mais distribuíram
   project_url: >-
     https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/06/05/camara-do-rio-gasta-r-6-milhoes-em-1-mes-com-bonus-secreto-que-aumenta-salario-de-metade-dos-funcionarios.ghtml
@@ -22305,48 +22266,41 @@
   formato: Online
   category: Investigação
   image: images/edicoes/2023/ciclovia.jpg
-title: Infrações à malha cicloviária superam em 18 vezes o ano de 2021
+title: Ambulancioterapia revela 'buracos' na assistência médica do SUS; vai e vem de pacientes provoca 4 milhões de deslocamentos no país
   project_url: >-
-    https://mais.opovo.com.br/interativos/cicloviaria-fortaleza/episodio-02.php
-  veiculo: Jornal O POVO
-  autoria: Gabriela Custódio e Thays Lavor
-  data: 17/10/2022
+    https://g1.globo.com/saude/noticia/2023/05/21/ambulancioterapia-revela-buracos-na-assistencia-medica-do-sus-vai-e-vem-de-pacientes-provoca-4-milhoes-de-deslocamentos-no-pais.ghtml
+  veiculo: Portal g1
+  autoria: Marina Pagno
+  data: 21/5/2023
   resumo: >+
-    Há décadas a população de Fortaleza — principalmente trabalhadores de bairros de baixa renda — arrisca a vida ao deslocar-se 
-    cotidianamente de bicicleta e disputar o espaço da rua com automóveis. 
-	  A Central de Jornalismo de Dados do O POVO analisou e fez cruzamentos de diferentes bases de dados relacionados ao sistema 
-    cicloviário e indicadores socioeconômicos na cidade de Fortaleza, evidenciando não só uma má distribuição do sistema como 
-    também uma maior vulnerabilidade de ciclistas nas regiões periféricas da cidade e o crescimento das infrações à malha cicloviária 
-    nos últimos anos. 
-    Durante a investigação, a equipe de reportagem fez também diversos trajetos de bicicleta, ao longo dos quais foi possível observar 
-    e constatar os diferentes obstáculos e problemas levantados durante a análise de dados.
+    A reportagem utilizou um painel criado pela equipe de dados do Tesouro Nacional que fez um cruzamento de informações públicas para 
+    mostrar o vai e vem de pacientes pelo Brasil. Com base nesses dados, a matéria mostrou que a chamada "ambulancioterapia" é um 
+    problema grave de saúde pública no Brasil, e revelou que o SUS possui vazios assistenciais, principalmente no interior do país, o 
+    que fazem com que milhares de pacientes se desloquem por grandes distâncias para tratar de problemas de saúde simples, que poderiam 
+    ser resolvidos na próxima região de origem do paciente, caso tivesse o atendimento adequado. 
 
   relevância: >
-    A mobilidade urbana tem impacto significativo no direito à cidade e a bicicleta é um dos meios mais democráticos de transporte. 
-    Logo, se faz necessário um acompanhamento amplo e irrestrito às políticas públicas relacionadas ao tema. Investigações guiadas por 
-    dados podem contribuir significativamente neste contexto, pois possibilitam o cruzamento de informações, a validação de hipóteses e 
-    o apontamento de novas problemáticas. 
-	  Esta reportagem é um exemplo da urgência em se discutir os vieses e desigualdades na implantação de políticas de mobilidade urbana 
-    nas cidades brasileiras, reunindo análise de dados e outras investigações jornalísticas.
+    Olhando para os dados mostrados na matéria, especialistas concluíram que os gestores públicos precisam ficar mais atentos à 
+    administração do SUS nas localidades, a fim de reduzir as distâncias percorridas pelos pacientes em busca de atendimento médico 
+    pelo país, ampliando a assistência e reduzindo mortes. 
+    Na semana da publicação, a reportagem em questão apareceu no site da Global Investigative Journalism Network (GIJN) na lista dos 10 
+    mais interessante trabalhos de jornalismo de dados do mundo (https://gijn.org/data-journalism-top-10-bats-next-pandemic-china-electric-dominance/) 
+    e foi elogiada pelo criador do painel de dados do Tesouro Nacional (https://x.com/barbalhofernand/status/1661024658249109504?s=20).
 
   originalidade: >-
-    Norteados por princípios como transparência e reprodutibilidade, uma página detalhada da metodologia 
-    (https://github.com/datadoc-opovo/especial-ciclomobilidade#epis%C3%B3dio-2) foi desenvolvida reunindo códigos, dados-fonte, 
-    datasets gerados e visualizações desenvolvidas no âmbito da reportagem. Além disso, diferentes formas de apresentação de conteúdo 
-    foram utilizadas, a exemplo de um Story Map com a biblioteca MapBox que ajudou a evidenciar a maior letalidade de sinistros 
-    envolvendo bicicletas nas regiões periféricas da cidade. 
+    Até então, não se tinha um número exato sobre o vai e vem de pacientes pelo Brasil em busca de atendimento médico. Com os dados do 
+    painel do Tesouro Nacional, mostrado na reportagem, foi possível saber com mais exatidão o tamanho do impacto da ambulancioterapia 
+    no SUS e na saúde dos pacientes, além de saber quais são as principais regiões brasileiras e cidades que mais recebem pacientes ou 
+    mais emitem pacientes para outras localidades. 
 
   metodologia: >+
-    O detalhamento da metodologia, os dados obtidos e também códigos e recursos desenvolvidos estão descritos neste 
-    repositório (https://github.com/datadoc-opovo/especial-ciclomobilidade#epis%C3%B3dio-2). Em resumo, a Central de Jornalismo de 
-    Dados do O POVO (DATADOC) analisou para esta reportagem a distribuição geográfica das multas e dos acidentes envolvendo bicicleta, 
-    o índice de desenvolvimento humano (IDH) por bairro e a distribuição do sistema cicloviário de Fortaleza. A partir do cruzamento 
-    das bases, verificamos a variação temporal de multas e sinistros de trânsito envolvendo bicicletas e a letalidade dos sinistros em 
-    cada região da cidade, agrupadas pelo IDH.    
+    A reportagem teve origem e utilizou dados do painel “Deslocamentos e gastos hospitalares dos municípios brasileiros”, feito pelo 
+    cientista de dados Fernando Barbalho, do Tesouro Nacional (https://siconfi-atendimento-hospitalar.tesouro.gov.br/) e a consulta de 
+    especialistas que analisaram as informações contidas no painel.     
 
-  uf: CE
-  ano: '2022'
+  uf: DF
+  ano: '2023'
   tipo_inscricao: Investigação
   formato: Online
   category: Investigação
-  image: images/edicoes/2023/ciclovia.jpg
+  image: images/edicoes/2023/fotoambulancia.jpg
