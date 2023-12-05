@@ -22230,7 +22230,7 @@
   resumo: >+
     Há décadas a população de Fortaleza — principalmente trabalhadores de bairros de baixa renda — arrisca a vida ao deslocar-se 
     cotidianamente de bicicleta e disputar o espaço da rua com automóveis. 
-	  A Central de Jornalismo de Dados do O POVO analisou e fez cruzamentos de diferentes bases de dados relacionados ao sistema 
+    A Central de Jornalismo de Dados do O POVO analisou e fez cruzamentos de diferentes bases de dados relacionados ao sistema 
     cicloviário e indicadores socioeconômicos na cidade de Fortaleza, evidenciando não só uma má distribuição do sistema como 
     também uma maior vulnerabilidade de ciclistas nas regiões periféricas da cidade e o crescimento das infrações à malha cicloviária 
     nos últimos anos. 
@@ -22241,8 +22241,7 @@
     A mobilidade urbana tem impacto significativo no direito à cidade e a bicicleta é um dos meios mais democráticos de transporte. 
     Logo, se faz necessário um acompanhamento amplo e irrestrito às políticas públicas relacionadas ao tema. Investigações guiadas por 
     dados podem contribuir significativamente neste contexto, pois possibilitam o cruzamento de informações, a validação de hipóteses e 
-    o apontamento de novas problemáticas. 
-	  Esta reportagem é um exemplo da urgência em se discutir os vieses e desigualdades na implantação de políticas de mobilidade urbana 
+    o apontamento de novas problemáticas. Esta reportagem é um exemplo da urgência em se discutir os vieses e desigualdades na implantação de políticas de mobilidade urbana 
     nas cidades brasileiras, reunindo análise de dados e outras investigações jornalísticas.
 
   originalidade: >-
@@ -22266,7 +22265,7 @@
   formato: Online
   category: Investigação
   image: images/edicoes/2023/ciclovia.jpg
-title: Ambulancioterapia revela 'buracos' na assistência médica do SUS; vai e vem de pacientes provoca 4 milhões de deslocamentos no país
+- title: Ambulancioterapia revela 'buracos' na assistência médica do SUS; vai e vem de pacientes provoca 4 milhões de deslocamentos no país
   project_url: >-
     https://g1.globo.com/saude/noticia/2023/05/21/ambulancioterapia-revela-buracos-na-assistencia-medica-do-sus-vai-e-vem-de-pacientes-provoca-4-milhoes-de-deslocamentos-no-pais.ghtml
   veiculo: Portal g1
@@ -22303,7 +22302,7 @@ title: Ambulancioterapia revela 'buracos' na assistência médica do SUS; vai e 
   tipo_inscricao: Investigação
   formato: Online
   category: Investigação
-  image: images/edicoes/placeholder.png
+  image: images/edicoes/2023/ambulancioterapia.png
 - title: 'Internações por câncer: Fortaleza recebe 70% dos deslocamentos de pacientes do interior do CE'
   project_url: >-
     https://diariodonordeste.verdesmares.com.br/ceara/internacoes-por-cancer-fortaleza-recebe-70-dos-deslocamentos-de-pacientes-do-interior-do-ce-1.3407180
@@ -24653,23 +24652,20 @@ title: Ambulancioterapia revela 'buracos' na assistência médica do SUS; vai e 
     possível chamar para dentro da rotina jornalística automatizações como essa de forma humana e responsável.  
 
   metodologia: >+
-   Este projeto foi desenvolvido na linguagem Python, com uso de diversas bibliotecas (pacotes de códigos), como a OpenCV para processar 
-   os VTs do programa e encontrar os rostos e a Face Recognition para realizar o reconhecimento das faces dos participantes. Mas como 
-   isso é feito? Primeiro, foi necessário treinar o modelo CNN, de rede neural, que identifica as características faciais de cada pessoa, 
-   carregando diversas imagens do rosto de cada um dos competidores.
-
-  O modelo é capaz de identificar 128 pontos característicos na face de cada pessoa e, com base nesses dados, é possível medir o quão 
-  próxima é a aparência do rosto de uma nova pessoa em relação às características já registradas. Assim, foi possível calcular cada 
-  frame de vídeo em que o rosto aparece e, no fim, ter o tempo de tela total por participante para cada programa exibido na TV.
-
-  Nos nossos testes, identificamos uma margem de erro média de 0.30% para os falsos positivos, ou seja, quando o modelo identificava 
-  uma pessoa e na verdade era o rosto de outra. Com isso, optamos por subtrair o tempo de cada participante em 0.30% do tempo total do 
-  vídeo/episódio, para reduzir as chances de eventuais erros.
-
-  Vale ressaltar que, como todo modelo de inteligência artificial, há sempre limitações. A tecnologia empregada neste projeto só é 
-  capaz de identificar os rostos visíveis na tela, não sendo possível o reconhecimento do participante que esteja de costas, com objetos 
-  à frente da face ou mesmo com o rosto pequeno na tela. Em ambientes muito escuros, como em festas, também percebemos uma dificuldade 
-  maior da ferramenta em identificar as faces.
+    Este projeto foi desenvolvido na linguagem Python, com uso de diversas bibliotecas (pacotes de códigos), como a OpenCV para processar 
+    os VTs do programa e encontrar os rostos e a Face Recognition para realizar o reconhecimento das faces dos participantes. Mas como 
+    isso é feito? Primeiro, foi necessário treinar o modelo CNN, de rede neural, que identifica as características faciais de cada pessoa, 
+    carregando diversas imagens do rosto de cada um dos competidores.
+    O modelo é capaz de identificar 128 pontos característicos na face de cada pessoa e, com base nesses dados, é possível medir o quão 
+    próxima é a aparência do rosto de uma nova pessoa em relação às características já registradas. Assim, foi possível calcular cada 
+    frame de vídeo em que o rosto aparece e, no fim, ter o tempo de tela total por participante para cada programa exibido na TV.
+    Nos nossos testes, identificamos uma margem de erro média de 0.30% para os falsos positivos, ou seja, quando o modelo identificava 
+    uma pessoa e na verdade era o rosto de outra. Com isso, optamos por subtrair o tempo de cada participante em 0.30% do tempo total do 
+    vídeo/episódio, para reduzir as chances de eventuais erros.
+    Vale ressaltar que, como todo modelo de inteligência artificial, há sempre limitações. A tecnologia empregada neste projeto só é 
+    capaz de identificar os rostos visíveis na tela, não sendo possível o reconhecimento do participante que esteja de costas, com objetos 
+    à frente da face ou mesmo com o rosto pequeno na tela. Em ambientes muito escuros, como em festas, também percebemos uma dificuldade 
+    maior da ferramenta em identificar as faces.
       
   
   uf: SP
@@ -24718,13 +24714,12 @@ title: Ambulancioterapia revela 'buracos' na assistência médica do SUS; vai e 
     ser o primeiro a utilizar LLMs." 
 
   metodologia: >+
-   "O NuclitoGPT é um chatbot de inteligência artificial construído com base na API do modelo GPT-4 da OpenAI. Utilizamos Python em 
-   conjunto com FastAPI para a criação da API, e para a consulta de dados, integramos a poderosa biblioteca FAISS (Facebook AI Similarity 
-   Search), com o suporte essencial da Langchain. Adicionalmente, o frontend foi desenvolvido utilizando o framework React para realizar 
-   as requisições a esta API.
-
-  Além disso, é importante destacar que os dados alimentam o NuclitoGPT por meio de uma interface própria, diretamente provenientes da 
-  nossa API CMS Ghost. Essa integração proporciona um fluxo contínuo e otimizado de informações para enriquecer as interações do chatbot."
+    "O NuclitoGPT é um chatbot de inteligência artificial construído com base na API do modelo GPT-4 da OpenAI. Utilizamos Python em 
+    conjunto com FastAPI para a criação da API, e para a consulta de dados, integramos a poderosa biblioteca FAISS (Facebook AI Similarity 
+    Search), com o suporte essencial da Langchain. Adicionalmente, o frontend foi desenvolvido utilizando o framework React para realizar 
+    as requisições a esta API.
+    Além disso, é importante destacar que os dados alimentam o NuclitoGPT por meio de uma interface própria, diretamente provenientes da 
+    nossa API CMS Ghost. Essa integração proporciona um fluxo contínuo e otimizado de informações para enriquecer as interações do chatbot."
       
   
   uf: SP
