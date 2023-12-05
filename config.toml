@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://premio.jornalismodedados.org/"
 languageCode = "pt-br"
 summaryLength = "10"
 theme = "kross-hugo"
