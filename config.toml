@@ -107,7 +107,7 @@ icon = "ti-twitter-alt"
 URL = "https://www.linkedin.com/company/escola-de-dados"
 icon = "ti-linkedin"
 [[params.social]]
-URL = "https://instagram.com/openknowledgebrasil"
+URL = "https://instagram.com/escoladedadosbr"
 icon = "ti-instagram"
 [[params.social]]
 URL = "https://youtube.com/escoladedados"
