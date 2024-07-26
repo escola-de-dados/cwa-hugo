@@ -1,40 +1,106 @@
 # portfolio item
 item:
-  - image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
-    category: "design"
+  - image : "images/portfolio/2019/monitor-violencia-2019.png"
+    project_url : "https://g1.globo.com/monitor-da-violencia/noticia/2018/09/05/monitor-da-violencia-um-ano-depois-apenas-2-dos-casos-de-morte-violenta-tem-condenados-pelos-crimes.ghtml"
+    category : "investigação"
+    titulo : (2019) Monitor da violência
       
-  - image : "images/portfolio/item-2.png"
-    project_url : "#"
-    category: "branding"
+  - image : "images/portfolio/2019/2019-constituicao.png"
+    project_url: "https://www.nexojornal.com.br/grafico/2018/10/05/30-anos-o-quanto-a-Constitui%C3%A7%C3%A3o-preserva-de-seu-texto-original"
+    category: "visualização"
+    titulo: (2019) 30 anos - O quanto a Constituição preserva de seu texto original
+    
+  - image : "images/portfolio/2019/fatima-2019.png"
+    project_url : "https://twitter.com/fatimabot"
+    category: "inovação"
+    titulo: (2019) @fatimabot
       
-  - image : "images/portfolio/item-3.png"
-    project_url : "http://examplesite.com"
-    category: "illustration"
+  - image : "images/portfolio/2019/lietome-2019.png"
+    project_url : "https://fiquemsabendo.com.br/transparencia/newsletter-dont-lai-to-me"
+    category: "dados abertos"
+    titulo: (2019) Newsletter Don‘t LAI to ME
       
-  - image : "images/portfolio/item-5.png"
-    project_url : "#"
-    category: "design"
+  - image : "images/portfolio/2020/capa.png"
+    project_url : "https://correionasescolas.correiobraziliense.com.br/"
+    category: "dados abertos"
+    titulo: (2020) Correio nas Escolas
       
-  - image : "images/portfolio/item-8.png"
-    project_url : "http://examplesite.com"
-    category: "illustration"
+  - image : "images/portfolio/2020/elas_no_congresso_01.jpg"
+    project_url : "https://www.elasnocongresso.com.br/"
+    category: "inovação"
+    titulo: (2020) Elas no congresso
       
-  - image : "images/portfolio/item-6.png"
-    project_url : "#"
-    category: "design"
+  - image : "images/portfolio/2020/comomorreuminocentefoto.jpg"
+    project_url : "https://oglobo.globo.com/epoca/rio/como-morre-um-inocente-no-rio-de-janeiro-1-24208427"
+    category: "investigação"
+    titulo: (2020) Como morre um inocente no Rio de Janeiro
       
-  - image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
-    category: "branding"
+  - image : "images/portfolio/2020/Especial100mil-Teaser-Capitulo1.png"
+    project_url : "https://www.nexojornal.com.br/especial/2020/08/08/100-mil-mortes-no-Brasil-o-c%C3%A1lculo-de-uma-trag%C3%A9dia"
+    category: "visualização"
+    titulo: (2020) O cálculo de uma tragédia
       
-  - image : "images/portfolio/item-3.png"
-    project_url : "#"
-    category: "illustration"
-      
-  - image : "images/portfolio/item-7.png"
-    project_url : "http://examplesite.com"
-    category: "branding"
+  - image : "images/portfolio/2021/162189809460ac336e31a9d_1621898094_1x1_rt.jpg"
+    project_url : "https://temas.folha.uol.com.br/inocentes/"
+    category: "sem categoria"
+    titulo: (2021) Inocentes presos
+
+  - image : "images/portfolio/2021/rachadinha.png"
+    project_url : "https://noticias.uol.com.br/reportagens-especiais/anatomia-da-rachadinha-bolsonaro"
+    category: "sem categoria"
+    titulo: (2021) Anatomia da rachadinha
+
+  - image : "images/portfolio/2021/AzM_MonitorA-projetos_V3.jpeg"
+    project_url : "https://azmina.com.br/projetos/monitora/"
+    category: "sem categoria"
+    titulo: (2021) MonitorA
+
+  - image : "images/portfolio/2021/CAPA_eleies.png"
+    project_url : "https://datalabe.org/existe-uma-wakanda-da-politica-brasileira/"
+    category: "sem categoria"
+    titulo: (2021) Existe uma Wakanda da política brasileira
+
+  - image : "images/portfolio/2022/aborto-legal.png"
+    project_url : "https://g1.globo.com/sp/sao-paulo/noticia/2022/06/09/4-em-cada-10-abortos-legais-no-brasil-sao-feitos-fora-da-cidade-onde-a-mulher-mora-pacientes-percorreram-mais-de-1-mil-km.ghtml"
+    category: "sem categoria"
+    titulo: (2022) 4 em cada 10 abortos legais no Brasil são feitos fora da cidade onde a mulher mora; pacientes percorreram mais de 1 mil km
+  
+  - image : "images/portfolio/2022/AmazoniaMinada.png"
+    project_url : "https://minada.infoamazonia.org/"
+    category: "sem categoria"
+    titulo: (2022) Amazônia Minada
+
+  - image : "images/portfolio/2022/bots_eleicoes_botponto_headertt copy.png"
+    project_url : "https://nucleo.jor.br/botponto/"
+    category: "sem categoria"
+    titulo: (2022) BotPonto
+
+  - image : "images/portfolio/2022/impacto_Aquazonia.png"
+    project_url : "https://aquazonia.ambiental.media/"
+    category: "sem categoria"
+    titulo: (2022) Aquazônia - A Floresta-Água
+
+  - image : "images/portfolio/2023/cartao-corporativo.jpeg"
+    project_url : "https://fiquemsabendo.substack.com/p/veja-quais-foram-os-gastos-do-cartao"
+    category: "sem categoria"
+    titulo: (2023) Revelando e organizando as notas fiscais do cartão corporativo de todos os ex-presidentes brasileiros
+
+  - image : "images/portfolio/2023/bbbInteligencia.png"
+    project_url : "https://www.estadao.com.br/emais/tv/bbb-23-inteligencia-artificial-revela-quem-mais-apareceu-nos-vts-do-programa/%C2%A0"
+    category: "sem categoria"
+    titulo: (2023) BBB 23 - Inteligência artificial revela quem mais apareceu nos VTs do programa
+
+  - image : "images/portfolio/2023/amz_undrwrld.png"
+    project_url : "https://amazonunderworld.org/"
+    category: "sem categoria"
+    titulo: (2023) Amazon Underworld
+
+  - image : "images/portfolio/2023/STF2.png"
+    project_url : "https://www.generonumero.media/reportagens/homens-brancos-stf/%20"
+    category: "sem categoria"
+    titulo: (2023) Branco e masculino, STF pode mudar em 2023
+
+
 
 
 # client logo slider
