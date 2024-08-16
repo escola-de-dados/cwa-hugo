@@ -10,8 +10,9 @@ about:
     no Brasil.
   button:
     enable: true
-    label: Saiba mais
-    URL: https://premio.jornalismodedados.org/edicoes/2023/
+    label: Conheça e apoie
+    URL: https://docs.google.com/presentation/d/1CFeOFBYkgFV0Tz9zHlTjnXYBXRpasQzm/present
+  
 skill:
   enable: false
   title: Skills
@@ -69,6 +70,7 @@ education:
     academy: Trabalhos inovadores de jornalismo de dados, que fujam da rotina e tragam
       elementos de experimentação. Inovação aqui não se restringe apenas ao uso de
       novas tecnologias, mas pode envolver também metodologias e formatos.
+
 service:
   enable: false
   title: Services
