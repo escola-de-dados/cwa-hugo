@@ -60,7 +60,7 @@ URL = "https://airtable.com/appJ4XfKR1G4pTyP0/shr10L8PfVLC3GAsT"
 name = "Inscrições"
 weight = 3
 [[menu.main]]
-URL = "regulamento/2023"
+URL = "regulamento/2024"
 name = "Regulamento"
 weight = 2
 [[menu.main]]
