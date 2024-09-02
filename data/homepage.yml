@@ -134,6 +134,8 @@ clients_logo_slider:
     URL: https://abraji.org.br
   - logo: images/tbrasil.png
     URL: https://transparencia.org.br
+  - logo: images/insper.png
+    URL: https://www.insper.edu.br/pt/home
   title: Realização
 blog:
   enable: false
