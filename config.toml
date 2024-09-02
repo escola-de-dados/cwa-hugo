@@ -7,17 +7,22 @@ title = "Prêmio de Jornalismo de Dados"
 name = "2022"
 parent = "edições"
 url = "edicoes/2022"
-weight = 4
+weight = 3
 [[menu.main]]
 name = "2023"
 parent = "edições"
 url = "edicoes/2023"
-weight = 5
+weight = 2
+[[menu.main]]
+name = "2024"
+parent = "edições"
+url = "edicoes/2024"
+weight = 1
 [[menu.main]]
 name = "2019"
 parent = "edições"
 url = "edicoes/2019"
-weight = 1
+weight = 6
 [[menu.main]]
 name = "Manual"
 parent = "Jornalismo de Dados"
@@ -27,7 +32,7 @@ weight = 3
 name = "2020"
 parent = "edições"
 url = "edicoes/2020"
-weight = 2
+weight = 5
 [[menu.main]]
 name = "Fórum"
 parent = "Jornalismo de Dados"
@@ -42,7 +47,7 @@ weight = 1
 name = "2021"
 parent = "edições"
 url = "edicoes/2021"
-weight = 3
+weight = 4
 [[menu.main]]
 URL = "regulamento/faq"
 name = "FAQ"
@@ -56,7 +61,7 @@ name = "Jornalismo de Dados"
 url = "https://jornalismodedados.org"
 weight = 5
 [[menu.main]]
-URL = "https://airtable.com/appJ4XfKR1G4pTyP0/shr10L8PfVLC3GAsT"
+URL = "https://go.ok.org.br/pcwa24"
 name = "Inscrições"
 weight = 3
 [[menu.main]]
