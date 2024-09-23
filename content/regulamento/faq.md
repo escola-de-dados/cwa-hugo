@@ -21,7 +21,7 @@ São aceitos trabalhos em diferentes formatos, tais como: publicações online o
 As inscrições são gratuitas.
 
 **QUAL A PREMIAÇÃO?**
-Os vencedores do prêmio dividirão o valor total, de R$2.500 (dez mil reais) e passagens aéreas para receber o prêmio em Brasília -DF. Os(as) finalistas são responsáveis por estarem presentes na cerimônia de entrega da premiação.
+Os vencedores do prêmio dividirão o valor total, de R$2.500 (dez mil reais), uma bolsa de estudos integral para um curso de curta duração de Gestão e Políticas Públicas no Insper. Ainda receberão passagens aéreas para receber o prêmio em Brasília -DF. Os(as) finalistas são responsáveis por estarem presentes na cerimônia de entrega da premiação.
 
 **QUANDO E ONDE OS RESULTADOS SERÃO DIVULGADOS?**
 
