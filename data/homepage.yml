@@ -10,8 +10,8 @@ about:
     no Brasil.
   button:
     enable: true
-    label: Faça sua inscrição
-    URL: https://go.ok.org.br/pcwa24
+    label: saiba mais
+    URL: https://premio.jornalismodedados.org/about/
   
 skill:
   enable: false
