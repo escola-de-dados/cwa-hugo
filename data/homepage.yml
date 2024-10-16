@@ -136,6 +136,8 @@ clients_logo_slider:
     URL: https://transparencia.org.br
   - logo: images/insper_new.png
     URL: https://www.insper.edu.br/pt/home
+  - logo: images/curso-r.png
+    URL: https://curso-r.com/
   title: Realização
 blog:
   enable: false
