@@ -10,8 +10,8 @@ about:
     no Brasil.
   button:
     enable: true
-    label: saiba mais
-    URL: https://premio.jornalismodedados.org/about/
+    label: Finalistas desta edição
+    URL: https://premio.jornalismodedados.org/edicoes/2024/
   
 skill:
   enable: false
