@@ -6,7 +6,7 @@ description: "Novidades sobre a edição de 2021."
 type: "blog"
 ---
 
-O [Prêmio Cláudio Weber Abramo de Jornalismo de Dados](https://premio.jornalismodedados.org/) chega a sua terceira edição em um novo formato para premiar os melhores trabalhos de jornalismo de dados do país.
+O [Prêmio Cláudio Weber Abramo de Jornalismo de Dados](https://premio.jornalismodedados.org.br/) chega a sua terceira edição em um novo formato para premiar os melhores trabalhos de jornalismo de dados do país.
 
 Organizado pela Escola de Dados, o programa de alfabetização em dados da Open Knowledge Brasil, em parceria com a Associação Brasileira de Jornalismo Investigativo (Abraji) e a Transparência Brasil, o prêmio incentiva práticas de transparência governamental, o uso de dados abertos de interesse público, e visa inspirar jornalistas e estudantes a usar dados em suas investigações.
 

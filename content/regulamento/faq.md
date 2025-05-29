@@ -28,4 +28,4 @@ Os vencedores do prêmio dividirão o valor total, de R$2.500 (dez mil reais), u
 Os(as) vencedores(as) serão anunciados(as) na cerimônia de premiação, durante a programação da Améria Aberta, no dia 05 de dezembro de 2024 em Brasília -DF.
 
 **COMO SABEREI QUE MINHA INSCRIÇÃO FOI ACEITA?**
-As inscrições deverão ser feitas por meio do link disponível no site [premio.jornalismodedados.org](premio.jornalismodedados.org). Após enviar os dados, você receberá uma mensagem automática dizendo “Obrigada por enviar o formulário!”. Não é enviado nenhum e-mail automático confirmando a inscrição, mas as informações submetidas estarão conosco.
+As inscrições deverão ser feitas por meio do link disponível no site [premio.jornalismodedados.org.br](premio.jornalismodedados.org.br). Após enviar os dados, você receberá uma mensagem automática dizendo “Obrigada por enviar o formulário!”. Não é enviado nenhum e-mail automático confirmando a inscrição, mas as informações submetidas estarão conosco.

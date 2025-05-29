@@ -1,4 +1,4 @@
-baseURL = "https://premio.jornalismodedados.org/"
+baseURL = "https://premio.jornalismodedados.org.br/"
 languageCode = "pt-br"
 summaryLength = "10"
 theme = "kross-hugo"
@@ -26,7 +26,7 @@ weight = 6
 [[menu.main]]
 name = "Manual"
 parent = "Jornalismo de Dados"
-url = "https://jornalismodedados.org"
+url = "https://jornalismodedados.org.br"
 weight = 3
 [[menu.main]]
 name = "2020"
@@ -41,7 +41,7 @@ weight = 2
 [[menu.main]]
 name = "Ferramentas"
 parent = "Jornalismo de Dados"
-url = "https://kit.jornalismodedados.org"
+url = "https://kit.jornalismodedados.org.br"
 weight = 1
 [[menu.main]]
 name = "2021"
@@ -58,7 +58,7 @@ url = "#"
 weight = 4
 [[menu.main]]
 name = "Jornalismo de Dados"
-url = "https://jornalismodedados.org"
+url = "https://jornalismodedados.org.br"
 weight = 5
 [[menu.main]]
 URL = "regulamento/2024"

@@ -11,7 +11,7 @@ about:
   button:
     enable: true
     label: Conheça os vencedores 2024
-    URL: https://premio.jornalismodedados.org/edicoes/2024/
+    URL: https://premio.jornalismodedados.org.br/edicoes/2024/
   
 skill:
   enable: false
