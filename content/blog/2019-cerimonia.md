@@ -12,7 +12,7 @@ O Prêmio Cláudio Weber Abramo de Jornalismo de Dados é uma iniciativa da Esco
 
 É possível ver mais informações sobre as apresentações dos finalistas e vencedores [nesta postagem](https://escoladedados.org/2019/11/confira-50-apresentacoes-do-coda-br-2019/), que reúne todos materiais apresentados no Coda.Br. Nela, também é possível conferir os materiais de Helena Wittlich (Tagesspiegel Innovation Lab) e Momi Peralta (La Nación Data), ganhadoras da premiação internacional Data Journalism Awards em 2019 que abriram a noite apresentando seus projetos.
 
-No final da cerimônia, também foi lançado o fórum [jornalismodedados.org](https://forum.jornalismodedados.org/), um espaço virtual para troca de informações e apoio técnico entre interessados na área. A iniciativa é da Escola de Dados em parceria com a ABRAJI e está aberta à participação de qualquer pessoa.  
+No final da cerimônia, também foi lançado o fórum [jornalismodedados.org.br](https://forum.jornalismodedados.org/), um espaço virtual para troca de informações e apoio técnico entre interessados na área. A iniciativa é da Escola de Dados em parceria com a ABRAJI e está aberta à participação de qualquer pessoa.  
 
 Fonte: Adriano Belisario/[Escola de Dados](https://escoladedados.org/premio-de-jornalismo-de-dados-estreia-no-brasil-em-grande-estilo/)
 
