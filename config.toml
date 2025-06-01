@@ -36,7 +36,7 @@ weight = 5
 [[menu.main]]
 name = "Fórum"
 parent = "Jornalismo de Dados"
-url = "https://forum.jornalismodedados.org"
+url = "https://forum.ornalismodedados.org.br"
 weight = 2
 [[menu.main]]
 name = "Ferramentas"
