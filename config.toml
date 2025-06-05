@@ -36,7 +36,7 @@ weight = 5
 [[menu.main]]
 name = "Fórum"
 parent = "Jornalismo de Dados"
-url = "https://forum.ornalismodedados.org.br"
+url = "https://forum.jornalismodedados.org.br"
 weight = 2
 [[menu.main]]
 name = "Ferramentas"
@@ -113,3 +113,8 @@ icon = "ti-instagram"
 [[params.social]]
 URL = "https://youtube.com/escoladedados"
 icon = "ti-youtube"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -22,4 +22,89 @@ p {
     height: 0; 
     overflow: hidden;
     margin-bottom: 50px;
+
+/* Força tabela */
   }
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+}
+
+th, td {
+  border: 1px solid #333;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  font-weight: normal;
+}
+
+/* Força a segunda coluna a alinhar à esquerda */
+td:nth-child(2),
+th:nth-child(2) {
+  text-align: left;
+}
+
+/* Força sublinhado */
+u {
+  text-decoration: underline !important;
+}
+
+ul {
+  list-style: disc;
+  margin-left: 1.5em;
+}
+
+/*Força manter o mesmo tamanho do texto dentro da tabela e dos bullet point */
+/* 1. Texto dentro de tabelas */
+table td,
+table th {
+  font-size: 1rem !important;
+  line-height: 1.6;
+}
+
+/* 2. Texto dentro de listas (bullet points) */
+ul,
+ol,
+li {
+  font-size: 1rem !important;
+  line-height: 1.6;
+  margin-left: 1.5em;
+}
+
+/* 3. Se listas estiverem dentro da tabela, aplica estilo coerente */
+table td ul,
+table td ol,
+table td li {
+  font-size: 1rem !important;
+  line-height: 1.6;
+  list-style: disc;
+  padding-left: 1.2em;
+}
+
+/*cria uma lista alfabética */
+ol.alpha {
+  list-style-type: lower-alpha;
+  counter-reset: item;
+}
+
+ol.alpha li {
+  display: block;
+  position: relative;
+  margin-left: 1.5em;
+}
+
+ol.alpha li::marker {
+  content: counter(item, lower-alpha) ") ";
+  counter-increment: item;
+}
+
+/* Força o tamanho do texto das listas ordenadas com letras a ser mesmo tamanho que o resto*/
+ol[type="a"],
+ol[type="a"] li {
+  font-size: 1rem !important;
+  line-height: 1.6;
+}
+

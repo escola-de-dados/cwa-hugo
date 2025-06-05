@@ -25877,6 +25877,46 @@
   category: Investigação
   image: images/edicoes/2024/educacaodigital.jpeg
 
+- title: "Storytelling: o raio-x da delegação brasileira em Paris 2024"
+  project_url: https://paris-2024.glitch.me/
+  veiculo: Estado de Minas
+  autoria: Gabriel Ronan
+  data: 7/23/2024
+  resumo: Análise feita pelo Núcleo de Dados do Estado de Minas detalha o perfil e traz curiosidades do Time Brasil nos Jogos Olímpicos Paris 2024. Os dados foram extraídos do PDF de divulgação da delegação, distribuído à imprensa pelo Comitê Olímpico do Brasil (COB).
+  
+  relevância: O trabalho é relevante pois tinha o objetivo de levar conhecimento à população acerca do Time Brasil, nas vésperas do início dos Jogos. Como se trata de um jornal local, a produção também tinha um recorte voltado a Minas Gerais.
+
+  originalidade: Como se trata de um storytelling focado, sobretudo, no local de nascimento dos atletas, o trabalho é inovador e informativo desde a pauta. Também foi produzido a partir de HTML, CSS e JS, o que traz ainda mais originalidade para o conteúdo.
+    
+  metodologia: A primeira etapa do trabalho foi feita a partir de um código Python (https://colab.research.google.com/drive/1LyTnw9aiTxA6dfdQVtuRmzFK6AT_zZlt?usp=sharing), no qual extraímos as informações do PDF distribuído pelo COB à imprensa. Após a extração, tratamos os dados para produzir uma tabela com os mesmos. Depois, ainda fizemos cruzamentos dos nomes das cidades de nascimento dos atletas com a base pública do IBGE, justamente para criarmos insights voltados à população dos municípios apresentados. Também fizemos cruzamentos com o shapefiles das cidades brasileiras para obter os polígonos territoriais correspondentes à cada cidade listada no Time Brasil. Também foi feita uma análise exploratória, na qual decidimos quais recortes poderiam contribuir para a narrativa do storytelling. Por último, exportamos o arquivo GeoJSON para o Mapbox Studio, onde usamos um template da plataforma + CSS + HTML + JS para alcançar o resultado final. 
+
+  uf: MG
+  ano: '2024'
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2024/storitelling.png
+
+- title: "Debate sobre aborto na Câmara é dominado por fundamentalismo religioso"
+  project_url: https://azmina.com.br/reportagens/debate-sobre-aborto-na-camara/
+  veiculo: Revista AzMina
+  autoria: Jane Fernandes e Ester Pinheiro
+  data: 8/14/2024
+  resumo: A reportagem parte da análise de 376 discursos sobre aborto proferidos na tribuna da Câmara dos Deputados de 2019 a 2023 e demonstra que em lugar de representar e fortalecer os direitos das mulheres e meninas, os parlamentares ocupam o espaço para contrárias à interrupção da gravidez. Em 44% dos discursos, o ataque ao aborto é explícito, e em 38,6% o assunto é citado num contexto conservador. Independentemente do gênero de quem está proferindo, a maioria das falas se baseiam em crenças pessoais e moralidade. 
+  
+  relevância: A reportagem revela as estratégias discursivas dos parlamentares para comover e desinformar seus pares e a sociedade sobre aborto, mesmo nos casos com previsão legal, dificultando o avanço do debate no Congresso e elaborando leis que dificultem o acesso
+
+  originalidade: A reportagem traz um levantamento inédito, qualitativo e quantitativo, sobre o teor dos discursos antidireitos reprodutivos no Congresso.
+    
+  metodologia: A partir de um script em linguagem Python, coletamos os 376 discursos feitos por deputadas e deputados federais entre os anos de 2019 e 2023 que incluíam a palavra aborto. Classificamos esses discursos nas categorias data, gênero, partido, estado, texto e posição em relação ao tema. As posições possíveis eram ‘A favor’, ‘Apenas cita’, ‘Cita num discurso conservador’ e ‘Contra’. Os dados foram analisados num aplicativo de planilha, fazendo os cruzamentos que a equipe entendeu pertinentes. Além disso, o conteúdo textual completo foi utilizado para confeccionar uma nuvem de palavras. 
+
+  uf: SP
+  ano: '2024'
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2024/debateaborto.jpeg
+
 - title: 
   project_url: 
   veiculo: 
@@ -25891,8 +25931,8 @@
   metodologia: 
 
   uf: 
-  ano: 
+  ano: '2024'
   tipo_inscricao: 
   formato: 
   category: 
-  image: 
+  image: images/edicoes/2024/
