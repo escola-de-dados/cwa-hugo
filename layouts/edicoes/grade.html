@@ -16,9 +16,15 @@
           <label class="btn btn-sm btn-primary active">
             <input type="radio" name="shuffle-filter" value="all" checked="checked" />Todos
           </label>
-          {{ $categories := slice }}
+          <!--{{ $categories := slice }}
           {{ range where .Site.Data.projetos "ano" "==" $edicao_atual }}
           {{ $categories = $categories | append .category }}
+          {{ end }}-->
+           {{ $categories := slice }}
+          {{ range where .Site.Data.projetos "ano" "==" $edicao_atual }}
+            {{ with .category }}
+              {{ $categories = append $categories . }}
+            {{ end }}
           {{ end }}
           {{ range ( $categories | uniq ) }}
           <label class="btn btn-sm btn-primary">
