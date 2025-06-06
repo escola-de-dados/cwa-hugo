@@ -5,7 +5,7 @@ description: ""
 type: "single"
 layout:: "list"
 ---
-<link rel="stylesheet" href="/theme/assets/estilo.css">
+
 
 O Prêmio Cláudio Weber Abramo de Jornalismo de Dados é uma iniciativa com objetivo de incentivar a excelência no uso de dados por jornalistas para reportar, analisar e investigar questões que afetam a sociedade brasileira.
 
