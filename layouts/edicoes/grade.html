@@ -20,12 +20,12 @@
           {{ range where .Site.Data.projetos "ano" "==" $edicao_atual }}
           {{ $categories = $categories | append .category }}
           {{ end }}-->
-           {{ $categories := slice }}
-          {{ range where .Site.Data.projetos "ano" "==" $edicao_atual }}
-            {{ with .category }}
-              {{ $categories = append $categories . }}
-            {{ end }}
+         {{ $categories := slice }}
+         {{ range where .Site.Data.projetos "ano" "==" $edicao_atual }}
+          {{ with .category }}
+            {{ $categories = $categories | append (slice .) }}
           {{ end }}
+         {{ end }}
           {{ range ( $categories | uniq ) }}
           <label class="btn btn-sm btn-primary">
             <input type="radio" name="shuffle-filter" value="{{ . | urlize }}" />{{ . | humanize }}
