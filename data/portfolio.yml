@@ -100,7 +100,25 @@ item:
     category: "sem categoria"
     titulo: (2023) Branco e masculino, STF pode mudar em 2023
 
+  - image : "images/portfolio/2024/MVG.png"
+    project_url : "https://www.senado.leg.br/institucional/datasenado/mapadaviolencia/#/inicio"
+    category: "sem categoria"
+    titulo: (2024) Mapa Nacional da Violência de gênero
 
+  - image : "images/portfolio/2024/caminhos-da-alimentacao.png"
+    project_url : "https://alimentacao.generonumero.media/"
+    category: "sem categoria"
+    titulo: (2024) Caminhos da alimentação - o que chega à mesa das mulheres negras
+
+  - image : "images/portfolio/2024/seguro-agricola.png"
+    project_url : "https://alimentacao.generonumero.media/"
+    category: "sem categoria"
+    titulo: (2024) Dossiê Seguro Agrícola
+
+  - image : "images/portfolio/2024/favela.jpg"
+    project_url : "https://www.agenciamural.org.br/especiais/favelas-de-sao-paulo/"
+    category: "sem categoria"
+    titulo: (2024) Panorama das Favelas de São Paulo
 
 
 # client logo slider

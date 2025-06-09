@@ -94,7 +94,7 @@ portfolio:
   enable: true
   title: Vencedores das últimas edições
   content: testando testando
-  item_show: "20"
+  item_show: "30"
 testimonial:
   enable: false
   title: Testimonials
