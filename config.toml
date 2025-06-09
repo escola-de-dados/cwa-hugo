@@ -61,7 +61,7 @@ name = "Jornalismo de Dados"
 url = "https://jornalismodedados.org.br"
 weight = 5
 [[menu.main]]
-URL = "regulamento/2024"
+URL = "regulamento/2025"
 name = "Regulamento"
 weight = 2
 [[menu.main]]
@@ -101,9 +101,6 @@ URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.social]]
-URL = "https://twitter.com/escoladedados"
-icon = "ti-twitter-alt"
 [[params.social]]
 URL = "https://www.linkedin.com/company/escola-de-dados"
 icon = "ti-linkedin"
