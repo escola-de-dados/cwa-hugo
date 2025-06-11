@@ -80,7 +80,7 @@ home = "Home"
 logo = "images/logo.png"
 phone = ""
 socialshareimg = "images/socialshare.png"
-theme_color = "#250040"
+theme_color = "#07195f"
 [params.contact]
 enable = false
 form_action = "#"
