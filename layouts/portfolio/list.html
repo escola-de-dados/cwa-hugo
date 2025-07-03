@@ -22,7 +22,7 @@
           {{ end }} -->
           {{ $categories := slice }}
           {{ range .Site.Data.projetos }}
-            {{ $normalized := .category | trim | lower }} {{/* remove espaços e deixa tudo minúsculo */}}
+            {{ $normalized := .category | trim " " | lower }} {{/* remove espaços e deixa tudo minúsculo */}}
             {{ $categories = $categories | append $normalized }}
           {{ end }}
           {{ range ($categories | uniq | sort) }}
