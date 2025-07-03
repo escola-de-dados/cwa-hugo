@@ -11,7 +11,7 @@
           <label class="btn btn-sm btn-primary active">
             <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
           </label>
-          {{ $categories := slice }}
+          <!--{{ $categories := slice }}
           {{ range .Site.Data.portfolio.item }}
           {{ $categories = $categories | append .category }}
           {{ end }}
@@ -19,13 +19,24 @@
           <label class="btn btn-sm btn-primary">
             <input type="radio" name="shuffle-filter" value="{{ . | urlize }}" />{{ . | humanize }}
           </label>
+          {{ end }} -->
+          {{ $categories := slice }}
+          {{ range .Site.Data.projetos }}
+            {{ $normalized := .category | trim | lower }} {{/* remove espaços e deixa tudo minúsculo */}}
+            {{ $categories = $categories | append $normalized }}
+          {{ end }}
+          {{ range ($categories | uniq | sort) }}
+            <label class="btn btn-sm btn-primary">
+              <input type="radio" name="shuffle-filter" value="{{ . | urlize }}" />{{ . | title }}
+            </label>
           {{ end }}
         </div>
       </div>
     </div>
     <div class="row shuffle-wrapper">
       {{ range .Site.Data.portfolio.item }}
-      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{.category | urlize}}&quot;]">
+  <!--<div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{.category | urlize}}&quot;]"> -->
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{.category | trim | lower | urlize}}&quot;]"></div>
         <div class="position-relative rounded hover-wrapper">
           <img src="{{.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
