@@ -50,23 +50,23 @@ education:
   title: Categorias
   item:
   - title: Visualização
-    year: images/visu.png
+    year: images/icone2.png
     academy: Dados são bonitos! Vamos premiar os melhores trabalhos jornalísticos
       de visualização de dados no Brasil. Aqui, importa a capacidade de apresentação
       e comunicação, além de boas práticas no design de informação e usabilidade.
   - title: Dados abertos
-    year: images/pastinha.png
+    year: images/icone3.png
     academy: Trabalhos de excelência graças a suas práticas de transparência, utilização
       da Lei de Acesso à Informação, estruturação e disponibilização de dados abertos,
       documentação de metodologia ou publicação de softwares de código aberto.
   - title: Investigação
-    year: images/lupinha.png
+    year: images/icone4.png
     academy: Descobertas inéditas e novos conhecimentos obtidos graças a análises
       de dados inovadoras ou coletas inéditas. Buscamos trabalhos de alto impacto
       social que tenham feito o uso de dados para jogar luz em tópicos de interesse
       público.
   - title: Inovação e experimentação
-    year: images/foguetinho.png
+    year: images/icone1.png
     academy: Trabalhos inovadores de jornalismo de dados, que fujam da rotina e tragam
       elementos de experimentação. Inovação aqui não se restringe apenas ao uso de
       novas tecnologias, mas pode envolver também metodologias e formatos.
