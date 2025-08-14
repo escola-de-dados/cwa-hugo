@@ -7,22 +7,27 @@ title = "Prêmio de Jornalismo de Dados"
 name = "2022"
 parent = "edições"
 url = "edicoes/2022"
-weight = 3
+weight = 4
 [[menu.main]]
 name = "2023"
 parent = "edições"
 url = "edicoes/2023"
-weight = 2
+weight = 3
+[[menu.main]]
+name = "2025"
+parent = "edições"
+url = "edicoes/2025"
+weight = 1
 [[menu.main]]
 name = "2024"
 parent = "edições"
 url = "edicoes/2024"
-weight = 1
+weight = 2
 [[menu.main]]
 name = "2019"
 parent = "edições"
 url = "edicoes/2019"
-weight = 6
+weight = 7
 [[menu.main]]
 name = "Manual"
 parent = "Jornalismo de Dados"
@@ -32,7 +37,7 @@ weight = 3
 name = "2020"
 parent = "edições"
 url = "edicoes/2020"
-weight = 5
+weight = 6
 [[menu.main]]
 name = "Fórum"
 parent = "Jornalismo de Dados"
@@ -47,7 +52,7 @@ weight = 1
 name = "2021"
 parent = "edições"
 url = "edicoes/2021"
-weight = 4
+weight = 5
 [[menu.main]]
 URL = "regulamento/faq"
 name = "FAQ"

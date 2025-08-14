@@ -10,8 +10,8 @@ about:
     no Brasil.
   button:
     enable: true
-    label: Saiba mais
-    URL: about
+    label: Edição 2025
+    URL: /edicoes/2025/
   
 skill:
   enable: false
