@@ -33198,3 +33198,466 @@
   category: Inovação e Experimentação
   image: images/edicoes/2024/Robos WhatsApp.jpg
   ano: '2024'
+- title: A Constituição dos Sonhos
+  project_url: www12.senado.leg.br/noticias/constituicao-dos-sonhos/
+  veiculo: Agência Senado
+  autoria: Florian Augusto de Abreu Coutinho Madruga/ Silvio Burle de Menezes/ Luiz Henrique Gonzaga Machado/ Fabiano Parente/ Matheus Bezerra/ Bernardo Ururahy/ Mateus Mativi
+  data: 10/4/2024
+  resumo: "A Constituição dos Sonhos resgata um momento crucial da história brasileira: a participação popular na elaboração da Constituição 
+    de 1988, após 21 anos de ditadura militar. A reportagem explora uma base de dados pouco conhecida com as mais de 72 mil 
+    cartas enviadas por cidadãos à Assembleia Constituinte, revelando o perfil dos remetentes e os principais temas abordados nas 
+    mensagens. Além disso, disponibilizou todo o acervo de cartas para consulta por meio de uma aplicação interativa.
+    O projeto confere um olhar jornalístico moderno a um arquivo histórico praticamente esquecido."
+  relevância: "O Brasil vive um momento de intensa polarização política, com desafios à democracia e 
+    à participação popular. Nesse contexto, 'A Constituição dos Sonhos' traz ao público um exemplo inspirador 
+    de engajamento cidadão em um período de efervescência democrática. As informações e dados estão disponíveis 
+    para pesquisadores, gestores públicos e outros jornalistas para que promovam novas investigações, debates e reflexões 
+    sobre democracia, direitos e participação. Nas redes sociais, cidadãos relatam ter identificado cartas enviadas por 
+    parentes e amigos há mais de três décadas, resgatando memórias pessoais e afetivas. Há ainda relatos de educadores 
+    informando que utilizariam o conteúdo como material didático em sala de aula. Jornalistas também foram impactados: um dos jornais 
+    mais influentes do Brasil, O Estado de S. Paulo, usou as informações para produzir a reportagem “Em 72 mil cartas, a Constituição 
+    dos Sonhos” (publicada em 13/11/2024), entrevistando autores das cartas e ampliando o alcance da iniciativa. Recentemente, a Rádio 
+    Novelo se inspirou em “A Constituição dos Sonhos” para produzir o podcast 'Carta Magna'."
+  originalidade: 'Este projeto demonstra como técnicas modernas podem revitalizar arquivos históricos e transformá-los em narrativas instigantes para diferentes públicos. A combinação do uso de recursos de inteligência artificial com storytelling visual é uma solução original para lidar com grandes volumes de dados não estruturados, como são os conteúdos das cartas. Essa iniciativa reforça que o jornalismo pode ser uma ponte entre passado e presente – conectando narrativas históricas ao contexto contemporâneo.'
+  metodologia: "O projeto utilizou um conjunto de ferramentas tecnológicas para transformar um arquivo histórico em uma experiência digital interativa. A análise textual das cartas foi realizada com algoritmos de inteligência artificial – incluindo vetorização semântica e clusterização – utilizando Python. Isso permitiu identificar padrões temáticos nas mensagens enviadas pelos cidadãos. A aplicação web foi desenvolvida com HTML5, CSS3 e JavaScript para garantir uma interface responsiva acessível em dispositivos móveis e desktops. Visualizações dinâmicas foram criadas para apresentar dados complexos de forma clara e atraente. A ferramenta interativa de busca foi alimentada por uma base estruturada em JSON para otimizar o processamento no navegador. Todo o design priorizou princípios de UX (experiência do usuário), garantindo que a navegação fosse intuitiva e funcional. Esses recursos tecnológicos não apenas modernizaram a apresentação do conteúdo histórico, mas também tornaram os dados acessíveis ao público geral."
+  uf: DF
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2025/ConstituicaodosSonhos.jpg
+  ano: '2025'
+- title: Petrobras lidera ranking de infrações ambientais no Brasil nos últimos 25 anos
+  project_url: https://lupa.uol.com.br/jornalismo/2025/04/01/petrobras-lidera-ranking-de-infracoes-ambientais-no-brasil-nos-ultimos-25-anos
+  veiculo: Lupa
+  autoria: Francisco Amorim/ Ítalo Rômany/ Evelin Mendes
+  data: 4/1/2025
+  resumo: A reportagem mostra que a Petrobras — maior empresa brasileira em valor de mercado, avaliada em R$ 500 bilhões — também lidera o ranking de infrações ambientais federais no Brasil nos últimos 25 anos. Com 2,7 mil multas aplicadas pelo Ibama entre 2000 e 2025, a estatal foi autuada em média uma vez a cada três dias. O levantamento, baseado em 491 mil autos de infração válidos, mostra que as penalidades aplicadas à Petrobras e suas subsidiárias superam em até 12 vezes as de outros grandes infratores, como DNIT e Sanepar. A investigação jornalística da Lupa, inédita em escopo e profundidade, ganha relevância ao coincidir com os 25 anos do desastre da Baía de Guanabara e o atual debate sobre a exploração de petróleo na foz do Rio Amazonas. 
+  relevância: A série especial da Lupa se destaca pelo rigor investigativo e pela inédita análise de dados abertos ambientais, trazendo à tona a dimensão das infrações cometidas pela Petrobras. Com base em 491 mil autos de infração válidos do Ibama, a reportagem mostra que a estatal foi responsável por 2,7 mil autuações ambientais entre 2000 e 2025, uma média alarmante de uma infração a cada três dias. A investigação, feita com metodologia transparente e fundamentada em bases públicas, demonstra o poder do jornalismo de dados na revelação de padrões estruturais de impunidade e danos ambientais. Além de expor um histórico oculto de crimes ambientais, o trabalho ganha relevância ao relacionar os dados com marcos importantes da política e da memória ambiental brasileira, a exemplo dos 25 anos do desastre da Baía de Guanabara e o atual impasse sobre a exploração de petróleo na foz do Amazonas. A Petrobras, cuja maior parte das infrações se concentra no sistema Costeiro e Marinho, lidera com folga o ranking federal de autuações ambientais. Esta é uma reportagem de alto impacto público, que combina transparência e urgência ambiental, utilizando informação pública de forma inovadora para responsabilizar grandes atores  e fomentar o debate sobre sustentabilidade e fiscalização ambiental no Brasil.
+  originalidade: O trabalho apresenta uma série de aspectos inéditos e originais que o tornam especialmente relevante no cenário jornalístico e ambiental brasileiro.  O primeiro motivo é a sistematização e cruzamento de mais de 500 mil autos de infração do Ibama disponíveis em dados abertos. O trabalho filtrou 491 mil autuações válidas, descartando duplicidades, erros e autos cancelados, um processo de limpeza e curadoria de dados. O uso criterioso e metodológico de bases públicas é um diferencial importante e fortalece o jornalismo de dados como ferramenta de prestação de contas. A reportagem foca não em casos isolados, mas na recorrência sistêmica de infrações ambientais cometidas por grandes entidades — especialmente a Petrobras. A abordagem permite quantificar a impunidade ambiental de uma das maiores estatais do país, indo além da cobertura episódica de desastres. Essa contextualização histórica e política amplia o impacto da investigação e mostra como o comportamento institucional da Petrobras se mantém ao longo do tempo.
+  metodologia: "Esta reportagem teve como objetivo identificar e listar as pessoas físicas e jurídicas mais autuadas pelo Ibama por infrações ambientais, 
+    assim como quantificar, de maneira secundária, os valores aplicados em multas ao longo dos últimos 25 anos. Em termos gerais, buscamos mapear os principais 
+    infratores ambientais do país com base em evidências oficiais. 
+    https://dadosabertos.ibama.gov.br/dados/SIFISC/auto_infracao/auto_infracao/auto_infracao_csv.zip A base de dados utilizada foi extraída do portal de 
+    dados abertos do Ibama, que compila os autos de infração ambiental lavrados desde 1977. No entanto, a escassez e a baixa regularidade dos registros 
+    anteriores ao ano 2000 – provavelmente em razão de limitações nos processos de digitalização e sistematização da informação – motivaram a delimitação 
+    da série histórica às autuações registradas a partir desse ano. Esse recorte temporal teve como objetivo assegurar maior consistência analítica e reduzir 
+    possíveis vieses decorrentes da incompletude dos dados nas décadas anteriores. Com esse ajuste, a base passou a contemplar aproximadamente 519 mil 
+    registros. Um dos principais desafios metodológicos enfrentados foi a presença de duplicidades. Segundo informação disponibilizada pelo próprio Ibama, 
+    isso ocorre “em decorrência da forma de transformação de dados adotada, parte dos autos de infração lavrados a partir de outubro de 2019 é exibido mais 
+    de uma vez, quando associado a mais de um polígono de autuação ou demais atributos, o que pode ter como consequência uma contagem superestimada na 
+    quantidade de autos de infração nesse período”. Durante a verificação dos dados, contudo, identificamos que tal problema não se restringe a esse período e 
+    está presente inclusive em anos anteriores. Localizamos ainda erros de inserção nos números dos autos – por exemplo, trocas de “S” por “5”, ou “O” 
+    por “0” – e registros sem identificação de CPF ou CNPJ, o que prejudica a identificação de homônimos em alguns registros. A fim de garantir maior robustez 
+    aos resultados, aplicamos etapas sucessivas de tratamento e padronização dos dados. A primeira foi a filtragem por status. Nela, removemos da 
+    análise todos os autos de infração com status 'cancelado' na base de dados, situação definida a partir de informações registradas no Sistema de Cadastro, 
+    Arrecadação e Fiscalização (Sicafi) e na página do Sistema de Apoio à Gestão Ambiental Integrada e ao Monitoramento da Biodiversidade (Sabiá/AIEMOB). 
+    Essa etapa reduziu o volume para cerca de 496,8 mil registros válidos. Em seguida, adotamos critérios específicos para o tratamento de duplicidades – 
+    sempre que identificamos que uma autuação estava duplicada na base, mantivemos apenas uma das inserções. Para isso, foram eliminados registros que 
+    apresentavam o mesmo número de auto de infração, desde que compartilhassem de forma idêntica ao menos um dos dois atributos a seguir: valor da multa ou 
+    número do processo administrativo. Também foram removidos os registros com a combinação tripla de data de lavratura do auto de infração, valor da multa e 
+    número do processo, mesmo que o número do auto de infração fosse distinto. Por fim, registros que apresentavam o mesmo valor de multa e o mesmo número de 
+    processo, ainda que com número de infração divergente, também foram descartados. Ao final desse processo com abordagem conservadora, aproximadamente cinco 
+    mil registros foram eliminados. A base final utilizada nas análises e nos rankings apresentados nesta reportagem totalizou 491,6 mil autos de infração – 
+    incluindo 3,2 mil registros sem informações de CPF ou CNPJ, mantidos por não impactarem a verificação de duplicidades. Esse pequeno conjunto de registros 
+    foi considerado nas análises gerais sobre o universo de infrações, mas desconsiderados para fins de ranqueamento dos infratores. A etapa seguinte foi a 
+    classificação das empresas com a associação entre matrizes e filiais para identificação de grupos econômicos (holding e controladas). Para isso, as 
+    pessoas jurídicas foram agrupadas pelo CNPJ básico, formado pelos oito primeiros dígitos, que é comum a matrizes e filiais. No caso da Petrobras, também 
+    foi associada sua subsidiária Transpetro, que possui CNPJ distinto, mas mantém relação logística direta e estratégica com a cadeia de produção – aspecto 
+    relevante para esta reportagem, que discute, a partir dos achados, questões relacionadas à extração de petróleo, como a logística de transporte. Essa 
+    associação foi realizada após a constatação da liderança da estatal no ranking de infratores – mesmo com o descarte das infrações atribuídas à Transpetro, 
+    o sistema Petrobras permaneceria na primeira posição entre as pessoas físicas e jurídicas mais autuadas pelo Ibama. Optou-se, contudo, por excluir do 
+    cômputo do sistema Petrobras a BR Distribuidora, que, embora tenha integrado a estatal até o início desta década, já não pertence ao mesmo grupo 
+    empresarial. A última etapa do ranqueamento consistiu na ordenação das pessoas físicas e jurídicas pelo número de autuações registradas, com base em 
+    seus respectivos números de identificação – CPF, no caso das pessoas físicas, e CNPJ básico, no caso das jurídicas –, resultando na lista publicada nesta 
+    reportagem."
+  uf: PB
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2025/Captura de Tela 2025-06-18 as 17.48.50.png
+  ano: '2025'
+- title: 'Letais, violentos e intencionais: os crimes contra policiais no Ceará'
+  project_url: https://mais.opovo.com.br/https//mais-opovo-com-br/reportagens-especiais/policiais-seguranca-publica/2025/06/08/letais-violentos-e-intencionais-os-crimes-contra-policiais-no-ceara.html
+  veiculo: O POVO+
+  autoria: Mateus Mota/ Ayuri Reis/ Wanderson Trindade
+  data: 6/8/2025
+  resumo: Em um levantamento exclusivo da Central de Dados O POVO+, obtido por meio da Lei de Acesso à Informação, esta reportagem explora o número crescente de mortes entre oficiais das forças de segurança no Ceará e analisa como esses dados se articulam com a realidade do resto do País.
+  relevância: "A reportagem entra em um debate que ainda carece de profundidade no Brasil: como a violência urbana tem atingido os próprios agentes de segurança. Apesar de gerar controvérsias, a discussão sobre violência policial e excessos por parte dos agentes policiais é a que predomina na mídia e no debate público. Entendemos que discutir a violência sofrida pelos agentes não se opõe a essa discussão, pelo contrário, soma e amplifica a importância de articular o debate sobre segurança pública. Por meio dos dados e das entrevistas, é possível traçar um panorama da situação do sistema de segurança pública e das carreiras policiais no Ceará." 
+  originalidade: O levantamento de dados é totalmente original e exclusivo, obtido por meio de Lei de Acesso à Informação. A reportagem traz análises inéditas que revelam o momento em que os policiais mais são assassinados, qual a idade média das vítimas, em qual horário acontecem os crimes e quais as corporações mais atingidas, por exemplo. Em visualizações didáticas e interativas, a reportagem contribui para dar visibilidade ao desafio enfrentado por esses servidores públicos. 
+  metodologia: "Este material foi elaborado a partir de um pedido realizado via Lei de Acesso à Informação (LAI), por meio do portal Ceará Transparente, 
+    pela Central de Dados O POVO+. Os dados foram fornecidos pela Superintendência de Pesquisa e Estratégia de Segurança Pública (Supesp) e referem-se às 
+    mortes de agentes de segurança pública do Ceará, ocorridas entre os anos de 2013 e 2025. As informações foram disponibilizadas em formato aberto (.CSV), 
+    contendo os seguintes campos: data, hora, natureza da ocorrência, idade da vítima, corporação à qual pertencia e momento da morte. A análise dos dados foi 
+    conduzida na plataforma Google Colab, utilizando a linguagem Python e bibliotecas como Pandas (para tratamento e limpeza dos dados), 
+    Plotly (para criação de visualizações interativas) e statsmodels (para decomposição de séries temporais). Todas as etapas do processo — desde a preparação 
+    até a exploração e categorização — foram cuidadosamente documentadas para garantir que qualquer pessoa possa reproduzir os resultados, 
+    ajustar filtros ou aprofundar a investigação conforme necessário. A metodologia adotada prioriza acessibilidade, visualização clara das informações e 
+    rigor técnico. Para reforçar o compromisso com a transparência e a reprodutibilidade, O POVO+ disponibiliza os dados e códigos publicamente em 
+    seu perfil no GitHub, que pode ser acessado em: https://github.com/opovo-mais/jornalismodedados"
+  uf: CE
+  tipo_inscricao: Dados Abertos
+  formato: Online
+  category: Dados Abertos
+  image: images/edicoes/2025/CLVI CE POL.png
+  ano: '2025'
+- title: 'Check-Up'
+  project_url: https://www.aosfatos.org/noticias/anuncios-sites-jornalisticos-desinformacao-saude-curas-falsas/
+  veiculo: Aos Fatos
+  autoria: Bruno Fávero/ Bianca Bortolon, Milena Mangabeira/ Rhenan Bartels/ Leonardo Cazes/ Luiz Fernando Menezes / Yvna Sousa
+  data: 26/11/2025
+  resumo: O projeto "Check-Up"  usou tecnologia para investigar de forma pioneira a desinformação que circula em anúncios dos principais portais 
+    de notícias brasileiros. Na primeira fase, a equipe desenvolveu uma ferramenta de raspagem e classificação por IA para mapear como a desinformação 
+    sobre saúde se propaga através da publicidade nativa, coletando e analisando 242.812 anúncios das caixas de recomendação de nove grandes sites 
+    jornalísticos do país. A análise revelou que 90% dos anúncios relacionados à saúde continham informações falsas ou enganosas. Na segunda fase, publicada 
+    em maio de 2025, a ferramenta foi aplicada para analisar cerca de 50.000 anúncios de apostas online (bets) publicados entre janeiro de 2024 e março de 
+    2025, revelando que mais de 70% prometem benefícios exagerados ou irregulares. Além de mapear a desinformação em ambos os setores, a investigação 
+    identificou estratégias recorrentes utilizadas pelos anunciantes para enganar consumidores e revelou como esses anúncios exploram a credibilidade dos 
+    portais respeitáveis para contornar supervisão editorial. Todo os dados e código usados na apuração foram tornados abertos no GitHub do Aos Fatos.
+  relevância: "Enquanto as redes sociais recebem constante escrutínio por disseminar desinformação, os anúncios nativos em sites de notícias confiáveis 
+    permaneciam sem análise similar. A investigação demonstrou como esses anúncios exploram a credibilidade dos portais para enganar consumidores e 
+    desinformar. O Check-up resultou em vários impactos concretos: após a publicação da primeira fase, a ombudsman do jornal Folha de S.Paulo usou o 
+    trabalho para exortar o jornal a mudar sua política de anúncios; grupos de pesquisa, como o da PUC-RJ, passaram a usar a ferramenta em estudos acadêmicos; 
+    o vídeo explicativo sobre o relatório alcançou mais de 100 mil visualizações e, por fim, o trabalho  foi apresentado na conferência Latam Chequea 2024. 
+    A segunda fase expandiu o impacto ao abordar as apostas online, setor que movimentou R$ 240 bilhões em 2024 e envolveu cerca de 20 milhões de apostadores. A investigação revelou violações às normas da Lei nº 14.790 e da Portaria 1.231/2024, contribuindo para o debate sobre regulamentação de jogos online e seus impactos na saúde pública, especialmente relacionados à depressão e ao endividamento. 
+    A investigação inseriu na agenda pública temas anteriormente ignorados, estimulando discussão sobre como equilibrar necessidades de receita com compromissos 
+    de veracidade no jornalismo digital."
+  originalidade: "O projeto apresenta diversos aspectos inéditos: foi a primeira análise sistemática da desinformação em anúncios nativos de portais 
+    de notícias no Brasil, revelando um problema ignorado tanto para produtos de saúde quanto para apostas online; segundo, a combinação de raspagem 
+    massiva de dados com inteligência artificial (GPT-4) para processar volume impossível de analisar manualmente; terceiro, o mapeamento de estratégias 
+    recorrentes utilizadas pelos anunciantes. A evolução do projeto para uma segunda investigação sobre apostas online demonstra a 
+    versatilidade e replicabilidade da metodologia desenvolvida, comprovando que a ferramenta Check-up pode ser aplicada para detectar 
+    desinformação em diferentes setores. A investigação não apenas quantificou o problema, mas criou uma taxonomia das estratégias de enganação, 
+    estabelecendo um método replicável para identificar desinformação em múltiplos contextos."
+  metodologia: "A metodologia combinou tecnologia com rigor jornalístico, sendo replicada e adaptada nas duas fases da investigação:
+
+    Fase 1 - Saúde (5 etapas):
+
+      - Seleção das plataformas usando Similarweb para identificar os 100 principais sites brasileiros de notícias, verificando manualmente quais possuíam anúncios nativos
+      - Coleta automatizada de dados durante 45 dias com servidor acessando sites múltiplas vezes diariamente, usando biblioteca Playwright para extrair 242.812 anúncios de 15.164 URLs únicos
+      - Classificação com GPT-4 da OpenAI em 16 categorias, identificando Saúde e Beleza como 37% do total
+      - Verificação aplicando metodologia do Aos Fatos nos 90.934 anúncios de saúde através de seleção de afirmações verificáveis, pesquisa com 
+        fontes primárias e especialistas, e avaliação como 'falso', 'enganoso', 'verdadeiro' ou 'não verificável'
+      - Análise qualitativa para identificar produtos predominantes e estratégias recorrentes
+
+      Fase 2 - Apostas Online:
+      Adaptação da metodologia para analisar cerca de 50.000 anúncios de bets publicados entre janeiro de 2024 e março de 2025, 
+      utilizando os mesmos recursos tecnológicos do Check-up para detectar promessas enganosas, verificar conformidade com regulamentações do 
+      Ministério da Fazenda e identificar empresas não autorizadas.
+
+      A ferramenta foi formulada como uma biblioteca na linguagem Python, utilizando um modelo de linguagem de Inteligência Artificial (LLM) para 
+      classificação temática. Todo o código foi disponibilizado no GitHub: https://github.com/aosfatos/check-up"
+  uf: RJ
+  tipo_inscricao: Inovação e Experimentação
+  formato: Online
+  category: Inovação e Experimentação
+  image: images/edicoes/2025/cover.png
+  ano: '2025'
+- title: 'Mar de papéis: Santinhos no chão dão votos, mas não garantem vitória'
+  project_url: https://agenciamural.org.br/especiais/santinhos-no-chao-da-votos-mas-nao-garantem-vitoria/
+  veiculo: Agência Mural de Jornalismo das Periferias
+  autoria: Paulo Talarico | Ariane Costa Gomes | Artur Ferreira | Ana Beatriz Alves | Daniel Santana | Estela Aguiar | Gabriel Negri | Isabela do Carmo | Livia Alves | Luis Antonio | Matheus Oliveira | Thauane Blanche | Thila Moura | Wellington Nascimento | Léu Britto
+  data: 31/10/2024
+  resumo: Levantamento exclusivo da Agência Mural revela o peso da boca de urna e dos papéis que sujam as ruas no dia da eleição. Com um cruzamento de dados públicos com os papéis coletados por repórteres em cada unidade escolar, foi possível comprovar que campeões de votos em escolas de SP tinham mais santinhos jogados nas calçadas. Apesar dos vitoriosos, maioria jogou santinhos ao vento.
+  relevância: A boca de urna é um tema que sempre é abordado durante as eleições, sejam as disputas nacionais ou municipais. No entanto, em geral, grande parte do noticiário é marcada pelo relato de que há sujeiras nas ruas. Com o uso de dados e a presença em diversas escolas das periferias de São Paulo, levantamos uma discussão sobre por que isso acontece, qual a responsabilidade dos políticos nisso e qual o resultado. 
+  originalidade: A reportagem traz um recorte inédito sobre o impacto da boca de urna no dia das eleições. Utiliza dados contabilizados manualmente com dados públicos do resultado das eleições municipais. 
+  metodologia: O levantamento foi feito com uma ideia diferente. No dia da votação do primeiro turno, 13 correspondentes da Mural anotaram quem 
+    eram os candidatos com mais ‘santinhos’ jogados na frente de colégios espalhados pelas periferias da capital e da Grande São Paulo. Após a votação, 
+    levantamos o resultado em cada um dos colégios para identificar se havia correlação entre a entrega de santinhos e o resultado nas urnas. 
+    Utilizamos para isso bases do TSE (Tribunal Superior Eleitoral). 
+  uf: SP
+  tipo_inscricao: Inovação e Experimentação
+  formato: Online
+  category: Inovação e Experimentação
+  image: images/edicoes/2025/Gari-limpando-os-santinhos-espalhados-de-frente-a-escola-1024x768 (1).jpeg
+  ano: '2025'
+- title: 'Agregador do Preço Comparado: ferramenta compara preços de produtos de supermercados em Fortaleza'
+  project_url: https://mais.opovo.com.br/reportagens-especiais/preco-comparado-supermercados/agregador-preco-comparado.html
+  veiculo: O POVO+
+  autoria: Wanderson Trindade/ Beatriz Cavalcante/ Fátima Sudário/ Catalina Leite/ Camila Pontes
+  data: 29/04/2025
+  resumo: O Agregador do Preço Comparado é uma ferramenta interativa resultante de uma parceria entre O POVO e O POVO+ com o Procon Fortaleza. Esta iniciativa visa promover o consumo consciente ao permitir que os consumidores de Fortaleza comparem os preços de 100 produtos em 36 supermercados da Cidade, com dados atualizados mensalmente. A plataforma oferece diversas análises, como o catálogo de produtos com as maiores variações de preço, o valor da cesta básica por supermercado, e a evolução dos preços ao longo do tempo.
+  relevância: O Agregador do Preço Comparado transforma dados brutos de 100 itens pesquisados em 36 supermercados da capital em uma ferramenta interativa que estimula o consumo consciente e a economia doméstica. A plataforma permite ao público visualizar de forma clara o comportamento dos preços ao longo do tempo, identificar os supermercados mais vantajosos, acompanhar a variação da cesta básica e comparar preços entre 2024 e 2025. Com isso, promove transparência no mercado, amplia o acesso à informação e exemplifica o uso do jornalismo de dados como serviço público, ao oferecer uma análise profunda, acessível e de impacto direto na vida do consumidor.
+  originalidade: "A originalidade do Agregador do Preço Comparado está na forma como transforma dados públicos brutos em uma ferramenta interativa, prática e informativa voltada ao consumo consciente. O projeto vai além da simples divulgação de preços ao estruturar cinco formatos de análise, incluindo evolução histórica, comparação anual, valor da cesta básica e mapa geográfico dos supermercados, algo inédito no jornalismo local. A visualização dinâmica do comportamento de preços ao longo do tempo oferece uma perspectiva nova e aprofundada para o consumidor. Além disso, a produção de conteúdo jornalístico a partir de dados governamentais dá novo significado à prestação de serviço, unindo transparência de mercado, inovação digital e utilidade pública com rigor metodológico e acessibilidade.
+    Outro aspecto original é a integração do agregador à rotina da redação: a partir da ferramenta, os jornalistas podem extrair (e extraem) dados para reportagens no jornal impresso, portal online e redes sociais, ampliando a distribuição de conteúdo e direcionando tráfego para um material originalmente exclusivo para assinantes. Com isso, o projeto também contribui para a rentabilidade e sustentabilidade do jornalismo digital, ao equilibrar prestação de serviço, inovação e geração de receita com conteúdo relevante e de impacto público."
+  metodologia: "O Agregador do Preço Comparado é uma ferramenta desenvolvida a partir do projeto Preço Comparado, uma parceria entre O POVO e 
+    O POVO+ com o Procon Fortaleza. A pesquisa é realizada mensalmente e analisa 100 produtos em 36 supermercados da Capital.
+
+    Para produção desta ferramenta, a Central de Dados O POVO+ elaborou cinco formatos de análise:
+
+    1. Catálogo de produtos: Lista completa dos itens pesquisados, indicando os menores e maiores preços registrados, além da variação máxima de valor entre os supermercados.
+
+    2. Mapa dos supermercados: Visualização geográfica dos estabelecimentos incluídos na pesquisa.
+
+    3. Valor da cesta básica por supermercado: Gráfico de barras com o preço total da cesta básica em cada estabelecimento, considerando os produtos e quantidades definidos pelo Dieese:
+
+      - Arroz – 3,6 kg
+      - Açúcar – 3 kg
+      - Banana – 1 kg
+      - Café em pó – 300 g
+      - Carne – 4,5 kg
+      - Farinha – 1,5 kg
+      - Feijão – 4,5 kg
+      - Leite – 6 L
+      - Óleo – 900 ml
+      - Manteiga – 750g
+      - Pão – 6 kg
+      - Tomate – 12 kg
+
+    4. Evolução mensal de preços: Acompanhamento da variação dos preços de cada produto ao longo de 2025.
+
+    5. Comparativo 2024 x 2025: Análise da evolução dos preços em 2025 com base nos dados do ano anterior." 
+  uf: CE
+  tipo_inscricao: Inovação e Experimentação
+  formato: Online
+  category: Inovação e Experimentação
+  image: images/edicoes/2025/imagem_2025-06-15_103903477.png
+  ano: '2025'
+- title: Entre a fila do SUS e a vida
+  project_url: https://infograficos.oglobo.globo.com/saude/tempo-de-espera-para-consulta-e-cirurgia-em-estados-e-municipios-no-sus.html 
+  veiculo: OGLOBO
+  autoria: Sarah Teófilo/ Dimitrius Dantas/ Karolini Bandeira/ Thiago Faria/ Thiago Bronzatto/ Vinicius Machado/ Mario Martinho/ Thiago Quadros/ Hudson Lessa / Alessandro Alvim
+  data: 16/03/2025
+  resumo: Ferramenta desenvolvida pelo jornal O GLOBO revelou de forma inédita o tamanho da fila do SUS e ofereceu aos leitores um serviço exclusivo de consultar do tempo de espera por especialidade, localidade e tipo de procedimento. A análise mostrou, por exemplo, que a espera para consultas bateu recorde e durou em média 57 dias em 2024. As reportagens trouxeram dados impactantes, que mostraram como o prazo para cirurgia no SUS atingiu patamares recordes após a pandemia e no governo Lula, com espera de até 634 dias em média. O trabalho foi além dos números e contou o drama e a angústia de pacientes que lutam por anos a fio para sobreviver enquanto precisam esperar uma consulta ou cirurgia.
+  relevância: "Era essencial investigar a fila do Sistema Único de Saúde (SUS) diante da falta de clareza em torno da fila de espera, cujos dados não 
+    estavam publicamente acessíveis de forma consolidada. O trabalho expôs falhas estruturais de gestão no Ministério da Saúde, que não possui 
+    entendimento e controle total do tamanho da fila, além de revelar o impacto humano da espera por atendimento público. A reportagem revelou que 5,7 milhões 
+    de pessoas aguardavam por uma consulta em janeiro deste ano em todo o país. Há especialidades em que o tempo médio de espera foi de dois anos. 
+    A repercussão foi imediata: a ferramenta desenvolvida pelo jornal foi amplamente utilizada pelos leitores, e a equipe recebeu relatos de pessoas 
+    que aguardavam consultas e cirurgias há anos. A publicação da reportagem provocou uma resposta concreta do governo federal, que editou uma portaria 
+    para melhorar o sistema de gestão das filas — uma mudança concreta decorrente do trabalho jornalístico."
+  originalidade: É a primeira vez que um veículo brasileiro compila os dados do Sistema de Regulação (SISREG) do Ministério da Saúde, observa padrões, calcula o tamanho da fila de cirurgias e consultas por tipo de procedimento e desenvolve uma ferramenta de consulta nacional que revela o tamanho da fila do Sistema Único de Saúde (SUS), oferecendo aos leitores um serviço exclusivo de consultar do tempo de espera por especialidade, localidade e tipo de procedimento. Os dados foram coletados pela equipe por meio da Lei de Acesso à Informação (LAI).
+  metodologia: Inicialmente, fizemos uma série de pedidos via Lei de Acesso à Informação para obter os dados do sistema de regulação (SISREG) do Ministério da Saúde. Diante do tamanho dos arquivos, fizemos a análise de dados em Python. Também usamos inteligência artificial (chatGPT) para caracterizar os procedimentos do SUS e para auxiliar na programação em Python. Após a análise dos dados de consultas e cirurgias, observamos os principais gargalos para produzir as reportagens. Para a ferramenta de consulta incluída no site do jornal, exportamos os dados para uma tabela simples, enviada para a equipe de arte. 
+  uf: DF
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2025/entre a vida e a fila.JPG
+  ano: '2025'
+- title: Projeto Escravizadores
+  project_url: https://apublica.org/especial/projeto-escravizadores-investigacoes-sobre-escravidao-no-brasil/ 
+  veiculo: Agência Pública de Jornalismo Investigativo
+  autoria: Amanda Audi/ Ana Alice de Lima/ Babak Fakhamzadeh/ Bianca Muniz/ Bruno Fonseca/ Danilo Queiroz/ Darlene Dalto/ Leandro Aguiar/ Mariama Correia/ Matheus Pigozzi/ Matheus Santino/ Pedro Ezequiel/ Rafael Custódio/ Rafael Oliveira/ Raphaela Ribeiro
+  data: 19/11/2024
+  resumo: "O Projeto Escravizadores é uma investigação inédita que mapeou as raízes genealógicas de 116 dos principais líderes políticos do Brasil, 
+    incluindo todos os presidentes desde a redemocratização, os governadores em exercício e os senadores da atual Legislatura. O objetivo foi identificar 
+    laços familiares diretos (pais, avós, bisavós e assim por diante) com antigos escravocratas, ou seja, pessoas que possuíam ou se beneficiaram do 
+    trabalho de pessoas escravizadas.
+
+    A investigação concluiu que, das 116 autoridades analisadas, pelo menos 33 teriam antepassados diretos ligados a escravizadores. 
+    Isso inclui metade dos presidentes brasileiros desde o fim da ditadura, quase metade dos atuais governadores e um quinto dos senadores em exercício. 
+    Muitos dos políticos nem sequer conheciam esses parentes ou mantinham relação próxima com suas linhagens.
+
+    Para traçar essas árvores genealógicas e comprovar os vínculos, foram documentados mais de 200 parentescos e consultados cerca de 500 documentos 
+    históricos. Estes incluem registros paroquiais e de cartórios (batismos, nascimentos, casamentos), listas nominativas de habitantes (espécie de censo 
+    do século XIX), inventários post-mortem (que detalhavam bens, incluindo pessoas escravizadas), jornais antigos em hemerotecas, e trabalhos acadêmicos de 
+    diversas universidades brasileiras.
+    As descobertas foram apresentadas em uma visualização interativa dos 33 políticos e seus antepassados, acompanhada por 15 reportagens aprofundadas 
+    que exploram alguns casos individuais, o legado da escravidão no Brasil e os desafios na pesquisa da história familiar de pessoas negras, além de temas 
+    como justiça reparatória e, famílias que mantêm o poder por séculos.
+
+    O projeto contou com a colaboração de pesquisadores da Universidade Federal do Paraná e apoio do Pulitzer Center."
+  relevância: "A relevância do projeto está tanto no campo do jornalismo investigativo quanto no debate social e histórico brasileiro e pode ser compreendida pelos seguintes pontos:
+    - O projeto é uma investigação inédita na história do jornalismo brasileiro ao mapear as raízes genealógicas dos principais líderes políticos do país e identificar laços familiares com antigos escravocratas;
+    - O projeto obteve reconhecimento nacional e internacional: Foi citado pelo The New York Times; destacado pela LatAm Journalism Review em português, inglês e espanhol; traduzido para o francês pela Autres Brésils; repercutiu em diversas mídias e programas brasileiros, como DW Brasil, Jornal do Brasil, UOL, Terra, Band, e rádio Escafandro; foi mencionado por Frei David, fundador da EducaAfro, durante um evento oficial organizado pela Advocacia-Geral da União em parceria com o Ministério da Igualdade Racial; resultou em uma coluna na Folha de S. Paulo sobre a importância da investigação, além de ser apresentado no NICAR 2025 e no seminário “Reflexos do espelho de Oxum: a radicalidade negra perante a branquitude”, promovido pelo Observatório da Branquitude;
+    - Superação de desafios metodológicos e de acesso: A relevância do projeto é ainda maior ao considerar as dificuldades enfrentadas, como a dispersão de informações sobre a escravidão no Brasil (diferente de outros países como os EUA, que tinham formulários de censo mais estruturados), a dificuldade de decifrar a escrita paleográfica em documentos antigos, e o acesso restrito a alguns arquivos;
+    - O trabalho levanta um debate que muitas autoridades brasileiras querem evitar: como figuras de poder, no passado e no presente, se beneficiaram da escravidão. O projeto visa reconhecer quem se beneficiou do sistema escravista, questionar a história oficial, valorizar histórias apagadas e fomentar o debate sobre reparação, pois as consequências da escravidão perduram até hoje, estruturando o presente, as dinâmicas de poder e desigualdades sistêmicas."
+  originalidade: É a primeira vez que uma investigação jornalística mapeia a genealogia de figuras centrais do poder político do Brasil com a escravidão. Embora inspirado em trabalhos estrangeiros como "Slavery's Descendants" da Reuters, o projeto adaptou sua metodologia à realidade brasileira. A escravidão no Brasil durou mais de 300 anos, e o acesso aos documentos desse período é disperso, diferentemente de países como os Estados Unidos, que possuem formulários de censo mais estruturados com informações sobre escravizados e escravistas. A Agência Pública precisou criar uma metodologia multidisciplinar para superar os desafios e as particularidades dos registros históricos brasileiros.
+    Utilizamos ferramentas do presente para lidar com documentos do passado, como Inteligência Artificial (utilizada para decifrar manuscritos antigos), OCR (reconhecimento óptico de caracteres) em documentos digitalizados, e na organização de dados não-estruturados em relatórios automatizados. Um ChatGPT pessoal foi criado para ajudar na construção de árvores genealógicas.
+    A união da pesquisa histórica e genealógica com o jornalismo investigativo foi outro ponto original do trabalho. A formação de uma equipe mista de jornalistas e pesquisadores da Universidade Federal do Paraná (UFPR) e a consulta de especialistas de outras instituições durante o processo de pesquisa foram fundamentais para a coleta, análise e validação dos dados, uma abordagem que otimizou a investigação de dados complexos e trouxe novas ferramentas para a investigação jornalística (como a numeração Sosa-Stradonitz e o Familysearch, muito utilizados por pesquisadores em genealogia).
+  metodologia: "Metodologia publicada: https://apublica.org/2024/11/como-a-publica-descobriu-os-antepassados-que-teriam-escravizados/
+    Material complementar (publicado posteriormente, para auxiliar na apresentação do projeto na inscrição), com códigos e templates: https://github.com/apublica/projeto-escravizadores/
+
+    A investigação combinou técnicas de genealogia, jornalismo investigativo, análise documental, análise de dados e inteligência artificial para rastrear possíveis vínculos entre autoridades políticas contemporâneas e o sistema escravocrata brasileiro, e contou com a colaboração de pesquisadores da Universidade Federal do Paraná e apoio do Pulitzer Center.
+
+    1. Amostra
+    Foram investigados 116 nomes, entre eles:
+
+    - Todos os presidentes do Brasil desde a redemocratização;
+    - Governadores em exercício;
+    - Senadores da 57ª legislatura (2023–2027).
+
+    Dos investigados, 33 foram identificados com ancestrais ligados diretamente à escravidão.
+
+    2. Fontes consultadas
+    A apuração se baseou em fontes primárias e secundárias, incluindo:
+
+    - Listas nominativas de habitantes e maços de população (equivalentes a censos do século XIX);
+    - Registros de batismo, nascimento, casamento e inventários post-mortem, muitos disponíveis na plataforma FamilySearch, além de arquivos públicos, cartórios e instituições como o Museu da Imigração (CPPR) e Centros de História da Família da Igreja de Jesus Cristo dos Santos dos Últimos Dias;
+    - Dados eleitorais do DivulgaCand (TSE);
+    - Google Acadêmico, para busca de estudos sobre as famílias investigadas;
+    - Hemeroteca da Biblioteca Nacional, com anúncios de jornais históricos;
+    - Redes sociais.
+
+    3. Técnicas de OSINT
+    Foram aplicadas metodologias de inteligência de fontes abertas (OSINT), cruzando nomes de ancestrais com termos como “escravo”, “cativo”, “alforria”, “africano” e “crioulo” em bancos de dados históricos, repositórios acadêmicos e documentos originais. No total, foram analisados cerca de 500 documentos, resultando na identificação de mais de 200 vínculos documentados entre parentes diretos de políticos e pessoas escravizadas.
+
+    4. Uso de ChatGPT, OCR e programação em R
+    Para lidar com manuscritos históricos — geralmente cursivos e degradados —, foram utilizadas tecnologias de OCR e inteligência artificial. Um ChatGPT foi criado para auxiliar na transcrição automática de documentos, extração de informações específicas (nomes, datas, relações familiares, termos jurídicos) e criação de códigos em R com o pacote DiagrammeR, sempre com validação por um membro da equipe.
+
+    5. Visualização e relatórios
+    As árvores genealógicas e conexões familiares foram representadas visualmente, inicialmente, por uma planilha baseada no sistema de numeração genealógica Sosa-Stradonitz, e depois por meio do R e do Quarto, para automatizar a criação de relatórios. Os relatórios automatizados facilitaram a navegação da equipe jornalística pelas redes de parentesco.
+
+    6. Validação e direito de resposta
+    Todas as descobertas foram rigorosamente validadas. Os critérios incluíam:
+    - Existência de documentos originais;
+    - Comprovação de parentesco direto entre o político e o escravizador identificado;
+    - Cruzamento com fontes acadêmicas confiáveis.
+
+    Antes da publicação, a Agência Pública entrou em contato com todos os citados, enviando os resultados com pelo menos 15 dias de antecedência, oferecendo espaço para resposta ou contestação."
+  uf: SP
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2025/proj_escravizadores.png
+  ano: '2025'
+- title: Tentáculos da máfia chinesa
+  project_url: https://www.metropoles.com/materias-especiais/mafia-chinesa-atuacao-sp
+  veiculo: Metrópoles
+  autoria: Artur Rodrigues/ Luiz Vassallo/ Milena Vogado/ Fabio Leite/ Lilian Tahan/ Otto Valle/ Márcia Delgado/ Olívia Meireles/ Érica Montenegro/ Juliana Garcês/ Juliana Afioni/ Geisiane Sousa/ Gui Prímola/ Lara Abreu/ Breno Everrton/ Daniel Ferreira/ Michael Melo/ Rodrigo Freitas/ Italo Ridney/ Saulo Marques/ André Marques
+  data: 16/02/2025
+  resumo: "Uma série de reportagens Tentáculos da Máfia Chinesa revela como grupos criminosos expandiram suas operações em São Paulo, muitas vezes sem despertar a atenção das autoridades, para explorar e oprimir a ampla comunidade de imigrantes chineses na cidade.
+    O primeiro capítulo da série mostra como a fragmentação das investigações policiais em casos isolados permitiu a continuidade de práticas mafiosas contra comerciantes chineses. A barreira do idioma e a cultura do silêncio diminuída para a impunidade e o fortalecimento desses grupos criminosos.
+    Outro eixo da série aprofunda um específico inédito no Brasil: a aliança entre criminosos chineses e mexicanos para a produção de metanfetamina em São Paulo, importando um modelo até então restrito aos Estados Unidos. A equipe de reportagem alugou um quarto em um hotel frequentado por usuários do chamado “sexo químico” (uso prolongado de drogas em práticas sexuais) e chegou a negócio a compra da substância com traficantes. A investigação revelou que a conta bancária utilizada pelo fornecedor chinês foi registrada em nome de um membro do Primeiro Comando da Capital (PCC), a principal facção criminosa do país, evidenciando, de forma inédita, a conexão entre a máfia chinesa e o crime organizado brasileiro. No terceiro capítulo, a série expõe um complexo esquema de lavagem de dinheiro por meio de lojas de fachada e comércio ilegal de armas."
+  relevância: O trabalho teve forte impacto ao jogar luz sobre a situação de vulnerabilidade da comunidade chinesa em SP, muitas vezes ignorada pelo poder público. A investigação também pressiona autoridades a tratar os casos de forma mais coordenada e integrada, rompendo com a lógica fragmentada que prevalecia. A série ainda contribuiu para a geração de um debate público sobre a presença e a atuação de estruturas mafiosas internacionais no Brasil, além de promover uma conscientização social mais ampla sobre os impactos do crime organizado transnacional em comunidades imigrantes.
+  originalidade: Em uma abordagem inédita, a investigação revela como grupos criminosos chineses expandiram silenciosamente suas operações em São Paulo, explorando e oprimindo a própria comunidade imigrante chinesa sem despertar a atenção das autoridades. A apuração expõe uma rede criminosa transnacional, formada por cidadãos chineses, estrangeiros de outras nacionalidades e membros de facções brasileiras, envolvidos em extorsão, tráfico de drogas e armas.
+    A originalidade do tema também reside na revelação de conexões surpreendentes e até então desconhecidas. Uma delas é o mapeamento da conexão entre máfias chinesas e mexicanas para a produção de metanfetamina em território paulista, replicando um modelo antes observado apenas nos Estados Unidos. Em outra frente, a conta bancária de um fornecedor chinês de drogas estava registrada em nome de um membro do PCC, estabelecendo pela primeira vez um elo direto entre a máfia chinesa e a principal facção criminosa brasileira, o que nem mesmo a polícia sabia. 
+    A reportagem mostra como a fragmentação das investigações policiais em casos isolados favorecendo a continuidade das atividades mafiosas, ao mesmo tempo em que a cultura do silêncio e as barreiras linguísticas impedem que as vítimas chinesas procurem ajuda. O retrato é agravado pelo fato de que membros de uma quadrilha anteriormente presa voltaram a agir nos mesmos locais, cometendo os mesmos crimes. Também foi identificado um esquema sofisticado de lavagem de dinheiro, sustentado por comércios de fachada e pelo tráfico ilegal de armas.
+    Ao reunir e conectar informações dispersas, a série oferece um panorama inédito e abrangente das organizações mafiosas que atuam na comunidade chinesa de São Paulo — indo muito além do olhar fragmentado e superficial como o tema tem sido tratado pelas autoridades.
+  metodologia: A investigação nasceu da necessidade de compreender a extensão das atividades criminosas dentro da comunidade chinesa em São Paulo. Partindo da hipótese de que uma rede organizada com vínculos internacionais atuava com relativa impunidade, a equipe iniciou apuração baseada na hipótese existiam ações criminosas sistemáticas ignoradas pelas autoridades. 
+    A equipe fez uma série de pedidos de Lei de Acesso à Informação de ocorrências envolvendo cidadãos chineses, o que permitiu mapear tanto o crescimento de crimes envolvendo essa comunidade quanto os tipos de crimes e a concentração geográfica deles. Além disso, a análise de processos judiciais e por meio de fontes no sistema penitenciário permitiu o diagnóstico que boa parte de um temido grupo criminoso havia voltado às ruas. 
+    O trabalho combinou uma análise documental minuciosa, entrevistas e observação direta. As fontes consultadas incluíram inquéritos policiais, processos judiciais, dados estatísticos, reportagens de campo e depoimentos de fontes públicas. A equipe analisou milhares de páginas de documentos oficiais, realizou trabalho disfarçado em hotéis e entrevistou vítimas e membros do submundo criminoso.
+  uf: SP
+  tipo_inscricao: Investigação
+  formato: Online
+  category: Investigação
+  image: images/edicoes/2025/WhatsApp Image 2025-06-17 at 19.15.13.jpeg
+  ano: '2025'
+- title: 'Eleições Municipais 2024: qual é o posicionamento dos eleitos na Amazônia em relação ao meio ambiente?'
+  project_url: https://infoamazonia.org/2024/10/31/eleicoes-municipais-2024-qual-e-o-posicionamento-dos-eleitos-na-amazonia-em-relacao-ao-meio-ambiente/
+  veiculo: InfoAmazonia
+  autoria: Carolina Passos/ Renata Hirota/ Carolina Dantas/ Thays Lavor e Juliana Mori
+  data: 31/10/2024
+  resumo: A reportagem analisa o posicionamento ambiental dos prefeitos e vereadores eleitos em 772 municípios da Amazônia Legal nas eleições de 2024. A partir de dados do Tribunal Superior Eleitoral (TSE) e do Índice de Convergência Ambiental total (ICAt), desenvolvido pelo Instituto Democracia e Sustentabilidade (IDS), o levantamento avalia o grau de alinhamento dos partidos e candidatos com pautas ambientais, com base no histórico de votações no Congresso. 
+
+    Além disso, a metodologia da InfoAmazonia compara os índices dos prefeitos com a média dos vereadores eleitos em cada município, revelando o nível de compromisso ambiental dos novos governos locais.
+
+    O resultado mostra que a maioria dos prefeitos e câmaras municipais eleitos tem baixa adesão a propostas ambientais. Estados como Rondônia e Amapá apresentaram os piores desempenhos, com médias do ICAt abaixo de 20 pontos. Em contraste, o Maranhão se destacou positivamente, com maior número de prefeitos bem avaliados. A reportagem também identificou desequilíbrios dentro dos próprios municípios, como casos em que prefeitos com bom índice ambiental enfrentam câmaras de vereadores predominantemente antiambientais, o que pode comprometer a governabilidade.
+
+    Com visualizações interativas e dados abertos, ao mapear o perfil dos prefeitos e vereadores, a reportagem contribui para a transparência e o fortalecimento do debate sobre meio ambiente no nível municipal, essencial para uma região sob forte pressão do desmatamento, da grilagem e de grandes projetos econômicos.
+  relevância: Esta reportagem foi produzida logo após as eleições municipais de 2024, em um ano que antecedia a realização da COP30 em Belém. Ao traçar, de forma inédita, o perfil ambiental dos prefeitos e vereadores eleitos nos 772 municípios da Amazônia Legal, o material ofereceu uma fotografia de quem iria liderar politicamente o território amazônico nos anos posteriores e onde estariam os gestores com baixa ou nenhuma adesão às pautas ambientais e climáticas — dado crucial para compreender quais seriam os problemas e políticas que poderiam ser vividos.
+
+    Em um momento em que o governo federal brasileiro busca projetar uma imagem de protagonismo e precisa do engajamento dos governos locais para implementar suas metas climáticas, esse levantamento traz informações essenciais para jornalistas, pesquisadores, formuladores de políticas públicas e organizações da sociedade civil. A reportagem esclarece, da fato, quem são os eleitos na região amazônica sob o ponto de vista da agenda ambiental. Por último, não menos importante, também consegue estabelecer a conexão entre Executivo e Legislativo locais, já que avalia se os dois poderes estão em sintonia para governar do ponto de vista socioambiental.
+  originalidade: A originalidade da reportagem está no ineditismo da abordagem e no cruzamento de bases de dados até então não exploradas em conjunto. O Índice de Convergência Ambiental total (ICAt), recém-lançado pelo Instituto Democracia e Sustentabilidade, foi utilizado pela primeira vez em escala municipal e associado aos dados do Tribunal Superior Eleitoral (TSE) para avaliar o perfil ambiental dos eleitos na Amazônia Legal. Essa combinação permitiu revelar padrões de voto e tendências políticas no território, oferecendo uma nova camada de interpretação sobre os resultados das eleições de 2024.
+
+    Além da inovação na análise, o material se destacou também pelo formato visual. Com uso predominante de mapas interativos e pouco texto explicativo, a reportagem optou por uma linguagem gráfica para demonstrar, de forma direta, como a eleição resultou em uma conformação massivamente desfavorável às pautas ambientais. O recurso do zoom em áreas específicas da Amazônia destacou regiões com maior ou menor aderência à agenda ambiental, permitindo uma leitura regionalizada e acessível do cenário político que se desenha na maior floresta tropical do mundo.
+  metodologia: "Coleta de dados eleitorais
+    Foram reunidos os resultados das eleições municipais de 2024 para os 772 municípios da Amazônia Legal, conforme disponibilizado pelo Tribunal Superior Eleitoral (TSE).
+
+    Obtenção do ICAt
+    Utilizou-se o Índice de Convergência Ambiental total (ICAt), desenvolvido pelo Instituto Democracia e Sustentabilidade (IDS), que mede a aderência de partidos políticos às pautas ambientais com base nas votações no Congresso Nacional desde 2022.
+
+    Classificação dos partidos
+    Cada partido foi classificado de acordo com sua pontuação no ICAt, numa escala de 0 a 1 (transformada em 0 a 100), com as seguintes faixas:
+
+    0–0,25: péssimo
+
+    0,26–0,50: ruim
+
+    0,51–0,60: regular
+
+    0,61–0,80: bom
+
+    0,81–1,00: ótimo
+
+    Cálculo dos índices municipais
+
+    Para prefeitos, adotou-se diretamente o ICAt do partido ao qual pertencem.
+
+    Para câmaras municipais, calculou-se a média dos ICAt dos partidos dos vereadores eleitos em cada município.
+
+    Análise do alinhamento
+    A comparação entre o ICAt do prefeito e a média da câmara permitiu identificar o nível de alinhamento ou distanciamento entre os poderes Executivo e Legislativo em relação às pautas ambientais.
+
+    Visualização e transparência
+    Os resultados foram organizados em mapas interativos e regionais, com recortes que destacam padrões e exceções. Para garantir transparência e permitir a replicação da análise, todos os dados utilizados estão disponíveis publicamente em uma pasta compartilhada pela InfoAmazonia.
+
+    https://github.com/InfoAmazonia/unid_geojornalismo/tree/main/2024_10-icat"
+
+  uf: SP
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2025/Captura-de-tela-2024-10-30-194546.png
+  ano: '2025'
+- title: Como enfrentamos as doenças tropicais negligenciadas
+  project_url: https://www.nexojornal.com.br/especial/2024/09/12/dengue-doenca-de-chagas-e-outras-doencas-tropicais-como-combater
+  veiculo: Nexo Jornal
+  autoria: Gabriel Zanlorenssi/ Giovanna Hemerly
+  data: 12/09/2024
+  resumo: As Doenças Tropicais Negligenciadas afetam principalmente populações pobres em países tropicais de baixa e média renda, onde o acesso à saúde é limitado. Embora a humanidade tenha avançado no desenvolvimento de tratamentos e vacinas, mais de um bilhão de pessoas ainda sofrem todos os anos por conta de doenças. A Organização Mundial da Saúde lista 20 dessas doenças para incentivar o combate global, abordando também a redução da pobreza e das desigualdades. 
+
+    Este conteúdo especial explica o que são essas patologias, abordando seu determinante social e a busca por soluções. O material combina infográficos, ilustrações, textos, interatividade e entrevistas.
+  relevância: O tema recebe pouca atenção, se comparado com o sofrimento que causa nas populações atingidas. O trabalho dá luz às vozes negligenciadas, explicando para o público de maneira didática a importância do combate a essas condições.
+
+    O material é uma referência para públicos diversos, da população em geral a especialistas e ativistas.
+  originalidade: Doenças tropicais negligenciadas têm pouca coisa em comum para além do fato de atingirem desproporcionalmente populações mais vulneráveis. Um material especial sobre o tema é desafiador, pois há várias decisões de escopo que precisam equilibradas. O material conta uma história principal mas também permite ao leitor se aprofundar em certos pontos, com links externos, entrevistas e caixas de informações que podem ser expandidas.
+
+    O trabalho também se destaca por combinar diversos recursos de jornalismo, sem perder o foco na visualização de dados. É um exemplo que como tratar temas complexos e sensíveis com dados.  
+  metodologia: Os dados são de fontes públicas como DataSUS, Global Burden of Disease e Our World in Data. As informações foram tratadas e analisadas no R. O layout e a finalização visual foram feitas no Adobe Illustrator.
+
+    Há alguns elementos de interatividade no material que foram criados com JavaScript. Outra ferramenta utilizada foi Transcriber Bot e Notebook LM, para transcrever, formatar e sumarizar as entrevistas.
+
+  uf: SP
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2025/-teaser@2x.png
+  ano: '2025'
+- title: Rio 60ºC – Como a cidade se prepara para eventos climáticos extremos
+  project_url: https://rio60.ambiental.media/
+  veiculo: Ambiental Media
+  autoria: Thiago Medaglia/ Miguel Vilela/ Felipe Sodré/ Lucas Alves/ Sofia Beiras/ Laura Kurtzberg/ Felipe Migliani/ Xavier Bartaburu/ Luiz Iria/ Mariza Ferro/ Alice Ratton/ João Rezende / Rafaela Abrahão
+  data: 02/04/2025
+  resumo: "Em uma cidade marcada por desigualdades históricas e eventos climáticos extremos cada vez mais frequentes, o projeto Rio 60ºC nasce com o objetivo de investigar e comunicar os riscos reais que a crise climática impõe à população do Rio de Janeiro — especialmente às comunidades mais vulneráveis. Desenvolvido pela Ambiental Media em parceria com o grupo de pesquisa RioNowcast+Green da Universidade Federal Fluminense e com apoio do Pulitzer Center e do Instituto Serrapilheira, o projeto construiu uma poderosa ferramenta de comunicação científica: o Índice de Vulnerabilidade a Chuvas Extremas (IVCE-RJ).
+
+    O mapeamento mostrou, por exemplo, que mais de 40% das casas na Rocinha e 62% no Pavão-Pavãozinho e Cantagalo estão em áreas de alta vulnerabilidade a deslizamentos. Na Zona Norte, bairros como Acari e Pavuna somam mais de 30 mil residências em vulneráveis a inundações. Ao relacionar vulnerabilidade socioeconômica com risco geológico, o índice evidencia que é nas franjas urbanas e favelas que os impactos da crise climática mais se concentram — e onde menos se investe em adaptação e proteção.
+
+    Ao tornar visível o risco, Rio 60ºC amplia o acesso à informação e propõe medidas de adaptação baseadas em soluções justas e eficazes — como drenagem urbana, arborização e sirenes em áreas de risco. A plataforma rio60.ambiental.media reúne reportagens, infográficos, mapas interativos e entrevistas com moradores de favelas, cientistas e especialistas, incluindo informações apuradas por jornalistas comunitários da Agência Lume, que atua na favela de Rio das Pedras.
+
+    O projeto também teve forte estratégia de disseminação. Foi replicado ou citado por diversos veículos de imprensa, incluindo TV Globo, Folha de S. Paulo, O Globo e dezenas de mídias comunitárias e periféricas do Rio. Nas redes da Ambiental, o lançamento gerou aumento de 174% no alcance e 132% nas visualizações em apenas dez dias. O Rio 60ºC foi ainda convidado para ser apresentado no Festival 3i de Jornalismo Inovador, num painel que reuniu jornalistas e lideranças comunitárias."
+  relevância: Ao revelar que mais de 599 mil domicílios da capital fluminense estão em áreas de alta vulnerabilidade a chuvas extremas — dos quais 142 mil em vulnerabilidade muito alta — o projeto forneceu um diagnóstico inédito e acessível, ancorado em dados públicos e modelagem geoespacial. O índice IVCE-RJ foi pensado para servir de referência para jornalistas, pesquisadores, moradores da cidade e gestores públicos, ao mapear com precisão as áreas de risco e oferecer subsídios para políticas de adaptação. 
+  originalidade: "Rio 60ºC inova ao combinar jornalismo investigativo, ciência de dados e engajamento comunitário para abordar um dos maiores riscos urbanos agravados pela crise climática: as chuvas extremas. Entre seus principais méritos estão a criação do IVCE-RJ). A originalidade do índice é que ele cruza dados socioeconômicos e ambientais para identificar, em detalhe, os territórios mais vulneráveis a enchentes e deslizamentos; junto da construção de uma plataforma multimídia acessível, com reportagens, infográficos e mapas interativos. O projeto também se destacou por articular ciência e linguagem jornalística de forma clara e inclusiva, mobilizando tanto especialistas quanto moradores de favelas e periferias. Além disso, estabeleceu uma estratégia de disseminação voltada à mídia comunitária, ativistas e comunicadores populares, ampliando o alcance e o impacto social da investigação."
+  metodologia: "A metodologia se baseou em um levantamento bibliográfico de índices de suscetibilidade e vulnerabilidade a eventos climáticos extremos no Rio de Janeiro e em outras partes do mundo. Esse levantamento levou em conta trabalhos produzidos por órgãos governamentais – como o Centro Nacional de Monitoramento e Alertas de Desastres Naturais (Cemaden), do governo federal, e o Instituto Pereira Passos, ligado à prefeitura do Rio de Janeiro – e pesquisas publicadas por universidades e institutos mundo afora.
+
+    Depois, buscou-se dados brutos de diferentes indicadores ambientais e sociais para o município do Rio de Janeiro disponibilizados em bases científicas e governamentais. O índice utiliza os dados mais atualizados possíveis disponibilizados pelo Instituto Brasileiro de Geografia e Estatística (IBGE), Serviço Geológico do Brasil e Data.rio, portal de dados abertos da cidade do Rio de Janeiro.
+
+    Os dados foram organizados em duas camadas de indicadores principais: suscetibilidade ambiental e vulnerabilidade socioeconômica. 
+
+    A camada de vulnerabilidade socioeconômica foi construída a partir de dados sociais e censitários disponibilizados pelo Instituto Pereira Passos no site Data.rio, e pelo IBGE. Os indicadores analisados para compor essa camada foram:
+    • taxa de analfabetismo de 10 a 14 anos;
+    • rendimento médio do responsável pelo domicílio;
+    • total de domicílios ocupados; população total;
+    • densidade populacional; percentual de domicílios imputados;
+    • média de moradores por domicílio;
+    • total de domicílios;
+    • total de domicílios particulares;
+    • total de domicílios coletivos.
+
+    Foi necessária uma etapa de normalização dos indicadores para estabelecer heterogeneidade entre as diferentes escalas dos dados. Esse cálculo foi feito levando em conta cálculos semelhantes publicados em periódicos científicos (Santos et al., Sena et al. e Marinho et al). Depois, fez-se uma análise de correlação: os indicadores que apresentavam correlação com outros indicadores foram eliminados e os restantes, somados. Essa camada apresenta uma escala de cor que vai do cinza ao laranja. Quanto mais forte o laranja, mais socioeconomicamente vulnerável é a população que vive na área.
+
+    A camada de suscetibilidade ambiental foi construída a partir das Cartas de Suscetibilidade a Movimentos Gravitacionais de Massa e Inundações desenvolvidas e disponibilizadas pelo Serviço Geológico Brasileiro (SGB). Essas cartas mapeiam os municípios brasileiros em maior risco e definem áreas do território com suscetibilidade alta, média ou baixa a inundações ou movimentos de massa (deslizamento). Entre os dados utilizados pelo SGB estão “hipsometria, declividade, padrões de relevo, dados hidrológicos e, ocasionalmente, litologias”. Os mapas desenvolvidos pela Ambiental contemplam os três diferentes graus (alto, médio e baixo risco) numa escala de cor que vai do mesmo cinza ao lilás.
+
+    Os desastres decorrentes de chuvas extremas acontecem quando há população vivendo em uma área ambientalmente suscetível a deslizamentos ou inundações. Portanto, depois de produzidas as camadas de vulnerabilidade socioeconômica e de suscetibilidade ambiental, elas foram mescladas digitalmente pelo modo de multiplicação.
+
+    O resultado dessa mesclagem é uma escala de cor bivariada. Nesse caso, a cor vermelha é o resultado da mesclagem por multiplicação do lilás e do laranja. Ela indica onde vivem as pessoas mais vulneráveis aos desastres.
+
+    Para chegar-se aos números de domicílios em vulnerabilidade a chuvas extremas (inundações ou deslizamentos), essa camada resultante do cruzamento entre suscetibilidade ambiental e vulnerabilidade socioeconômica foi classificada em cinco níveis de vulnerabilidade. Usando o Cadastro Nacional de Endereços para Fins Estatísticos, foram contabilizados quantos domicílios particulares estavam em cada área do mapa.
+
+    A metodologia completa pode ser consultada em https://rio60.ambiental.media/pt/sobre/."
+
+  uf: SP
+  tipo_inscricao: Visualização
+  formato: Online
+  category: Visualização
+  image: images/edicoes/2025/arborizacao-cidades-esponja (1).jpg
+  ano: '2025'
