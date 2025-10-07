@@ -10,8 +10,8 @@ about:
     no Brasil.
   button:
     enable: true
-    label: Conheça os finalistas
-    URL: /edicoes/2025/
+    label: Participe da cerimônia
+    URL: https://www.sympla.com.br/evento/premio-claudio-weber-abramo-de-jornalismo-de-dados-2025/3156913?referrer=www.google.com
   
 skill:
   enable: false
