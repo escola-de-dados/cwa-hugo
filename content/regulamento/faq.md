@@ -25,7 +25,7 @@ Os vencedores do prêmio dividirão o valor total, de R$2.500 (dez mil reais) e 
 
 **QUANDO E ONDE OS RESULTADOS SERÃO DIVULGADOS?**
 
-Os(as) vencedores(as) serão anunciados(as) na cerimônia de premiação, durante a programação da 11ª edição da Conferência Brasileira de Jornalismo de Dados e Métodos Digitais (Coda.Br), no dia 12 de novembro de 2025 em São Paulo - SP.
+Os(as) vencedores(as) serão anunciados(as) na cerimônia de premiação, durante a programação da 11ª edição da Conferência Brasileira de Jornalismo de Dados e Métodos Digitais (Coda.Br), no dia 12 de novembro de 2026 em São Paulo - SP.
 
 **COMO SABEREI QUE MINHA INSCRIÇÃO FOI ACEITA?**
 As inscrições deverão ser feitas por meio do link disponível no site [premio.jornalismodedados.org.br](premio.jornalismodedados.org.br). Após enviar os dados, você receberá uma mensagem automática dizendo “Obrigada por enviar o formulário!”. Não é enviado nenhum e-mail automático confirmando a inscrição, mas as informações submetidas estarão conosco.
