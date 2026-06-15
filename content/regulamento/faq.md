@@ -7,7 +7,7 @@ layout:: "list"
 ---
 
 **QUEM PODE SE INSCREVER?**
-Qualquer indivíduo ou equipe que tenha publicado trabalhos de caráter jornalístico em organizações de mídia com ou sem fins lucrativos, independente do tamanho. O trabalho inscrito deve ter sido publicado entre 02 de setembro de 2024 e 08 de junho de 2025. Trabalhos realizados em parcerias envolvendo mais de uma organização também podem ser submetidos. 
+Qualquer indivíduo ou equipe que tenha publicado trabalhos de caráter jornalístico em organizações de mídia com ou sem fins lucrativos, independente do tamanho. O trabalho inscrito deve ter sido publicado entre 09 de junho de 2025 e 14 de junho de 2026. Trabalhos realizados em parcerias envolvendo mais de uma organização também podem ser submetidos. 
 
 **POSSO ENVIAR MAIS DE UM TRABALHO?**
 
@@ -25,7 +25,7 @@ Os vencedores do prêmio dividirão o valor total, de R$2.500 (dez mil reais) e 
 
 **QUANDO E ONDE OS RESULTADOS SERÃO DIVULGADOS?**
 
-Os(as) vencedores(as) serão anunciados(as) na cerimônia de premiação, durante a programação da 10ª edição da Conferência Brasileira de Jornalismo de Dados e Métodos Digitais (Coda.Br), no dia 19 de outubro de 2024 em São Paulo - SP.
+Os(as) vencedores(as) serão anunciados(as) na cerimônia de premiação, durante a programação da 11ª edição da Conferência Brasileira de Jornalismo de Dados e Métodos Digitais (Coda.Br), no dia 12 de novembro de 2025 em São Paulo - SP.
 
 **COMO SABEREI QUE MINHA INSCRIÇÃO FOI ACEITA?**
 As inscrições deverão ser feitas por meio do link disponível no site [premio.jornalismodedados.org.br](premio.jornalismodedados.org.br). Após enviar os dados, você receberá uma mensagem automática dizendo “Obrigada por enviar o formulário!”. Não é enviado nenhum e-mail automático confirmando a inscrição, mas as informações submetidas estarão conosco.
