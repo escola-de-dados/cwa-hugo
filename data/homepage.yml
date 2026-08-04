@@ -9,7 +9,7 @@ about:
     que ao reconhecer os trabalhos de excelência fortalecemos este campo e a democracia
     no Brasil.
   button:
-    enable: true
+    enable: false
     label: Inscrições Encerradas
     URL: 
   
