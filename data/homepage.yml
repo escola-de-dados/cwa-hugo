@@ -10,8 +10,8 @@ about:
     no Brasil.
   button:
     enable: true
-    label: Inscrições Encerradas
-    URL: 
+    label: Confira os finalistas
+    URL: https://premio.jornalismodedados.org.br/edicoes/2026/
   
 skill:
   enable: false
